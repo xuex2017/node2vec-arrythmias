@@ -1,0 +1,43 @@
+T1	Procedure 126 134	ablation
+T2	Procedure 304 313	treatment
+T3	Procedure 742 745	ECG
+T4	Procedure 847 865	valsalva manoeuvre
+T5	Procedure 1022 1024	Ca
+T6	Procedure 1129 1138	reduction
+T7	Procedure 1286 1295	treatment
+T8	Procedure 1362 1375	resuscitation
+T9	Procedure 1441 1450	treatment
+T10	Procedure 1489 1502	cardioversion
+T11	Procedure 83 134	recurrent episodes of SVT despite previous ablation
+T12	Procedure 283 335	handstands as an SVT treatment by one of the authors
+T13	Procedure 738 758	her ECG rhythm strip
+T14	Procedure 824 865	. Initial trial of the valsalva manoeuvre
+T15	Procedure 1021 1024	'Ca
+T16	Procedure 1121 1210	a rapid reduction in heart rate and reversion to normal sinus rhythm at a rate of 125 bpm
+T17	Procedure 1252 1295	a more pleasant and less invasive treatment
+T18	Procedure 1358 1380	the resuscitation room
+T19	Procedure 1399 1458	a new, effective, simple and non-invasive treatment for SVT
+T20	Procedure 1489 1532	cardioversion of SVT with intravenous drugs
+T21	Disease_disorder 70 78	syndrome
+T22	Disease_disorder 1022 1024	Ca
+T23	Disease_disorder 1177 1182	sinus
+T24	Disease_disorder 1021 1024	'Ca
+T25	Disease_disorder 1121 1210	a rapid reduction in heart rate and reversion to normal sinus rhythm at a rate of 125 bpm
+T26	Sign_symptom 37 47	history of
+T27	Sign_symptom 37 44	history
+T28	Sign_symptom 643 653	chest pain
+T29	Sign_symptom 649 653	pain
+T30	Sign_symptom 677 684	symptom
+T31	Sign_symptom 791 802	tachycardia
+T32	Sign_symptom 1170 1189	normal sinus rhythm
+T33	Sign_symptom 1170 1176	normal
+T34	Sign_symptom 1177 1189	sinus rhythm
+T35	Sign_symptom 1726 1734	services
+T36	Sign_symptom 643 653	chest pain
+T37	Sign_symptom 669 692	a usual symptom for her
+T38	Sign_symptom 766 839	a regular narrow complex tachycardia at a rate of 250 bpm . Initial trial
+T39	Sign_symptom 1121 1210	a rapid reduction in heart rate and reversion to normal sinus rhythm at a rate of 125 bpm
+T40	Sign_symptom 1702 1734	Updated information and services
+T41	Anatomical_structure 643 648	chest
+T42	Anatomical_structure 1022 1024	Ca
+T43	Anatomical_structure 1142 1147	heart

@@ -1,0 +1,149 @@
+T1	Procedure 338 349	epinephrine
+T2	Procedure 544 554	intubation
+T3	Procedure 559 581	mechanical ventilation
+T4	Procedure 1155 1172	oxygen saturation
+T5	Procedure 1449 1461	auscultation
+T6	Procedure 1939 1950	chest X-ray
+T7	Procedure 1945 1950	X-ray
+T8	Procedure 2003 2020	Electrocardiogram
+T9	Procedure 2022 2025	ECG
+T10	Procedure 2080 2096	echocardiography
+T11	Procedure 2196 2210	echocardiogram
+T12	Procedure 2289 2297	total T3
+T13	Procedure 2295 2297	T3
+T14	Procedure 2323 2330	free T3
+T15	Procedure 2328 2330	T3
+T16	Procedure 2353 2361	total T4
+T17	Procedure 2359 2361	T4
+T18	Procedure 2382 2384	mg
+T19	Procedure 2392 2399	free T4
+T20	Procedure 2397 2399	T4
+T21	Procedure 2547 2561	Plasmapheresis
+T22	Procedure 295 349	administered several doses of subcutaneous epinephrine
+T23	Procedure 529 554	rapid sequence intubation
+T24	Procedure 1133 1180	25 per minute with an oxygen saturation of 100%
+T25	Procedure 1444 1461	lung auscultation
+T26	Procedure 1931 1950	Initial chest X-ray
+T27	Procedure 2063 2102	Emergent bedside echocardiography in ED
+T28	Procedure 2187 2242	A repeat echocardiogram on hospital daythyroid hormones
+T29	Procedure 2382 2387	mg/dL
+T30	Disease_disorder 129 137	exposure
+T31	Disease_disorder 445 464	respiratory failure
+T32	Disease_disorder 708 732	mild intermittent asthma
+T33	Disease_disorder 713 732	intermittent asthma
+T34	Disease_disorder 726 732	asthma
+T35	Disease_disorder 790 799	allergies
+T36	Disease_disorder 863 878	cardiac disease
+T37	Disease_disorder 871 878	disease
+T38	Disease_disorder 917 925	exposure
+T39	Disease_disorder 1358 1367	proptosis
+T40	Disease_disorder 1770 1780	distension
+T41	Disease_disorder 1798 1804	reflux
+T42	Disease_disorder 1831 1847	peripheral edema
+T43	Disease_disorder 1842 1847	edema
+T44	Disease_disorder 1958 1972	hyperinflation
+T45	Disease_disorder 1986 2001	pulmonary edema
+T46	Disease_disorder 1996 2001	edema
+T47	Disease_disorder 2044 2061	sinus tachycardia
+T48	Disease_disorder 2044 2049	sinus
+T49	Disease_disorder 2679 2687	comatose
+T50	Disease_disorder 115 159	minutes after exposure to polyurethane fumes
+T51	Disease_disorder 421 481	symptoms of progressive respiratory failure with obtundation
+T52	Disease_disorder 679 732	a history of wellcontrolled, mild intermittent asthma
+T53	Disease_disorder 787 799	no allergies
+T54	Disease_disorder 851 878	symptoms of cardiac disease
+T55	Disease_disorder 882 925	dyspnea prior to polyurethane fume exposure
+T56	Disease_disorder 1343 1367	no evidence of proptosis
+T57	Disease_disorder 1740 1780	no evidence of jugular venous distension
+T58	Disease_disorder 1784 1804	hepatojugular reflux
+T59	Disease_disorder 1816 1847	no evidence of peripheral edema
+T60	Disease_disorder 1977 2001	moderate pulmonary edema
+T61	Disease_disorder 2044 2061	sinus tachycardia
+T62	Sign_symptom 85 92	dyspnea
+T63	Sign_symptom 98 106	symptoms
+T64	Sign_symptom 198 205	inhaled
+T65	Sign_symptom 248 256	services
+T66	Sign_symptom 270 290	respiratory distress
+T67	Sign_symptom 282 290	distress
+T68	Sign_symptom 421 429	symptoms
+T69	Sign_symptom 470 481	obtundation
+T70	Sign_symptom 641 649	symptoms
+T71	Sign_symptom 681 691	history of
+T72	Sign_symptom 681 688	history
+T73	Sign_symptom 708 732	mild intermittent asthma
+T74	Sign_symptom 810 816	travel
+T75	Sign_symptom 851 859	symptoms
+T76	Sign_symptom 882 889	dyspnea
+T77	Sign_symptom 956 964	symptoms
+T78	Sign_symptom 984 995	Vital signs
+T79	Sign_symptom 1081 1095	blood pressure
+T80	Sign_symptom 1087 1095	pressure
+T81	Sign_symptom 1097 1099	BP
+T82	Sign_symptom 1206 1214	inspired
+T83	Sign_symptom 1262 1276	well-nourished
+T84	Sign_symptom 1294 1300	female
+T85	Sign_symptom 1416 1422	normal
+T86	Sign_symptom 1482 1490	movement
+T87	Sign_symptom 1502 1512	expiratory
+T88	Sign_symptom 1532 1540	wheezing
+T89	Sign_symptom 1594 1620	heart rate without murmurs
+T90	Sign_symptom 1699 1711	heart sounds
+T91	Sign_symptom 1755 1780	jugular venous distension
+T92	Sign_symptom 1784 1804	hepatojugular reflux
+T93	Sign_symptom 1896 1904	reflexes
+T94	Sign_symptom 2003 2020	Electrocardiogram
+T95	Sign_symptom 2050 2061	tachycardia
+T96	Sign_symptom 2114 2120	normal
+T97	Sign_symptom 2121 2155	left ventricular ejection fraction
+T98	Sign_symptom 2138 2146	ejection
+T99	Sign_symptom 2295 2297	T3
+T100	Sign_symptom 2304 2306	ng
+T101	Sign_symptom 2328 2330	T3
+T102	Sign_symptom 2359 2361	T4
+T103	Sign_symptom 2397 2399	T4
+T104	Sign_symptom 2407 2409	ng
+T105	Sign_symptom 70 92	acute onset of dyspnea
+T106	Sign_symptom 94 106	Her symptoms
+T107	Sign_symptom 187 212	the use of inhaled short-
+T108	Sign_symptom 230 256	Emergency medical services
+T109	Sign_symptom 263 290	her in respiratory distress
+T110	Sign_symptom 421 481	symptoms of progressive respiratory failure with obtundation
+T111	Sign_symptom 638 649	no symptoms
+T112	Sign_symptom 679 732	a history of wellcontrolled, mild intermittent asthma
+T113	Sign_symptom 803 816	recent travel
+T114	Sign_symptom 851 878	symptoms of cardiac disease
+T115	Sign_symptom 882 925	dyspnea prior to polyurethane fume exposure
+T116	Sign_symptom 956 982	symptoms of hyperthroidism
+T117	Sign_symptom 984 1016	Vital signs on arrival to the ED
+T118	Sign_symptom 1081 1095	blood pressure
+T119	Sign_symptom 1189 1221	100% fraction of inspired oxygen
+T120	Sign_symptom 1260 1300	a well-nourished but illappearing female
+T121	Sign_symptom 1416 1427	normal size
+T122	Sign_symptom 1473 1490	poor air movement
+T123	Sign_symptom 1492 1518	prolonged expiratory phase
+T124	Sign_symptom 1524 1540	diffuse wheezing
+T125	Sign_symptom 1578 1620	a regular rapid heart rate without murmurs
+T126	Sign_symptom 1675 1711	heave, third, or fourth heart sounds
+T127	Sign_symptom 1740 1780	no evidence of jugular venous distension
+T128	Sign_symptom 1889 1904	tendon reflexes
+T129	Sign_symptom 2044 2061	sinus tachycardia
+T130	Sign_symptom 2112 2155	a normal left ventricular ejection fraction
+T131	Anatomical_structure 863 870	cardiac
+T132	Anatomical_structure 1042 1047	heart
+T133	Anatomical_structure 1081 1086	blood
+T134	Anatomical_structure 1385 1398	Thyroid gland
+T135	Anatomical_structure 1385 1392	Thyroid
+T136	Anatomical_structure 1393 1398	gland
+T137	Anatomical_structure 1444 1448	lung
+T138	Anatomical_structure 1542 1556	Cardiovascular
+T139	Anatomical_structure 1594 1599	heart
+T140	Anatomical_structure 1699 1704	heart
+T141	Anatomical_structure 1763 1769	venous
+T142	Anatomical_structure 1849 1853	Skin
+T143	Anatomical_structure 1858 1864	sclera
+T144	Anatomical_structure 1889 1895	tendon
+T145	Anatomical_structure 1939 1944	chest
+T146	Anatomical_structure 2462 2469	thyroid
+T147	Anatomical_structure 2603 2610	thyroid
+T148	Medication 338 349	epinephrine
+T149	Medication 295 349	administered several doses of subcutaneous epinephrine

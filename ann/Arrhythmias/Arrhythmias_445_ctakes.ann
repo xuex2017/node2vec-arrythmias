@@ -1,0 +1,95 @@
+T1	Procedure 173 192	Electrocardiography
+T2	Procedure 258 268	troponin T
+T3	Procedure 377 407	Transthoracic echocardiography
+T4	Procedure 391 407	echocardiography
+T5	Procedure 561 581	Coronary angiography
+T6	Procedure 570 581	angiography
+T7	Procedure 800 828	Direct current cardioversion
+T8	Procedure 815 828	cardioversion
+T9	Procedure 934 968	Percutaneous coronary intervention
+T10	Procedure 1114 1123	procedure
+T11	Procedure 1172 1190	transvenous pacing
+T12	Procedure 1296 1305	treatment
+T13	Procedure 1390 1399	resection
+T14	Procedure 1588 1597	operation
+T15	Procedure 1630 1663	transoesophageal echocardiography
+T16	Procedure 1647 1663	echocardiography
+T17	Procedure 1848 1855	surgery
+T18	Procedure 171 192	. Electrocardiography
+T19	Procedure 377 407	Transthoracic echocardiography
+T20	Procedure 561 581	Coronary angiography
+T21	Procedure 800 828	Direct current cardioversion
+T22	Procedure 1110 1123	the procedure
+T23	Procedure 1288 1305	medical treatment
+T24	Procedure 1375 1433	subendocardial resection of the arrhythmogenic scar tissue
+T25	Procedure 1584 1597	The operation
+T26	Procedure 1612 1663	three-dimensional transoesophageal echocardiography
+T27	Procedure 1820 1886	an uneventful recovery from surgery with complete resolution of VT
+T28	Disease_disorder 225 248	ventricular tachycardia
+T29	Disease_disorder 267 268	T
+T30	Disease_disorder 467 475	aneurysm
+T31	Disease_disorder 489 497	impaired
+T32	Disease_disorder 626 633	disease
+T33	Disease_disorder 718 725	disease
+T34	Disease_disorder 922 932	arrhythmia
+T35	Disease_disorder 1225 1249	haemodynamic instability
+T36	Disease_disorder 1422 1433	scar tissue
+T37	Disease_disorder 1422 1426	scar
+T38	Disease_disorder 1571 1582	scar tissue
+T39	Disease_disorder 1571 1575	scar
+T40	Disease_disorder 1778 1784	stroke
+T41	Disease_disorder 200 248	broad complex monophasic ventricular tachycardia
+T42	Disease_disorder 258 268	troponin T
+T43	Disease_disorder 459 475	a large aneurysm
+T44	Disease_disorder 480 518	severely impaired ventricular function
+T45	Disease_disorder 589 661	a long segment of moderate to severe disease in the left coronary system
+T46	Disease_disorder 891 932	only transient amelioration of arrhythmia
+T47	Disease_disorder 1225 1264	haemodynamic instability of the patient
+T48	Disease_disorder 1375 1433	subendocardial resection of the arrhythmogenic scar tissue
+T49	Disease_disorder 1470 1582	insertion of an elliptical patch of porcine pericardium at the junction of the normal myocardium and scar tissue
+T50	Disease_disorder 1775 1801	LV stroke volume of 58.2ml
+T51	Sign_symptom 14 20	female
+T52	Sign_symptom 30 36	smoker
+T53	Sign_symptom 62 69	history
+T54	Sign_symptom 93 103	history of
+T55	Sign_symptom 93 100	history
+T56	Sign_symptom 104 132	dyspnoea on minimal exertion
+T57	Sign_symptom 104 112	dyspnoea
+T58	Sign_symptom 124 132	exertion
+T59	Sign_symptom 149 160	Association
+T60	Sign_symptom 237 248	tachycardia
+T61	Sign_symptom 524 532	ejection
+T62	Sign_symptom 1238 1249	instability
+T63	Sign_symptom 1422 1433	scar tissue
+T64	Sign_symptom 1497 1502	patch
+T65	Sign_symptom 1549 1582	normal myocardium and scar tissue
+T66	Sign_symptom 1549 1555	normal
+T67	Sign_symptom 1571 1582	scar tissue
+T68	Sign_symptom 1713 1721	ejection
+T69	Sign_symptom 0 69	A 64-year-old female lifelong smoker with no previous cardiac history
+T70	Sign_symptom 85 112	a 4-day history of dyspnoea
+T71	Sign_symptom 104 132	dyspnoea on minimal exertion
+T72	Sign_symptom 134 170	New York Heart Association class III
+T73	Sign_symptom 200 248	broad complex monophasic ventricular tachycardia
+T74	Sign_symptom 520 541	The ejection fraction
+T75	Sign_symptom 1225 1264	haemodynamic instability of the patient
+T76	Sign_symptom 1375 1433	subendocardial resection of the arrhythmogenic scar tissue
+T77	Sign_symptom 1470 1582	insertion of an elliptical patch of porcine pericardium at the junction of the normal myocardium and scar tissue
+T78	Sign_symptom 1710 1739	an ejection fraction of 67.2%
+T79	Anatomical_structure 54 61	cardiac
+T80	Anatomical_structure 143 148	Heart
+T81	Anatomical_structure 434 448	left ventricle
+T82	Anatomical_structure 439 448	ventricle
+T83	Anatomical_structure 668 695	small right coronary artery
+T84	Anatomical_structure 674 695	right coronary artery
+T85	Anatomical_structure 680 695	coronary artery
+T86	Anatomical_structure 689 695	artery
+T87	Anatomical_structure 1004 1035	left anterior descending artery
+T88	Anatomical_structure 1029 1035	artery
+T89	Anatomical_structure 1427 1433	tissue
+T90	Anatomical_structure 1514 1525	pericardium
+T91	Anatomical_structure 1549 1582	normal myocardium and scar tissue
+T92	Anatomical_structure 1556 1566	myocardium
+T93	Anatomical_structure 1576 1582	tissue
+T94	Anatomical_structure 1665 1668	TOE
+T95	Anatomical_structure 1699 1702	TOE

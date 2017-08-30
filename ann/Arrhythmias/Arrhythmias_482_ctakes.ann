@@ -1,0 +1,79 @@
+T1	Procedure 61 70	treatment
+T2	Procedure 263 272	treatment
+T3	Procedure 474 478	test
+T4	Procedure 561 569	sedation
+T5	Procedure 747 764	oxygen saturation
+T6	Procedure 947 956	treatment
+T7	Procedure 1323 1337	gastric bypass
+T8	Procedure 1331 1337	bypass
+T9	Procedure 1338 1345	surgery
+T10	Procedure 1365 1372	surgery
+T11	Procedure 1402 1411	treatment
+T12	Procedure 1462 1469	surgery
+T13	Procedure 1510 1519	treatment
+T14	Procedure 0 112	A 57-year-old male hypertensive Caucasian patient on medical treatment for 1.5 months for non-organic-related AF
+T15	Procedure 237 272	the patient under medical treatment
+T16	Procedure 465 478	An apnea test
+T17	Procedure 728 764	minimum peripheral oxygen saturation
+T18	Procedure 939 956	medical treatment
+T19	Procedure 1323 1345	gastric bypass surgery
+T20	Procedure 1353 1372	the time of surgery
+T21	Procedure 1394 1411	medical treatment
+T22	Procedure 1435 1469	6 months after the medical surgery
+T23	Procedure 1497 1519	only medical treatment
+T24	Disease_disorder 110 112	AF
+T25	Disease_disorder 177 179	AF
+T26	Disease_disorder 278 283	sinus
+T27	Disease_disorder 349 351	AF
+T28	Disease_disorder 436 441	sinus
+T29	Disease_disorder 468 473	apnea
+T30	Disease_disorder 533 539	apneas
+T31	Disease_disorder 646 651	apnea
+T32	Disease_disorder 977 982	sinus
+T33	Disease_disorder 1247 1249	AF
+T34	Disease_disorder 1645 1650	apnea
+T35	Disease_disorder 0 112	A 57-year-old male hypertensive Caucasian patient on medical treatment for 1.5 months for non-organic-related AF
+T36	Disease_disorder 133 179	the ICU because of highventricular response AF
+T37	Disease_disorder 278 290	sinus rhythm
+T38	Disease_disorder 323 351	high-ventricular response AF
+T39	Disease_disorder 436 448	sinus rhythm
+T40	Disease_disorder 465 478	An apnea test
+T41	Disease_disorder 501 539	the same night because frequent apneas
+T42	Disease_disorder 646 666	apnea-hypopnea index
+T43	Disease_disorder 977 1014	sinus rhythm at the 1-month follow-up
+T44	Disease_disorder 1247 1271	AF within these 6 months
+T45	Disease_disorder 1645 1670	apnea index of 1 per hour
+T46	Sign_symptom 14 18	male
+T47	Sign_symptom 102 109	related
+T48	Sign_symptom 278 290	sinus rhythm
+T49	Sign_symptom 436 448	sinus rhythm
+T50	Sign_symptom 468 473	apnea
+T51	Sign_symptom 533 539	apneas
+T52	Sign_symptom 584 588	mass
+T53	Sign_symptom 612 613	m
+T54	Sign_symptom 646 651	apnea
+T55	Sign_symptom 652 660	hypopnea
+T56	Sign_symptom 736 764	peripheral oxygen saturation
+T57	Sign_symptom 831 841	expiratory
+T58	Sign_symptom 858 866	pressure
+T59	Sign_symptom 884 895	inspiratory
+T60	Sign_symptom 912 920	pressure
+T61	Sign_symptom 977 989	sinus rhythm
+T62	Sign_symptom 1005 1014	follow-up
+T63	Sign_symptom 1099 1108	follow-up
+T64	Sign_symptom 1645 1650	apnea
+T65	Sign_symptom 0 112	A 57-year-old male hypertensive Caucasian patient on medical treatment for 1.5 months for non-organic-related AF
+T66	Sign_symptom 465 478	An apnea test
+T67	Sign_symptom 501 539	the same night because frequent apneas
+T68	Sign_symptom 575 594	his body mass index
+T69	Sign_symptom 612 615	m 2
+T70	Sign_symptom 646 666	apnea-hypopnea index
+T71	Sign_symptom 728 764	minimum peripheral oxygen saturation
+T72	Sign_symptom 977 1014	sinus rhythm at the 1-month follow-up
+T73	Sign_symptom 1078 1108	BiPAP at the 6-month follow-up
+T74	Sign_symptom 1645 1670	apnea index of 1 per hour
+T75	Anatomical_structure 851 857	airway
+T76	Anatomical_structure 905 911	airway
+T77	Anatomical_structure 1323 1330	gastric
+T78	Medication 1731 1739	fumarate
+T79	Medication 1720 1739	bisoprolol fumarate

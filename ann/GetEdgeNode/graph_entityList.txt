@@ -1,0 +1,3959 @@
+0 ECG
+1 therapy
+2 implantation
+3 surgery
+4 reoperation
+5 Replacement
+6 removal
+7 Surgery
+8 primary
+9 surgical
+10 tamponade
+11 analysis
+12 mg
+13 creatinine clearance
+14 creatinine
+15 prevention
+16 procedures
+17 His ECG
+18 long-term warfarin therapy with a CHADS 2 score of 5
+19 implantation of a cardiac resynchronization defibrillator
+20 the device surgery
+21 a number of downsides to heparin bridging around device surgery
+22 example in the Implantable Cardiac Pulse Generator Replacement
+23 complete system removal
+24 the prothrombotic state of surgery
+25 defibrillator surgery without interruption of warfarin anticoagulation
+26 Warfarin for Device Surgery Randomized Controlled Trial (BRUISE CONTROL
+27 The primary outcome
+28 . Major surgical and thromboembolic complications
+29 1 episode of cardiac tamponade
+30 those in a meta-analysis of the observational studies
+31 device surgery without interruption of warfarin
+32 dabigatran 150 mg
+33 a creatinine clearance of 46 mL/ min
+34 use for the prevention of stroke
+35 1. Temporary interruptions for procedures
+36 defibrillator surgery
+37 the Table for suggested period of NOAC interruption before device surgery
+38 the first dose of dabigatran 24 hours after surgery
+39 48 hours after surgery
+40 all of these recommendations about NOAC management around surgery
+41 atrial fibrillation
+42 fibrillation
+43 embolic stroke
+44 stroke
+45 diabetes mellitus
+46 diabetes
+47 hypertension
+48 cardiomyopathy
+49 left bundle-branch block
+50 bundle-branch block
+51 block
+52 hematoma
+53 hematomas
+54 infection
+55 infections
+56 hypercoagulability
+57 BRUISE
+58 arms
+59 cardiac tamponade
+60 myocardial infarction
+61 infarction
+62 transient ischemic attack
+63 ischemic attack in the continued-warfarin arm
+64 embolism
+65 a 76-year-old man with atrial fibrillation
+66 previous embolic stroke
+67 nonischemic cardiomyopathy
+68 atrial fibrillation and left bundle-branch block with a QRS duration of 180 milliseconds
+69 a substantial risk of clinically significant device pocket hematoma
+70 The risk of hematoma with bridging
+71 device pocket hematomas
+72 an association between hematoma formation
+73 subsequent device system infection
+74 8 patients with infections
+75 postoperative hematomas
+76 Device system infections
+77 even hypercoagulability
+78 significant hematoma
+79 1 myocardial infarction in the heparin-bridging arm
+80 1 stroke
+81 1 transient ischemic attack in the continued-warfarin arm
+82 systemic embolism in patients with atrial fibrillation
+83 systemic embolism
+84 result in significant numbers of hematomas
+85 left ventricular ejection fraction
+86 ejection
+87 association
+88 problem
+89 normal
+90 attack
+91 hemostasis
+92 management
+93 his left ventricular ejection fraction
+94 The second problem with heparin bridging
+95 a phase of normal coagulability
+96 atrial
+97 left bundle-branch
+98 branch block with a QRS duration of
+99 branch
+100 cardiac
+101 Cardiac
+102 arm
+103 duration
+104 basis
+105 the duration and cost of hospitalization 7
+106 the basis of these data
+107 intubation
+108 electrocardiogram
+109 troponin I
+110 transthoracic echocardiography
+111 echocardiography
+112 tomography
+113 scan
+114 Doppler
+115 surgical repair
+116 repair
+117 extubation
+118 infusion
+119 epinephrine
+120 dopamine
+121 resuscitation
+122 extracorporeal membrane oxygenation
+123 support
+124 Autopsy
+125 computed tomography
+126 Computed tomography
+127 eventual intubation
+128 The initial electrocardiogram
+129 computed tomography scan
+130 Pulsed wave Doppler
+131 the ECG ST segments
+132 the troponin I
+133 surgical repair of the anomalous coronary within the next 48 hours
+134 Five hours after extubation she
+135 a nitroglycerin infusion
+136 additional epinephrine and dopamine infusions
+137 Full resuscitation efforts
+138 Compassionate withdrawal of support
+139 . Autopsy photograph of the left main coronary in cross section at the interarterial portion of the artery
+140 this location on computed tomography scan
+141 . Computed tomography scan
+142 pulmonary edema
+143 edema
+144 depression
+145 sinus
+146 stenosis
+147 Sinus bradycardia
+148 Sinus
+149 bradycardia
+150 asystole
+151 ventricular fibrillation
+152 massive myocardial ischemic necrosis
+153 myocardial ischemic necrosis
+154 ischemic necrosis
+155 anteroseptal and inferior ST-segment depression
+156 anomalous aortic origin of the left coronary artery from the right sinus
+157 clear stenosis of the left main coronary in the proximal segment
+158 the pulmonary edema
+159 ST-segment depression
+160 Sinus bradycardia and hypotension
+161 massive myocardial ischemic necrosis of the left ventricle
+162 the paucity of contrast in the artery due to proximal stenosis
+163 female
+164 medical history
+165 history
+166 syncope
+167 pressure
+168 ST-segment
+169 ng
+170 Diagnostic
+171 left ventricular function
+172 rest
+173 vital signs
+174 chest pain
+175 pain
+176 hypotension
+177 cardiac function
+178 necrosis
+179 A ten-year-old female with no significant medical history
+180 the emergency department after syncope while exercising
+181 positive airway pressure
+182 2.9 ng/mL
+183 Diagnostic testing
+184 The initial left ventricular ejection fraction
+185 peaking at 8.2 ng
+186 the left ventricular function
+187 all vital signs
+188 the biventricular systolic cardiac function
+189 airway
+190 aortic
+191 left coronary artery from the right sinus
+192 left coronary artery
+193 coronary artery from the right sinus
+194 coronary artery
+195 artery
+196 chest
+197 left main coronary artery ostium
+198 left main coronary artery
+199 coronary artery ostium
+200 ostium
+201 aorta
+202 left ventricle
+203 ventricle
+204 ventricular septum
+205 stimulation
+206 cardiopulmonary resuscitation
+207 electrolytes
+208 complete blood count
+209 BNP
+210 urine drug screen
+211 drug screen
+212 EKG
+213 ms
+214 the cardiopulmonary resuscitation with a pulse in the 150s
+215 His electrolytes
+216 An electrocardiogram
+217 a corrected QT interval of 500 ms
+218 any surgery
+219 amnesia
+220 cardiac arrest
+221 sudden infant death syndrome
+222 sudden infant death
+223 syndrome
+224 complete amnesia of the event
+225 no history of sudden cardiac arrest
+226 sudden cardiac arrest in first degree relatives
+227 1 episode of sudden infant death syndrome in fifth paternal cousin
+228 soccer
+229 loss of consciousness
+230 consciousness
+231 services
+232 illness
+233 normal heart rate
+234 normal blood pressure
+235 blood pressure
+236 history of
+237 exertion
+238 palpitations
+239 history of sudden cardiac arrest
+240 infant death
+241 death
+242 loss of consciousness for approximately 2 minutes
+243 the soccer field
+244 the time emergency medical services
+245 no recent illness
+246 a normal heart rate of 70 beats/min
+247 normal blood pressure of 101
+248 no history of murmurs
+249 chest pain during rest
+250 heart
+251 blood
+252 thyroid
+253 medical therapy
+254 ablation
+255 procedure
+256 shortening
+257 catheter ablation
+258 the procedure
+259 38 ms
+260 320 ms
+261 380 ms
+262 340 ms
+263 40 ms
+264 /min at a cycle length of 540 ms
+265 AH intervals of 40 and 500 ms
+266 initial shortening of the HH interval to 450 ms
+267 tachycardia with the HH interval of 540 ms
+268 10 ms shorter than the tachycardia cycle length until the loss of atrial capture or tachycardia
+269 the immediate His by 50 ms
+270 the subsequent His by 50 ms
+271 the immediate His by 40 ms
+272 the following His by 15 ms
+273 Further ablation at the SP region
+274 2 months after the procedure
+275 paroxysmal supraventricular tachycardia
+276 supraventricular tachycardia
+277 AVNRT
+278 sinus tachycardia
+279 atrial capture or tachycardia
+280 PAC
+281 arrhythmia
+282 A 72-year-old woman with a history of paroxysmal supraventricular tachycardia that
+283 baseline AA interval during sinus rhythm
+284 slow/ fast AVNRT
+285 a few sinus tachycardia beats
+286 A PAC
+287 a later PAC
+288 A later PAC
+289 no recurrence of symptomatic arrhythmia
+290 tachycardia
+291 sinus rhythm
+292 AH interval
+293 HV interval
+294 fast
+295 follow-up
+296 Narrow QRS tachycardia
+297 the characteristics of induction with a critically long AH interval
+298 a tachycardia
+299 The tachycardia
+300 the spontaneous onset of tachycardia at faster sweep
+301 the mechanism of tachycardia
+302 no tachycardia
+303 intracardiac
+304 magnetic resonance imaging
+305 imaging
+306 discussion
+307 enlarged
+308 enhancement
+309 ultrasonography
+310 echocardiogram
+311 echocardiography, the patient
+312 subsequent cardiac magnetic resonance imaging
+313 a discussion of an unapproved/investigative use of a commercial product
+314 36 No. 1 J A N U A R Y 2 0 1 5with an enlarged left ventricle
+315 heterogeneous enhancement of the left myocardium
+316 serial echocardiography
+317 Renal ultrasonography
+318 Her echocardiogram before discharge
+319 Acute myocarditis
+320 myocarditis
+321 kidney disease
+322 disease
+323 bilateral small kidneys
+324 her underlying kidney disease
+325 bilateral small kidneys for age with some increased echogenicity
+326 depressed
+327 left ventricular function with an ejection fraction
+328 resonance
+329 diagnosis
+330 hypokinesia
+331 a severely depressed left ventricular function with an ejection fraction of 20%
+332 a structurally normal heart
+333 the diagnosis
+334 hypokinesia of the same area
+335 confirmation of the diagnosis
+336 an ejection fraction
+337 R
+338 myocardium
+339 kidney
+340 Renal
+341 kidneys
+342 CL
+343 The findings of transthoracic echocardiography
+344 a 12-lead ECG
+345 500 ms
+346 abrupt shortening of the A
+347 ventricular pre-excitation
+348 Ventricular premature depolarization
+349 no ventricular pre-excitation
+350 coronary sinus
+351 Narrow-complex supraventricular tachycardia
+352 VA block during atrial and ventricular entrainment pacing
+353 A interval with block during SVT
+354 A 46-year-old woman with frequent palpitations
+355 normal limits. Retrograde ventriculoatrial (VA
+356 the mechanism of the tachycardia
+357 high right atrium
+358 right atrium
+359 atrium
+360 VA
+361 Cardiac Care
+362 sedation
+363 replacement
+364 revascularization
+365 electrical ablation
+366 conservative management
+367 chest x-ray
+368 x-ray
+369 CK
+370 serum levels of potassium
+371 potassium
+372 magnesium
+373 dilation
+374 reduction
+375 elevation
+376 angiogram
+377 defibrillation
+378 the Cardiac Care Unit
+379 an infusion of lidocaine
+380 His admission electrocardiogram
+381 antiarrhythmic and electrolyte replacement
+382 conservative management that
+383 His chest x-ray
+384 , with a normal CK
+385 normal serum levels of potassium
+386 A formal echocardiogram
+387 moderate LV dilation with moderate reduction LVSD with an ejection fraction of 35%
+388 therapy for non-ST elevation myocardial infarction
+389 the lidocaine infusion
+390 an urgent angiogram which
+391 150 mg bolus
+392 an infusion of 1 mg/min
+393 25 mg PO BID
+394 intubation/sedation
+395 active resuscitation with epinephrine
+396 1 mg IV push
+397 50 mg IV push X4
+398 150 mg boluses
+399 1 mg/min
+400 3 mg/min
+401 premature ventricular beats
+402 ventricular tachycardia
+403 VF
+404 cm
+405 mitral regurgitation
+406 systolic dysfunction
+407 dysfunction
+408 non-ST elevation myocardial infarction
+409 sustained VT
+410 occlusion of the proximal circumflex artery
+411 occlusion
+412 hemodynamic instability
+413 progression
+414 sinus rhythms with frequent premature ventricular beats
+415 multiple episodes of ventricular tachycardia
+416 a case of severe ventricular tachycardia storm
+417 6 cm above the sternal angle)
+418 mild pulmonary edema
+419 moderate mitral regurgitation
+420 episodes of new nosustained ventricular tachycardia
+421 two episodes of sustained VT
+422 the restoration of sinus rhythm
+423 a heavily calcified, chronic, total occlusion of the proximal circumflex artery
+424 two further episodes of sustained VT with hemodynamic instability
+425 prolonged refractory VT with progression to ventricular fibrillation
+426 only brief periods of sinus rhythm
+427 past medical history
+428 hemodynamically stable
+429 dyspnea
+430 intermittent palpitations
+431 runs
+432 instability
+433 heart sound
+434 crackles
+435 labs
+436 regurgitation
+437 lesion
+438 PO
+439 DC
+440 brief periods
+441 periods
+442 A 59-year-old man with no past medical history
+443 hemodynamically stable VT storm
+444 a peripheral hospital with a two-day history of chest pain
+445 multiple runs of hemodynamically stable VT
+446 occasional runs of non-sustainedAbstract Electrical storm
+447 a state of cardiac electrical instability
+448 The management of electrical storm
+449 the management strategy in patients with refractory storm
+450 a 3 rd heart sound
+451 bibasilar crackles
+452 His labs
+453 the history of chest pain
+454 decreased level consciousness
+455 this lesion with various guide-wires without success
+456 multiple runs
+457 continuous attempted direct current (DC
+458 sternal angle
+459 circumflex artery
+460 back
+461 oral
+462 venous
+463 level
+464 fixation
+465 chest radiography
+466 radiography
+467 intensive care unit for further monitoring
+468 treatment
+469 intravenous infusion
+470 median sternotomy
+471 sternotomy
+472 active fixation
+473 Clinical examination and echocardiography
+474 a large pericardial effusion without signs of pericardial tamponade
+475 the intensive care unit for further monitoring
+476 medical treatment
+477 intravenous infusion of inotropic agents
+478 Repeat echocardiography
+479 typical signs of pericardial tamponade
+480 An urgent median sternotomy
+481 intermittent second-degree atrioventricular block
+482 second-degree atrioventricular block
+483 atrioventricular block
+484 pericardial effusion
+485 effusion
+486 pericardial effusion without signs of pericardial tamponade
+487 pericardial tamponade
+488 injury
+489 wound
+490 a borderline cardiothoracic index without typical signs of pericardial effusion
+491 a huge pericardial effusion
+492 An atrial appendage perforation with pericardial injury by the lead
+493 the sternal wound
+494 perforation
+495 our hospital due to progressive dyspnea
+496 the diagnosis of cardiac perforation from the atrial lead
+497 The perforation site
+498 pericardial
+499 atrial appendage
+500 hysterectomy
+501 chest X-ray
+502 X-ray
+503 tests
+504 intravenous drip infusion
+505 test
+506 Anesthesia
+507 Infusion
+508 tracheal intubation
+509 continuous intravenous infusion
+510 administration
+511 incision
+512 epidural block
+513 analgesia
+514 transfusion
+515 simple hysterectomy due to a diagnosis of uterine myomas
+516 A preoperative electrocardiogram
+517 The results of chest X-ray
+518 other laboratory tests
+519 Holter ECG at a nearby hospital
+520 Premedication comprised intravenous drip infusion of 3 mg midazolam
+521 20 mg famotidine
+522 0.5 mg atropine sulfate
+523 a test dose of 1 ml of 1% lidocaine
+524 intravenous infusion of 3 ng
+525 Target Control Infusion
+526 8 mg vecuronium
+527 continuous intravenous infusion of propofol
+528 suitable administration of vecuronium
+529 Depth of sedation
+530 her ECG readings at the time of initial incision
+531 60 min following incision
+532 continuous epidural block
+533 postoperative analgesia
+534 an increase in infusion volume with commencement of auto-transfusion of ephedrine hydrochloride
+535 120 min following the initial incision
+536 administration of indigo carmine
+537 the ECG monitor (
+538 myomas
+539 First-degree AV block
+540 AV block
+541 ureteral injury
+542 Wenckebach type A-V block
+543 icc
+544 a 41-year-old woman 161 cm
+545 161 cm in height and 70 kg in weight
+546 rst-degree A-V block
+547 evidence of arrhythmia
+548 any ureteral injury
+549 a diagnosis of Wenckebach type A-V block
+550 the Wenckebach type A-V block for the next 5 min
+551 The Wenckebach type A-V block
+552 rst-degree A-V block (
+553 .icc.u-tokai
+554 PR interval
+555 PR
+556 Blood pressure
+557 L1
+558 L2
+559 readings
+560 the ejection fraction
+561 the normal range
+562 vertebrae L1 and L2
+563 1.0 to 2.0 ng/ml
+564 a follow-up
+565 jp Heart Rate62/min PR
+566 uterine
+567 Blood
+568 vertebrae
+569 Heart
+570 fentanyl
+571 ephedrine hydrochloride
+572 ephedrine
+573 8 ml fentanyl
+574 electroencephalogram
+575 MRI
+576 Genetic testing
+577 Treatment
+578 exercise stress test
+579 stress test
+580 An ECG exhibited QTc prolongation
+581 478 ms
+582 brain MRI
+583 Genetic testing for mutations in KCNQ1
+584 Treatment with propranolol
+585 the QTc interval to 471 to 473 ms
+586 449 ms
+587 an interruption of therapy
+588 Her resting ECG
+589 ECG images
+590 40 mg per day
+591 420 to 450 ms without ventricular ectopy
+592 No exercise stress test
+593 a head computed tomographic scan
+594 555 ms
+595 Genetic testing for mutations KCNQ1
+596 developmental delay
+597 sudden death
+598 T
+599 polymorphic ventricular tachycardia
+600 cardiac arrhythmia
+601 a history of fetal bradycardia
+602 no developmental delay
+603 elimination of the notch in the descending limb of the T wave
+604 perinatal bradycardia
+605 persistent biphasic T waves in leads III
+606 negative T waves in V4 to V6
+607 one 3-beat run of polymorphic ventricular tachycardia
+608 A Moroccan girl from a family with no history of cardiac arrhythmia
+609 No neurological dysfunction
+610 ventricular fibrillation at the age of 17 months
+611 no family history of cardiac arrhythmia
+612 the cardiac arrest
+613 prolonged QT interval
+614 prolonged QT
+615 fetal bradycardia
+616 birth
+617 seizure
+618 family history of
+619 family history
+620 exercise
+621 dizziness
+622 mutations
+623 T wave
+624 resting
+625 seizures
+626 family with no history of cardiac arrhythmia
+627 family with no history of
+628 family with no history
+629 unconsciousness
+630 ventricular bigeminy
+631 bigeminy
+632 stress
+633 family history of cardiac arrhythmia
+634 the hospital for evaluation of syncope
+635 a markedly prolonged QT interval
+636 an uneventful birth
+637 her first episode of syncope at the age of 19 A 5-year-old Japanese boy
+638 an episode of syncope with seizure
+639 no family history of arrhythmias
+640 exercise testing because of dizziness
+641 dizziness while
+642 no further episodes of syncope
+643 Her family history
+644 evidence of exercise-induced polymorphic ventricular ectopy
+645 normal physical and mental development
+646 the age of 8 years after an episode of syncope
+647 prolonged period of unconsciousness
+648 4 female siblings
+649 The initial diagnosis
+650 a diagnosis of CPVT
+651 normal QTc interval duration
+652 brain
+653 limb
+654 aVF
+655 head
+656 Ablation
+657 genetic test
+658 clinical presentation in echocardiography
+659 abnormal ECG pattern in a sense of an incomplete right bundle branch block with slightly elevated ST-segments
+660 an ajmaline test
+661 prominent coved-type Brugada ECG
+662 programmed ventricular stimulation
+663 Ablation end point
+664 2 ms
+665 noninducibility of any VT during programmed ventricular stimulation
+666 a genetic test
+667 sudden cardiac death
+668 incomplete right bundle branch block
+669 right bundle branch block
+670 bundle branch block
+671 sustained and hemodynamically nontolerated ventricular tachycardia
+672 pleomorphic ventricular tachycardia
+673 a previous history of survived sudden cardiac death
+674 T-wave inversions in the right precordial leads
+675 a sustained and hemodynamically nontolerated ventricular tachycardia
+676 late potentials during sinus rhythm
+677 male
+678 work
+679 abnormal ECG
+680 T-wave
+681 superior axis
+682 right ventricular/right ventricular outflow
+683 right ventricular outflow
+684 A 22-year-old male patient
+685 No data on work-up of genetic arrhythmias
+686 normal ejection fraction
+687 the endocardial right ventricular/right ventricular outflow tract
+688 a suspected epicardial right ventricular outflow tract exit
+689 the anterior right ventricular outflow tract
+690 mutations of PKP2
+691 right bundle branch
+692 axis
+693 endocardial
+694 right ventricular/right ventricular outflow tract
+695 right ventricular outflow tract
+696 tricuspid annulus
+697 immobilization
+698 Transthoracic echocardiography
+699 CT
+700 thrombolysis therapy
+701 stabilization
+702 a fulminant pulmonary embolism after orthopedic surgery
+703 A computed tomography
+704 scan in three patients
+705 Direct thrombolysis therapy (100
+706 150 mg Actilyse
+707 yielded short-term stabilization of the circulation in three patients
+708 pulmonary embolism
+709 thrombosis
+710 trauma
+711 spinal cord injury
+712 pulmonary embolisms
+713 embolisms
+714 thrombus
+715 increased risk of thrombosis due to the injury pattern (spinal cord
+716 major trauma
+717 Two patients with spinal cord injury
+718 ECLS during cardiac arrest due to massive
+719 acute pulmonary embolisms
+720 a thrombus of the inferior vena cava that
+721 a central pulmonary embolism
+722 four male
+723 one female
+724 spinal cord
+725 pelvis
+726 inferior vena cava
+727 vena cava
+728 right ventricle
+729 valsalva manoeuvre
+730 Ca
+731 cardioversion
+732 recurrent episodes of SVT despite previous ablation
+733 handstands as an SVT treatment by one of the authors
+734 her ECG rhythm strip
+735 . Initial trial of the valsalva manoeuvre
+736 'Ca
+737 a rapid reduction in heart rate and reversion to normal sinus rhythm at a rate of 125 bpm
+738 a more pleasant and less invasive treatment
+739 the resuscitation room
+740 a new, effective, simple and non-invasive treatment for SVT
+741 cardioversion of SVT with intravenous drugs
+742 symptom
+743 normal sinus rhythm
+744 a usual symptom for her
+745 a regular narrow complex tachycardia at a rate of 250 bpm . Initial trial
+746 Updated information and services
+747 Advanced Trauma Life Support
+748 Life Support
+749 Support
+750 neurological examination
+751 T4
+752 Plain radiography
+753 compression
+754 spinal fusion
+755 fusion
+756 general anaesthesia
+757 IV infusion
+758 surgical procedure
+759 auscultation
+760 Chest radiography
+761 culture
+762 Noninvasive ventilation
+763 arterial blood gas analysis
+764 blood gas analysis
+765 synchronised intermittent mandatory ventilation
+766 intermittent mandatory ventilation
+767 Cardiopulmonary resuscitation
+768 dilatation
+769 hyperthermia
+770 sodium
+771 hydrotherapy
+772 Continuous rate-controlled infusion
+773 morphine
+774 tracheostomy
+775 rehabilitation
+776 continuous infusion
+777 the trauma resuscitation room at the Government Medical College and Hospital
+778 Advanced Trauma Life Support protocol
+779 Initial neurological examination
+780 loss of pain and temperature sensation below the level of T4 dermatome
+781 a compression fracture of the T4 and T5 vertebrae
+782 A spinal fusion surgery via the anterolateral approach under general anaesthesia
+783 a rate-controlled IV infusion of propofol
+784 the surgical intervention
+785 The surgery
+786 the surgical procedure
+787 amikacin 500 mg q 12 hours IV
+788 the ventilatory support
+789 the synchronised intermittent mandatory ventilation
+790 successful resuscitation following cardiac arrest
+791 full ventilatory support
+792 mild cerebral atrophy with ventricular dilatation that
+793 CT findings
+794 hypoxic insult to the brain during the prolonged resuscitation efforts
+795 10 mg q 8 hours
+796 clonidine infusion
+797 Diclofenac sodium
+798 75 mg q 8 hours IV
+799 2 mg IV
+800 . Continuous rate-controlled infusion of morphine
+801 0.02 mg/kg
+802 0.05 mg/kg
+803 Three days after the initiation of treatment, the patient
+804 a T-piece with a tracheostomy tube in situ
+805 a rehabilitation ward for an additional two weeks
+806 the clonidine infusion
+807 the rehabilitation phase
+808 a matter of concern during the rehabilitation phase
+809 continuous infusion of morphine
+810 2 mg q 8 hours
+811 Trauma
+812 injuries
+813 compression fracture
+814 fracture
+815 blood loss
+816 hypothermia
+817 opacity
+818 pneumonia
+819 condition
+820 respiratory acidosis
+821 acidosis
+822 pulseless ventricular tachycardia
+823 dystonia
+824 brain injury
+825 pathophysiology
+826 cerebral atrophy
+827 atrophy
+828 ventricular dilatation
+829 hypoxic
+830 no clinical signs of life-threatening injuries
+831 a blood loss of 3.5 L occurred
+832 a heterogeneous opacity in the right middle zone
+833 the patient's condition
+834 severe respiratory acidosis
+835 a sudden episode of pulseless ventricular tachycardia
+836 SIMV ABSTRACT Paroxysmal autonomic instability with dystonia
+837 a unique syndrome following brain injury
+838 PAID syndrome following prolonged cardiac arrest
+839 the pathophysiology
+840 his chest condition
+841 paroxysms of severe hypertension
+842 A provisional diagnosis of PAID syndrome
+843 the tenth day after cardiac arrest
+844 his clinical condition
+845 the sympathetic symptoms of PAID syndrome
+846 fall
+847 m
+848 paraparesis
+849 loss of pain and temperature sensation
+850 pain and temperature sensation below the level
+851 pain and temperature sensation
+852 temperature sensation
+853 sensation
+854 mental functions
+855 anaesthesia
+856 Anaesthesia
+857 difficulty in breathing
+858 difficulty
+859 cough
+860 pulseless
+861 hyperkalaemia
+862 Paroxysmal autonomic instability with dystonia
+863 recognition
+864 sensorium
+865 muscle rigidity
+866 rigidity
+867 diaphoresis
+868 fever
+869 movements
+870 symptoms
+871 VC
+872 initiation
+873 tracheostomy tube in situ
+874 arousal
+875 a fall from a height of 10 m
+876 higher mental functions
+877 excessive cough with expectoration
+878 the bilevel positive airway pressure mode
+879 Severe hyperkalaemia
+880 its early recognition and management a challenge
+881 A delay in early recognition
+882 subsequent management
+883 clinical presentation and management of this rare
+884 a few respiratory efforts although his sensorium
+885 No muscle rigidity
+886 autonomic instability
+887 diaphoresis during which he
+888 high-grade fever
+889 generalised dystonic movements that
+890 the typical clinical symptoms
+891 magnetic resonance
+892 normal grey
+893 the cause of the discrete symptoms
+894 difficulty in weaning
+895 Symptomatic management of the varied symptoms
+896 Dystonic movements
+897 Occasional surges of autonomic arousal
+898 dermatome
+899 Cranial nerve
+900 nerve
+901 spine
+902 Chest
+903 arterial blood
+904 arterial
+905 trachea
+906 autonomic
+907 muscle
+908 periventricular white matter
+909 cerebral
+910 Oral
+911 clonidine
+912 lorazepam
+913 glycopyrrolate and fentanyl
+914 fentanyl with 50% oxygen in the air
+915 oral lorazepam
+916 intravenous steroids
+917 skin biopsy
+918 biopsy
+919 continuous therapy with oral prednisone
+920 20 mg/day
+921 40 mg
+922 the intravenous steroids
+923 recurrent angioedema without features of vasculitis in the skin biopsy findings
+924 chronic urticaria
+925 urticaria
+926 angioedema
+927 Diseases
+928 vasculitis
+929 diseases
+930 Department of Internal Diseases
+931 exacerbation of the disease
+932 A 36-year-old man with an 8-year history of severe difficult-
+933 His symptoms
+934 aggravation of the symptoms
+935 The diagnosis of CSU
+936 any history of other symptoms
+937 His family history
+938 skin
+939 prednisone
+940 the oral prednisone dose
+941 hemodialysis
+942 bypass
+943 ligation
+944 delivery
+945 closure
+946 transesophageal echocardiography
+947 TEE
+948 fluoroscopy
+949 dialysis
+950 Cardiac resuscitation
+951 autopsy
+952 Histology
+953 international normalized ratio
+954 color flow Doppler
+955 heart transplantation
+956 transplantation
+957 suture ligation
+958 end-stage renal disease on hemodialysis
+959 an uncomplicated closed-chested LAA ligation with the LARIAT suture delivery device. 2 LAA closure
+960 contrast fluoroscopy
+961 A follow-up TEE
+962 his LAA ligation
+963 dialysis, the patient
+964 An autopsy
+965 a labile international normalized ratio
+966 an uncomplicated closed-chested LAA ligation with the LARIAT suture delivery device
+967 LAA closure
+968 no antiplatelet or oral anticoagulation therapy
+969 TEE with color flow Doppler
+970 heart transplantation 1 year
+971 11 months after his LAA ligation procedure
+972 no evidence of LA to LAA communication . Histology
+973 fibrotic scarred tissue at the site of suture ligation with endothelialization of the atrial surface
+974 AF
+975 gastrointestinal bleeding
+976 bleeding
+977 hip fracture
+978 myocardial infarctions
+979 infarctions
+980 congestive heart failure
+981 heart failure
+982 end-stage renal disease
+983 renal disease
+984 peripheral vascular disease
+985 vascular disease
+986 scar tissue
+987 scar
+988 fibrosis
+989 cavity
+990 idiopathic cardiomyopathy
+991 diabetes mellitus type 2
+992 scarring
+993 A 63-year-old man with a history of persistent AF on chronic warfarin oral anticoagulation
+994 LAA exclusion after severe gastrointestinal bleeding
+995 a hip fracture
+996 previous myocardial infarctions
+997 the hospital with pneumonia and volume
+998 overloaded congestive heart failure
+999 a ventricular fibrillation arrest
+1000 scar tissue at the apex
+1001 endocardial aspect of LAA with severe fibrosis throughout the epicardial aspect of LAA
+1002 evidence of remnant thrombus formation within the obliterated cavity of LAA
+1003 A 60-year-old man with idiopathic cardiomyopathy
+1004 persistent AF
+1005 left ventricle dysfunction (left ventricular ejection fraction of 30%)
+1006 The patient's cardiomyopathy
+1007 optimal medical heart failure management
+1008 the examination of pericardial cavity
+1009 a small residual LAA lumen with fibrosis
+1010 intolerance
+1011 falls
+1012 diabetes mellitus type
+1013 left ventricle dysfunction (left ventricular ejection fraction
+1014 Association
+1015 history of falling
+1016 His past medical history
+1017 LAA exclusion due to warfarin intolerance
+1018 traumatic falls
+1019 New York Heart Association class III)
+1020 hip
+1021 renal
+1022 femoral
+1023 popliteal
+1024 left atrium
+1025 tissue
+1026 pericardial cavity
+1027 neck
+1028 lumen
+1029 stroke prevention
+1030 stroke prevention in patients with AF
+1031 context
+1032 a context to highlight the practical management issues
+1033 CA
+1034 mitral valve ring repair
+1035 transesophageal echocardiogram
+1036 suction
+1037 General anesthesia
+1038 anesthesia
+1039 intravenous heparin infusion
+1040 dissection
+1041 RF
+1042 history of cardiac resynchronization therapy
+1043 which time cardiac imaging
+1044 concurrent mitral valve ring repair
+1045 tricuspid valve ring repair
+1046 aortic valve repair
+1047 A transesophageal echocardiogram
+1048 suction events
+1049 treatment with amiodarone
+1050 An initial catheter ablation
+1051 only 26 ms
+1052 Several ablation lesions
+1053 Ablation on the right ventricular side of the apical septum at an electrogram of 37 ms
+1054 several hours after the initial catheter ablation
+1055 prior to the procedure
+1056 a second ablation procedure
+1057 ablation of the incessant apical VT
+1058 reopening of the lower edge of the sternotomy incision by 2.5 inches in the subxiphoid area
+1059 blunt dissection
+1060 a 3.5-mm open-irrigated RF catheter
+1061 97 ms
+1062 radiofrequency energy delivery
+1063 further ablation
+1064 radiofrequency delivery
+1065 programmed stimulation with triple extrastimuli from the right ventricular apex
+1066 incision closure time
+1067 total procedural time from percutaneous access to removal of femoral sheaths
+1068 Nineteen days after the epicardial VT ablation
+1069 orthotopic heart transplantation
+1070 dilated cardiomyopathy
+1071 monomorphic ventricular tachycardia
+1072 A 70-year-old man with nonischemic dilated cardiomyopathy
+1073 our institution for advanced heart failure therapies
+1074 diastolic dimension 7.9 cm
+1075 repetitive monomorphic ventricular tachycardia
+1076 a more extensive scar burden
+1077 map
+1078 energy
+1079 diuresis
+1080 ejection fraction to be 10% to 15%
+1081 A 3-dimensional electroanatomic map
+1082 Radiofrequency energy
+1083 further diuresis
+1084 6 months of follow-up
+1085 mitral valve ring
+1086 mitral valve
+1087 tricuspid valve ring
+1088 tricuspid valve
+1089 aortic valve
+1090 left and right ventricles
+1091 right ventricles
+1092 ventricles
+1093 ventricular side of the apical septum
+1094 pericardium
+1095 soft tissue
+1096 maximum duration of 180 s
+1097 MS
+1098 injectable
+1099 cardiac echocardiography as standard monitoring
+1100 intravenous pulse steroids
+1101 ECG monitoring
+1102 cardiac MRI
+1103 -year-old woman with MS since the age of 23 years
+1104 refused injectable MS therapy due to needle phobia
+1105 total dose 108.72 mg/m 2
+1106 cardiac echocardiography as standard monitoring during and after mitoxantrone treatment
+1107 The last echocardiogram
+1108 A repeat brain MRI
+1109 the MRI
+1110 fingolimod therapy
+1111 0.5 mg/daily
+1112 . Basal ECG
+1113 prednisone 30 mg/day
+1114 Ventricular tachycardia on Holter-ECG
+1115 the Holter-ECG monitoring
+1116 ECG at discharge
+1117 the first 15 days of treatment, the patient
+1118 her primary care physician
+1119 the ECG
+1120 the results of a Holter-ECG that
+1121 The mean heart rate during Holter-ECG
+1122 A new cardiac echocardiogram
+1123 A Holter-ECG
+1124 no intramyocardial late gadolinium enhancement
+1125 cardiac disease
+1126 needle phobia
+1127 phobia
+1128 relapse
+1129 Ventricular tachycardia
+1130 all
+1131 mitral and tricuspid insufficiency
+1132 tricuspid insufficiency
+1133 atrial septal aneurysm
+1134 aneurysm
+1135 no history of cardiac disease
+1136 family cardiac disease
+1137 any relapse
+1138 a spinal cord relapse
+1139 A single brief episode of bradycardia at 48 bpm
+1140 all the most relevant episodes
+1141 The short episode of ventricular tachycardia
+1142 the initiation of the ventricular tachycardia there
+1143 sinus rhythm at 70 bpm
+1144 No atrioventricular block
+1145 mild mitral and tricuspid insufficiency
+1146 normal sinus rhythm with no episodes of arrhythmia
+1147 underweight
+1148 old woman with MS since the age
+1149 T2
+1150 feeling
+1151 asthenia
+1152 headaches
+1153 heart rhythm
+1154 discontinuation
+1155 sinus rhythm with no episodes of arrhythmia
+1156 a case of an underweight 37-year-old woman
+1157 height 1.67 m
+1158 Her cardiac function
+1159 six new T2 foci
+1160 a small non-enhanced lesion in the floor of the IV ventricle
+1161 no signs of prolonged QT interval
+1162 'feeling great'
+1163 continuous and unspecific dizziness
+1164 asthenia and headaches
+1165 fingolimod discontinuation
+1166 the patient's symptoms
+1167 's symptoms of dizziness and asthenia
+1168 a normal EF
+1169 normal biventricular systolic function
+1170 cardiovascular
+1171 ER
+1172 mitoxantrone
+1173 mechanical ventilation
+1174 oxygen saturation
+1175 Electrocardiogram
+1176 total T3
+1177 T3
+1178 free T3
+1179 total T4
+1180 free T4
+1181 Plasmapheresis
+1182 administered several doses of subcutaneous epinephrine
+1183 rapid sequence intubation
+1184 25 per minute with an oxygen saturation of 100%
+1185 lung auscultation
+1186 Initial chest X-ray
+1187 Emergent bedside echocardiography in ED
+1188 A repeat echocardiogram on hospital daythyroid hormones
+1189 mg/dL
+1190 exposure
+1191 respiratory failure
+1192 mild intermittent asthma
+1193 intermittent asthma
+1194 asthma
+1195 allergies
+1196 proptosis
+1197 distension
+1198 reflux
+1199 peripheral edema
+1200 hyperinflation
+1201 comatose
+1202 minutes after exposure to polyurethane fumes
+1203 symptoms of progressive respiratory failure with obtundation
+1204 a history of wellcontrolled, mild intermittent asthma
+1205 no allergies
+1206 symptoms of cardiac disease
+1207 dyspnea prior to polyurethane fume exposure
+1208 no evidence of proptosis
+1209 no evidence of jugular venous distension
+1210 hepatojugular reflux
+1211 no evidence of peripheral edema
+1212 moderate pulmonary edema
+1213 inhaled
+1214 respiratory distress
+1215 distress
+1216 obtundation
+1217 travel
+1218 Vital signs
+1219 BP
+1220 inspired
+1221 well-nourished
+1222 movement
+1223 expiratory
+1224 wheezing
+1225 heart rate without murmurs
+1226 heart sounds
+1227 jugular venous distension
+1228 reflexes
+1229 acute onset of dyspnea
+1230 Her symptoms
+1231 the use of inhaled short-
+1232 Emergency medical services
+1233 her in respiratory distress
+1234 no symptoms
+1235 recent travel
+1236 symptoms of hyperthroidism
+1237 Vital signs on arrival to the ED
+1238 100% fraction of inspired oxygen
+1239 a well-nourished but illappearing female
+1240 normal size
+1241 poor air movement
+1242 prolonged expiratory phase
+1243 diffuse wheezing
+1244 a regular rapid heart rate without murmurs
+1245 heave, third, or fourth heart sounds
+1246 tendon reflexes
+1247 a normal left ventricular ejection fraction
+1248 Thyroid gland
+1249 Thyroid
+1250 gland
+1251 lung
+1252 Cardiovascular
+1253 Skin
+1254 sclera
+1255 tendon
+1256 isolation
+1257 A 57-year-old man with a structurally normal heart and normal baseline ECG
+1258 pulmonary vein isolation for atrial fibrillation
+1259 an ablation catheter at the mid-right atrium
+1260 normal heart and normal baseline ECG
+1261 normal baseline ECG
+1262 pulmonary vein
+1263 vein
+1264 puncture
+1265 circumferential pulmonary vein isolation
+1266 a symptomatic LAMRT with a cycle length of 385 ms
+1267 200 mg
+1268 ablation catheter
+1269 an antral ablation
+1270 single transseptal puncture
+1271 8 ms
+1272 Ablation at this site
+1273 ablation at this site
+1274 The septal ablation line
+1275 the end of the procedure there
+1276 paroxysmal atrial fibrillation
+1277 A 58-year-old patient with a 3-year history of paroxysmal atrial fibrillation
+1278 a CARTO 3 map of the left atrium
+1279 The activation map
+1280 the tachycardia
+1281 no inducible tachycardia
+1282 any tachycardia for 6 months
+1283 left superior pulmonary vein
+1284 left inferior pulmonary vein
+1285 pulmonary veins
+1286 veins
+1287 cardio-pulmonary resuscitation
+1288 pulmonary resuscitation
+1289 CPR
+1290 Cardiac MRI
+1291 Potassium
+1292 Sodium
+1293 GFR
+1294 glomerular filtration rate
+1295 filtration
+1296 cK
+1297 creatine-kinase
+1298 glutamate
+1299 oxalate
+1300 angiography
+1301 ECG on admission
+1302 650 ms
+1303 hyper-CK-emia with a nadir of 4553U
+1304 the further course ECG
+1305 glutamate oxalate trasnaminase
+1306 glutamate private transaminase
+1307 tomography angiography
+1308 SCD
+1309 generalized tonicclonic seizure
+1310 eating disorder
+1311 disorder
+1312 traumatic pneumothorax
+1313 pneumothorax
+1314 pleural effusions
+1315 rhabdomyolysis
+1316 acute renal failure
+1317 renal failure
+1318 anemia
+1319 thrombopenia
+1320 Ventricular fibrillation
+1321 bulimia
+1322 hd
+1323 coronary atherosclerosis
+1324 atherosclerosis
+1325 cerebral aneurysm
+1326 a 24 yo, Caucasian female, height 170 cm
+1327 aborted SCD due to ventricular fibrillation
+1328 a symptomatic, generalized tonicclonic seizure
+1329 age 15 y she suffered from an eating disorder
+1330 another episode of ventricular fibrillation
+1331 Aborted SCD
+1332 a non-triggered rhabdomyolysis
+1333 mild transient anemia
+1334 mild thrombopenia
+1335 subarachnoid bleeding
+1336 an aneurysm (grandfather from the mother's side)
+1337 aortic Ventricular fibrillation from bulimia-J
+1338 aneurysm (grand aunt)
+1339 hypokalemia
+1340 eating
+1341 vomiting
+1342 puberty
+1343 diagnostic
+1344 parameters
+1345 glomerular filtration
+1346 nd
+1347 hypokalemia of 1.9 mmol
+1348 The individual history
+1349 recurrent palpitations at age 9 and 10 y
+1350 habitually induced vomiting
+1351 rare migrainous attacks since puberty
+1352 Further diagnostic work-up
+1353 mildly elevated liver parameters
+1354 most of the serum parameters
+1355 The family history
+1356 liver
+1357 glomerular
+1358 Microscopic examination
+1359 Fetal echocardiography
+1360 anterolateral thoracotomy
+1361 thoracotomy
+1362 biopsies
+1363 myocardial biopsy
+1364 implantation of a left ventricular assist device
+1365 cardiac transplantation
+1366 immunofluorescence
+1367 maternal treatment with dexamethasone
+1368 Postnatal echocardiography
+1369 immediate and prolonged attempts at resuscitation
+1370 cardiac autopsy
+1371 progressive left ventricular dilation
+1372 a normal shortening fraction for age
+1373 59 months of age through a left anterolateral thoracotomy
+1374 8 V at 0.52 ms
+1375 Multiple biopsies of the LAA
+1376 an uncomplicated vaginal delivery
+1377 implantation of a dual-chamber epicardial pacemaker at 16 months of age via a left anterolateral thoracotomy
+1378 inotropic support
+1379 Findings on ventricular myocardial biopsy
+1380 maximal medical therapy
+1381 implantation of a left ventricular assist device at 2 years
+1382 uneventful cardiac transplantation 7 months
+1383 A biopsy prior to transplantation
+1384 no perivascular antibodies by immunofluorescence
+1385 microscopic analysis
+1386 biventricular dilation
+1387 a shortening fraction of 12% and ejection fraction of 25% 6 months
+1388 One year after pacemaker implantation
+1389 epicardial cardiac resynchronization therapy
+1390 an ejection fraction of 45% and shortening fraction of 22%
+1391 a PR interval of 120 ms
+1392 Vaginal delivery at 38 weeks
+1393 2 V at 0.5 ms
+1394 cardiac resynchronization therapy
+1395 left ventricular dilation with mild systolic dysfunction
+1396 replacement at 5 years of age
+1397 hydrops
+1398 lupus
+1399 junctional escape rhythm
+1400 pulmonary hypertension
+1401 RA
+1402 absence
+1403 pericarditis
+1404 SLE
+1405 complication
+1406 atrial septal defect
+1407 fetal evidence of bradycardia at 21 weeks
+1408 no evidence of hydrops
+1409 lupus autoantibodies
+1410 AVB progressed to complete block within a month
+1411 A small pericardial effusion with moderate biventricular AV valve regurgitation
+1412 a junctional escape rhythm at 75 bpm
+1413 resolution of the pericardial effusion and AV valve regurgitation
+1414 1 month of age in the context of recurrence of the pericardial effusion
+1415 persistent pulmonary hypertension
+1416 no evidence of lead dysfunction
+1417 the absence of a clear AV node
+1418 a mild fibrous pericarditis
+1419 bradycardia at 21 weeks of gestation
+1420 no evidence of cardiac abnormalities or hydrops
+1421 a diagnosis of SLE with positive antibodies,
+1422 progression to complete AVB
+1423 no evidence of atrial fibrosis or loss of atrial myocytes
+1424 signs of hydrops
+1425 AVB progressed to complete block
+1426 left ventricular dysfunction
+1427 signs of heart failure
+1428 her condition
+1429 no evidence of SLE-related myocarditis
+1430 complete AVB block at 2.8 years of age
+1431 the LAA and left ventricle without complication
+1432 dysfunction of the atrial lead
+1433 ProgressiveAlive, transvenous dualchamber pacemaker at 5 y ASD indicates atrial septal defect
+1434 fetal evidence of bradycardia
+1435 Cardiac anatomy and function
+1436 weeks of gestation
+1437 gestation
+1438 Left ventricular function
+1439 Labor
+1440 vaginal delivery
+1441 fatigue
+1442 functional capacity
+1443 related
+1444 Work
+1445 left ventricular systolic function
+1446 QRS-complex
+1447 cardiac anatomy and function
+1448 Vaginal delivery
+1449 sign
+1450 yes
+1451 50% of systemic systolic pressure
+1452 the right atrial appendage without difficulty
+1453 firstdegree AVB at 20 weeks of gestation
+1454 Progressive signs of fatigue
+1455 a left ventricular ejection fraction of 20%
+1456 Work-up
+1457 last follow-up
+1458 her left ventricular systolic function
+1459 complete AVB at 25 weeks of gestation with escape rates around 70 bpm
+1460 normal cardiac anatomy and function
+1461 atrioventricular valve regurgitation
+1462 minus sign
+1463 plus sign
+1464 prompting initiation of an angiotensinconverting-enzyme inhibitor
+1465 Atrial
+1466 left atrial appendage
+1467 AV node
+1468 fibrous tissue
+1469 epicardium
+1470 right atrial appendage
+1471 vaginal
+1472 Vaginal
+1473 atrioventricular valve
+1474 lumbar puncture
+1475 brain magnetic resonance imaging
+1476 myocardial perfusion imaging
+1477 perfusion
+1478 coronary angiogram
+1479 erythrocyte sedimentation rate
+1480 erythrocyte sedimentation
+1481 sedimentation rate
+1482 C-reactive protein
+1483 protein
+1484 Cardiac positron emission tomography
+1485 positron emission tomography
+1486 carbohydrate-free diet
+1487 ammonia
+1488 serum protein electrophoresis
+1489 protein electrophoresis
+1490 electrophoresis
+1491 temporal artery biopsy
+1492 artery biopsy
+1493 cardiac intensive care
+1494 a biopsy
+1495 corticosteroid therapy
+1496 aggressive migraine therapy that
+1497 Extensive workup including lumbar puncture
+1498 a weakly positive troponin I
+1499 Exercise myocardial perfusion imaging
+1500 Computed tomographic angiogram of the chest
+1501 A rhythm control strategy with amiodarone 400 mg PO
+1502 an erythrocyte sedimentation rate of 90 mm/h
+1503 C-reactive protein 166 mg/L
+1504 Cardiac magnetic resonance imaging
+1505 an ejection fraction of 33% without late gadolinium enhancement
+1506 Cardiac positron emission tomography after a 24-hour carbohydrate-free diet
+1507 normal resting ammonia perfusion
+1508 Transbronchial biopsy of mediastinal lymph nodes
+1509 Left temporal artery biopsy
+1510 the cardiac intensive care unit
+1511 a bolus of amiodarone 150 mg IV
+1512 empirical solumedrol 500 mg IV
+1513 C-reactive protein levels 1 day
+1514 36.3 mg/L
+1515 0.4 mg/L
+1516 arteritis
+1517 temporal arteritis
+1518 Temporal arteritis
+1519 polymyalgia rheumatica
+1520 systemic illness
+1521 anorexia
+1522 acute myocardial infarction
+1523 Myocarditis
+1524 diplopia
+1525 left ventricular systolic dysfunction
+1526 tick bite
+1527 bite
+1528 migraine
+1529 acute coronary syndrome
+1530 coronary artery disease
+1531 aneurysms
+1532 nodule
+1533 paroxysmal AF
+1534 inflammation
+1535 infectious
+1536 visual field defect
+1537 granulomatous inflammation
+1538 giant
+1539 G iant cell arteritis
+1540 a systemic vasculitis of medium
+1541 a combination of polymyalgia rheumatica
+1542 manifestations of systemic illness
+1543 heightened rate of acute myocardial infarction
+1544 new diagnosis of atrial fibrillation
+1545 myocarditis with left ventricular systolic dysfunction
+1546 a tick bite
+1547 no evidence of obstructive coronary artery disease
+1548 no aneurysms
+1549 a 3 mm right-upper lobe nodule
+1550 AF with a rapid ventricular rate and worsening chest pain
+1551 paroxysmal AF with no evidence of overt volume overload
+1552 a low-dose basic heart failure regimen
+1553 vertical diplopia that
+1554 right atrial inflammation
+1555 Extensive infectious workup
+1556 edema/pallor with an inferior visual field defect
+1557 a portion of artery with granulomatous inflammation of the medial layer
+1558 mild lymphocytic inflammation
+1559 giant cell
+1560 AF with a rapid ventricular rate and hypotension
+1561 systemic vasculitis
+1562 polymyalgia
+1563 headache
+1564 malaise
+1565 weight loss
+1566 elderly
+1567 new diagnosis
+1568 substernal chest pain
+1569 weakly positive
+1570 Exercise
+1571 adenopathy
+1572 swelling
+1573 pallor
+1574 the elderly with a mean age at diagnosis of 72 years
+1575 cerebral vascular attack
+1576 the diagnosis of GCA
+1577 A 57-year-old man with no significant past medical history
+1578 a 1-week course of doxycycline for nonspecific symptoms of dizziness
+1579 severe left temporal lancinating headaches
+1580 the pain
+1581 dyspnea and substernal chest pain
+1582 mediastinal and hilar adenopathy
+1583 new reduced ejection fraction of 30% to 35%
+1584 his symptoms
+1585 Beside from dyspnea
+1586 left optic nerve swelling
+1587 home symptom free 3 days
+1588 cell
+1589 arteries
+1590 head and neck
+1591 lumbar
+1592 mediastinal
+1593 erythrocyte
+1594 mediastinal lymph nodes
+1595 lymph nodes
+1596 bronchial
+1597 cells
+1598 cytoplasmic
+1599 optic nerve
+1600 optic
+1601 lymphocytic
+1602 ceftriaxone
+1603 staining
+1604 Post-mortem staining
+1605 dissection of the coronary arteries
+1606 internal injuries
+1607 multiple areas of fibrosis (old healed infarcts
+1608 atheromatous plaque
+1609 plaque
+1610 hypertrophy
+1611 No demonstrable external or internal injuries
+1612 2.2 cm
+1613 the right ventricular wall 1.1 cm
+1614 10% due to atheromatous plaque
+1615 myocardial hypertrophy
+1616 dead
+1617 smell
+1618 A 46-year-old male
+1619 dead to a tertiary care hospital
+1620 no unusual smell
+1621 coronary arteries
+1622 left anterior descending artery
+1623 right coronary artery
+1624 papillary muscles
+1625 muscles
+1626 lungs
+1627 stomach
+1628 mucosa
+1629 viscera
+1630 white blood cells
+1631 hemoglobin
+1632 platelets
+1633 protein concentration
+1634 Bronchial artery angiography
+1635 embolization
+1636 pericardiocentesis
+1637 pneumonectomy
+1638 venography
+1639 operation
+1640 radiofrequency catheter ablation procedures 4
+1641 chest computed tomography of the pulmonary veins
+1642 routine follow-up after radiofrequency catheter ablation
+1643 additional diagnostic workup or treatment
+1644 A complete blood count
+1645 9,100 white blood cells
+1646 12.7 g/dL hemoglobin
+1647 239,000 platelets/L
+1648 His C-reactive protein concentration
+1649 0.94 mg/dL
+1650 tomography scan
+1651 his chest computed tomography
+1652 adjacent variceal vascular dilatation
+1653 severe pulmonary vein stenosis after radiofrequency catheter ablation
+1654 only prophylactic gel foam embolization
+1655 cardiac arrest due to cardiac tamponade
+1656 emergent pericardiocentesis
+1657 venoarterial extracorporeal membrane oxygenation
+1658 a left pneumonectomy because his pulmonary venography
+1659 , extracorporeal membrane oxygenation
+1660 a left pneumonectomy
+1661 a thrombus . Chest computed tomography 1 y before admission
+1662 pulmonary vein following radiofrequency catheter ablation for atrial fibrillation
+1663 Chest computed tomography
+1664 Variceal dilatation
+1665 the operation
+1666 63 after extensive rehabilitation
+1667 a 6-month follow-up after treatment completion
+1668 pulmonary vein stenosis
+1669 rupture
+1670 chronic obstruction
+1671 obstruction
+1672 occlusion of the left inferior pulmonary vein
+1673 congestion
+1674 the left superior and inferior pulmonary veins due to refractory atrial fibrillation
+1675 stenosis of the left superior and inferior pulmonary veins
+1676 aggravated pulmonary vein stenosis of the left superior and inferior pulmonary veins
+1677 the pulmonary artery due to the lack of an identifiable active bleeding focus
+1678 the site of the severe pulmonary vein stenosis on hospital day 6.
+1679 pulmonary vein rupture
+1680 severe organized chronic obstruction of both the left superior and inferior pulmonary veins
+1681 stenosis of the left superior (A
+1682 near total occlusion of the left inferior pulmonary vein
+1683 edema formation
+1684 pulmonary vein obstruction
+1685 No hemoptysis relapse
+1686 hemoptysis
+1687 Inspiratory crackles
+1688 Inspiratory
+1689 bronchial breathing
+1690 concentration
+1691 aggravated
+1692 clinical and radiologic findings
+1693 cardiac rhythm
+1694 near
+1695 quality of life
+1696 our emergency room with massive hemoptysis
+1697 no distress
+1698 bronchial breathing sounds
+1699 these clinical and radiologic findings
+1700 the cause of the massive hemoptysis
+1701 the massive hemoptysis
+1702 recurrent hemoptysis after hospital admission
+1703 his cardiac rhythm in 10 min
+1704 his vital signs
+1705 28 h after initiation
+1706 good functional capacity and quality of life
+1707 lower chest
+1708 blood cells
+1709 neutrophils
+1710 Bronchial artery
+1711 Bronchial
+1712 pulmonary artery
+1713 maze IV procedure
+1714 cryoablation
+1715 mitral annuloplasty
+1716 annuloplasty
+1717 maze procedure
+1718 resection
+1719 our institution for treatment of atrial arrhythmias
+1720 a mildly enlarged left atrium
+1721 Multislice 3-dimensional computed tomography
+1722 a median sternotomy
+1723 a Cox-maze IV procedure
+1724 a posterior annuloplasty band
+1725 the maze procedure
+1726 Postoperative computed tomography
+1727 complete resection of the LAA aneurysm
+1728 cystic
+1729 right atrial appendage aneurysm
+1730 atrial appendage aneurysm
+1731 hypertrophic
+1732 a 4-year history of paroxysmal supraventricular tachycardia
+1733 a large cystic mass
+1734 a very large aneurysm
+1735 The size of the aneurysm
+1736 the large LAA aneurysm
+1737 a similar but smaller aneurysm
+1738 The LAA aneurysm
+1739 no thrombus formation inside the aneurysm
+1740 The right atrial appendage aneurysm
+1741 Pathological study of both aneurysm specimens
+1742 cystic lesions with hypertrophic myocardium
+1743 fibrosis on the both aneurysms
+1744 palpitation
+1745 mass
+1746 very large
+1747 frequent episodes of palpitation
+1748 no cardiac symptoms
+1749 caudal
+1750 muscular
+1751 aortic valve replacement
+1752 reconstruction
+1753 triple coronary artery bypass
+1754 coronary artery bypass surgery
+1755 coronary artery bypass
+1756 INR
+1757 surgically
+1758 release
+1759 injection
+1760 underwent aortic valve replacement
+1761 mitral valve reconstruction in 2011
+1762 LAA ligation
+1763 intraoperative cryoablation
+1764 electrical LAA isolation
+1765 a triple coronary artery bypass surgery with LAA ligation in 1999
+1766 labile international normalized ratio
+1767 LAA occluder implantation
+1768 mitral valve reconstruction for severe mitral regurgitation in conjunction with LAA ligation in 2011
+1769 multiple ablation procedures
+1770 #3, TEE and LAA angiography
+1771 occlusion of incompletely surgically ligated LAA
+1772 .Percutaneous occlusion of surgically ligated
+1773 a complete ACP lobe release in both LAA pseudo-lobes
+1774 , by TEE
+1775 contrast injection
+1776 Both procedures
+1777 mitral valve reconstruction for severe mitral regurgitation
+1778 patent foramen ovale
+1779 a 72-year-old male with persistent AF
+1780 a 73-year-old male with paroxysmal AF
+1781 a high bleeding risk
+1782 a 76-year-old female with paroxysmal AF
+1783 LAA occlusion
+1784 a percutaneous occlusion
+1785 patent foramen ovale occlusion
+1786 the choice of the device.Percutaneous occlusion
+1787 short neck
+1788 disc
+1789 very short neck
+1790 No clear data about management of incompletely ligated left atrial appendage
+1791 the disc of an ACP device
+1792 the ACP disc
+1793 waist
+1794 cardiac angiogram
+1795 venogram
+1796 angioplasty
+1797 construction
+1798 traction
+1799 Computed tomography of cardiac angiogram
+1800 successful radiofrequency ablation for atrial flutter and rhythm
+1801 pacemaker implantation
+1802 7Fr delivery sheath
+1803 The occlusive CS venogram
+1804 the delivery sheath
+1805 persistent phrenic nerve stimulation
+1806 the ostium of the delivery sheath at the proximal end of the CS
+1807 the ostium of the delivery sheath
+1808 Retrograde approach for implantation of left ventricular pacing lead in anterolateral branch of coronary sinus
+1809 externalization via CS ostium through one delivery sheath with the support of commonly used micro-guide catheter
+1810 phrenic stimulation
+1811 the challenges of device implantation in the 21st century
+1812 an angioplasty floppy wire into a vein
+1813 the main CS ostium with the support of micro-guide catheter
+1814 an extra support wire of the same tip construction because the support
+1815 balloon occlusion venography
+1816 atrial flutter
+1817 complete atrioventricular block
+1818 Class III congestive heart failure
+1819 Type I typical atrial flutter with slow ventricular response
+1820 dysfunction with ejection fraction 35%
+1821 insignificant stenosis in proximal left anterior descending artery
+1822 Coronary sinus access
+1823 Then micro-guide catheter Finecross 130 cm/1
+1824 near (1 cm
+1825 88 cm
+1826 slow ventricular response
+1827 atrial flutter and rhythm
+1828 F
+1829 interest
+1830 projection
+1831 A 50-year-old male
+1832 pre-syncopal symptoms
+1833 normal protocol
+1834 Conflict of interest
+1835 LAO projection
+1836 Coronary sinus
+1837 branch of
+1838 phrenic nerve
+1839 collateral
+1840 caesarean section
+1841 breech delivery
+1842 impulse
+1843 Coagulation
+1844 prothrombin time
+1845 fibrinogen
+1846 caesarean hysterectomy
+1847 uterine artery embolization
+1848 Pain relief
+1849 total abdominal hysterectomy
+1850 abdominal hysterectomy
+1851 25 weeks gestation following a routine scan which
+1852 A repeat scan
+1853 caesarean section for breech delivery 8 and 6 years prior to the current event in another hospital
+1854 a congenital complete heart block after her first delivery
+1855 Her ECG
+1856 a high nodal impulse with a rate of 50
+1857 Bedside echocardiogram
+1858 Coagulation profile
+1859 a slightly elevated prothrombin time of 1.24 s
+1860 an international normalized ratio of 1.3
+1861 Her fibrinogen levels
+1862 a caesarean hysterectomy in the event of uncontrolled bleeding
+1863 the surgery
+1864 bilateral uterine artery embolization
+1865 etomidate 18 mg
+1866 suxamethonium 100 mg
+1867 morphine boluses
+1868 A total abdominal hysterectomy
+1869 intrauterine death
+1870 vaginal bleeding
+1871 placenta praevia
+1872 placenta accreta
+1873 congenital complete heart block
+1874 complete heart block
+1875 heart block
+1876 muscle relaxation
+1877 total blood loss
+1878 a complete heart block with narrow QRS complex
+1879 mild mitral regurgitation
+1880 muscle relaxation with rocuronium
+1881 The total blood loss
+1882 the bleeding
+1883 Gravida 4 Para 2
+1884 Gravida 4
+1885 Gravida
+1886 Para 2
+1887 Para
+1888 previous pregnancies
+1889 pregnancies
+1890 narrow QRS complex
+1891 QRS complex
+1892 Pain
+1893 relief
+1894 the death
+1895 the period of current and previous pregnancies
+1896 Her blood pressure
+1897 Intra-arterial blood pressure monitoring
+1898 any instability
+1899 intrauterine
+1900 uterine artery
+1901 abdominal
+1902 mitral valve replacement
+1903 cannulation
+1904 ablation of paroxysmal atrial fibrillation
+1905 mitral valve replacement in 2001
+1906 ablation before eventual pacemaker implantation
+1907 RF ablation
+1908 The MRI
+1909 balloon cryoablation
+1910 The procedure
+1911 only a single transseptal puncture
+1912 general anaesthesia with midazolam
+1913 CS via right femoral vein cannulation
+1914 INR 2.2
+1915 a standard procedure in our center
+1916 thyrotoxicosis
+1917 sinus bradycardia
+1918 thyrotoxicosis after amiodarone
+1919 a normal septum with a small oblique patent foramen ovale
+1920 SVC
+1921 A 66-year-old female patient
+1922 IVC discontinuation
+1923 the SVC
+1924 normal parameters
+1925 bundle of His
+1926 femoral vein
+1927 oesophagus
+1928 fluid resuscitation
+1929 adrenaline
+1930 Arterial blood gases
+1931 blood gases
+1932 lactate
+1933 Plain chest radiography
+1934 commenced cardiopulmonary resuscitation and return of spontaneous circulation
+1935 breath sounds on auscultation
+1936 aggressive fluid resuscitation
+1937 an adrenaline infusion to maintain blood pressure
+1938 a lactate of 17. Plain chest radiography
+1939 ongoing resuscitation
+1940 marked gastric dilatation and volvulus
+1941 uniform enhancement of the gastrointestinal tract with no ischaemic component
+1942 Cardiorespiratory support
+1943 arm injuries
+1944 motorcycle accident
+1945 accident
+1946 metabolic acidosis
+1947 herniation
+1948 diaphragmatic hernia
+1949 hernia
+1950 gastric dilatation and volvulus
+1951 volvulus
+1952 collapse of the right lung
+1953 midline shift of the heart
+1954 extremis following an out-of-hospital cardiac arrest
+1955 sustained significant left arm injuries after a motorcycle accident approximately 60 years
+1956 a significant metabolic acidosis
+1957 a gastric bubble and bowel loops in the thoracic cavity
+1958 the diaphragmatic herniation
+1959 large and small bowel in the thoracic cavity
+1960 a chronic diaphragmatic hernia
+1961 some collapse of the right lung
+1962 the likely longstanding nature of his diaphragmatic herniation
+1963 his significant cardiac arrest
+1964 upper abdominal pain
+1965 abdominal pain
+1966 chest wall movement
+1967 pH
+1968 collapse
+1969 non-specific upper abdominal pain for the last two days
+1970 no left-sided chest wall movement
+1971 a pH of 6.8
+1972 left arm
+1973 chest wall
+1974 Arterial blood
+1975 Arterial
+1976 gastric
+1977 bowel
+1978 thoracic cavity
+1979 thoracic
+1980 diaphragmatic
+1981 nasopharyngeal
+1982 chest and abdomen (Figs 2 and
+1983 chest and abdomen
+1984 abdomen
+1985 pancreas
+1986 large and small bowel
+1987 small bowel
+1988 pylorus
+1989 gastrointestinal tract
+1990 left lung
+1991 right lung
+1992 cardiopulmonary bypass
+1993 Surgical
+1994 intravenous antiarrhythmic treatment
+1995 endocardial catheter ablation
+1996 emergency surgery
+1997 The operation
+1998 cardiopulmonary bypass with bicaval cannulation
+1999 a 6-cm incision
+2000 the apical incision
+2001 a cryoablation system
+2002 Cooper Surgical, Shelton, CT, USA)
+2003 The incision
+2004 HCM with apical aneurysm
+2005 the septum in the apical aneurysm border
+2006 apical cavity ballooning
+2007 midventricular obstruction
+2008 the apical aneurysm border in the septum
+2009 the significantly augmented LV cavity
+2010 chest pain with subsequent loss of consciousness
+2011 A diagnosis of repetitive monomorphic VT
+2012 The direct intracavitary pressure measurement
+2013 a pressure gradient of 50 mmHg across the midventricular obstructive portion
+2014 The direct pressure measurement
+2015 no pressure gradient across the mid-portion of the LV
+2016 The total mass of the resected LV muscle
+2017 apex of the left ventricle
+2018 cardiac facility for consideration of cardiac pacing
+2019 cardiac pacing
+2020 a tertiary center with a cardiac facility for consideration of cardiac pacing after stabilization of hyperkaliemia
+2021 One month after implantation
+2022 every dialysis session
+2023 A left venogram
+2024 Hence hemodialysis through the left RCAVF
+2025 a right IJC for temporary dialysis access
+2026 A repeat central venogram
+2027 low blood flow through the right RCAVF during hemodialysis
+2028 a new right brachiocephalic fistula with temporary dialysis through the left IJC
+2029 arteriovenous fistula
+2030 fistula
+2031 symptomatic junctional bradycardia
+2032 left radiocephalic arteriovenous fistula
+2033 left axillary vein occlusion with collateral formation
+2034 occlusion of both subclavian veins
+2035 The swelling in both arms
+2036 fainting
+2037 renal function
+2038 swelling of the left upper limb
+2039 blood flow
+2040 a fainting episode to a peripheral hospital
+2041 renal function and hyperkaliemia
+2042 swelling of the left upper limb one week
+2043 the swelling
+2044 internal jugular vein
+2045 jugular vein
+2046 cephalic vein
+2047 upper limb
+2048 axillary vein
+2049 axillary
+2050 radial artery
+2051 subclavian veins
+2052 subclavian vein
+2053 differential diagnosis
+2054 treatment at a cardiology clinic after a murmur
+2055 A 12-lead electrocardiogram
+2056 an echocardiogram
+2057 The differential diagnosis at this point
+2058 an exercise stress echocardiogram
+2059 coronary disease
+2060 cardiomyopathies
+2061 Left ventricular noncompaction
+2062 incomplete myocardial development
+2063 well-controlled asthma
+2064 premature coronary disease
+2065 sudden death of any kind
+2066 sinus arrhythmia
+2067 inverted T wave in V1
+2068 biphasic T wave in lead III
+2069 the opinions of two nationally known experts on cardiomyopathies
+2070 A transthoracic IMPORTANCE Left ventricular noncompaction
+2071 a rare cause of progressive cardiomyopathy
+2072 result from incomplete myocardial development
+2073 an increased risk of sudden death
+2074 American male football
+2075 football
+2076 murmur
+2077 lightheadedness
+2078 Family history
+2079 soft systolic murmur
+2080 systolic murmur
+2081 early repolarization
+2082 V1
+2083 sports
+2084 asymptomatic
+2085 American collegiate football
+2086 An 18-year-old African American male football player
+2087 no symptoms of chest pain
+2088 His medical history
+2089 normal limits
+2090 a soft systolic murmur
+2091 anterior early repolarization pattern
+2092 the new murmur
+2093 normal systolic function
+2094 normal apical contractility
+2095 normal variant hypertrabeculation left ventricle vs LVNC
+2096 his strong desire to play football
+2097 those with a depressed left ventricular ejection fraction
+2098 the current recommendation for patients with this diagnosis
+2099 restriction from participation in competitive sports
+2100 OBSERVATIONS An asymptomatic 18-year-old African American collegiate football player
+2101 a murmur on his preparticipation physical examination
+2102 the diagnosis of LVNC
+2103 the diagnosis of hypertrabeculation
+2104 lead III
+2105 serum creatinine
+2106 those on dialysis
+2107 warfarin with careful international normalized ratio monitoring
+2108 her modest creatinine elevation
+2109 decisions on creatinine
+2110 anticoagulation with apixaban 5 mg
+2111 the prevention of stroke
+2112 primary efficacy
+2113 safety outcomes for 150 and 110 mg
+2114 15 mg rivaroxaban
+2115 5 mg apixaban
+2116 30 mg
+2117 estimated creatinine clearance
+2118 Apixaban 2.5 mg
+2119 renal impairment
+2120 impairment
+2121 chronic kidney disease
+2122 CIs
+2123 those of warfarin in patients with AF
+2124 warfarin in patients with severe renal impairment
+2125 patients with AF
+2126 severe renal impairment
+2127 a patient with AF with moderate CKD
+2128 Her annual stroke risk
+2129 apixaban because of the lower risk of bleeding
+2130 warfarin in the subgroup of patients with moderate chronic kidney disease
+2131 clinical trials in atrial fibrillation
+2132 confidence
+2133 frequent monitoring of renal function
+2134 a plan for close monitoring of her renal function
+2135 95% confidence intervals
+2136 scale
+2137 PCP
+2138 his primary health care provider
+2139 Treatment options for these tumors
+2140 surgery with preoperative embolization
+2141 hemodynamic instability following preoperative embolization of a carotid body tumor
+2142 the need for temporary cardiac pacing
+2143 Carotid body tumors
+2144 tumors
+2145 neoplasms
+2146 carotid body tumor
+2147 tumor
+2148 hypersensitivity
+2149 a 5-year history of hypertension that
+2150 IMPORTANCE Carotid body tumors
+2151 rare neoplasms of neural crest origin that
+2152 severe carotid sinus hypersensitivity
+2153 tremors
+2154 a mass on the right side of his neck approximately 6 months
+2155 the mass
+2156 any pain
+2157 medical management
+2158 addition to his family history
+2159 right side of his neck
+2160 side of his neck
+2161 tongue
+2162 Carotid body
+2163 carotid body
+2164 carotid sinus
+2165 crest
+2166 Echocardiography
+2167 total cholesterol
+2168 cholesterol
+2169 angiotensin-converting enzyme
+2170 myeloperoxidase-antineutrophil cytoplasmic antibody
+2171 percutaneous coronary intervention
+2172 multiplanar reconstruction
+2173 calcium
+2174 SPECT
+2175 10 mg
+2176 80 mg
+2177 an oxygen saturation of 98% without oxygen
+2178 87 mg/dL
+2179 intraluminal haziness with the appearance of a spiral dissection lesion
+2180 no thrombus or dissection flaps
+2181 multiplanar reconstruction of LAD
+2182 The Agatston coronary artery calcium score
+2183 Cardiac stress myocardial perfusion testing
+2184 CTI ablation in the sinus rhythm
+2185 The BNP level
+2186 /mL 1 month after CTI ablation
+2187 Kawasaki disease
+2188 sarcoidosis
+2189 Chagas disease
+2190 dyslipidemia
+2191 incomplete left-bundle branch block
+2192 left-bundle branch block
+2193 akinesia
+2194 accessory pathway
+2195 ischemia
+2196 no history of diabetes mellitus
+2197 a regular tachycardia of 120 bpm with incomplete left-bundle branch block
+2198 akinesia in the anterior and apical walls
+2199 lupus anticoagulant, anticardiolipin antibody
+2200 typical atrial flutter
+2201 no accessory pathway
+2202 the cause of cardiac dysfunction
+2203 T contrast
+2204 stress-induced ischemia
+2205 angina
+2206 length of the woven segment
+2207 fixed
+2208 our hospital with palpitations
+2209 any angina
+2210 a blood pressure of 90
+2211 An inverted sawtooth F-wave pattern
+2212 an upright F-wave pattern
+2213 lead V1
+2214 severe hypokinesia in the other LV walls
+2215 a decreased ejection fraction of 22.5% according to the modi
+2216 Cross-sectional images at the lesion site
+2217 The length of the woven segment
+2218 Adenosine stress 99m Tc-tetrofosmin single-photon emission
+2219 a fixed low uptake in the anterior and apical walls
+2220 left-bundle branch
+2221 flaps
+2222 provocative drug test
+2223 drug test
+2224 EPS
+2225 roentgenogram
+2226 BrS-ECG
+2227 an ST-segment elevation with type-1 morphology [2 mm in,
+2228 provocative drug test with intravenous administration of Class I antiarrhythmic drugs
+2229 1 mg/kg body weight
+2230 chest roentgenogram
+2231 Laboratory tests
+2232 ECG parameters
+2233 maximal ST elevation in right precordial leads
+2234 heart disease
+2235 any underlying structural heart disease
+2236 acute ischemia
+2237 ST-segment elevation
+2238 V2
+2239 mg/kg body
+2240 ST elevation
+2241 1 lead among the right precordial leads V1
+2242 exercise testing
+2243 intercostal space
+2244 lead II
+2245 QRS duration
+2246 QTc duration in V4 (Bazett formula)
+2247 colectomy
+2248 chemotherapy
+2249 electrocardiography
+2250 anticoagulant therapy
+2251 platelet count
+2252 PT
+2253 partial thromboplastin time
+2254 APTT
+2255 fibrinogen level
+2256 FDP
+2257 Surgical removal
+2258 chest CT
+2259 coronary angiography
+2260 continuous intravenous infusion of heparin
+2261 administration of aspirin
+2262 Transesophageal echocardiography
+2263 colectomy for colon adenocarcinoma with multiple liver metastases at 68 years of age
+2264 several chemotherapy regimens
+2265 calcium folinate
+2266 surgery for liver metastasis
+2267 further surgery
+2268 Approximately 10 months after surgery for the lung metastasis
+2269 enhanced chest computed tomography
+2270 a chest X-ray
+2271 contrast CT at that time
+2272 anticoagulant therapy by his home doctor
+2273 The platelet count
+2274 the prothrombin time international normalized ratio
+2275 the activated partial thromboplastin time
+2276 the fibrinogen level
+2277 289 mg/ dL (normal range
+2278 the fibrinogen degradation product
+2279 . Surgical removal
+2280 2.5 mg
+2281 a PT-INR of approximately 2.0
+2282 20 mg
+2283 4 mg) for heart failure due to AF with tachycardia
+2284 enhanced chest CT
+2285 the warfarin to the continuous intravenous infusion of heparin
+2286 bare-metal stent implantation
+2287 the subsequent administration of aspirin (100 mg
+2288 75 mg
+2289 One month after stent implantation
+2290 the clopidogrel therapy
+2291 the patient's PT
+2292 the right atrium on transthoracic echocardiography
+2293 contrast-enhanced chest CT
+2294 the PT
+2295 3.0 mg
+2296 six weeks of increased warfarin therapy
+2297 PT-INR
+2298 therapy with the direct FXa inhibitor rivaroxaban
+2299 a dose of 15 mg
+2300 his serum creatinine level
+2301 0.72 mg/ dL
+2302 four weeks after the start of rivaroxaban therapy
+2303 four weeks after the start of rivaroxaban treatment
+2304 two months after the initiation of rivaroxaban therapy
+2305 daily hemoptysis under treatment with rivaroxaban
+2306 rivaroxaban therapy
+2307 subarachnoid hemorrhage
+2308 hemorrhage
+2309 cerebral artery aneurysm
+2310 cerebral infarction
+2311 colon adenocarcinoma
+2312 adenocarcinoma
+2313 liver metastases
+2314 metastases
+2315 liver metastasis
+2316 lung metastasis
+2317 Deep vein thrombosis
+2318 vein thrombosis
+2319 bilateral atria
+2320 abdominal aortic aneurysm
+2321 aortic aneurysm
+2322 ulcer
+2323 mural thrombus
+2324 colon cancer
+2325 cancer
+2326 a cerebral artery aneurysm at 58 years of age
+2327 recurrent liver metastasis
+2328 a thrombus
+2329 the metastatic liver tumor
+2330 any thrombi in the bilateral atria
+2331 99% stenosis at segment 6 of the left ascending coronary artery
+2332 a high risk of bleeding
+2333 a small abdominal aortic aneurysm with an ulcer-
+2334 the size of the thrombus
+2335 any bleeding sequelae
+2336 the thrombus
+2337 a greater risk of bleeding from the lesion
+2338 The size of the thrombus
+2339 the resolution of the thrombus four weeks
+2340 only a small mural thrombus four weeks
+2341 the complete resolution of the thrombus
+2342 a metastasis of colon cancer
+2343 the metastatic tumor
+2344 cardiomegaly
+2345 angina pectoris
+2346 serum creatinine level
+2347 creatinine level
+2348 size of the intratracheal mass
+2349 a right atrial mass
+2350 a right atrial mass (diameter
+2351 the right atrial mass
+2352 normal range
+2353 a therapeutic and diagnostic option
+2354 mild hemoptysis two weeks
+2355 two weeks after the initiation of these agents
+2356 -like projection
+2357 the development of a new small intratracheal mass
+2358 two weeks after the initiation of rivaroxaban
+2359 the size of the intratracheal mass
+2360 the lesion
+2361 the patient's hemoptysis
+2362 cerebral artery
+2363 colon
+2364 Deep vein
+2365 platelet
+2366 left ascending coronary artery
+2367 the D-dimer level
+2368 his Ccr level
+2369 X-rays
+2370 Her electrocardiogram
+2371 177 ms with left bundle branch block
+2372 implantation of the right atrial lead and shock lead
+2373 CS venography
+2374 The venography
+2375 5.0V at 0.4 ms
+2376 2.5V at 0.4 ms
+2377 phrenic nerve stimulation until 9V pacing
+2378 1.5V at 0.4 ms
+2379 PNS by 3.0V at 0.4 ms
+2380 3.0V at 0.4 ms
+2381 a significant reduction of the cardio-thorax ratio
+2382 left bundle branch block
+2383 shock
+2384 Medtronic 4398-88 cm
+2385 our hospital due to syncope
+2386 her consciousness
+2387 ejection fraction
+2388 left bundle branch
+2389 thorax
+2390 Electrocardiography
+2391 troponin T
+2392 Coronary angiography
+2393 Direct current cardioversion
+2394 Percutaneous coronary intervention
+2395 transvenous pacing
+2396 transoesophageal echocardiography
+2397 . Electrocardiography
+2398 subendocardial resection of the arrhythmogenic scar tissue
+2399 three-dimensional transoesophageal echocardiography
+2400 an uneventful recovery from surgery with complete resolution of VT
+2401 impaired
+2402 haemodynamic instability
+2403 broad complex monophasic ventricular tachycardia
+2404 a large aneurysm
+2405 severely impaired ventricular function
+2406 a long segment of moderate to severe disease in the left coronary system
+2407 only transient amelioration of arrhythmia
+2408 haemodynamic instability of the patient
+2409 insertion of an elliptical patch of porcine pericardium at the junction of the normal myocardium and scar tissue
+2410 LV stroke volume of 58.2ml
+2411 smoker
+2412 dyspnoea on minimal exertion
+2413 dyspnoea
+2414 patch
+2415 normal myocardium and scar tissue
+2416 A 64-year-old female lifelong smoker with no previous cardiac history
+2417 a 4-day history of dyspnoea
+2418 New York Heart Association class III
+2419 The ejection fraction
+2420 an ejection fraction of 67.2%
+2421 small right coronary artery
+2422 TOE
+2423 antihypertensive therapy
+2424 white blood cell count
+2425 blood cell count
+2426 cell count
+2427 CRP
+2428 brain natriuretic peptide
+2429 electrocardiogram analysis
+2430 presence
+2431 angiotensin-1-converting enzyme
+2432 citrate
+2433 scintigraphy
+2434 Antistreptolysin O
+2435 glucose
+2436 doxazosin 1 mg
+2437 a white blood cell count of 15,900
+2438 reactive protein
+2439 23.2 mg/dL
+2440 A chest X-ray
+2441 The electrocardiogram analysis
+2442 . Echocardiography
+2443 a high level of CRP
+2444 her on loxoprofen sodium because pericarditis
+2445 the presence of mild cardiac effusion
+2446 The day after the initiation of loxoprofen sodium
+2447 The CRP level
+2448 the loxoprofen sodium
+2449 CRP 1.2 mg
+2450 Ca 8.5 mg/ dL
+2451 angiotensin-1-converting enzyme 10.3 mU/mL
+2452 Cardiovascular magnetic resonance imaging
+2453 Gallium-67 citrate scintigraphy
+2454 16 mg
+2455 The test results for rheumatic factors
+2456 the administration of loxoprofen sodium
+2457 750 mg
+2458 her CRP level
+2459 low as 2.5 mg/dL
+2460 The loxoprofen sodium treatment
+2461 negative (CRP 2.5 mg/dL
+2462 60 mg/ day
+2463 aspirin instead of loxoprofen sodium because aspirin
+2464 the level of CRP
+2465 0.2 mg
+2466 the dosage of PSL by 10 mg every 2 weeks
+2467 PSL at 50 mg/day
+2468 glucose tolerance disorder
+2469 The duration of a prolonged PR interval on the electrocardiogram
+2470 temporary pacemaker implantation
+2471 the treatment
+2472 upper respiratory tract infection
+2473 respiratory tract infection
+2474 atrioventricular block with junctional escape rhythm
+2475 RHEUMATIC FEVER
+2476 AV BLOCK
+2477 BLOCK
+2478 polyarthritis
+2479 Sarcoidosis
+2480 hilar lymphadenopathy
+2481 Systemic autoimmune disease
+2482 autoimmune disease
+2483 autoimmune
+2484 systemic lupus erythematosus
+2485 lupus erythematosus
+2486 rheumatic fever
+2487 secondary hemolytic streptococcus infection
+2488 junctional rhythm
+2489 inflammatory reaction
+2490 drug for acute rheumatic fever
+2491 acute rheumatic fever
+2492 tolerance
+2493 any history of upper respiratory tract infection
+2494 no familial history of any serious diseases
+2495 complete atrioventricular block with junctional escape rhythm
+2496 cardiac effusion
+2497 ONSET RHEUMATIC FEVER WITH AV BLOCK a dose
+2498 The complete atrioventricular block
+2499 syncope due to transient complete atrioventricular block with ventricular pause
+2500 inflammation reaction
+2501 one of the most common diseases that
+2502 no bilateral hilar lymphadenopathy
+2503 -associated vasculitis diseases
+2504 no history of upper respiratory tract infection
+2505 a history of hemolytic streptococcus infection
+2506 A diagnosis of rheumatic fever
+2507 a secondary hemolytic streptococcus infection
+2508 a blood stream infection
+2509 stable junctional rhythm (HR 50-60/minute
+2510 The inflammatory reaction
+2511 the generally recommended drug for acute rheumatic fever
+2512 At 5 months after the onset of acute rheumatic fever
+2513 valvular disease during the 3 years of follow-up
+2514 the key words " block
+2515 7 cases with complete atrioventricular block due to adult-onset rheumatic fever in Japan
+2516 The duration of complete atrioventricular block
+2517 epigastric pain
+2518 inspiration
+2519 pulse 55 regular
+2520 laboratory examination
+2521 FEVER
+2522 temperature and symptoms
+2523 lymphadenopathy
+2524 hemolytic
+2525 weight gain
+2526 prolonged PR interval
+2527 epigastric pain on inspiration
+2528 no other history of cardiorespiratory complaints
+2529 blood pressure 154
+2530 pulse 55 regular beats
+2531 a Levine II/ VI systolic murmur at the apex
+2532 The initial laboratory examination
+2533 Other biochemical parameters
+2534 no cardiomegaly
+2535 normal findings
+2536 her temperature and symptoms
+2537 the symptoms
+2538 the fever
+2539 pulmonary lesion
+2540 the patient exhibited side effects such as weight gain
+2541 upper respiratory tract
+2542 respiratory tract
+2543 white blood cell
+2544 blood cell
+2545 left knee
+2546 knee
+2547 left elbow
+2548 elbow
+2549 right ankle
+2550 ankle joints
+2551 ankle
+2552 joints
+2553 Gallium-67 citrate
+2554 prednisolone
+2555 alcohol
+2556 excessive alcohol or illicit drug use
+2557 a negative troponin test
+2558 The patient's initial electrocardiogram
+2559 What findings on the ECG
+2560 both arms
+2561 shortness of breath
+2562 near syncope
+2563 reading
+2564 large-volume pulse
+2565 jugular venous pressure
+2566 venous pressure
+2567 his local emergency department with 3 days of progressive shortness of breath
+2568 concurrent near syncope
+2569 no distress at rest
+2570 a blood pressure reading of 129
+2571 a large-volume pulse
+2572 assessment of his jugular venous pressure
+2573 page
+2574 Western blot
+2575 enzyme-linked immunosorbent assay
+2576 assay
+2577 T he electrocardiogram
+2578 page 100
+2579 nondihydropyridine calcium channel blockers
+2580 cardiac surgery
+2581 catheter ablation for arrhythmia
+2582 a tick at his primary residence in the northeastern United States
+2583 a small area of gadolinium enhancement in the basal septum
+2584 Subsequent Western blot testing
+2585 positive serology on enzyme-linked immunosorbent assay
+2586 a Western blot analysis
+2587 300 ms
+2588 treatment as outpatients
+2589 inpatient treatment with parenteral ceftriaxone
+2590 expectant treatment
+2591 ventricular escape rhythm
+2592 third-degree AV block
+2593 idiopathic progressive cardiac conduction disease
+2594 cardiac conduction disease
+2595 fibrosclerosis
+2596 hypertrophic cardiomyopathy
+2597 amyloidosis
+2598 Lyme disease
+2599 bacterial endocarditis
+2600 endocarditis
+2601 syphilis
+2602 infectious disease
+2603 Borrelia burgdorferi infection
+2604 Borrelia
+2605 Lyme carditis
+2606 carditis
+2607 localized, early disseminated and late disease
+2608 localized disease
+2609 erythema migrans
+2610 rash
+2611 flu
+2612 arthritis
+2613 tachyarrhythmia
+2614 first-degree AV block
+2615 Infectious Diseases
+2616 Infectious
+2617 third-degree to first-degree heart block
+2618 first-degree heart block
+2619 block with an underlying nonconducting sinus rhythm at a rate of about 80 beats/min
+2620 a ventricular escape rhythm at a rate of 30 beats/ min
+2621 The ventricular escape rhythm
+2622 a left bundle branch block morphology
+2623 Patients with third-degree AV block
+2624 a slow ventricular escape rhythm
+2625 Symptoms of heart failure
+2626 The etiology of third-degree AV block
+2627 the most common causes of AV block
+2628 idiopathic progressive cardiac conduction disease due to degenerative fibrosclerosis of the conduction system
+2629 infiltrative processes such as amyloidosis
+2630 myocarditis due to conditions such as rheumatic fever
+2631 viral infections
+2632 bacterial endocarditis and syphilis
+2633 3 CommonThe Practitioner Le praticien iatrogenic causes of AV block
+2634 The infectious disease service
+2635 empirical intravenous ceftriaxone for presumed Lyme carditis
+2636 the most common tick-borne infection in the northern hemisphere
+2637 a multisystemic condition
+2638 clinical course of Lyme disease
+2639 early localized, early disseminated and late disease
+2640 Early localized disease
+2641 development of the erythema migrans rash
+2642 flu-like symptoms
+2643 weeks to months after the rash
+2644 neurologic dysfunction
+2645 months to years after the initial rash
+2646 10% of patients with Lyme disease
+2647 consist of varying degrees of AV block
+2648 11 Transient AV block
+2649 the heart block
+2650 9,10 Patients with first-degree AV block
+2651 first-degree AV block with a PR interval
+2652 those with a higher degree of AV block
+2653 the Infectious Diseases Society of America
+2654 Most cases of Lyme carditis resolve in 1 to 2 weeks with antibiotics
+2655 improvement in AV nodal conduction from third-degree to first-degree heart block
+2656 stable condition
+2657 near syncope and syncope
+2658 Symptoms
+2659 cardiac conduction
+2660 calcium channel
+2661 service
+2662 incubation period
+2663 erythema
+2664 the coronary care unit of the Mazankowski Alberta Heart Institute for further investigation and management
+2665 symptoms that
+2666 an incubation period of several days
+2667 the stage during which cardiac symptoms
+2668 8,9 The diagnosis
+2669 the early disseminated phase of the illness
+2670 a PR interval
+2671 a narrowing of his QRS complex
+2672 intraventricular
+2673 sinoatrial node
+2674 ECT
+2675 EEG
+2676 treatments
+2677 Ambulatory electrocardiographic monitoring
+2678 electrocardiographic monitoring
+2679 CBC
+2680 thyroid panel
+2681 Her pre-ECT electrocardiogram
+2682 the time of her initial ECT
+2683 continuous ECG
+2684 standard ECT protocol
+2685 ECT with right unilateral electrode placement with an ultra-brief pulse stimulus
+2686 EEG seizures that
+2687 recovery from anesthesia, the patient
+2688 ECT with the protocol
+2689 13 more treatments
+2690 transient ECG features of IVCD associated with HR above 100
+2691 A 12-lead ECG
+2692 LBBB at a HR of 112 BPM . Ambulatory electrocardiographic monitoring
+2693 a normal CBC
+2694 an elevation of the HR
+2695 major depressive disorder
+2696 depressive disorder
+2697 LBBB
+2698 A 44-year-old female with major depressive disorder with psychotic features which
+2699 100 BPM (Figures 5 and 6). Secondary causes of sinus tachycardia
+2700 rate-related LBBB
+2701 a LBBB
+2702 psychotic
+2703 paralysis
+2704 hypocapnia
+2705 Her vital signs at that time
+2706 paralysis with succinylcholine
+2707 her seizure
+2708 her vital signs
+2709 urine screening test
+2710 urine screening
+2711 cocaine
+2712 Pharmacological treatment
+2713 rehydration therapy
+2714 rehydration
+2715 positive results for cocaine
+2716 blood alcohol at the following concentrations of 1.99 g/l
+2717 several ECG traces
+2718 ST elevation in anterior and ST depression in inferolateral derivations
+2719 . Pharmacological treatment
+2720 the administration of inotropes
+2721 autopsy investigation
+2722 aggressive, and threatening behavior
+2723 emergency department after cardiac arrest
+2724 the man exhibited violent, aggressive, and threatening behavior
+2725 sinus tachycardia with short PR
+2726 acute injury
+2727 cardiac arrest following a period of 14 h after the admission in the emergency department
+2728 violent, aggressive, and threatening behavior
+2729 concentrations
+2730 ST elevation in anterior and ST depression
+2731 ST depression
+2732 CT coronary angiography
+2733 infiltration
+2734 local anesthesia
+2735 conscious sedation
+2736 Diagnostic Ultrasound
+2737 Ultrasound
+2738 endomyocardial biopsy
+2739 catheter manipulation
+2740 manipulation
+2741 His 12-lead ECG in sinus rhythm
+2742 QRSd of 98 ms
+2743 flattened biphasic or negative T waves in the inferolateral leads . Echocardiography
+2744 slight LV dilatation
+2745 late gadolinium enhancement
+2746 adipose infiltration of myocardium in the anterior right IVS
+2747 ECG abnormalities
+2748 Treatment with bisoprolol 2.5 mg
+2749 trandolapril 4 mg
+2750 recurrent VT despite medical therapy
+2751 mild conscious sedation
+2752 the beginning of the procedure
+2753 programmed LV stimulation
+2754 intracardiac echocardiography
+2755 AcuNav Diagnostic Ultrasound Catheter
+2756 subsequent endomyocardial biopsy
+2757 20 ms in any of them
+2758 RF energy
+2759 the initial ablation
+2760 programmed stimulation from the RV
+2761 QRS of 50 ms
+2762 . Substrate-based ablation
+2763 An endomyocardial biopsy
+2764 7-F/ 104 cm biopsy forceps
+2765 the presence of abnormal fibrous and adipose tissue with myocyte reduction in endomyocardial samples
+2766 LV dilatation
+2767 sustained monomorphic ventricular tachycardia
+2768 RBBB
+2769 ischemic heart disease
+2770 sudden unexplained death
+2771 EP
+2772 evaluation of recurrent hemodynamically tolerated sustained monomorphic ventricular tachycardia of 200 bpm
+2773 no family history of cardiomyopathies
+2774 The typical scar distribution
+2775 VT of RBBB morphology
+2776 clinical VT of 191 bpm and RBBB morphology
+2777 substrate mapping in sinus rhythm (3.5 mm
+2778 Stockert EP Shuttle
+2779 all of left bundle branch block
+2780 Maximum scar involvement
+2781 mild dysfunction
+2782 slurring
+2783 T1
+2784 conscious
+2785 finding
+2786 Mutation
+2787 A thirty-five-year-old male
+2788 nonsyncopal palpitations in the past 3 months
+2789 mid-QRS notching and slurring of narrow QRS complexes
+2790 mild global hypokinesia
+2791 ejection fraction of 42%
+2792 T1-weighted and SPIR magnetic resonance sequences
+2793 diastolic volume of 287 mL) with mild global hypokinesia
+2794 ejection fraction of 50%
+2795 the diagnosis of LDAC
+2796 this finding
+2797 the anteroseptal portion of the right ventricular outflow tract
+2798 Mutation screening for desmosomal genes
+2799 the 18-month follow-up
+2800 interventricular septum
+2801 fibrous and adipose tissue
+2802 adipose tissue
+2803 anastomosis
+2804 orthotopic heart transplantation with bi-atrial anastomosis due to dilated cardiomyopathy in 1995
+2805 The surface ECG
+2806 a positive P wave in lead V1 with P-P interval of 230 ms
+2807 An open irrigated magnetic ablation catheter
+2808 ablation by the CARTO RMT system
+2809 AFL with a cycle length of 230 ms at the anterior and septal wall of the donor atria
+2810 Linear ablation
+2811 an AT with the cycle length of 310 ms
+2812 the donor atria by atrial stimulation
+2813 sinus rhythm by ablation at the focal existence at the border zone between recipient
+2814 The fluoroscopy time
+2815 Af
+2816 the coronary sinus
+2817 3D RA electroanatomic mapping
+2818 scar tissue between the donor and recipient atria
+2819 scar area
+2820 the AFL in the recipient RA
+2821 all other areas as scar
+2822 Af in the recipient atria
+2823 An activation map containing of the donor and recipient atria
+2824 the modified activation map
+2825 apex of right ventricle via the left
+2826 apex of right ventricle
+2827 genetic analysis
+2828 dilatations
+2829 creatine kinase
+2830 muscle biopsy
+2831 electromyogram
+2832 phenotype
+2833 nerve conduction study
+2834 gene (LMNA). Sequencing
+2835 expression
+2836 a genetic analysis
+2837 no ventricular and atrial dilatations
+2838 A neurological examination
+2839 a muscle biopsy
+2840 A brain computed tomography scan
+2841 Needle electromyogram
+2842 gene analysis
+2843 a differential diagnosis
+2844 SMA phenotype with cardiac involvement in Germany
+2845 sequence analysis of LMNA gait disturbance AV block ischemic stroke hypertension P probandgene
+2846 truncated lamin A protein lacking tail domain
+2847 A protein lacking tail domain including nuclear localization signal
+2848 The genetic analysis
+2849 the second report of SMA phenotype with LMNA mutation
+2850 findings of nerve conduction study
+2851 proximal SMA phenotype
+2852 a meta-analysis of carriers of LMNA mutations
+2853 The protein
+2854 LaminsGene analysis of the lamin
+2855 C gene (LMNA). Sequencing of LMNA in our patient
+2856 gene expression
+2857 A combined phenotype with cardiac complications such as arrhythmia
+2858 amyotrophy
+2859 cerebral embolism
+2860 ischemic stroke
+2861 pes cavus
+2862 contracture
+2863 mild cognitive impairment
+2864 cognitive impairment
+2865 Battery
+2866 degeneration
+2867 muscular atrophy
+2868 inherited Charcot-Marie-Tooth disease
+2869 Charcot-Marie-Tooth disease
+2870 Marie-Tooth disease
+2871 Tooth disease
+2872 nonsense mutation
+2873 muscular dystrophy
+2874 dystrophy
+2875 limb-girdle muscular dystrophy
+2876 cardiac diseases
+2877 heart attack
+2878 cardiac diseases including atrial fibrillation
+2879 Amyotrophy
+2880 cardiopathy
+2881 neuromuscular diseases
+2882 cardiac dysrhythmias
+2883 spinal muscular atrophy
+2884 neuromuscular and cardiac diseases
+2885 disorders
+2886 Limb-girdle muscular dystrophy
+2887 Dilated cardiomyopathy
+2888 motor-dominant axonal neuropathy
+2889 axonal neuropathy
+2890 neuropathy
+2891 cardiac complications such as arrhythmia
+2892 amyotrophy of lower limbs
+2893 a history of atrial fibrillation
+2894 atrial fibrillation at 43 years of age
+2895 complete atrioventricular block at 45 years
+2896 hypertension since the age of 57
+2897 two attacks of cerebral embolism in the last decade
+2898 no detailed information on disease onset
+2899 our hospital because of her physical condition
+2900 significant muscle weakness in lower limbs with pes cavus
+2901 swallowing impairment
+2902 Mild joint contracture
+2903 the left side because of ischemic stroke
+2904 Frontal Assessment Battery score of 12/18
+2905 hippocampal atrophy
+2906 degeneration of lower motor neurons
+2907 Early-onset muscular atrophy
+2908 the possibility of inherited Charcot-Marie-Tooth disease
+2909 a novel nonsense mutation
+2910 one family with a novel nonsense mutation Q493X
+2911 EmeryDreifuss muscular dystrophy
+2912 limb-girdle muscular dystrophy 1B
+2913 cardiac diseases such as atrioventricular block and DCM
+2914 heart attack in their 40's-50's
+2915 cardiac dysfunction in maturity
+2916 This distribution of amyotrophy
+2917 general, nonsense mutation
+2918 46% in both patients with cardiac diseases
+2919 those with neuromuscular diseases
+2920 cardiac dysrhythmias in 92% of the patients after the age of 30 years
+2921 a heterozygous nonsense mutation
+2922 a hot spot for neuromuscular and cardiac diseases such as Charcot-Marie-Tooth disease type 2B1
+2923 Emery-Dreifuss muscular dystrophy
+2924 several genetic disorders with different phenotypes
+2925 These disorders
+2926 Dreifuss muscular dystrophy
+2927 Limb-girdle muscular dystrophy 1B
+2928 Dilated cardiomyopathy with conduction defects
+2929 These diseases
+2930 manifest motor-dominant axonal neuropathy
+2931 the distribution of amyotrophy
+2932 amyotrophy in proximal limbs
+2933 degeneration of neurons in the anterior horn of spinal cord
+2934 neuropathy and neuronopathy of lower motor neurons
+2935 gait disturbance
+2936 gait
+2937 walking
+2938 muscle weakness
+2939 weakness
+2940 marriage
+2941 pacemaker rhythm
+2942 cardiac hypofunction with ejection fraction
+2943 Muscle weakness
+2944 Fasciculation
+2945 Frontal Assessment Battery score
+2946 conduction velocity
+2947 persistence
+2948 nerve conduction
+2949 responsible
+2950 mutation
+2951 muscular weakness
+2952 Electrocardiographic findings
+2953 splicing
+2954 nervous
+2955 deep tendon reflex
+2956 tendon reflex
+2957 reflex
+2958 no reasonable diagnosis
+2959 gait disturbance since childhood
+2960 more severe muscle weakness than the patient
+2961 no gait disturbance
+2962 no consanguineous marriage
+2963 pacemaker rhythm)
+2964 diffuse cardiac hypofunction with ejection fraction 42%
+2965 his ejection fraction
+2966 The extent of muscle weakness
+2967 Muscle weakness in upper limbs
+2968 His tendon reflexes
+2969 low amplitude compound muscle action potential with no decrease in conduction velocity
+2970 repeater F waves in median and tibial nerves
+2971 low persistence
+2972 sensory nerve conduction studies of median, ulnar and sural nerves
+2973 a presumptive diagnosis of SMA type 3
+2974 , within the responsible genes of CMT
+2975 LMNA mutations
+2976 the other with missense mutation R377H (c.1130G
+2977 onset of gait disturbance from early adulthood to maturity
+2978 muscle weakness of lower limbs since early childhood
+2979 the gait disturbance
+2980 no muscular weakness
+2981 28% of carriers of LMNA mutations
+2982 lamin C via alternative splicing
+2983 the positions of mutations in various laminopathies
+2984 two of three mutations
+2985 the mutations positions of laminopathies
+2986 the peripheral nervous system
+2987 several gene mutations with CMT2
+2988 Two missense mutations of LMNA
+2989 abolished deep tendon reflex
+2990 some cases of CMT2B1 due to LMNA mutations
+2991 lower limbs
+2992 limbs
+2993 Muscle
+2994 upper limbs
+2995 joint
+2996 right knee
+2997 knee joint
+2998 legs
+2999 hippocampal
+3000 tibial nerve
+3001 median and tibial nerves
+3002 tibial nerves
+3003 median, ulnar and sural nerves
+3004 ulnar and sural nerves
+3005 ulnar
+3006 sural nerves
+3007 motor neurons
+3008 neurons
+3009 Tooth
+3010 rod
+3011 tail
+3012 trunk
+3013 intermediate filaments
+3014 nucleus
+3015 nuclear lamina
+3016 skeleton
+3017 Limb
+3018 peripheral nervous system
+3019 nervous system
+3020 hand
+3021 anterior horn
+3022 horn
+3023 hot spot
+3024 prophylaxis
+3025 blood clotting test
+3026 urea
+3027 liver function tests
+3028 Urine examination
+3029 erythrocytes
+3030 thyroid function tests
+3031 cardiac monitor in the intensive care
+3032 close observation
+3033 observation
+3034 Cardiac pacing
+3035 hemogram
+3036 radiograph
+3037 A complete neurological examination
+3038 prophylaxis against tetanus
+3039 min whole blood clotting test
+3040 the prothrombin time
+3041 12 erythrocytes per high-power field
+3042 an electrocardiogram
+3043 Serum troponin I
+3044 symptomatic and supportive treatment
+3045 a cardiac monitor in the intensive care unit under close observation
+3046 The prothrombin time
+3047 activated partial thromboplastin time
+3048 a repeat ECG
+3049 complete hemogram
+3050 chest radiograph
+3051 snake bite
+3052 tetanus
+3053 coagulopathy
+3054 sinus arrest
+3055 sinus node dysfunction
+3056 a snake bite on his left ankle
+3057 sinus arrest with junctional escape rhythm
+3058 the dysfunction
+3059 any overt bleeding during the course of admission
+3060 junctional rhythm for approximately 72 h
+3061 the hospital without any residual complication
+3062 blood clotting
+3063 clotting
+3064 liver function
+3065 sinus arrest with junctional escape
+3066 The dead snake
+3067 left ankle
+3068 fang
+3069 sinus node
+3070 episiotomy
+3071 pain management
+3072 Hemoglobin
+3073 hematocrit
+3074 Chest CT
+3075 ultrasound
+3076 CT scan
+3077 pelvic or speculum examination
+3078 blood urea nitrogen
+3079 blood urea
+3080 labor and delivery as a transport from an outside hospital for symptoms of malaise
+3081 a vaginal delivery 4 days prior
+3082 a midline episiotomy that
+3083 delivery in the setting of a non-reassuring fetal heart tone
+3084 a chest x-ray
+3085 pulmonary computed tomography
+3086 A script for ibuprofen 600 mg q6 h
+3087 a recent vaginal delivery
+3088 the ER on metoprolol 12.5 mg PO BID
+3089 Chest CT and electrocardiogram
+3090 A right upper quadrant ultrasound
+3091 abdominal CT scan
+3092 the delivery
+3093 no documentation of a pelvic or speculum examination
+3094 a creatinine of 1.0 mg/dL
+3095 a blood urea nitrogen of 19 mg/ dL
+3096 creatinine of 0.8 mg/dL
+3097 blood urea nitrogen of 6 mg/dL
+3098 Pelvic ultrasound
+3099 arrival to our institution's labor and delivery unit
+3100 the Surgical Intensive Care Unit
+3101 chickenpox
+3102 anxiety
+3103 panic disorder
+3104 pulmonary embolus
+3105 endometritis
+3106 sepsis
+3107 Estimated blood loss
+3108 chickenpox in childhood
+3109 a persistent sinus tachycardia
+3110 no pericardial effusion
+3111 no clear indication of infection
+3112 the etiology of the sinus tachycardia
+3113 slight suspicion of endometritis
+3114 the absence of a fever
+3115 increasing concern for sepsis, the patient
+3116 labor
+3117 transport
+3118 cc
+3119 panic
+3120 shortness of breath of
+3121 embolus
+3122 fevers
+3123 nausea
+3124 purulent vaginal discharge
+3125 vaginal discharge
+3126 generalized body aches
+3127 aches
+3128 normal vital signs
+3129 tenderness
+3130 splenomegaly
+3131 absence of a fever
+3132 purulent discharge
+3133 diarrhea
+3134 conception
+3135 A 37 year-old Caucasian female, G6P3033
+3136 4 days prior of a healthy male infant
+3137 300 cc
+3138 Her past medical history
+3139 methylene tetrahydrofolate reductase heterozygous mutation
+3140 a new onset tachycardia of 120
+3141 transient shortness of breath of unknown etiology on PPD#1
+3142 the new onset tachycardia
+3143 all other vital signs
+3144 an outside Emergency Room complaining of palpitations
+3145 a tachycardia to 130
+3146 a left ventricular ejection fraction of 60
+3147 normal left ventricular systolic function
+3148 otherwise normal vital signs
+3149 uterine tenderness or purulent vaginal discharge
+3150 mild splenomegaly
+3151 transport the patient
+3152 uterine tenderness
+3153 purulent discharge clinical suspicion
+3154 tachycardia into the 130's/min
+3155 no signs of retained products of conception
+3156 transport to our hospital
+3157 blood pressure of 121
+3158 pelvic
+3159 Pelvic
+3160 ibuprofen 600 mg
+3161 gastric bypass
+3162 A 57-year-old male hypertensive Caucasian patient on medical treatment for 1.5 months for non-organic-related AF
+3163 the patient under medical treatment
+3164 An apnea test
+3165 minimum peripheral oxygen saturation
+3166 gastric bypass surgery
+3167 the time of surgery
+3168 6 months after the medical surgery
+3169 only medical treatment
+3170 apnea
+3171 apneas
+3172 the ICU because of highventricular response AF
+3173 high-ventricular response AF
+3174 the same night because frequent apneas
+3175 apnea-hypopnea index
+3176 sinus rhythm at the 1-month follow-up
+3177 AF within these 6 months
+3178 apnea index of 1 per hour
+3179 hypopnea
+3180 peripheral oxygen saturation
+3181 inspiratory
+3182 his body mass index
+3183 m 2
+3184 BiPAP at the 6-month follow-up
+3185 fumarate
+3186 bisoprolol fumarate
+3187 electrical storm . Ablation
+3188 55 ms
+3189 70 ms
+3190 radiofrequency ablation
+3191 several reports on successful ablation of a retrograde limb of a IFRVT
+3192 none in the setting of electrical storm . Ablation of a retrograde limb of IFRVT
+3193 RAO right anterior oblique, ABL ablation catheter
+3194 old man with old anteroseptal myocardial infarction
+3195 old anteroseptal myocardial infarction
+3196 A 64-year-old man with old anteroseptal myocardial infarction
+3197 electrical storm of ventricular tachycardia
+3198 block with a superior axis
+3199 that during sinus rhythm
+3200 a case with limited antegrade conduction during sinus rhythm
+3201 both sinus rhythm and VT
+3202 Three-dimensional electroanatomical voltage map of the left ventricle during sinus rhythm in right anterior oblique view
+3203 The pace map at the left posterior fascicular (LPF
+3204 the diagnosis of interfascicular reentrant VT
+3205 A perfect pace map
+3206 anterior fascicle, LPF left posterior fascicle
+3207 anterior fascicle
+3208 left posterior fascicle, LV left ventricle
+3209 posterior fascicle
+3210 irrigation
+3211 blood transfusion
+3212 catheter ablation for paroxysmal atrial fibrillation
+3213 an irrigation catheter
+3214 which the 15-mg rivaroxaban
+3215 the post-procedure intracardiac echocardiography
+3216 Serum hemoglobin
+3217 16.6 mg/dL
+3218 55 days after the procedure
+3219 a diagnosis of delayed cardiac tamponade
+3220 Emergency pericardiocentesis
+3221 11.9 mg/dL
+3222 a blood transfusion
+3223 Pericardial effusion
+3224 hemorrhagic effusion
+3225 chest discomfort
+3226 discomfort
+3227 symptom-
+3228 follow-up 30 days
+3229 chest discomfort with hypotension 55 days
+3230 rapid symptom improvement
+3231 Pericardial
+3232 augmentation
+3233 catheter ablation procedure
+3234 pulmonary vein isolation
+3235 an intravenous injection of pilsicainide
+3236 a pure sodium channel blocker
+3237 The notches at the end of the terminal portion of the QRS complexes on the ECG
+3238 dependent augmentation
+3239 the administration of isoproterenol
+3240 dependent augmentation of the J wave was a specific finding for a VF storm in patients with idiopathic VF
+3241 the catheter ablation procedure
+3242 Premature ventricular beats
+3243 A 57-year-old woman with paroxysmal atrial fibrillation
+3244 the sustained AF
+3245 The VF storm
+3246 No VF
+3247 the VF storm
+3248 idiopathic VF
+3249 an important role in the induction of VF
+3250 the initiation of quinidine
+3251 a conflict of interest
+3252 quinidine
+3253 isoproterenol
+3254 vibration
+3255 Muscle biopsy
+3256 routine ECG before foot surgery
+3257 vibration sense
+3258 Echocardiography at that time
+3259 The level of creatine kinase
+3260 foot deformity
+3261 deformity
+3262 sensory-motor polyneuropathy
+3263 motor polyneuropathy
+3264 polyneuropathy
+3265 restrictive cardiomyopathy
+3266 contractures
+3267 myopathy
+3268 toe-walk and developed foot deformity
+3269 bilateral pes cavus deformity
+3270 no other motor impairment
+3271 sensory-motor polyneuropathy with conduction velocity
+3272 contractures at hips
+3273 myofibrillar myopathy
+3274 c.626C [ T) in exon 3
+3275 any muscle dysfunction
+3276 oldest child
+3277 walk
+3278 Nerve conduction
+3279 pulmonary function
+3280 vital capacity
+3281 FVC
+3282 mobility
+3283 oldest child of unaffected, non-consanguineous parents
+3284 deep tendon reflexes in lower extremities
+3285 toe-walking
+3286 Nerve conduction studies
+3287 median/ulnar motor nerves 38 m/s
+3288 1.5 times upper limit of normal
+3289 rigidity of cervical and thoracic spine
+3290 15 years with asymptomatic long QT
+3291 Her pulmonary function
+3292 normal [
+3293 87 %]. Spinal rigidity
+3294 her mobility
+3295 heterozygous mutation Pro209Leu
+3296 this mutation
+3297 toe
+3298 foot
+3299 lower extremities
+3300 extremities
+3301 ankles
+3302 Nerve
+3303 median/ulnar motor nerves
+3304 ulnar motor nerves
+3305 cervical and thoracic spine
+3306 thoracic spine
+3307 hips
+3308 knees
+3309 bicarbonate
+3310 norepinephrine
+3311 Opiates
+3312 drugs of abuse urine screening
+3313 methadone
+3314 oxycodone
+3315 phencyclidine
+3316 propoxyphene
+3317 76 mg/kg
+3318 120 mg
+3319 2 mg/kg
+3320 10 mg of intravenous (IV
+3321 1 mg of IV atropine
+3322 2 mg of IV lorazepam
+3323 5 mg of IV diazepam
+3324 1 mg of IV epinephrine with return of spontaneous circulation
+3325 Initial electrocardiogram
+3326 PR of 100 ms
+3327 QRS of 112 ms
+3328 413 ms
+3329 150 mEq of sodium bicarbonate for possible sodium channel blockade
+3330 A norepinephrine infusion
+3331 signifi cant for potassium
+3332 1 mg/dL
+3333 232 mg/dL
+3334 seizure disorder
+3335 clonic seizure
+3336 respiratory depression
+3337 abuse
+3338 -old 59-kg female with seizure disorder
+3339 her in pulseless ventricular tachycardia
+3340 sinus tachycardia (139 BPM
+3341 suicide
+3342 R-wave
+3343 pO
+3344 A 16-year-old 59-kg female
+3345 three prior suicide attempts
+3346 her normal 30 min
+3347 the emergency department with a blood pressure of 151
+3348 notable forcentral nervous system
+3349 Recurrent seizure activity
+3350 terminal R-wave in 3 mm
+3351 pH of 7.19
+3352 pO 2 of 97 mmHg
+3353 laryngeal
+3354 levetiracetam
+3355 salicylate
+3356 an unknown amount of levetiracetam in a self-harm attempt
+3357 Lacosamide and levetiracetam
+3358 Blood salicylate
+3359 conventional therapy
+3360 combination with infusion therapy
+3361 albumin
+3362 coagulation
+3363 Supportive care
+3364 parenteral alimentation
+3365 lymphocytes
+3366 ambulant treatment
+3367 conventional therapy of tachyarrhythmias
+3368 The echocardiography
+3369 Digitalis therapy
+3370 reactive protein and procalcitonin
+3371 239 mg/L
+3372 empiric antibiotic treatment with piperacillin/tazobactam in combination with infusion therapy
+3373 a reduced coagulation situation despite stopped warfarin treatment
+3374 analgesic therapy
+3375 stabilization of blood coagulation with prothrombin complex concentrate
+3376 substitution of albumin
+3377 the histopathological findings in areas without skin ablation with a basket-woven stratum corneum
+3378 intense therapy
+3379 A surgical therapy of the large epidermal necrolysis
+3380 strain
+3381 tachyarrhythmias
+3382 Infection of the urinary tract
+3383 Infection
+3384 exanthema
+3385 blisters
+3386 epidermolysis
+3387 toxic epidermal necrolysis
+3388 Lyell syndrome
+3389 drug reaction
+3390 eosinophilia
+3391 atrophic
+3392 lymphocytic inflammatory infiltrate
+3393 infiltrate
+3394 burn
+3395 the hospital because of symptomatic atrial fibrillation with fast ventricular rate
+3396 angina pectoris at physical strain
+3397 arterial hypertension
+3398 A significant coronary artery disease
+3399 stable sinus rhythm
+3400 reduced general condition
+3401 recurrent tachyarrhythmia absoluta
+3402 suspicion of a sepsis
+3403 a maculopapulous exanthema
+3404 small flaccid blisters
+3405 a progressive severe epidermolysis of the integument (approximately 30 %
+3406 painful mucosal ulcerations of the oral cavity
+3407 an acute renal failure
+3408 staphylococcal scaled skin syndrome
+3409 drug reaction with eosinophilia
+3410 frames of flaccid blisters
+3411 -woven stratum corneum over an atrophic epidermis with basal vacuolation
+3412 spare perivascular and interstitial lymphocytic inflammatory infiltrate with scant CD4
+3413 a burn center
+3414 vertigo
+3415 stomach ache
+3416 ache
+3417 painful
+3418 compensation
+3419 blood coagulation
+3420 gaze
+3421 vacuolation
+3422 necrotic
+3423 A 77-year-old female patient
+3424 normal left ventricular wall thickness
+3425 the emergency room due to fever
+3426 4.2 ng/mL
+3427 compensation of electrolyte solution
+3428 fat gaze
+3429 this context
+3430 systemic symptoms
+3431 single necrotic keratinocytes
+3432 urinary tract
+3433 integument
+3434 buttocks
+3435 mucosal
+3436 oral cavity
+3437 Mucosal
+3438 epidermal
+3439 stratum corneum
+3440 epidermis
+3441 keratinocytes
+3442 dermis
+3443 application of prednisolone
+3444 advanced cardiac life support
+3445 life support
+3446 K
+3447 ablation 8 years
+3448 protocol with cardiopulmonary resuscitation
+3449 A bedside ultrasound
+3450 hypokalemic with a potassium level of 3.1 mEq/L
+3451 20 mEq of K
+3452 bicarbonate in an attempt
+3453 the attempts at stabilization
+3454 A medicolegal autopsy
+3455 sudden unexpected death
+3456 cardiovascular disease
+3457 apneic
+3458 no family history of sudden unexpected death
+3459 unresponsive and apneic
+3460 the way to the hospital for ventricular fibrillation
+3461 the acidosis
+3462 asystole with intermittent episodes of ventricular fibrillation
+3463 jumping
+3464 family history of sudden unexpected death
+3465 unexpected death
+3466 unresponsive
+3467 Weak
+3468 potassium level
+3469 rhonchi
+3470 cardiac sounds
+3471 Clinical presentation A 14-year-old African-American female
+3472 -old African-American female with a past medical history
+3473 repeated episodic tachycardia (
+3474 associated seizures
+3475 seizure-like activity
+3476 any known history of traumatic events
+3477 Weak carotid pulses
+3478 a significantly reduced ejection fraction
+3479 a pH of 7.074
+3480 fixed and dilated pupils
+3481 ineffective respiration and circulation with bilateral rhonchi
+3482 cardiac sounds that
+3483 pupils
+3484 troponin-T
+3485 phosphorus
+3486 ALT
+3487 AST
+3488 glutamic acid
+3489 only a 10-mg IV dose
+3490 extubation within 2.5 hours
+3491 CPR. His electrocardiogram
+3492 316/383 ms
+3493 CK-MB
+3494 troponin-T)
+3495 1.2 mg/dL
+3496 urea = 10
+3497 6 mg/dL
+3498 6.5 mg/dL
+3499 9 mg/dL
+3500 magnesium = 1
+3501 glutamic acid hydrochloride
+3502 all culture results
+3503 hyperlipidemia
+3504 tricuspid regurgitation
+3505 hyperlipidemia 1 month prior
+3506 trivial tricuspid regurgitation
+3507 T Max
+3508 personal history
+3509 no other significant personal history
+3510 return of consciousness
+3511 His vital signs
+3512 a normal toxicology report
+3513 the patient's gastrointestinal discomfort
+3514 -and-off fevers
+3515 amlodipine
+3516 cellulase
+3517 amlodipine 30 days prior to hospitalization
+3518 a creatinine clearance >80 mL/ min
+3519 24 hours before the procedure
+3520 the morning of the procedure
+3521 dabigatran therapy in the evening after the procedure
+3522 sheath removal
+3523 the procedure because of the low risk of stroke in the short period
+3524 dabigatran therapy
+3525 the procedure because of the rapid onset of action of dabigatran
+3526 24 hours before ablation in patients with a creatinine clearance >50 mL/min
+3527 48 hours in those with a creatinine clearance of 30 to 50 mL/min
+3528 8 hours after sheath removal
+3529 AF ablation
+3530 the optimal periprocedural management of dabigatran
+3531 a service of the Copyright Clearance Center
+3532 BUN
+3533 vitamin D
+3534 Urinalysis
+3535 red blood cells
+3536 Urine protein to creatinine ratio
+3537 Urine protein to creatinine
+3538 Urine protein
+3539 renal ultrasound
+3540 His blood urea nitrogen
+3541 52 mg/dL
+3542 23 mg/dL
+3543 2.9 mg/dL
+3544 1.3 mg
+3545 estimated glomerular filtration rate
+3546 1.3 mg/dL
+3547 5 mg
+3548 valsartan 320 mg
+3549 rosuvastatin 10 mg
+3550 vitamin D 2000 units
+3551 dabigatran 150 mg twice a day
+3552 no interventional procedures
+3553 normal white blood cell count
+3554 normal platelet count
+3555 1+ protein
+3556 > 20 red blood cells
+3557 Repeat BUN
+3558 50 mg/dL
+3559 3.3 mg/dL
+3560 Urgent renal ultrasound with Doppler
+3561 the day of the renal ultrasound
+3562 an outpatient nephrology clinic for evaluation of renal dysfunction
+3563 a recent diagnosis of atrial fibrillation
+3564 atrial fibrillation by his cardiologist
+3565 Cr
+3566 red
+3567 a routine follow-up the week
+3568 no other symptoms
+3569 his Cr
+3570 normal white blood cell differential
+3571 his blood pressure
+3572 the patient's blood pressure
+3573 normal white blood cell
+3574 fetal heart-rate monitoring
+3575 heart-rate monitoring
+3576 transposition
+3577 lengthening
+3578 steroid therapy
+3579 plasmapheresis
+3580 fetal heart rate monitoring
+3581 heart rate monitoring
+3582 indirect immunofluorescence
+3583 gold
+3584 immunoassays
+3585 ELISA
+3586 immunoassay
+3587 Echocardiogram
+3588 fetal heart-rate monitoring at 22 weeks gestational age
+3589 a subsequent fetal ultrasound
+3590 The ultrasound exam
+3591 the electrocardiogram
+3592 HIV antibody tests
+3593 The differential diagnosis of fetal bradycardia
+3594 the presence of electrical signals
+3595 ultrasound examination
+3596 fetal echocardiogram
+3597 transposition of the great vessels
+3598 the ultrasound examination
+3599 the presence of autoantibodies
+3600 an RNA-binding protein which
+3601 a smaller protein
+3602 the presence of antibodies to La
+3603 static lengthening of the PR interval beyond 0.2 s
+3604 anti-Ro antibodies cross-react with a protein
+3605 regulation of calcium channels in the cardiac conduction system
+3606 Studies of effective treatment
+3607 The majority of treatments
+3608 dexamethasone treatment of fetuses with congenital heart block in the absence of structural heart disease
+3609 any specific treatment
+3610 the gold standard for ANA testing because the use of immunoassays
+3611 ANA by ELISA immunoassay
+3612 Confirmatory indirect immunofluorescence
+3613 specific immunoassays for both anti-Ro and anti-La
+3614 2 mg of dexamethasone
+3615 a caesarean section delivery
+3616 One week before delivery
+3617 Specific immunoassays for anti-Ro
+3618 home at age 52 days with her surgically implanted pacemaker
+3619 atrioventricular heart block
+3620 aneuploidy
+3621 hepatitis B
+3622 hepatitis
+3623 varicella
+3624 rubella
+3625 atrial bigeminy
+3626 congenital heart block
+3627 fetal hypoxia
+3628 hypoxia
+3629 prolapse
+3630 placental abruption
+3631 Congenital heart block
+3632 dissociation
+3633 congenital malformation
+3634 malformation
+3635 autoimmunity
+3636 SS
+3637 third-degree heart block
+3638 proliferation
+3639 second-degree heart block
+3640 pleural and pericardial effusions
+3641 pericardial effusions
+3642 congenital heart block in the absence
+3643 spontaneous abortion
+3644 stillbirth
+3645 preeclampsia
+3646 autoimmune rheumatic disease
+3647 rheumatic disease
+3648 third-degree atrioventricular block
+3649 skin rash
+3650 thrombocytopenia
+3651 neonatal lupus
+3652 valvular regurgitation
+3653 1 atrioventricular heart block
+3654 fetal aneuploidy
+3655 Results of serologic testing for hepatitis B
+3656 rubella viruses
+3657 Results of syphilis
+3658 no history or symptoms of autoimmune disease
+3659 Fetal bradycardia
+3660 nonconducted atrial bigeminy
+3661 umbilical cord prolapse
+3662 Nonconducted atrial bigeminy
+3663 atrial foci outside the sinus node which
+3664 complete or incomplete dissociation of atrial and ventricular contractions
+3665 a target of autoimmunity in 1962
+3666 patients with systemic lupus erythematosus
+3667 Ro/SS-A
+3668 SS-B by the other
+3669 first-degree block
+3670 progression to second-degree
+3671 irreversible third-degree block in the postnatal period
+3672 The exact pathologic mechanism of fetal heart block
+3673 proliferation of fibroblasts,
+3674 , with subsequent scarring and dysfunction of cardiac conduction pathways
+3675 -untreated cases of third-degree heart block
+3676 first-degree heart block at birth
+3677 outcomes with regard to cardiac-related pleural and pericardial effusions
+3678 increased rates of spontaneous abortion
+3679 preeclampsia in mothers with a positive ANA screening result
+3680 an expectant mother with an autoimmune rheumatic disease
+3681 concern for sudden death of the fetus and hydrops
+3682 no skin rash
+3683 no thrombocytopenia that
+3684 normal cardiac anatomy with no significant valvular regurgitation
+3685 persistent third-degree heart block
+3686 no proven association of congenital heart block with breastfeeding
+3687 gravida 1, para 0
+3688 gravida 1
+3689 gravida
+3690 para
+3691 fetal heart-rate
+3692 fetal heart rate
+3693 immunity
+3694 history or symptoms of
+3695 cord prolapse
+3696 births
+3697 digestion
+3698 apoptosis
+3699 pregnancy
+3700 abortion
+3701 positive ANA
+3702 sensitivities
+3703 very low
+3704 neonate
+3705 breastfeeding
+3706 the obstetrician of a 25-year-old gravida 1, para 0 woman
+3707 The fetal heart rate
+3708 This finding
+3709 maternal immunity
+3710 no significant medical history
+3711 maternal hypotension
+3712 an incidence of approximately 1 in 20 000 live births
+3713 RNA from nonspecific enzymatic digestion
+3714 any time during gestation
+3715 30 weeks of gestation
+3716 programed cell death
+3717 the apoptosis theory
+3718 screening assays during routine pregnancy
+3719 additional work-up
+3720 increased concentrations of anti-Ro and/or anti-La antibodies
+3721 the relative sensitivities of the 2 approaches
+3722 very low maternal titers
+3723 concentrations of 145 and 80 U/mL
+3724 23 weeks gestation
+3725 31 weeks gestation
+3726 the female neonate weighed 1.7 kg
+3727 normal function of the pacemaker
+3728 great vessels
+3729 cellular
+3730 fibroblasts
+3731 cardiac conduction system
+3732 utero
+3733 cytoplasm
+3734 breast
+3735 chloride
+3736 BacT
+3737 carbon dioxide
+3738 Sedation
+3739 cardiac echo
+3740 microbiology
+3741 bacteria
+3742 mass spectrometry
+3743 spectrometry
+3744 polymerase chain reaction
+3745 DNA analysis
+3746 amputation
+3747 surgical revision
+3748 revision
+3749 skin transplantation
+3750 isotonic sodium chloride
+3751 oxygen saturation 90%
+3752 one anaerobic BacT
+3753 a pH 7.11, lactate 4.8mmol/L
+3754 carbon dioxide partial pressure arterial 3.4kPa
+3755 bicarbonate 17mmol/L
+3756 hemoglobin 4.2mmol
+3757 a BacT
+3758 the treatment with meropenem
+3759 A cardiac echo
+3760 Treatment with inotropic agents
+3761 using norepinephrine because of volume-resistant hypotension
+3762 acute surgery
+3763 our laboratory of clinical microbiology
+3764 Gram-negative bacteria after Gram-stained smears in all samples from the patient
+3765 The treatment with meropenem and metronidazole
+3766 His CRP
+3767 laboratory of clinical microbiology
+3768 ionization time-offlight mass spectrometry
+3769 DNA analysis with 500 base pairs
+3770 treatment with meropenem
+3771 tazobactam since the antibiotic susceptibility tests
+3772 Treatment with ciprofloxacin
+3773 either treatment with vacuumassisted closure
+3774 worst case amputation
+3775 The following days his CRP
+3776 needed mechanical ventilation
+3777 A tracheostomy
+3778 the tracheostomy
+3779 his left foot and split-skin transplantation
+3780 gastroenteritis
+3781 bipolar disorder
+3782 multiple myeloma
+3783 myeloma
+3784 osteoporosis
+3785 pituitary tumor
+3786 frontotemporal dementia
+3787 dementia
+3788 Coma
+3789 petechiae
+3790 deficiency
+3791 fasciitis
+3792 bullae
+3793 earlier pituitary tumor and development of frontotemporal dementia
+3794 his Glasgow Coma Score
+3795 a cardiac arrest
+3796 minor edema
+3797 a minor mitral valve deficiency
+3798 wound necrosis
+3799 The wound
+3800 redness
+3801 Glasgow Coma Score
+3802 time of arrival at the hospital
+3803 urine output
+3804 FAST
+3805 Identification
+3806 antibiotic susceptibility
+3807 spontaneous respiration
+3808 ' duration of pain, swelling
+3809 redness of his left dorsalis pedis
+3810 His previous history
+3811 blood pressure 87
+3812 oxygen partial pressure arterial 11.9kPa
+3813 diffuse redness on his left foot
+3814 ejection fraction >55%
+3815 decreased urine output
+3816 , this urine output
+3817 pituitary
+3818 left foot
+3819 right lower leg
+3820 lower leg
+3821 leg
+3822 toes
+3823 foot and split-skin
+3824 methylprednisolone
+3825 metronidazole
+3826 a 78-year-old Danish man with 24 hours' duration
+3827 exercise test
+3828 Myocardial imaging
+3829 cardiac catheterization
+3830 catheterization
+3831 ergonovine provocation test
+3832 Administration
+3833 secondary prevention
+3834 defibrillation after a )
+3835 hypothermal therapy
+3836 a treadmill exercise test
+3837 cardiac magnetic resonance imaging
+3838 Delayed enhancement in the myocardium
+3839 the cardiac MRI
+3840 no perfusion abnormality
+3841 quantitative gated SPECT
+3842 continuous electrocardiographic monitoring
+3843 20 minutes after the intravenous injection
+3844 a delayed scan
+3845 A spasm provocation test
+3846 the injection
+3847 ST elevation in the inferior leads
+3848 the ST elevation
+3849 secondary brain damage due to malignant ventricular arrhythmia during the ergonovine provocation test
+3850 an intracoronary injection of nitrate
+3851 the provoked coronary artery spasm after the ST elevation
+3852 Administration of a calcium defibrillation Electrocardiogram
+3853 defibrillation therapy
+3854 coma
+3855 ventricular arrhythmia
+3856 coronary artery spasm
+3857 brain damage
+3858 damage
+3859 a coma at admission
+3860 hypertension in another hospital
+3861 no structural heart disease
+3862 no apparent ventricular arrhythmia
+3863 any severe organic stenosis
+3864 severe coronary artery spasm
+3865 Silent coronary artery spasm
+3866 patient in the supine position
+3867 spasm
+3868 a walk without any symptoms in the early morning
+3869 his consciousness
+3870 chest symptoms
+3871 transient syncope without chest symptoms
+3872 a left ventricular ejection fraction value of 66%
+3873 the patient in the supine position at rest
+3874 any chest symptoms
+3875 right or left coronary artery
+3876 Programmed atrial stimulation
+3877 cycle length of 400 ms of ventricular pacing
+3878 ablation via a transaortic approach
+3879 a 2-sec ablation
+3880 22 sec after the onset of energy delivery
+3881 Paroxysmal supraventricular tachycardia
+3882 AV re-entrant tachycardia
+3883 concealed left free wall accessory pathway
+3884 left free wall accessory pathway
+3885 A concealed left free wall accessory pathway
+3886 sudden cardiac asystole
+3887 profound sinus rate
+3888 2 sec after asystole emerged
+3889 Sinus node function AV conduction
+3890 narrow QRS-complex
+3891 drive
+3892 Tachycardia
+3893 Sinus node function
+3894 A 59-year-old female patient
+3895 complaints of recurrent palpitations over the past three years
+3896 a narrow QRS-complex during the attacks
+3897 a basic drive (S 1 S 1
+3898 PR China pacing
+3899 no induction of tachycardia
+3900 experienced tachycardia
+3901 syncope 9 months post-ablation
+3902 His-bundle
+3903 mitral annulus
+3904 Sinus node
+3905 ECMO
+3906 PTT
+3907 cath
+3908 US
+3909 a peripheral hospital with an anterior ST elevation myocardial infarction
+3910 normal sinus rhythm after two attempts with 360 J. The total resuscitation period
+3911 The total resuscitation period for the first arrest
+3912 dispatch to the primary PCI center
+3913 parenteral amiodarone with a loading dose of 150 mg
+3914 50 mg/hr
+3915 Immediate CPR
+3916 the paramedics prior to arrival at the primary PCI centre
+3917 intubation and 40 minutes of CPR with incessant VF refractory to defibrillation
+3918 anti-arrhythmic therapy
+3919 a total of 4 mg of epinephrine
+3920 a total of 7 defibrillation shocks
+3921 lidocaine 100 mg
+3922 amiodarone 150 mg loading doses
+3923 lidocaine 2 mg/min
+3924 the amiodarone 50 mg
+3925 ECMO for hemodynamic support in the emergency department
+3926 Peripheral veno-arterial ECMO access
+3927 the ECMO circuit
+3928 heparin during the ECMO procedure
+3929 the establishment of ECMO in the cath lab
+3930 lactate of 10 mmol
+3931 ECMO support
+3932 urgent cardiac catheterization which
+3933 Abbott Vascular, Illinois, US) drug eluting stent
+3934 refractory VF throughout the entire PCI procedure
+3935 complete percutaneous revascularization
+3936 a single defibrillation shock
+3937 his initial transthoracic echocardiogram
+3938 The creatinine kinase
+3939 high sensitivity troponin T
+3940 cardiogenic shock
+3941 a second cardiac arrest with pulseless VT
+3942 The total down time for the second cardiac arrest
+3943 severe acidosis with a pH of 6.9
+3944 shock liver
+3945 a 90% thrombotic lesion in the distal left main, 80% disease in the mid left anterior descending artery (LAD)
+3946 90% disease in the first obtuse marginal
+3947 the patient to normal sinus rhythm after 60 minutes of refractory VF
+3948 therapeutic hypothermia for neuro-protection in the intensive care unit
+3949 hypokinesis
+3950 sensitivity
+3951 neurologic deficits
+3952 A 56-year-old Caucasian male with elevated lipids
+3953 smoking history
+3954 17 size French (F
+3955 24/29 F venous cannula
+3956 less than 20% with global hypokinesis
+3957 4130 ng/L
+3958 any neurologic deficits

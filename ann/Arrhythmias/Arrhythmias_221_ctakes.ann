@@ -1,0 +1,285 @@
+T1	Procedure 780 786	biopsy
+T2	Procedure 974 981	therapy
+T3	Procedure 1330 1337	therapy
+T4	Procedure 1407 1422	lumbar puncture
+T5	Procedure 1414 1422	puncture
+T6	Procedure 1424 1456	brain magnetic resonance imaging
+T7	Procedure 1430 1456	magnetic resonance imaging
+T8	Procedure 1449 1456	imaging
+T9	Procedure 1731 1741	troponin I
+T10	Procedure 1805 1833	myocardial perfusion imaging
+T11	Procedure 1816 1825	perfusion
+T12	Procedure 1826 1833	imaging
+T13	Procedure 1965 1983	coronary angiogram
+T14	Procedure 1974 1983	angiogram
+T15	Procedure 2096 2105	angiogram
+T16	Procedure 2742 2744	mg
+T17	Procedure 3016 3046	erythrocyte sedimentation rate
+T18	Procedure 3016 3041	erythrocyte sedimentation
+T19	Procedure 3028 3046	sedimentation rate
+T20	Procedure 3062 3080	C-reactive protein
+T21	Procedure 3073 3080	protein
+T22	Procedure 3085 3087	mg
+T23	Procedure 3099 3125	magnetic resonance imaging
+T24	Procedure 3118 3125	imaging
+T25	Procedure 3187 3198	enhancement
+T26	Procedure 3223 3259	Cardiac positron emission tomography
+T27	Procedure 3231 3259	positron emission tomography
+T28	Procedure 3249 3259	tomography
+T29	Procedure 3276 3298	carbohydrate-free diet
+T30	Procedure 3323 3330	ammonia
+T31	Procedure 3331 3340	perfusion
+T32	Procedure 3565 3571	biopsy
+T33	Procedure 3646 3675	serum protein electrophoresis
+T34	Procedure 3652 3675	protein electrophoresis
+T35	Procedure 3652 3659	protein
+T36	Procedure 3660 3675	electrophoresis
+T37	Procedure 3926 3948	temporal artery biopsy
+T38	Procedure 3935 3948	artery biopsy
+T39	Procedure 3942 3948	biopsy
+T40	Procedure 4261 4283	cardiac intensive care
+T41	Procedure 4328 4330	mg
+T42	Procedure 4363 4365	mg
+T43	Procedure 4507 4525	C-reactive protein
+T44	Procedure 4518 4525	protein
+T45	Procedure 4585 4587	mg
+T46	Procedure 4618 4620	mg
+T47	Procedure 778 786	a biopsy
+T48	Procedure 959 981	corticosteroid therapy
+T49	Procedure 1310 1342	aggressive migraine therapy that
+T50	Procedure 1380 1422	Extensive workup including lumbar puncture
+T51	Procedure 1424 1456	brain magnetic resonance imaging
+T52	Procedure 1713 1741	a weakly positive troponin I
+T53	Procedure 1796 1833	Exercise myocardial perfusion imaging
+T54	Procedure 1965 1983	coronary angiogram
+T55	Procedure 2075 2118	Computed tomographic angiogram of the chest
+T56	Procedure 2696 2747	A rhythm control strategy with amiodarone 400 mg PO
+T57	Procedure 3013 3057	an erythrocyte sedimentation rate of 90 mm/h
+T58	Procedure 3062 3089	C-reactive protein 166 mg/L
+T59	Procedure 3091 3125	Cardiac magnetic resonance imaging
+T60	Procedure 3135 3198	an ejection fraction of 33% without late gadolinium enhancement
+T61	Procedure 3223 3298	Cardiac positron emission tomography after a 24-hour carbohydrate-free diet
+T62	Procedure 3308 3340	normal resting ammonia perfusion
+T63	Procedure 3550 3598	Transbronchial biopsy of mediastinal lymph nodes
+T64	Procedure 3646 3675	serum protein electrophoresis
+T65	Procedure 3921 3948	Left temporal artery biopsy
+T66	Procedure 4257 4288	the cardiac intensive care unit
+T67	Procedure 4302 4333	a bolus of amiodarone 150 mg IV
+T68	Procedure 4338 4368	empirical solumedrol 500 mg IV
+T69	Procedure 4507 4538	C-reactive protein levels 1 day
+T70	Procedure 4580 4589	36.3 mg/L
+T71	Procedure 4614 4622	0.4 mg/L
+T72	Disease_disorder 12 21	arteritis
+T73	Disease_disorder 23 41	temporal arteritis
+T74	Disease_disorder 32 41	arteritis
+T75	Disease_disorder 62 72	vasculitis
+T76	Disease_disorder 169 187	Temporal arteritis
+T77	Disease_disorder 178 187	arteritis
+T78	Disease_disorder 281 303	polymyalgia rheumatica
+T79	Disease_disorder 337 353	systemic illness
+T80	Disease_disorder 362 368	anemia
+T81	Disease_disorder 370 378	anorexia
+T82	Disease_disorder 581 608	acute myocardial infarction
+T83	Disease_disorder 587 608	myocardial infarction
+T84	Disease_disorder 598 608	infarction
+T85	Disease_disorder 640 667	peripheral vascular disease
+T86	Disease_disorder 651 667	vascular disease
+T87	Disease_disorder 660 667	disease
+T88	Disease_disorder 669 680	Myocarditis
+T89	Disease_disorder 814 822	diplopia
+T90	Disease_disorder 844 863	atrial fibrillation
+T91	Disease_disorder 851 863	fibrillation
+T92	Disease_disorder 865 867	AF
+T93	Disease_disorder 873 884	myocarditis
+T94	Disease_disorder 890 927	left ventricular systolic dysfunction
+T95	Disease_disorder 907 927	systolic dysfunction
+T96	Disease_disorder 916 927	dysfunction
+T97	Disease_disorder 1088 1097	tick bite
+T98	Disease_disorder 1093 1097	bite
+T99	Disease_disorder 1321 1329	migraine
+T100	Disease_disorder 1771 1794	acute coronary syndrome
+T101	Disease_disorder 1786 1794	syndrome
+T102	Disease_disorder 2018 2041	coronary artery disease
+T103	Disease_disorder 2034 2041	disease
+T104	Disease_disorder 2050 2059	aneurysms
+T105	Disease_disorder 2136 2154	pulmonary embolism
+T106	Disease_disorder 2146 2154	embolism
+T107	Disease_disorder 2229 2235	nodule
+T108	Disease_disorder 2268 2270	AF
+T109	Disease_disorder 2510 2523	paroxysmal AF
+T110	Disease_disorder 2521 2523	AF
+T111	Disease_disorder 2602 2615	heart failure
+T112	Disease_disorder 2839 2844	sinus
+T113	Disease_disorder 2912 2920	diplopia
+T114	Disease_disorder 2974 2976	AF
+T115	Disease_disorder 3210 3221	myocarditis
+T116	Disease_disorder 3415 3426	myocarditis
+T117	Disease_disorder 3485 3497	inflammation
+T118	Disease_disorder 3776 3786	infectious
+T119	Disease_disorder 3870 3875	edema
+T120	Disease_disorder 3900 3919	visual field defect
+T121	Disease_disorder 3983 4009	granulomatous inflammation
+T122	Disease_disorder 3997 4009	inflammation
+T123	Disease_disorder 4051 4063	inflammation
+T124	Disease_disorder 4081 4086	giant
+T125	Disease_disorder 4092 4110	temporal arteritis
+T126	Disease_disorder 4101 4110	arteritis
+T127	Disease_disorder 4184 4186	AF
+T128	Disease_disorder 0 21	G iant cell arteritis
+T129	Disease_disorder 23 41	temporal arteritis
+T130	Disease_disorder 51 82	a systemic vasculitis of medium
+T131	Disease_disorder 169 187	Temporal arteritis
+T132	Disease_disorder 264 303	a combination of polymyalgia rheumatica
+T133	Disease_disorder 319 353	manifestations of systemic illness
+T134	Disease_disorder 562 608	heightened rate of acute myocardial infarction
+T135	Disease_disorder 640 667	peripheral vascular disease
+T136	Disease_disorder 827 863	new diagnosis of atrial fibrillation
+T137	Disease_disorder 873 927	myocarditis with left ventricular systolic dysfunction
+T138	Disease_disorder 1086 1097	a tick bite
+T139	Disease_disorder 1310 1342	aggressive migraine therapy that
+T140	Disease_disorder 1771 1794	acute coronary syndrome
+T141	Disease_disorder 1991 2041	no evidence of obstructive coronary artery disease
+T142	Disease_disorder 2047 2059	no aneurysms
+T143	Disease_disorder 2136 2154	pulmonary embolism
+T144	Disease_disorder 2205 2235	a 3 mm right-upper lobe nodule
+T145	Disease_disorder 2268 2325	AF with a rapid ventricular rate and worsening chest pain
+T146	Disease_disorder 2510 2565	paroxysmal AF with no evidence of overt volume overload
+T147	Disease_disorder 2585 2623	a low-dose basic heart failure regimen
+T148	Disease_disorder 2839 2851	sinus rhythm
+T149	Disease_disorder 2903 2925	vertical diplopia that
+T150	Disease_disorder 3472 3497	right atrial inflammation
+T151	Disease_disorder 3766 3793	Extensive infectious workup
+T152	Disease_disorder 3870 3919	edema/pallor with an inferior visual field defect
+T153	Disease_disorder 3958 4029	a portion of artery with granulomatous inflammation of the medial layer
+T154	Disease_disorder 4034 4063	mild lymphocytic inflammation
+T155	Disease_disorder 4081 4091	giant cell
+T156	Disease_disorder 4092 4110	temporal arteritis
+T157	Disease_disorder 4184 4232	AF with a rapid ventricular rate and hypotension
+T158	Sign_symptom 53 72	systemic vasculitis
+T159	Sign_symptom 281 292	polymyalgia
+T160	Sign_symptom 305 313	headache
+T161	Sign_symptom 346 353	illness
+T162	Sign_symptom 355 360	fever
+T163	Sign_symptom 380 387	malaise
+T164	Sign_symptom 393 404	weight loss
+T165	Sign_symptom 433 440	elderly
+T166	Sign_symptom 460 469	diagnosis
+T167	Sign_symptom 628 634	attack
+T168	Sign_symptom 827 840	new diagnosis
+T169	Sign_symptom 831 840	diagnosis
+T170	Sign_symptom 1005 1014	diagnosis
+T171	Sign_symptom 1061 1081	past medical history
+T172	Sign_symptom 1066 1081	medical history
+T173	Sign_symptom 1074 1081	history
+T174	Sign_symptom 1093 1097	bite
+T175	Sign_symptom 1182 1190	symptoms
+T176	Sign_symptom 1194 1203	dizziness
+T177	Sign_symptom 1208 1215	malaise
+T178	Sign_symptom 1286 1295	headaches
+T179	Sign_symptom 1414 1422	puncture
+T180	Sign_symptom 1439 1448	resonance
+T181	Sign_symptom 1591 1595	pain
+T182	Sign_symptom 1637 1644	dyspnea
+T183	Sign_symptom 1649 1670	substernal chest pain
+T184	Sign_symptom 1660 1670	chest pain
+T185	Sign_symptom 1666 1670	pain
+T186	Sign_symptom 1715 1730	weakly positive
+T187	Sign_symptom 1796 1804	Exercise
+T188	Sign_symptom 1847 1853	normal
+T189	Sign_symptom 1854 1862	ejection
+T190	Sign_symptom 2146 2154	embolism
+T191	Sign_symptom 2190 2200	adenopathy
+T192	Sign_symptom 2315 2325	chest pain
+T193	Sign_symptom 2321 2325	pain
+T194	Sign_symptom 2330 2337	dyspnea
+T195	Sign_symptom 2379 2387	ejection
+T196	Sign_symptom 2745 2747	PO
+T197	Sign_symptom 2796 2804	symptoms
+T198	Sign_symptom 2839 2851	sinus rhythm
+T199	Sign_symptom 2865 2872	dyspnea
+T200	Sign_symptom 2877 2884	fatigue
+T201	Sign_symptom 3016 3046	erythrocyte sedimentation rate
+T202	Sign_symptom 3108 3117	resonance
+T203	Sign_symptom 3138 3146	ejection
+T204	Sign_symptom 3308 3314	normal
+T205	Sign_symptom 3315 3322	resting
+T206	Sign_symptom 3861 3869	swelling
+T207	Sign_symptom 3876 3882	pallor
+T208	Sign_symptom 4034 4063	mild lymphocytic inflammation
+T209	Sign_symptom 4221 4232	hypotension
+T210	Sign_symptom 4394 4402	symptoms
+T211	Sign_symptom 4480 4487	symptom
+T212	Sign_symptom 51 82	a systemic vasculitis of medium
+T213	Sign_symptom 264 303	a combination of polymyalgia rheumatica
+T214	Sign_symptom 319 353	manifestations of systemic illness
+T215	Sign_symptom 429 481	the elderly with a mean age at diagnosis of 72 years
+T216	Sign_symptom 610 634	cerebral vascular attack
+T217	Sign_symptom 827 863	new diagnosis of atrial fibrillation
+T218	Sign_symptom 1001 1021	the diagnosis of GCA
+T219	Sign_symptom 1023 1081	A 57-year-old man with no significant past medical history
+T220	Sign_symptom 1086 1097	a tick bite
+T221	Sign_symptom 1135 1203	a 1-week course of doxycycline for nonspecific symptoms of dizziness
+T222	Sign_symptom 1253 1295	severe left temporal lancinating headaches
+T223	Sign_symptom 1380 1422	Extensive workup including lumbar puncture
+T224	Sign_symptom 1424 1456	brain magnetic resonance imaging
+T225	Sign_symptom 1587 1595	the pain
+T226	Sign_symptom 1637 1670	dyspnea and substernal chest pain
+T227	Sign_symptom 1713 1741	a weakly positive troponin I
+T228	Sign_symptom 1796 1833	Exercise myocardial perfusion imaging
+T229	Sign_symptom 1847 1871	normal ejection fraction
+T230	Sign_symptom 2136 2154	pulmonary embolism
+T231	Sign_symptom 2168 2200	mediastinal and hilar adenopathy
+T232	Sign_symptom 2268 2325	AF with a rapid ventricular rate and worsening chest pain
+T233	Sign_symptom 2367 2410	new reduced ejection fraction of 30% to 35%
+T234	Sign_symptom 2696 2747	A rhythm control strategy with amiodarone 400 mg PO
+T235	Sign_symptom 2792 2804	his symptoms
+T236	Sign_symptom 2853 2872	Beside from dyspnea
+T237	Sign_symptom 3013 3057	an erythrocyte sedimentation rate of 90 mm/h
+T238	Sign_symptom 3091 3125	Cardiac magnetic resonance imaging
+T239	Sign_symptom 3135 3198	an ejection fraction of 33% without late gadolinium enhancement
+T240	Sign_symptom 3308 3340	normal resting ammonia perfusion
+T241	Sign_symptom 3844 3869	left optic nerve swelling
+T242	Sign_symptom 3870 3919	edema/pallor with an inferior visual field defect
+T243	Sign_symptom 4184 4232	AF with a rapid ventricular rate and hypotension
+T244	Sign_symptom 4390 4402	his symptoms
+T245	Sign_symptom 4475 4499	home symptom free 3 days
+T246	Anatomical_structure 7 11	cell
+T247	Anatomical_structure 93 101	arteries
+T248	Anatomical_structure 131 137	aortic
+T249	Anatomical_structure 154 167	head and neck
+T250	Anatomical_structure 154 158	head
+T251	Anatomical_structure 163 167	neck
+T252	Anatomical_structure 534 548	cardiovascular
+T253	Anatomical_structure 610 618	cerebral
+T254	Anatomical_structure 844 850	atrial
+T255	Anatomical_structure 1407 1413	lumbar
+T256	Anatomical_structure 1424 1429	brain
+T257	Anatomical_structure 1660 1665	chest
+T258	Anatomical_structure 2018 2033	coronary artery
+T259	Anatomical_structure 2027 2033	artery
+T260	Anatomical_structure 2113 2118	chest
+T261	Anatomical_structure 2168 2179	mediastinal
+T262	Anatomical_structure 2315 2320	chest
+T263	Anatomical_structure 2602 2607	heart
+T264	Anatomical_structure 3016 3027	erythrocyte
+T265	Anatomical_structure 3091 3098	Cardiac
+T266	Anatomical_structure 3223 3230	Cardiac
+T267	Anatomical_structure 3438 3444	atrial
+T268	Anatomical_structure 3478 3484	atrial
+T269	Anatomical_structure 3543 3548	aorta
+T270	Anatomical_structure 3575 3598	mediastinal lymph nodes
+T271	Anatomical_structure 3575 3586	mediastinal
+T272	Anatomical_structure 3587 3598	lymph nodes
+T273	Anatomical_structure 3626 3635	bronchial
+T274	Anatomical_structure 3636 3641	cells
+T275	Anatomical_structure 3692 3703	cytoplasmic
+T276	Anatomical_structure 3849 3860	optic nerve
+T277	Anatomical_structure 3849 3854	optic
+T278	Anatomical_structure 3855 3860	nerve
+T279	Anatomical_structure 3935 3941	artery
+T280	Anatomical_structure 3971 3977	artery
+T281	Anatomical_structure 4039 4050	lymphocytic
+T282	Anatomical_structure 4081 4091	giant cell
+T283	Anatomical_structure 4087 4091	cell
+T284	Anatomical_structure 4261 4268	cardiac
+T285	Medication 1550 1561	ceftriaxone

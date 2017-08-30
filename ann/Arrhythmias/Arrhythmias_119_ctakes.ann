@@ -1,0 +1,125 @@
+T1	Procedure 101 116	medical therapy
+T2	Procedure 109 116	therapy
+T3	Procedure 136 144	ablation
+T4	Procedure 157 166	procedure
+T5	Procedure 260 262	ms
+T6	Procedure 342 344	ms
+T7	Procedure 427 429	ms
+T8	Procedure 439 441	ms
+T9	Procedure 450 452	ms
+T10	Procedure 763 771	infusion
+T11	Procedure 840 842	ms
+T12	Procedure 883 885	ms
+T13	Procedure 1153 1163	shortening
+T14	Procedure 1190 1192	ms
+T15	Procedure 1246 1248	ms
+T16	Procedure 1321 1323	ms
+T17	Procedure 1475 1477	ms
+T18	Procedure 1524 1526	ms
+T19	Procedure 1583 1585	ms
+T20	Procedure 1723 1725	ms
+T21	Procedure 1926 1934	ablation
+T22	Procedure 2081 2090	procedure
+T23	Procedure 101 116	medical therapy
+T24	Procedure 127 144	catheter ablation
+T25	Procedure 153 166	the procedure
+T26	Procedure 257 262	38 ms
+T27	Procedure 338 344	320 ms
+T28	Procedure 423 429	380 ms
+T29	Procedure 435 441	340 ms
+T30	Procedure 447 452	40 ms
+T31	Procedure 810 842	/min at a cycle length of 540 ms
+T32	Procedure 856 885	AH intervals of 40 and 500 ms
+T33	Procedure 1145 1192	initial shortening of the HH interval to 450 ms
+T34	Procedure 1206 1248	tachycardia with the HH interval of 540 ms
+T35	Procedure 1318 1413	10 ms shorter than the tachycardia cycle length until the loss of atrial capture or tachycardia
+T36	Procedure 1451 1477	the immediate His by 50 ms
+T37	Procedure 1499 1526	the subsequent His by 50 ms
+T38	Procedure 1559 1585	the immediate His by 40 ms
+T39	Procedure 1699 1725	the following His by 15 ms
+T40	Procedure 1918 1951	Further ablation at the SP region
+T41	Procedure 2062 2090	2 months after the procedure
+T42	Disease_disorder 38 77	paroxysmal supraventricular tachycardia
+T43	Disease_disorder 49 77	supraventricular tachycardia
+T44	Disease_disorder 196 201	sinus
+T45	Disease_disorder 260 262	ms
+T46	Disease_disorder 342 344	ms
+T47	Disease_disorder 402 407	AVNRT
+T48	Disease_disorder 427 429	ms
+T49	Disease_disorder 439 441	ms
+T50	Disease_disorder 450 452	ms
+T51	Disease_disorder 840 842	ms
+T52	Disease_disorder 883 885	ms
+T53	Disease_disorder 1042 1059	sinus tachycardia
+T54	Disease_disorder 1042 1047	sinus
+T55	Disease_disorder 1190 1192	ms
+T56	Disease_disorder 1246 1248	ms
+T57	Disease_disorder 1321 1323	ms
+T58	Disease_disorder 1384 1413	atrial capture or tachycardia
+T59	Disease_disorder 1433 1436	PAC
+T60	Disease_disorder 1475 1477	ms
+T61	Disease_disorder 1524 1526	ms
+T62	Disease_disorder 1546 1549	PAC
+T63	Disease_disorder 1583 1585	ms
+T64	Disease_disorder 1650 1653	PAC
+T65	Disease_disorder 1723 1725	ms
+T66	Disease_disorder 1776 1781	AVNRT
+T67	Disease_disorder 2131 2141	arrhythmia
+T68	Disease_disorder 0 82	A 72-year-old woman with a history of paroxysmal supraventricular tachycardia that
+T69	Disease_disorder 168 208	baseline AA interval during sinus rhythm
+T70	Disease_disorder 257 262	38 ms
+T71	Disease_disorder 338 344	320 ms
+T72	Disease_disorder 391 407	slow/ fast AVNRT
+T73	Disease_disorder 423 429	380 ms
+T74	Disease_disorder 435 441	340 ms
+T75	Disease_disorder 447 452	40 ms
+T76	Disease_disorder 810 842	/min at a cycle length of 540 ms
+T77	Disease_disorder 856 885	AH intervals of 40 and 500 ms
+T78	Disease_disorder 1036 1065	a few sinus tachycardia beats
+T79	Disease_disorder 1145 1192	initial shortening of the HH interval to 450 ms
+T80	Disease_disorder 1206 1248	tachycardia with the HH interval of 540 ms
+T81	Disease_disorder 1318 1413	10 ms shorter than the tachycardia cycle length until the loss of atrial capture or tachycardia
+T82	Disease_disorder 1431 1436	A PAC
+T83	Disease_disorder 1451 1477	the immediate His by 50 ms
+T84	Disease_disorder 1499 1526	the subsequent His by 50 ms
+T85	Disease_disorder 1538 1549	a later PAC
+T86	Disease_disorder 1559 1585	the immediate His by 40 ms
+T87	Disease_disorder 1642 1653	A later PAC
+T88	Disease_disorder 1699 1725	the following His by 15 ms
+T89	Disease_disorder 2102 2141	no recurrence of symptomatic arrhythmia
+T90	Sign_symptom 27 37	history of
+T91	Sign_symptom 27 34	history
+T92	Sign_symptom 66 77	tachycardia
+T93	Sign_symptom 196 208	sinus rhythm
+T94	Sign_symptom 210 221	AH interval
+T95	Sign_symptom 227 238	HV interval
+T96	Sign_symptom 290 301	tachycardia
+T97	Sign_symptom 397 401	fast
+T98	Sign_symptom 519 530	AH interval
+T99	Sign_symptom 720 731	tachycardia
+T100	Sign_symptom 934 945	tachycardia
+T101	Sign_symptom 1048 1059	tachycardia
+T102	Sign_symptom 1106 1117	tachycardia
+T103	Sign_symptom 1206 1217	tachycardia
+T104	Sign_symptom 1341 1352	tachycardia
+T105	Sign_symptom 1402 1413	tachycardia
+T106	Sign_symptom 1760 1771	tachycardia
+T107	Sign_symptom 1988 1999	tachycardia
+T108	Sign_symptom 2051 2060	follow-up
+T109	Sign_symptom 0 82	A 72-year-old woman with a history of paroxysmal supraventricular tachycardia that
+T110	Sign_symptom 168 208	baseline AA interval during sinus rhythm
+T111	Sign_symptom 279 301	Narrow QRS tachycardia
+T112	Sign_symptom 391 407	slow/ fast AVNRT
+T113	Sign_symptom 463 530	the characteristics of induction with a critically long AH interval
+T114	Sign_symptom 718 731	a tachycardia
+T115	Sign_symptom 930 945	The tachycardia
+T116	Sign_symptom 1036 1065	a few sinus tachycardia beats
+T117	Sign_symptom 1081 1133	the spontaneous onset of tachycardia at faster sweep
+T118	Sign_symptom 1206 1248	tachycardia with the HH interval of 540 ms
+T119	Sign_symptom 1318 1413	10 ms shorter than the tachycardia cycle length until the loss of atrial capture or tachycardia
+T120	Sign_symptom 1743 1771	the mechanism of tachycardia
+T121	Sign_symptom 1985 1999	no tachycardia
+T122	Anatomical_structure 317 323	atrial
+T123	Anatomical_structure 641 653	intracardiac
+T124	Anatomical_structure 975 981	atrial
+T125	Anatomical_structure 1384 1390	atrial

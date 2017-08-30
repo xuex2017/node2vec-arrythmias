@@ -1,0 +1,77 @@
+T1	Procedure 215 224	treatment
+T2	Procedure 280 288	ablation
+T3	Procedure 415 423	ablation
+T4	Procedure 498 515	Electrocardiogram
+T5	Procedure 531 541	tomography
+T6	Procedure 542 553	angiography
+T7	Procedure 713 720	surgery
+T8	Procedure 773 782	operation
+T9	Procedure 800 817	median sternotomy
+T10	Procedure 807 817	sternotomy
+T11	Procedure 822 844	cardiopulmonary bypass
+T12	Procedure 838 844	bypass
+T13	Procedure 858 869	cannulation
+T14	Procedure 1036 1044	incision
+T15	Procedure 1239 1247	incision
+T16	Procedure 1376 1388	cryoablation
+T17	Procedure 1413 1421	Surgical
+T18	Procedure 1432 1434	CT
+T19	Procedure 1500 1508	incision
+T20	Procedure 188 224	intravenous antiarrhythmic treatment
+T21	Procedure 259 288	endocardial catheter ablation
+T22	Procedure 406 423	catheter ablation
+T23	Procedure 531 553	tomography angiography
+T24	Procedure 703 720	emergency surgery
+T25	Procedure 769 782	The operation
+T26	Procedure 800 817	median sternotomy
+T27	Procedure 822 869	cardiopulmonary bypass with bicaval cannulation
+T28	Procedure 1029 1044	a 6-cm incision
+T29	Procedure 1228 1247	the apical incision
+T30	Procedure 1374 1395	a cryoablation system
+T31	Procedure 1406 1440	Cooper Surgical, Shelton, CT, USA)
+T32	Procedure 1496 1508	The incision
+T33	Disease_disorder 159 167	aneurysm
+T34	Disease_disorder 331 339	aneurysm
+T35	Disease_disorder 653 659	cavity
+T36	Disease_disorder 756 767	obstruction
+T37	Disease_disorder 1033 1035	cm
+T38	Disease_disorder 1267 1275	aneurysm
+T39	Disease_disorder 1816 1822	cavity
+T40	Disease_disorder 143 167	HCM with apical aneurysm
+T41	Disease_disorder 306 346	the septum in the apical aneurysm border
+T42	Disease_disorder 646 670	apical cavity ballooning
+T43	Disease_disorder 741 767	midventricular obstruction
+T44	Disease_disorder 1029 1044	a 6-cm incision
+T45	Disease_disorder 1256 1296	the apical aneurysm border in the septum
+T46	Disease_disorder 1785 1822	the significantly augmented LV cavity
+T47	Sign_symptom 37 47	chest pain
+T48	Sign_symptom 43 47	pain
+T49	Sign_symptom 64 85	loss of consciousness
+T50	Sign_symptom 72 85	consciousness
+T51	Sign_symptom 89 98	diagnosis
+T52	Sign_symptom 498 515	Electrocardiogram
+T53	Sign_symptom 896 904	pressure
+T54	Sign_symptom 926 934	pressure
+T55	Sign_symptom 1575 1583	pressure
+T56	Sign_symptom 1608 1616	pressure
+T57	Sign_symptom 1670 1674	mass
+T58	Sign_symptom 37 85	chest pain with subsequent loss of consciousness
+T59	Sign_symptom 87 127	A diagnosis of repetitive monomorphic VT
+T60	Sign_symptom 871 916	The direct intracavitary pressure measurement
+T61	Sign_symptom 924 1000	a pressure gradient of 50 mmHg across the midventricular obstructive portion
+T62	Sign_symptom 1564 1595	The direct pressure measurement
+T63	Sign_symptom 1605 1658	no pressure gradient across the mid-portion of the LV
+T64	Sign_symptom 1660 1700	The total mass of the resected LV muscle
+T65	Anatomical_structure 37 42	chest
+T66	Anatomical_structure 259 270	endocardial
+T67	Anatomical_structure 600 610	myocardium
+T68	Anatomical_structure 653 659	cavity
+T69	Anatomical_structure 1064 1095	left anterior descending artery
+T70	Anatomical_structure 1089 1095	artery
+T71	Anatomical_structure 1103 1129	apex of the left ventricle
+T72	Anatomical_structure 1115 1129	left ventricle
+T73	Anatomical_structure 1120 1129	ventricle
+T74	Anatomical_structure 1143 1149	muscle
+T75	Anatomical_structure 1333 1344	endocardial
+T76	Anatomical_structure 1694 1700	muscle
+T77	Anatomical_structure 1816 1822	cavity

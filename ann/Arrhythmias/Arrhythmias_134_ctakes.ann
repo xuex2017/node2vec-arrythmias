@@ -1,0 +1,43 @@
+T1	Procedure 101 131	transthoracic echocardiography
+T2	Procedure 115 131	echocardiography
+T3	Procedure 159 162	ECG
+T4	Procedure 1035 1037	CL
+T5	Procedure 1046 1048	ms
+T6	Procedure 1208 1218	shortening
+T7	Procedure 85 131	The findings of transthoracic echocardiography
+T8	Procedure 149 162	a 12-lead ECG
+T9	Procedure 1042 1048	500 ms
+T10	Procedure 1201 1227	abrupt shortening of the A
+T11	Disease_disorder 173 199	ventricular pre-excitation
+T12	Disease_disorder 291 296	sinus
+T13	Disease_disorder 682 710	supraventricular tachycardia
+T14	Disease_disorder 800 836	Ventricular premature depolarization
+T15	Disease_disorder 1046 1048	ms
+T16	Disease_disorder 1110 1115	block
+T17	Disease_disorder 1244 1249	block
+T18	Disease_disorder 170 199	no ventricular pre-excitation
+T19	Disease_disorder 282 296	coronary sinus
+T20	Disease_disorder 667 710	Narrow-complex supraventricular tachycardia
+T21	Disease_disorder 1042 1048	500 ms
+T22	Disease_disorder 1107 1164	VA block during atrial and ventricular entrainment pacing
+T23	Disease_disorder 1228 1260	A interval with block during SVT
+T24	Sign_symptom 34 46	palpitations
+T25	Sign_symptom 379 385	normal
+T26	Sign_symptom 699 710	tachycardia
+T27	Sign_symptom 850 861	tachycardia
+T28	Sign_symptom 1054 1065	tachycardia
+T29	Sign_symptom 1399 1410	tachycardia
+T30	Sign_symptom 0 46	A 46-year-old woman with frequent palpitations
+T31	Sign_symptom 379 425	normal limits. Retrograde ventriculoatrial (VA
+T32	Sign_symptom 667 710	Narrow-complex supraventricular tachycardia
+T33	Sign_symptom 1050 1065	The tachycardia
+T34	Sign_symptom 1378 1410	the mechanism of the tachycardia
+T35	Anatomical_structure 251 268	high right atrium
+T36	Anatomical_structure 256 268	right atrium
+T37	Anatomical_structure 262 268	atrium
+T38	Anatomical_structure 282 296	coronary sinus
+T39	Anatomical_structure 423 425	VA
+T40	Anatomical_structure 630 636	atrial
+T41	Anatomical_structure 917 923	atrial
+T42	Anatomical_structure 1107 1109	VA
+T43	Anatomical_structure 1123 1129	atrial

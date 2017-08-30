@@ -1,0 +1,67 @@
+T1	Procedure 288 296	fixation
+T2	Procedure 312 329	chest radiography
+T3	Procedure 318 329	radiography
+T4	Procedure 446 462	echocardiography
+T5	Procedure 534 543	tamponade
+T6	Procedure 580 622	intensive care unit for further monitoring
+T7	Procedure 635 644	treatment
+T8	Procedure 744 764	intravenous infusion
+T9	Procedure 756 764	infusion
+T10	Procedure 793 809	echocardiography
+T11	Procedure 848 857	tamponade
+T12	Procedure 1069 1086	median sternotomy
+T13	Procedure 1076 1086	sternotomy
+T14	Procedure 281 296	active fixation
+T15	Procedure 312 329	chest radiography
+T16	Procedure 421 462	Clinical examination and echocardiography
+T17	Procedure 476 543	a large pericardial effusion without signs of pericardial tamponade
+T18	Procedure 576 622	the intensive care unit for further monitoring
+T19	Procedure 627 644	medical treatment
+T20	Procedure 744 784	intravenous infusion of inotropic agents
+T21	Procedure 786 809	Repeat echocardiography
+T22	Procedure 819 857	typical signs of pericardial tamponade
+T23	Procedure 1059 1086	An urgent median sternotomy
+T24	Disease_disorder 202 251	intermittent second-degree atrioventricular block
+T25	Disease_disorder 215 251	second-degree atrioventricular block
+T26	Disease_disorder 229 251	atrioventricular block
+T27	Disease_disorder 246 251	block
+T28	Disease_disorder 398 418	pericardial effusion
+T29	Disease_disorder 410 418	effusion
+T30	Disease_disorder 484 543	pericardial effusion without signs of pericardial tamponade
+T31	Disease_disorder 484 504	pericardial effusion
+T32	Disease_disorder 496 504	effusion
+T33	Disease_disorder 522 543	pericardial tamponade
+T34	Disease_disorder 836 857	pericardial tamponade
+T35	Disease_disorder 1113 1133	pericardial effusion
+T36	Disease_disorder 1125 1133	effusion
+T37	Disease_disorder 1235 1241	injury
+T38	Disease_disorder 1318 1323	wound
+T39	Disease_disorder 202 251	intermittent second-degree atrioventricular block
+T40	Disease_disorder 339 418	a borderline cardiothoracic index without typical signs of pericardial effusion
+T41	Disease_disorder 476 543	a large pericardial effusion without signs of pericardial tamponade
+T42	Disease_disorder 819 857	typical signs of pericardial tamponade
+T43	Disease_disorder 1106 1133	a huge pericardial effusion
+T44	Disease_disorder 1186 1253	An atrial appendage perforation with pericardial injury by the lead
+T45	Disease_disorder 1306 1323	the sternal wound
+T46	Sign_symptom 66 73	dyspnea
+T47	Sign_symptom 990 999	diagnosis
+T48	Sign_symptom 1011 1022	perforation
+T49	Sign_symptom 1206 1217	perforation
+T50	Sign_symptom 1272 1283	perforation
+T51	Sign_symptom 34 73	our hospital due to progressive dyspnea
+T52	Sign_symptom 986 1043	the diagnosis of cardiac perforation from the atrial lead
+T53	Sign_symptom 1186 1253	An atrial appendage perforation with pericardial injury by the lead
+T54	Sign_symptom 1268 1288	The perforation site
+T55	Anatomical_structure 312 317	chest
+T56	Anatomical_structure 398 409	pericardial
+T57	Anatomical_structure 484 495	pericardial
+T58	Anatomical_structure 522 533	pericardial
+T59	Anatomical_structure 836 847	pericardial
+T60	Anatomical_structure 910 916	atrial
+T61	Anatomical_structure 1003 1010	cardiac
+T62	Anatomical_structure 1032 1038	atrial
+T63	Anatomical_structure 1113 1124	pericardial
+T64	Anatomical_structure 1189 1205	atrial appendage
+T65	Anatomical_structure 1189 1195	atrial
+T66	Anatomical_structure 1223 1234	pericardial
+T67	Anatomical_structure 1382 1388	atrial

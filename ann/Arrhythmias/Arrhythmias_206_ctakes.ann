@@ -1,0 +1,19 @@
+T1	Procedure 71 74	ECG
+T2	Procedure 101 110	isolation
+T3	Procedure 246 254	ablation
+T4	Procedure 0 74	A 57-year-old man with a structurally normal heart and normal baseline ECG
+T5	Procedure 86 134	pulmonary vein isolation for atrial fibrillation
+T6	Procedure 243 287	an ablation catheter at the mid-right atrium
+T7	Disease_disorder 115 134	atrial fibrillation
+T8	Disease_disorder 122 134	fibrillation
+T9	Disease_disorder 86 134	pulmonary vein isolation for atrial fibrillation
+T10	Sign_symptom 38 74	normal heart and normal baseline ECG
+T11	Sign_symptom 38 44	normal
+T12	Sign_symptom 55 74	normal baseline ECG
+T13	Sign_symptom 55 61	normal
+T14	Sign_symptom 0 74	A 57-year-old man with a structurally normal heart and normal baseline ECG
+T15	Anatomical_structure 45 50	heart
+T16	Anatomical_structure 86 100	pulmonary vein
+T17	Anatomical_structure 96 100	vein
+T18	Anatomical_structure 115 121	atrial
+T19	Anatomical_structure 281 287	atrium

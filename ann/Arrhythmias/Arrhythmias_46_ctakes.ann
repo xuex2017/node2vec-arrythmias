@@ -1,0 +1,121 @@
+T1	Procedure 352 376	neurological examination
+T2	Procedure 457 468	prophylaxis
+T3	Procedure 501 520	blood clotting test
+T4	Procedure 516 520	test
+T5	Procedure 556 572	prothrombin time
+T6	Procedure 617 644	partial thromboplastin time
+T7	Procedure 673 693	complete blood count
+T8	Procedure 708 712	urea
+T9	Procedure 714 724	creatinine
+T10	Procedure 726 746	liver function tests
+T11	Procedure 741 746	tests
+T12	Procedure 752 764	electrolytes
+T13	Procedure 778 795	Urine examination
+T14	Procedure 811 823	erythrocytes
+T15	Procedure 863 880	electrocardiogram
+T16	Procedure 882 885	ECG
+T17	Procedure 1092 1102	troponin I
+T18	Procedure 1163 1179	Echocardiography
+T19	Procedure 1181 1198	chest radiography
+T20	Procedure 1187 1198	radiography
+T21	Procedure 1204 1226	thyroid function tests
+T22	Procedure 1221 1226	tests
+T23	Procedure 1316 1325	treatment
+T24	Procedure 1343 1380	cardiac monitor in the intensive care
+T25	Procedure 1392 1409	close observation
+T26	Procedure 1398 1409	observation
+T27	Procedure 1411 1425	Cardiac pacing
+T28	Procedure 1604 1623	blood clotting test
+T29	Procedure 1619 1623	test
+T30	Procedure 1643 1659	prothrombin time
+T31	Procedure 1674 1701	partial thromboplastin time
+T32	Procedure 1873 1876	ECG
+T33	Procedure 1913 1925	electrolytes
+T34	Procedure 1936 1944	hemogram
+T35	Procedure 1952 1962	radiograph
+T36	Procedure 1968 1982	echocardiogram
+T37	Procedure 341 376	A complete neurological examination
+T38	Procedure 457 484	prophylaxis against tetanus
+T39	Procedure 491 520	min whole blood clotting test
+T40	Procedure 552 572	the prothrombin time
+T41	Procedure 603 644	the activated partial thromboplastin time
+T42	Procedure 671 693	A complete blood count
+T43	Procedure 726 746	liver function tests
+T44	Procedure 808 844	12 erythrocytes per high-power field
+T45	Procedure 860 880	an electrocardiogram
+T46	Procedure 1086 1102	Serum troponin I
+T47	Procedure 1181 1198	chest radiography
+T48	Procedure 1204 1226	thyroid function tests
+T49	Procedure 1289 1325	symptomatic and supportive treatment
+T50	Procedure 1341 1409	a cardiac monitor in the intensive care unit under close observation
+T51	Procedure 1594 1623	min whole blood clotting test
+T52	Procedure 1639 1659	The prothrombin time
+T53	Procedure 1664 1701	activated partial thromboplastin time
+T54	Procedure 1864 1876	a repeat ECG
+T55	Procedure 1927 1944	complete hemogram
+T56	Procedure 1946 1962	chest radiograph
+T57	Disease_disorder 73 83	snake bite
+T58	Disease_disorder 79 83	bite
+T59	Disease_disorder 477 484	tetanus
+T60	Disease_disorder 538 550	coagulopathy
+T61	Disease_disorder 894 906	sinus arrest
+T62	Disease_disorder 894 899	sinus
+T63	Disease_disorder 912 936	junctional escape rhythm
+T64	Disease_disorder 1007 1029	sinus node dysfunction
+T65	Disease_disorder 1007 1012	sinus
+T66	Disease_disorder 1018 1029	dysfunction
+T67	Disease_disorder 1513 1524	dysfunction
+T68	Disease_disorder 1791 1799	bleeding
+T69	Disease_disorder 1891 1896	sinus
+T70	Disease_disorder 2020 2037	junctional rhythm
+T71	Disease_disorder 2082 2087	sinus
+T72	Disease_disorder 2167 2179	complication
+T73	Disease_disorder 71 101	a snake bite on his left ankle
+T74	Disease_disorder 457 484	prophylaxis against tetanus
+T75	Disease_disorder 894 936	sinus arrest with junctional escape rhythm
+T76	Disease_disorder 1007 1029	sinus node dysfunction
+T77	Disease_disorder 1509 1524	the dysfunction
+T78	Disease_disorder 1781 1830	any overt bleeding during the course of admission
+T79	Disease_disorder 1884 1903	normal sinus rhythm
+T80	Disease_disorder 2020 2060	junctional rhythm for approximately 72 h
+T81	Disease_disorder 2082 2094	sinus rhythm
+T82	Disease_disorder 2133 2179	the hospital without any residual complication
+T83	Sign_symptom 79 83	bite
+T84	Sign_symptom 107 111	dead
+T85	Sign_symptom 501 515	blood clotting
+T86	Sign_symptom 507 515	clotting
+T87	Sign_symptom 726 740	liver function
+T88	Sign_symptom 863 880	electrocardiogram
+T89	Sign_symptom 894 936	sinus arrest with junctional escape rhythm
+T90	Sign_symptom 894 929	sinus arrest with junctional escape
+T91	Sign_symptom 1604 1618	blood clotting
+T92	Sign_symptom 1610 1618	clotting
+T93	Sign_symptom 1884 1903	normal sinus rhythm
+T94	Sign_symptom 1884 1890	normal
+T95	Sign_symptom 1891 1903	sinus rhythm
+T96	Sign_symptom 2082 2094	sinus rhythm
+T97	Sign_symptom 71 101	a snake bite on his left ankle
+T98	Sign_symptom 103 117	The dead snake
+T99	Sign_symptom 491 520	min whole blood clotting test
+T100	Sign_symptom 726 746	liver function tests
+T101	Sign_symptom 860 880	an electrocardiogram
+T102	Sign_symptom 894 936	sinus arrest with junctional escape rhythm
+T103	Sign_symptom 1594 1623	min whole blood clotting test
+T104	Sign_symptom 1884 1903	normal sinus rhythm
+T105	Anatomical_structure 91 101	left ankle
+T106	Anatomical_structure 96 101	ankle
+T107	Anatomical_structure 204 208	fang
+T108	Anatomical_structure 221 231	left ankle
+T109	Anatomical_structure 226 231	ankle
+T110	Anatomical_structure 501 506	blood
+T111	Anatomical_structure 682 687	blood
+T112	Anatomical_structure 695 700	blood
+T113	Anatomical_structure 726 731	liver
+T114	Anatomical_structure 811 823	erythrocytes
+T115	Anatomical_structure 1007 1017	sinus node
+T116	Anatomical_structure 1181 1186	chest
+T117	Anatomical_structure 1204 1211	thyroid
+T118	Anatomical_structure 1343 1350	cardiac
+T119	Anatomical_structure 1411 1418	Cardiac
+T120	Anatomical_structure 1604 1609	blood
+T121	Anatomical_structure 1946 1951	chest

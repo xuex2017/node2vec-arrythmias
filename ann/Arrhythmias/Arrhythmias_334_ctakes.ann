@@ -1,0 +1,116 @@
+T1	Procedure 112 141	cardiopulmonary resuscitation
+T2	Procedure 128 141	resuscitation
+T3	Procedure 612 624	auscultation
+T4	Procedure 654 673	fluid resuscitation
+T5	Procedure 660 673	resuscitation
+T6	Procedure 681 691	adrenaline
+T7	Procedure 692 700	infusion
+T8	Procedure 773 793	Arterial blood gases
+T9	Procedure 782 793	blood gases
+T10	Procedure 858 865	lactate
+T11	Procedure 873 896	Plain chest radiography
+T12	Procedure 879 896	chest radiography
+T13	Procedure 885 896	radiography
+T14	Procedure 980 993	resuscitation
+T15	Procedure 1213 1223	tomography
+T16	Procedure 1225 1227	CT
+T17	Procedure 1412 1422	dilatation
+T18	Procedure 1498 1509	enhancement
+T19	Procedure 1908 1915	support
+T20	Procedure 102 179	commenced cardiopulmonary resuscitation and return of spontaneous circulation
+T21	Procedure 595 624	breath sounds on auscultation
+T22	Procedure 643 673	aggressive fluid resuscitation
+T23	Procedure 678 727	an adrenaline infusion to maintain blood pressure
+T24	Procedure 773 793	Arterial blood gases
+T25	Procedure 856 896	a lactate of 17. Plain chest radiography
+T26	Procedure 972 993	ongoing resuscitation
+T27	Procedure 1397 1435	marked gastric dilatation and volvulus
+T28	Procedure 1490 1567	uniform enhancement of the gastrointestinal tract with no ischaemic component
+T29	Procedure 1890 1915	Cardiorespiratory support
+T30	Disease_disorder 70 84	cardiac arrest
+T31	Disease_disorder 428 440	arm injuries
+T32	Disease_disorder 432 440	injuries
+T33	Disease_disorder 449 468	motorcycle accident
+T34	Disease_disorder 460 468	accident
+T35	Disease_disorder 815 833	metabolic acidosis
+T36	Disease_disorder 825 833	acidosis
+T37	Disease_disorder 953 959	cavity
+T38	Disease_disorder 1056 1066	herniation
+T39	Disease_disorder 1336 1342	cavity
+T40	Disease_disorder 1365 1385	diaphragmatic hernia
+T41	Disease_disorder 1379 1385	hernia
+T42	Disease_disorder 1404 1435	gastric dilatation and volvulus
+T43	Disease_disorder 1412 1422	dilatation
+T44	Disease_disorder 1427 1435	volvulus
+T45	Disease_disorder 1625 1651	collapse of the right lung
+T46	Disease_disorder 1676 1702	midline shift of the heart
+T47	Disease_disorder 1812 1822	herniation
+T48	Disease_disorder 1843 1857	cardiac arrest
+T49	Disease_disorder 32 84	extremis following an out-of-hospital cardiac arrest
+T50	Disease_disorder 401 491	sustained significant left arm injuries after a motorcycle accident approximately 60 years
+T51	Disease_disorder 801 833	a significant metabolic acidosis
+T52	Disease_disorder 904 959	a gastric bubble and bowel loops in the thoracic cavity
+T53	Disease_disorder 1038 1066	the diaphragmatic herniation
+T54	Disease_disorder 1298 1342	large and small bowel in the thoracic cavity
+T55	Disease_disorder 1355 1385	a chronic diaphragmatic hernia
+T56	Disease_disorder 1397 1435	marked gastric dilatation and volvulus
+T57	Disease_disorder 1620 1651	some collapse of the right lung
+T58	Disease_disorder 1760 1822	the likely longstanding nature of his diaphragmatic herniation
+T59	Disease_disorder 1827 1857	his significant cardiac arrest
+T60	Sign_symptom 245 265	upper abdominal pain
+T61	Sign_symptom 251 265	abdominal pain
+T62	Sign_symptom 261 265	pain
+T63	Sign_symptom 335 343	vomiting
+T64	Sign_symptom 572 591	chest wall movement
+T65	Sign_symptom 583 591	movement
+T66	Sign_symptom 713 727	blood pressure
+T67	Sign_symptom 719 727	pressure
+T68	Sign_symptom 842 844	pH
+T69	Sign_symptom 1625 1633	collapse
+T70	Sign_symptom 232 287	non-specific upper abdominal pain for the last two days
+T71	Sign_symptom 558 591	no left-sided chest wall movement
+T72	Sign_symptom 678 727	an adrenaline infusion to maintain blood pressure
+T73	Sign_symptom 840 851	a pH of 6.8
+T74	Sign_symptom 1620 1651	some collapse of the right lung
+T75	Anatomical_structure 70 77	cardiac
+T76	Anatomical_structure 251 260	abdominal
+T77	Anatomical_structure 423 431	left arm
+T78	Anatomical_structure 428 431	arm
+T79	Anatomical_structure 572 582	chest wall
+T80	Anatomical_structure 572 577	chest
+T81	Anatomical_structure 713 718	blood
+T82	Anatomical_structure 733 742	abdominal
+T83	Anatomical_structure 773 787	Arterial blood
+T84	Anatomical_structure 773 781	Arterial
+T85	Anatomical_structure 782 787	blood
+T86	Anatomical_structure 879 884	chest
+T87	Anatomical_structure 906 913	gastric
+T88	Anatomical_structure 925 930	bowel
+T89	Anatomical_structure 944 959	thoracic cavity
+T90	Anatomical_structure 944 952	thoracic
+T91	Anatomical_structure 953 959	cavity
+T92	Anatomical_structure 1042 1055	diaphragmatic
+T93	Anatomical_structure 1144 1158	nasopharyngeal
+T94	Anatomical_structure 1246 1275	chest and abdomen (Figs 2 and
+T95	Anatomical_structure 1246 1263	chest and abdomen
+T96	Anatomical_structure 1246 1251	chest
+T97	Anatomical_structure 1256 1263	abdomen
+T98	Anatomical_structure 1288 1296	pancreas
+T99	Anatomical_structure 1298 1319	large and small bowel
+T100	Anatomical_structure 1308 1319	small bowel
+T101	Anatomical_structure 1314 1319	bowel
+T102	Anatomical_structure 1327 1342	thoracic cavity
+T103	Anatomical_structure 1327 1335	thoracic
+T104	Anatomical_structure 1336 1342	cavity
+T105	Anatomical_structure 1365 1378	diaphragmatic
+T106	Anatomical_structure 1404 1411	gastric
+T107	Anatomical_structure 1446 1453	pylorus
+T108	Anatomical_structure 1471 1478	abdomen
+T109	Anatomical_structure 1517 1539	gastrointestinal tract
+T110	Anatomical_structure 1573 1582	left lung
+T111	Anatomical_structure 1578 1582	lung
+T112	Anatomical_structure 1641 1651	right lung
+T113	Anatomical_structure 1647 1651	lung
+T114	Anatomical_structure 1697 1702	heart
+T115	Anatomical_structure 1798 1811	diaphragmatic
+T116	Anatomical_structure 1843 1850	cardiac

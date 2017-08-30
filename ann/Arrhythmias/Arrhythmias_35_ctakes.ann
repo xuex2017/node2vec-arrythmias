@@ -1,0 +1,77 @@
+T1	Procedure 265 317	cardiac facility for consideration of cardiac pacing
+T2	Procedure 303 317	cardiac pacing
+T3	Procedure 324 337	stabilization
+T4	Procedure 418 430	hemodialysis
+T5	Procedure 664 676	implantation
+T6	Procedure 734 746	construction
+T7	Procedure 868 880	hemodialysis
+T8	Procedure 925 933	dialysis
+T9	Procedure 950 958	venogram
+T10	Procedure 1028 1040	hemodialysis
+T11	Procedure 1150 1158	dialysis
+T12	Procedure 1305 1313	venogram
+T13	Procedure 1428 1440	hemodialysis
+T14	Procedure 1545 1553	dialysis
+T15	Procedure 240 354	a tertiary center with a cardiac facility for consideration of cardiac pacing after stabilization of hyperkaliemia
+T16	Procedure 648 676	One month after implantation
+T17	Procedure 919 941	every dialysis session
+T18	Procedure 943 958	A left venogram
+T19	Procedure 1022 1063	Hence hemodialysis through the left RCAVF
+T20	Procedure 1124 1165	a right IJC for temporary dialysis access
+T21	Procedure 1288 1313	A repeat central venogram
+T22	Procedure 1382 1440	low blood flow through the right RCAVF during hemodialysis
+T23	Procedure 1494 1574	a new right brachiocephalic fistula with temporary dialysis through the left IJC
+T24	Disease_disorder 205 216	bradycardia
+T25	Disease_disorder 704 725	arteriovenous fistula
+T26	Disease_disorder 718 725	fistula
+T27	Disease_disorder 985 994	occlusion
+T28	Disease_disorder 1323 1332	occlusion
+T29	Disease_disorder 1522 1529	fistula
+T30	Disease_disorder 1848 1852	arms
+T31	Disease_disorder 182 216	symptomatic junctional bradycardia
+T32	Disease_disorder 685 725	left radiocephalic arteriovenous fistula
+T33	Disease_disorder 966 1020	left axillary vein occlusion with collateral formation
+T34	Disease_disorder 1323 1357	occlusion of both subclavian veins
+T35	Disease_disorder 1494 1574	a new right brachiocephalic fistula with temporary dialysis through the left IJC
+T36	Disease_disorder 1827 1852	The swelling in both arms
+T37	Sign_symptom 50 58	fainting
+T38	Sign_symptom 133 147	renal function
+T39	Sign_symptom 760 791	swelling of the left upper limb
+T40	Sign_symptom 760 768	swelling
+T41	Sign_symptom 895 903	swelling
+T42	Sign_symptom 985 994	occlusion
+T43	Sign_symptom 1323 1332	occlusion
+T44	Sign_symptom 1386 1396	blood flow
+T45	Sign_symptom 1831 1839	swelling
+T46	Sign_symptom 48 91	a fainting episode to a peripheral hospital
+T47	Sign_symptom 133 165	renal function and hyperkaliemia
+T48	Sign_symptom 760 800	swelling of the left upper limb one week
+T49	Sign_symptom 891 903	the swelling
+T50	Sign_symptom 966 1020	left axillary vein occlusion with collateral formation
+T51	Sign_symptom 1323 1357	occlusion of both subclavian veins
+T52	Sign_symptom 1382 1440	low blood flow through the right RCAVF during hemodialysis
+T53	Sign_symptom 1827 1852	The swelling in both arms
+T54	Anatomical_structure 133 138	renal
+T55	Anatomical_structure 265 272	cardiac
+T56	Anatomical_structure 303 310	cardiac
+T57	Anatomical_structure 364 385	internal jugular vein
+T58	Anatomical_structure 373 385	jugular vein
+T59	Anatomical_structure 381 385	vein
+T60	Anatomical_structure 633 646	cephalic vein
+T61	Anatomical_structure 642 646	vein
+T62	Anatomical_structure 781 791	upper limb
+T63	Anatomical_structure 787 791	limb
+T64	Anatomical_structure 971 984	axillary vein
+T65	Anatomical_structure 971 979	axillary
+T66	Anatomical_structure 980 984	vein
+T67	Anatomical_structure 1000 1010	collateral
+T68	Anatomical_structure 1171 1184	radial artery
+T69	Anatomical_structure 1178 1184	artery
+T70	Anatomical_structure 1247 1257	upper limb
+T71	Anatomical_structure 1253 1257	limb
+T72	Anatomical_structure 1341 1357	subclavian veins
+T73	Anatomical_structure 1352 1357	veins
+T74	Anatomical_structure 1386 1391	blood
+T75	Anatomical_structure 1688 1703	subclavian vein
+T76	Anatomical_structure 1699 1703	vein
+T77	Anatomical_structure 1848 1852	arms

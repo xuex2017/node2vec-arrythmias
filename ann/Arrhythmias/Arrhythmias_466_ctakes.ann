@@ -1,0 +1,481 @@
+T1	Procedure 1415 1431	genetic analysis
+T2	Procedure 1423 1431	analysis
+T3	Procedure 1780 1810	transthoracic echocardiography
+T4	Procedure 1794 1810	echocardiography
+T5	Procedure 1901 1912	dilatations
+T6	Procedure 2037 2061	neurological examination
+T7	Procedure 2819 2834	creatine kinase
+T8	Procedure 2913 2926	muscle biopsy
+T9	Procedure 2920 2926	biopsy
+T10	Procedure 2945 2955	tomography
+T11	Procedure 2956 2960	scan
+T12	Procedure 3374 3388	electromyogram
+T13	Procedure 3592 3600	analysis
+T14	Procedure 3795 3817	differential diagnosis
+T15	Procedure 4005 4014	phenotype
+T16	Procedure 4089 4097	analysis
+T17	Procedure 4350 4357	protein
+T18	Procedure 4433 4449	genetic analysis
+T19	Procedure 4441 4449	analysis
+T20	Procedure 4697 4706	phenotype
+T21	Procedure 5384 5393	phenotype
+T22	Procedure 5712 5734	nerve conduction study
+T23	Procedure 5768 5777	phenotype
+T24	Procedure 6238 6246	analysis
+T25	Procedure 6831 6838	protein
+T26	Procedure 7173 7181	analysis
+T27	Procedure 7199 7222	gene (LMNA). Sequencing
+T28	Procedure 7434 7443	phenotype
+T29	Procedure 7900 7910	expression
+T30	Procedure 9251 9260	phenotype
+T31	Procedure 9451 9460	phenotype
+T32	Procedure 1413 1431	a genetic analysis
+T33	Procedure 1780 1810	transthoracic echocardiography
+T34	Procedure 1875 1912	no ventricular and atrial dilatations
+T35	Procedure 2035 2061	A neurological examination
+T36	Procedure 2911 2926	a muscle biopsy
+T37	Procedure 2928 2960	A brain computed tomography scan
+T38	Procedure 3367 3388	Needle electromyogram
+T39	Procedure 3587 3600	gene analysis
+T40	Procedure 3793 3817	a differential diagnosis
+T41	Procedure 4001 4050	SMA phenotype with cardiac involvement in Germany
+T42	Procedure 4080 4174	sequence analysis of LMNA gait disturbance AV block ischemic stroke hypertension P probandgene
+T43	Procedure 4332 4377	truncated lamin A protein lacking tail domain
+T44	Procedure 4348 4415	A protein lacking tail domain including nuclear localization signal
+T45	Procedure 4429 4449	The genetic analysis
+T46	Procedure 5359 5412	the second report of SMA phenotype with LMNA mutation
+T47	Procedure 5700 5734	findings of nerve conduction study
+T48	Procedure 5755 5777	proximal SMA phenotype
+T49	Procedure 6231 6276	a meta-analysis of carriers of LMNA mutations
+T50	Procedure 6827 6838	The protein
+T51	Procedure 7162 7194	LaminsGene analysis of the lamin
+T52	Procedure 7197 7245	C gene (LMNA). Sequencing of LMNA in our patient
+T53	Procedure 7895 7910	gene expression
+T54	Procedure 9238 9260	proximal SMA phenotype
+T55	Procedure 9440 9506	A combined phenotype with cardiac complications such as arrhythmia
+T56	Disease_disorder 144 154	amyotrophy
+T57	Disease_disorder 563 582	atrial fibrillation
+T58	Disease_disorder 570 582	fibrillation
+T59	Disease_disorder 606 637	complete atrioventricular block
+T60	Disease_disorder 615 637	atrioventricular block
+T61	Disease_disorder 632 637	block
+T62	Disease_disorder 715 727	hypertension
+T63	Disease_disorder 772 789	cerebral embolism
+T64	Disease_disorder 781 789	embolism
+T65	Disease_disorder 989 1011	atrioventricular block
+T66	Disease_disorder 1006 1011	block
+T67	Disease_disorder 1049 1056	disease
+T68	Disease_disorder 1067 1078	progression
+T69	Disease_disorder 1176 1198	atrioventricular block
+T70	Disease_disorder 1193 1198	block
+T71	Disease_disorder 1382 1391	condition
+T72	Disease_disorder 1459 1471	hypertension
+T73	Disease_disorder 1476 1491	ischemic stroke
+T74	Disease_disorder 1485 1491	stroke
+T75	Disease_disorder 1575 1590	cardiac disease
+T76	Disease_disorder 1583 1590	disease
+T77	Disease_disorder 2119 2128	pes cavus
+T78	Disease_disorder 2269 2279	impairment
+T79	Disease_disorder 2303 2314	contracture
+T80	Disease_disorder 2416 2431	ischemic stroke
+T81	Disease_disorder 2425 2431	stroke
+T82	Disease_disorder 2610 2635	mild cognitive impairment
+T83	Disease_disorder 2615 2635	cognitive impairment
+T84	Disease_disorder 2625 2635	impairment
+T85	Disease_disorder 2709 2716	Battery
+T86	Disease_disorder 3021 3028	atrophy
+T87	Disease_disorder 3493 3505	degeneration
+T88	Disease_disorder 3661 3677	muscular atrophy
+T89	Disease_disorder 3670 3677	atrophy
+T90	Disease_disorder 3692 3706	cardiomyopathy
+T91	Disease_disorder 3746 3783	inherited Charcot-Marie-Tooth disease
+T92	Disease_disorder 3756 3783	Charcot-Marie-Tooth disease
+T93	Disease_disorder 3764 3783	Marie-Tooth disease
+T94	Disease_disorder 3770 3783	Tooth disease
+T95	Disease_disorder 3776 3783	disease
+T96	Disease_disorder 4123 4131	AV block
+T97	Disease_disorder 4126 4131	block
+T98	Disease_disorder 4132 4147	ischemic stroke
+T99	Disease_disorder 4141 4147	stroke
+T100	Disease_disorder 4148 4160	hypertension
+T101	Disease_disorder 4188 4205	nonsense mutation
+T102	Disease_disorder 4225 4226	T
+T103	Disease_disorder 4768 4785	nonsense mutation
+T104	Disease_disorder 4803 4804	T
+T105	Disease_disorder 4860 4861	T
+T106	Disease_disorder 4901 4919	muscular dystrophy
+T107	Disease_disorder 4910 4919	dystrophy
+T108	Disease_disorder 4924 4954	limb-girdle muscular dystrophy
+T109	Disease_disorder 4936 4954	muscular dystrophy
+T110	Disease_disorder 4945 4954	dystrophy
+T111	Disease_disorder 5040 5056	cardiac diseases
+T112	Disease_disorder 5048 5056	diseases
+T113	Disease_disorder 5065 5087	atrioventricular block
+T114	Disease_disorder 5082 5087	block
+T115	Disease_disorder 5199 5215	cardiac diseases
+T116	Disease_disorder 5207 5215	diseases
+T117	Disease_disorder 5314 5326	heart attack
+T118	Disease_disorder 5495 5541	cardiac diseases including atrial fibrillation
+T119	Disease_disorder 5495 5511	cardiac diseases
+T120	Disease_disorder 5503 5511	diseases
+T121	Disease_disorder 5522 5541	atrial fibrillation
+T122	Disease_disorder 5529 5541	fibrillation
+T123	Disease_disorder 5543 5565	atrioventricular block
+T124	Disease_disorder 5560 5565	block
+T125	Disease_disorder 5578 5589	dysfunction
+T126	Disease_disorder 5603 5613	Amyotrophy
+T127	Disease_disorder 5685 5695	amyotrophy
+T128	Disease_disorder 5860 5871	cardiopathy
+T129	Disease_disorder 5947 5964	nonsense mutation
+T130	Disease_disorder 5984 5985	T
+T131	Disease_disorder 6019 6036	nonsense mutation
+T132	Disease_disorder 6278 6290	sudden death
+T133	Disease_disorder 6333 6349	cardiac diseases
+T134	Disease_disorder 6341 6349	diseases
+T135	Disease_disorder 6365 6387	neuromuscular diseases
+T136	Disease_disorder 6379 6387	diseases
+T137	Disease_disorder 6430 6450	cardiac dysrhythmias
+T138	Disease_disorder 6507 6520	heart failure
+T139	Disease_disorder 7267 7284	nonsense mutation
+T140	Disease_disorder 7404 7427	spinal muscular atrophy
+T141	Disease_disorder 7411 7427	muscular atrophy
+T142	Disease_disorder 7420 7427	atrophy
+T143	Disease_disorder 7622 7656	neuromuscular and cardiac diseases
+T144	Disease_disorder 7640 7656	cardiac diseases
+T145	Disease_disorder 7648 7656	diseases
+T146	Disease_disorder 7665 7692	Charcot-Marie-Tooth disease
+T147	Disease_disorder 7673 7692	Marie-Tooth disease
+T148	Disease_disorder 7679 7692	Tooth disease
+T149	Disease_disorder 7685 7692	disease
+T150	Disease_disorder 7712 7734	dilated cardiomyopathy
+T151	Disease_disorder 7720 7734	cardiomyopathy
+T152	Disease_disorder 7757 7775	muscular dystrophy
+T153	Disease_disorder 7766 7775	dystrophy
+T154	Disease_disorder 7787 7817	limb-girdle muscular dystrophy
+T155	Disease_disorder 7799 7817	muscular dystrophy
+T156	Disease_disorder 7808 7817	dystrophy
+T157	Disease_disorder 7969 7978	disorders
+T158	Disease_disorder 8033 8042	disorders
+T159	Disease_disorder 8120 8138	muscular dystrophy
+T160	Disease_disorder 8129 8138	dystrophy
+T161	Disease_disorder 8174 8204	Limb-girdle muscular dystrophy
+T162	Disease_disorder 8186 8204	muscular dystrophy
+T163	Disease_disorder 8195 8204	dystrophy
+T164	Disease_disorder 8218 8240	Dilated cardiomyopathy
+T165	Disease_disorder 8226 8240	cardiomyopathy
+T166	Disease_disorder 8457 8465	diseases
+T167	Disease_disorder 8963 8995	motor-dominant axonal neuropathy
+T168	Disease_disorder 8978 8995	axonal neuropathy
+T169	Disease_disorder 8985 8995	neuropathy
+T170	Disease_disorder 9219 9229	amyotrophy
+T171	Disease_disorder 9399 9409	amyotrophy
+T172	Disease_disorder 9466 9506	cardiac complications such as arrhythmia
+T173	Disease_disorder 9496 9506	arrhythmia
+T174	Disease_disorder 9511 9525	cardiomyopathy
+T175	Disease_disorder 9603 9613	amyotrophy
+T176	Disease_disorder 9650 9662	degeneration
+T177	Disease_disorder 9750 9760	neuropathy
+T178	Disease_disorder 144 169	amyotrophy of lower limbs
+T179	Disease_disorder 550 582	a history of atrial fibrillation
+T180	Disease_disorder 563 601	atrial fibrillation at 43 years of age
+T181	Disease_disorder 606 649	complete atrioventricular block at 45 years
+T182	Disease_disorder 715 747	hypertension since the age of 57
+T183	Disease_disorder 757 808	two attacks of cerebral embolism in the last decade
+T184	Disease_disorder 989 1011	atrioventricular block
+T185	Disease_disorder 1022 1062	no detailed information on disease onset
+T186	Disease_disorder 1176 1198	atrioventricular block
+T187	Disease_disorder 1345 1391	our hospital because of her physical condition
+T188	Disease_disorder 1476 1491	ischemic stroke
+T189	Disease_disorder 1575 1590	cardiac disease
+T190	Disease_disorder 2071 2128	significant muscle weakness in lower limbs with pes cavus
+T191	Disease_disorder 2258 2279	swallowing impairment
+T192	Disease_disorder 2292 2314	Mild joint contracture
+T193	Disease_disorder 2391 2431	the left side because of ischemic stroke
+T194	Disease_disorder 2610 2635	mild cognitive impairment
+T195	Disease_disorder 2690 2731	Frontal Assessment Battery score of 12/18
+T196	Disease_disorder 3009 3028	hippocampal atrophy
+T197	Disease_disorder 3493 3528	degeneration of lower motor neurons
+T198	Disease_disorder 3649 3677	Early-onset muscular atrophy
+T199	Disease_disorder 3727 3783	the possibility of inherited Charcot-Marie-Tooth disease
+T200	Disease_disorder 4080 4174	sequence analysis of LMNA gait disturbance AV block ischemic stroke hypertension P probandgene
+T201	Disease_disorder 4180 4205	a novel nonsense mutation
+T202	Disease_disorder 4744 4791	one family with a novel nonsense mutation Q493X
+T203	Disease_disorder 4887 4919	EmeryDreifuss muscular dystrophy
+T204	Disease_disorder 4924 4957	limb-girdle muscular dystrophy 1B
+T205	Disease_disorder 5040 5095	cardiac diseases such as atrioventricular block and DCM
+T206	Disease_disorder 5199 5215	cardiac diseases
+T207	Disease_disorder 5314 5345	heart attack in their 40's-50's
+T208	Disease_disorder 5495 5541	cardiac diseases including atrial fibrillation
+T209	Disease_disorder 5543 5565	atrioventricular block
+T210	Disease_disorder 5570 5601	cardiac dysfunction in maturity
+T211	Disease_disorder 5664 5695	This distribution of amyotrophy
+T212	Disease_disorder 5939 5964	a novel nonsense mutation
+T213	Disease_disorder 6010 6036	general, nonsense mutation
+T214	Disease_disorder 6307 6349	46% in both patients with cardiac diseases
+T215	Disease_disorder 6354 6387	those with neuromuscular diseases
+T216	Disease_disorder 6430 6499	cardiac dysrhythmias in 92% of the patients after the age of 30 years
+T217	Disease_disorder 7252 7284	a heterozygous nonsense mutation
+T218	Disease_disorder 7404 7427	spinal muscular atrophy
+T219	Disease_disorder 7607 7701	a hot spot for neuromuscular and cardiac diseases such as Charcot-Marie-Tooth disease type 2B1
+T220	Disease_disorder 7712 7734	dilated cardiomyopathy
+T221	Disease_disorder 7742 7775	Emery-Dreifuss muscular dystrophy
+T222	Disease_disorder 7787 7817	limb-girdle muscular dystrophy
+T223	Disease_disorder 7953 8004	several genetic disorders with different phenotypes
+T224	Disease_disorder 8027 8042	These disorders
+T225	Disease_disorder 8111 8138	Dreifuss muscular dystrophy
+T226	Disease_disorder 8174 8207	Limb-girdle muscular dystrophy 1B
+T227	Disease_disorder 8218 8264	Dilated cardiomyopathy with conduction defects
+T228	Disease_disorder 8451 8465	These diseases
+T229	Disease_disorder 8954 8995	manifest motor-dominant axonal neuropathy
+T230	Disease_disorder 9199 9229	the distribution of amyotrophy
+T231	Disease_disorder 9440 9506	A combined phenotype with cardiac complications such as arrhythmia
+T232	Disease_disorder 9603 9631	amyotrophy in proximal limbs
+T233	Disease_disorder 9650 9709	degeneration of neurons in the anterior horn of spinal cord
+T234	Disease_disorder 9750 9800	neuropathy and neuronopathy of lower motor neurons
+T235	Sign_symptom 123 139	gait disturbance
+T236	Sign_symptom 123 127	gait
+T237	Sign_symptom 320 327	walking
+T238	Sign_symptom 455 464	diagnosis
+T239	Sign_symptom 552 562	history of
+T240	Sign_symptom 552 559	history
+T241	Sign_symptom 781 789	embolism
+T242	Sign_symptom 911 927	gait disturbance
+T243	Sign_symptom 911 915	gait
+T244	Sign_symptom 1139 1155	gait disturbance
+T245	Sign_symptom 1139 1143	gait
+T246	Sign_symptom 1252 1267	muscle weakness
+T247	Sign_symptom 1259 1267	weakness
+T248	Sign_symptom 1554 1570	gait disturbance
+T249	Sign_symptom 1554 1558	gait
+T250	Sign_symptom 1634 1642	marriage
+T251	Sign_symptom 1685 1701	pacemaker rhythm
+T252	Sign_symptom 1708 1722	blood pressure
+T253	Sign_symptom 1714 1722	pressure
+T254	Sign_symptom 1826 1869	cardiac hypofunction with ejection fraction
+T255	Sign_symptom 1852 1860	ejection
+T256	Sign_symptom 1965 1973	ejection
+T257	Sign_symptom 2083 2098	muscle weakness
+T258	Sign_symptom 2090 2098	weakness
+T259	Sign_symptom 2144 2159	muscle weakness
+T260	Sign_symptom 2151 2159	weakness
+T261	Sign_symptom 2223 2238	Muscle weakness
+T262	Sign_symptom 2230 2238	weakness
+T263	Sign_symptom 2353 2368	Muscle weakness
+T264	Sign_symptom 2360 2368	weakness
+T265	Sign_symptom 2434 2447	Fasciculation
+T266	Sign_symptom 2486 2494	reflexes
+T267	Sign_symptom 2690 2722	Frontal Assessment Battery score
+T268	Sign_symptom 2864 2870	normal
+T269	Sign_symptom 3167 3186	conduction velocity
+T270	Sign_symptom 3219 3220	F
+T271	Sign_symptom 3265 3276	persistence
+T272	Sign_symptom 3295 3311	nerve conduction
+T273	Sign_symptom 3549 3558	diagnosis
+T274	Sign_symptom 3808 3817	diagnosis
+T275	Sign_symptom 3937 3948	responsible
+T276	Sign_symptom 3968 3977	mutations
+T277	Sign_symptom 4106 4122	gait disturbance
+T278	Sign_symptom 4106 4110	gait
+T279	Sign_symptom 4197 4205	mutation
+T280	Sign_symptom 4717 4726	mutations
+T281	Sign_symptom 4777 4785	mutation
+T282	Sign_symptom 4834 4842	mutation
+T283	Sign_symptom 4993 5002	mutations
+T284	Sign_symptom 5143 5159	gait disturbance
+T285	Sign_symptom 5143 5147	gait
+T286	Sign_symptom 5320 5326	attack
+T287	Sign_symptom 5404 5412	mutation
+T288	Sign_symptom 5433 5448	muscle weakness
+T289	Sign_symptom 5440 5448	weakness
+T290	Sign_symptom 5712 5728	nerve conduction
+T291	Sign_symptom 5886 5902	gait disturbance
+T292	Sign_symptom 5886 5890	gait
+T293	Sign_symptom 5956 5964	mutation
+T294	Sign_symptom 6028 6036	mutation
+T295	Sign_symptom 6168 6185	muscular weakness
+T296	Sign_symptom 6177 6185	weakness
+T297	Sign_symptom 6267 6276	mutations
+T298	Sign_symptom 6285 6290	death
+T299	Sign_symptom 6390 6419	Electrocardiographic findings
+T300	Sign_symptom 6605 6614	mutations
+T301	Sign_symptom 6749 6757	splicing
+T302	Sign_symptom 7276 7284	mutation
+T303	Sign_symptom 7350 7359	mutations
+T304	Sign_symptom 7458 7467	mutations
+T305	Sign_symptom 7540 7549	mutations
+T306	Sign_symptom 7895 7910	gene expression
+T307	Sign_symptom 7900 7910	expression
+T308	Sign_symptom 7917 7926	mutations
+T309	Sign_symptom 8364 8371	nervous
+T310	Sign_symptom 8398 8407	mutations
+T311	Sign_symptom 9028 9037	mutations
+T312	Sign_symptom 9275 9284	mutations
+T313	Sign_symptom 9376 9394	deep tendon reflex
+T314	Sign_symptom 9381 9394	tendon reflex
+T315	Sign_symptom 9388 9394	reflex
+T316	Sign_symptom 9588 9597	mutations
+T317	Sign_symptom 123 139	gait disturbance
+T318	Sign_symptom 441 464	no reasonable diagnosis
+T319	Sign_symptom 550 582	a history of atrial fibrillation
+T320	Sign_symptom 757 808	two attacks of cerebral embolism in the last decade
+T321	Sign_symptom 911 927	gait disturbance
+T322	Sign_symptom 1139 1171	gait disturbance since childhood
+T323	Sign_symptom 1240 1284	more severe muscle weakness than the patient
+T324	Sign_symptom 1551 1570	no gait disturbance
+T325	Sign_symptom 1616 1642	no consanguineous marriage
+T326	Sign_symptom 1685 1702	pacemaker rhythm)
+T327	Sign_symptom 1708 1722	blood pressure
+T328	Sign_symptom 1818 1873	diffuse cardiac hypofunction with ejection fraction 42%
+T329	Sign_symptom 1961 1982	his ejection fraction
+T330	Sign_symptom 2071 2128	significant muscle weakness in lower limbs with pes cavus
+T331	Sign_symptom 2130 2159	The extent of muscle weakness
+T332	Sign_symptom 2223 2253	Muscle weakness in upper limbs
+T333	Sign_symptom 2353 2368	Muscle weakness
+T334	Sign_symptom 2475 2494	His tendon reflexes
+T335	Sign_symptom 2690 2731	Frontal Assessment Battery score of 12/18
+T336	Sign_symptom 3100 3186	low amplitude compound muscle action potential with no decrease in conduction velocity
+T337	Sign_symptom 3210 3254	repeater F waves in median and tibial nerves
+T338	Sign_symptom 3261 3276	low persistence
+T339	Sign_symptom 3287 3353	sensory nerve conduction studies of median, ulnar and sural nerves
+T340	Sign_symptom 3535 3572	a presumptive diagnosis of SMA type 3
+T341	Sign_symptom 3793 3817	a differential diagnosis
+T342	Sign_symptom 3924 3961	, within the responsible genes of CMT
+T343	Sign_symptom 3963 3977	LMNA mutations
+T344	Sign_symptom 4080 4174	sequence analysis of LMNA gait disturbance AV block ischemic stroke hypertension P probandgene
+T345	Sign_symptom 4180 4205	a novel nonsense mutation
+T346	Sign_symptom 4744 4791	one family with a novel nonsense mutation Q493X
+T347	Sign_symptom 4810 4857	the other with missense mutation R377H (c.1130G
+T348	Sign_symptom 4988 5002	LMNA mutations
+T349	Sign_symptom 5134 5192	onset of gait disturbance from early adulthood to maturity
+T350	Sign_symptom 5314 5345	heart attack in their 40's-50's
+T351	Sign_symptom 5359 5412	the second report of SMA phenotype with LMNA mutation
+T352	Sign_symptom 5433 5485	muscle weakness of lower limbs since early childhood
+T353	Sign_symptom 5700 5734	findings of nerve conduction study
+T354	Sign_symptom 5882 5902	the gait disturbance
+T355	Sign_symptom 5939 5964	a novel nonsense mutation
+T356	Sign_symptom 6010 6036	general, nonsense mutation
+T357	Sign_symptom 6165 6185	no muscular weakness
+T358	Sign_symptom 6231 6276	a meta-analysis of carriers of LMNA mutations
+T359	Sign_symptom 6278 6290	sudden death
+T360	Sign_symptom 6581 6614	28% of carriers of LMNA mutations
+T361	Sign_symptom 6725 6757	lamin C via alternative splicing
+T362	Sign_symptom 7252 7284	a heterozygous nonsense mutation
+T363	Sign_symptom 7333 7384	the positions of mutations in various laminopathies
+T364	Sign_symptom 7445 7467	two of three mutations
+T365	Sign_symptom 7536 7576	the mutations positions of laminopathies
+T366	Sign_symptom 7895 7910	gene expression
+T367	Sign_symptom 7912 7926	LMNA mutations
+T368	Sign_symptom 8349 8378	the peripheral nervous system
+T369	Sign_symptom 9015 9047	several gene mutations with CMT2
+T370	Sign_symptom 9262 9292	Two missense mutations of LMNA
+T371	Sign_symptom 9366 9394	abolished deep tendon reflex
+T372	Sign_symptom 9555 9597	some cases of CMT2B1 due to LMNA mutations
+T373	Anatomical_structure 158 169	lower limbs
+T374	Anatomical_structure 164 169	limbs
+T375	Anatomical_structure 563 569	atrial
+T376	Anatomical_structure 772 780	cerebral
+T377	Anatomical_structure 1252 1258	muscle
+T378	Anatomical_structure 1575 1582	cardiac
+T379	Anatomical_structure 1662 1667	heart
+T380	Anatomical_structure 1708 1713	blood
+T381	Anatomical_structure 1826 1833	cardiac
+T382	Anatomical_structure 1894 1900	atrial
+T383	Anatomical_structure 2083 2089	muscle
+T384	Anatomical_structure 2102 2113	lower limbs
+T385	Anatomical_structure 2108 2113	limbs
+T386	Anatomical_structure 2144 2150	muscle
+T387	Anatomical_structure 2209 2220	lower limbs
+T388	Anatomical_structure 2215 2220	limbs
+T389	Anatomical_structure 2223 2229	Muscle
+T390	Anatomical_structure 2242 2253	upper limbs
+T391	Anatomical_structure 2248 2253	limbs
+T392	Anatomical_structure 2297 2302	joint
+T393	Anatomical_structure 2335 2345	right knee
+T394	Anatomical_structure 2341 2351	knee joint
+T395	Anatomical_structure 2341 2345	knee
+T396	Anatomical_structure 2346 2351	joint
+T397	Anatomical_structure 2353 2359	Muscle
+T398	Anatomical_structure 2469 2473	legs
+T399	Anatomical_structure 2479 2485	tendon
+T400	Anatomical_structure 2551 2560	autonomic
+T401	Anatomical_structure 2749 2754	blood
+T402	Anatomical_structure 2913 2919	muscle
+T403	Anatomical_structure 2930 2935	brain
+T404	Anatomical_structure 2983 2991	cerebral
+T405	Anatomical_structure 3009 3020	hippocampal
+T406	Anatomical_structure 3080 3092	tibial nerve
+T407	Anatomical_structure 3087 3092	nerve
+T408	Anatomical_structure 3123 3129	muscle
+T409	Anatomical_structure 3230 3254	median and tibial nerves
+T410	Anatomical_structure 3241 3254	tibial nerves
+T411	Anatomical_structure 3295 3300	nerve
+T412	Anatomical_structure 3323 3353	median, ulnar and sural nerves
+T413	Anatomical_structure 3331 3353	ulnar and sural nerves
+T414	Anatomical_structure 3331 3336	ulnar
+T415	Anatomical_structure 3341 3353	sural nerves
+T416	Anatomical_structure 3441 3452	lower limbs
+T417	Anatomical_structure 3447 3452	limbs
+T418	Anatomical_structure 3515 3528	motor neurons
+T419	Anatomical_structure 3521 3528	neurons
+T420	Anatomical_structure 3661 3669	muscular
+T421	Anatomical_structure 3770 3775	Tooth
+T422	Anatomical_structure 3862 3869	cardiac
+T423	Anatomical_structure 4020 4027	cardiac
+T424	Anatomical_structure 4280 4283	rod
+T425	Anatomical_structure 4366 4370	tail
+T426	Anatomical_structure 4901 4909	muscular
+T427	Anatomical_structure 4924 4928	limb
+T428	Anatomical_structure 4936 4944	muscular
+T429	Anatomical_structure 5040 5047	cardiac
+T430	Anatomical_structure 5199 5206	cardiac
+T431	Anatomical_structure 5314 5319	heart
+T432	Anatomical_structure 5433 5439	muscle
+T433	Anatomical_structure 5452 5463	lower limbs
+T434	Anatomical_structure 5458 5463	limbs
+T435	Anatomical_structure 5495 5502	cardiac
+T436	Anatomical_structure 5522 5528	atrial
+T437	Anatomical_structure 5570 5577	cardiac
+T438	Anatomical_structure 5637 5648	lower limbs
+T439	Anatomical_structure 5643 5648	limbs
+T440	Anatomical_structure 5657 5662	trunk
+T441	Anatomical_structure 5712 5717	nerve
+T442	Anatomical_structure 6168 6176	muscular
+T443	Anatomical_structure 6333 6340	cardiac
+T444	Anatomical_structure 6430 6437	cardiac
+T445	Anatomical_structure 6507 6512	heart
+T446	Anatomical_structure 6803 6825	intermediate filaments
+T447	Anatomical_structure 6865 6869	head
+T448	Anatomical_structure 6910 6913	rod
+T449	Anatomical_structure 6939 6943	tail
+T450	Anatomical_structure 6994 7001	nucleus
+T451	Anatomical_structure 7020 7025	cells
+T452	Anatomical_structure 7065 7079	nuclear lamina
+T453	Anatomical_structure 7137 7145	skeleton
+T454	Anatomical_structure 7411 7419	muscular
+T455	Anatomical_structure 7487 7490	rod
+T456	Anatomical_structure 7582 7585	rod
+T457	Anatomical_structure 7640 7647	cardiac
+T458	Anatomical_structure 7679 7684	Tooth
+T459	Anatomical_structure 7757 7765	muscular
+T460	Anatomical_structure 7787 7791	limb
+T461	Anatomical_structure 7799 7807	muscular
+T462	Anatomical_structure 8120 8128	muscular
+T463	Anatomical_structure 8174 8178	Limb
+T464	Anatomical_structure 8186 8194	muscular
+T465	Anatomical_structure 8329 8337	muscular
+T466	Anatomical_structure 8353 8378	peripheral nervous system
+T467	Anatomical_structure 8364 8378	nervous system
+T468	Anatomical_structure 8556 8560	hand
+T469	Anatomical_structure 9381 9387	tendon
+T470	Anatomical_structure 9427 9438	lower limbs
+T471	Anatomical_structure 9433 9438	limbs
+T472	Anatomical_structure 9466 9473	cardiac
+T473	Anatomical_structure 9626 9631	limbs
+T474	Anatomical_structure 9666 9673	neurons
+T475	Anatomical_structure 9681 9694	anterior horn
+T476	Anatomical_structure 9690 9694	horn
+T477	Anatomical_structure 9698 9709	spinal cord
+T478	Anatomical_structure 9787 9800	motor neurons
+T479	Anatomical_structure 9793 9800	neurons
+T480	Medication 7609 7617	hot spot
+T481	Medication 7607 7701	a hot spot for neuromuscular and cardiac diseases such as Charcot-Marie-Tooth disease type 2B1

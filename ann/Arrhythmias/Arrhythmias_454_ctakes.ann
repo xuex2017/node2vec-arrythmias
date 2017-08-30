@@ -1,0 +1,92 @@
+T1	Procedure 164 181	electrocardiogram
+T2	Procedure 183 186	ECG
+T3	Procedure 278 281	ECT
+T4	Procedure 320 323	ECG
+T5	Procedure 325 342	oxygen saturation
+T6	Procedure 482 500	General anesthesia
+T7	Procedure 490 500	anesthesia
+T8	Procedure 650 653	ECT
+T9	Procedure 665 668	ECT
+T10	Procedure 768 771	EEG
+T11	Procedure 1147 1157	anesthesia
+T12	Procedure 1310 1313	ECT
+T13	Procedure 1360 1370	treatments
+T14	Procedure 1422 1425	ECG
+T15	Procedure 1586 1589	ECG
+T16	Procedure 1629 1671	Ambulatory electrocardiographic monitoring
+T17	Procedure 1640 1671	electrocardiographic monitoring
+T18	Procedure 1925 1928	CBC
+T19	Procedure 1939 1952	thyroid panel
+T20	Procedure 2049 2058	elevation
+T21	Procedure 152 181	Her pre-ECT electrocardiogram
+T22	Procedure 254 281	the time of her initial ECT
+T23	Procedure 309 323	continuous ECG
+T24	Procedure 482 500	General anesthesia
+T25	Procedure 641 662	standard ECT protocol
+T26	Procedure 665 745	ECT with right unilateral electrode placement with an ultra-brief pulse stimulus
+T27	Procedure 768 785	EEG seizures that
+T28	Procedure 1133 1170	recovery from anesthesia, the patient
+T29	Procedure 1310 1331	ECT with the protocol
+T30	Procedure 1352 1370	13 more treatments
+T31	Procedure 1412 1471	transient ECG features of IVCD associated with HR above 100
+T32	Procedure 1576 1589	A 12-lead ECG
+T33	Procedure 1603 1671	LBBB at a HR of 112 BPM . Ambulatory electrocardiographic monitoring
+T34	Procedure 1916 1928	a normal CBC
+T35	Procedure 2046 2068	an elevation of the HR
+T36	Disease_disorder 26 51	major depressive disorder
+T37	Disease_disorder 32 51	depressive disorder
+T38	Disease_disorder 43 51	disorder
+T39	Disease_disorder 208 213	sinus
+T40	Disease_disorder 1500 1504	LBBB
+T41	Disease_disorder 1603 1607	LBBB
+T42	Disease_disorder 1871 1888	sinus tachycardia
+T43	Disease_disorder 1871 1876	sinus
+T44	Disease_disorder 1893 1897	LBBB
+T45	Disease_disorder 2015 2019	LBBB
+T46	Disease_disorder 2025 2029	LBBB
+T47	Disease_disorder 0 81	A 44-year-old female with major depressive disorder with psychotic features which
+T48	Disease_disorder 201 220	normal sinus rhythm
+T49	Disease_disorder 1603 1671	LBBB at a HR of 112 BPM . Ambulatory electrocardiographic monitoring
+T50	Disease_disorder 1824 1888	100 BPM (Figures 5 and 6). Secondary causes of sinus tachycardia
+T51	Disease_disorder 2002 2019	rate-related LBBB
+T52	Disease_disorder 2023 2029	a LBBB
+T53	Sign_symptom 14 20	female
+T54	Sign_symptom 57 66	psychotic
+T55	Sign_symptom 164 181	electrocardiogram
+T56	Sign_symptom 201 220	normal sinus rhythm
+T57	Sign_symptom 201 207	normal
+T58	Sign_symptom 208 220	sinus rhythm
+T59	Sign_symptom 348 362	blood pressure
+T60	Sign_symptom 354 362	pressure
+T61	Sign_symptom 364 366	BP
+T62	Sign_symptom 384 395	vital signs
+T63	Sign_symptom 421 427	normal
+T64	Sign_symptom 490 500	anesthesia
+T65	Sign_symptom 543 552	paralysis
+T66	Sign_symptom 622 632	hypocapnia
+T67	Sign_symptom 772 780	seizures
+T68	Sign_symptom 837 844	seizure
+T69	Sign_symptom 1147 1157	anesthesia
+T70	Sign_symptom 1199 1210	vital signs
+T71	Sign_symptom 1223 1229	normal
+T72	Sign_symptom 1877 1888	tachycardia
+T73	Sign_symptom 1918 1924	normal
+T74	Sign_symptom 2007 2014	related
+T75	Sign_symptom 0 81	A 44-year-old female with major depressive disorder with psychotic features which
+T76	Sign_symptom 152 181	Her pre-ECT electrocardiogram
+T77	Sign_symptom 201 220	normal sinus rhythm
+T78	Sign_symptom 348 362	blood pressure
+T79	Sign_symptom 380 408	Her vital signs at that time
+T80	Sign_symptom 421 434	normal limits
+T81	Sign_symptom 482 500	General anesthesia
+T82	Sign_symptom 543 573	paralysis with succinylcholine
+T83	Sign_symptom 768 785	EEG seizures that
+T84	Sign_symptom 833 844	her seizure
+T85	Sign_symptom 1133 1170	recovery from anesthesia, the patient
+T86	Sign_symptom 1195 1210	her vital signs
+T87	Sign_symptom 1223 1236	normal limits
+T88	Sign_symptom 1824 1888	100 BPM (Figures 5 and 6). Secondary causes of sinus tachycardia
+T89	Sign_symptom 1916 1928	a normal CBC
+T90	Sign_symptom 2002 2019	rate-related LBBB
+T91	Anatomical_structure 348 353	blood
+T92	Anatomical_structure 1939 1946	thyroid

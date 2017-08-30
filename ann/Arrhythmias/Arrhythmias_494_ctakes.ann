@@ -1,0 +1,67 @@
+T1	Procedure 37 45	ablation
+T2	Procedure 95 105	irrigation
+T3	Procedure 133 135	mg
+T4	Procedure 287 303	echocardiography
+T5	Procedure 555 565	hemoglobin
+T6	Procedure 588 590	mg
+T7	Procedure 660 669	procedure
+T8	Procedure 701 731	Transthoracic echocardiography
+T9	Procedure 715 731	echocardiography
+T10	Procedure 804 813	tamponade
+T11	Procedure 831 849	pericardiocentesis
+T12	Procedure 952 962	hemoglobin
+T13	Procedure 981 983	mg
+T14	Procedure 1004 1021	blood transfusion
+T15	Procedure 1010 1021	transfusion
+T16	Procedure 28 80	catheter ablation for paroxysmal atrial fibrillation
+T17	Procedure 92 114	an irrigation catheter
+T18	Procedure 120 147	which the 15-mg rivaroxaban
+T19	Procedure 255 303	the post-procedure intracardiac echocardiography
+T20	Procedure 549 565	Serum hemoglobin
+T21	Procedure 583 593	16.6 mg/dL
+T22	Procedure 642 669	55 days after the procedure
+T23	Procedure 701 731	Transthoracic echocardiography
+T24	Procedure 773 813	a diagnosis of delayed cardiac tamponade
+T25	Procedure 821 849	Emergency pericardiocentesis
+T26	Procedure 946 962	Serum hemoglobin
+T27	Procedure 976 986	11.9 mg/dL
+T28	Procedure 1002 1021	a blood transfusion
+T29	Disease_disorder 50 80	paroxysmal atrial fibrillation
+T30	Disease_disorder 61 80	atrial fibrillation
+T31	Disease_disorder 68 80	fibrillation
+T32	Disease_disorder 82 84	AF
+T33	Disease_disorder 210 230	Pericardial effusion
+T34	Disease_disorder 222 230	effusion
+T35	Disease_disorder 796 813	cardiac tamponade
+T36	Disease_disorder 888 896	effusion
+T37	Disease_disorder 28 80	catheter ablation for paroxysmal atrial fibrillation
+T38	Disease_disorder 210 230	Pericardial effusion
+T39	Disease_disorder 773 813	a diagnosis of delayed cardiac tamponade
+T40	Disease_disorder 876 896	hemorrhagic effusion
+T41	Sign_symptom 360 367	symptom
+T42	Sign_symptom 405 419	blood pressure
+T43	Sign_symptom 411 419	pressure
+T44	Sign_symptom 469 476	symptom
+T45	Sign_symptom 485 494	follow-up
+T46	Sign_symptom 519 521	BP
+T47	Sign_symptom 608 624	chest discomfort
+T48	Sign_symptom 614 624	discomfort
+T49	Sign_symptom 630 641	hypotension
+T50	Sign_symptom 671 673	BP
+T51	Sign_symptom 775 784	diagnosis
+T52	Sign_symptom 925 932	symptom
+T53	Sign_symptom 360 368	symptom-
+T54	Sign_symptom 405 419	blood pressure
+T55	Sign_symptom 469 477	symptom-
+T56	Sign_symptom 485 502	follow-up 30 days
+T57	Sign_symptom 608 649	chest discomfort with hypotension 55 days
+T58	Sign_symptom 773 813	a diagnosis of delayed cardiac tamponade
+T59	Sign_symptom 919 944	rapid symptom improvement
+T60	Anatomical_structure 61 67	atrial
+T61	Anatomical_structure 210 221	Pericardial
+T62	Anatomical_structure 274 286	intracardiac
+T63	Anatomical_structure 405 410	blood
+T64	Anatomical_structure 435 440	heart
+T65	Anatomical_structure 608 613	chest
+T66	Anatomical_structure 796 803	cardiac
+T67	Anatomical_structure 1004 1009	blood

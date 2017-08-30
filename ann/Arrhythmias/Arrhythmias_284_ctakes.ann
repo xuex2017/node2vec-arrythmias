@@ -1,0 +1,149 @@
+T1	Procedure 101 118	Electrocardiogram
+T2	Procedure 250 280	Transthoracic echocardiography
+T3	Procedure 264 280	echocardiography
+T4	Procedure 382 401	Computed tomography
+T5	Procedure 391 401	tomography
+T6	Procedure 405 422	cardiac angiogram
+T7	Procedure 413 422	angiogram
+T8	Procedure 543 551	ablation
+T9	Procedure 659 666	therapy
+T10	Procedure 677 689	implantation
+T11	Procedure 743 751	delivery
+T12	Procedure 877 885	venogram
+T13	Procedure 1056 1064	delivery
+T14	Procedure 1416 1427	stimulation
+T15	Procedure 2088 2096	delivery
+T16	Procedure 2199 2207	delivery
+T17	Procedure 2279 2287	delivery
+T18	Procedure 2589 2597	delivery
+T19	Procedure 2802 2814	implantation
+T20	Procedure 2958 2966	delivery
+T21	Procedure 2983 2990	support
+T22	Procedure 3601 3612	stimulation
+T23	Procedure 3888 3900	implantation
+T24	Procedure 4146 4157	stimulation
+T25	Procedure 4689 4700	angioplasty
+T26	Procedure 5101 5108	support
+T27	Procedure 5326 5333	support
+T28	Procedure 5355 5367	construction
+T29	Procedure 5380 5387	support
+T30	Procedure 5440 5448	traction
+T31	Procedure 5884 5894	venography
+T32	Procedure 250 280	Transthoracic echocardiography
+T33	Procedure 382 422	Computed tomography of cardiac angiogram
+T34	Procedure 517 581	successful radiofrequency ablation for atrial flutter and rhythm
+T35	Procedure 633 666	cardiac resynchronization therapy
+T36	Procedure 667 689	pacemaker implantation
+T37	Procedure 739 758	7Fr delivery sheath
+T38	Procedure 860 885	The occlusive CS venogram
+T39	Procedure 1052 1071	the delivery sheath
+T40	Procedure 1391 1427	persistent phrenic nerve stimulation
+T41	Procedure 2070 2133	the ostium of the delivery sheath at the proximal end of the CS
+T42	Procedure 2181 2214	the ostium of the delivery sheath
+T43	Procedure 2275 2294	the delivery sheath
+T44	Procedure 2585 2604	the delivery sheath
+T45	Procedure 2778 2888	Retrograde approach for implantation of left ventricular pacing lead in anterolateral branch of coronary sinus
+T46	Procedure 2916 3028	externalization via CS ostium through one delivery sheath with the support of commonly used micro-guide catheter
+T47	Procedure 3593 3612	phrenic stimulation
+T48	Procedure 3863 3920	the challenges of device implantation in the 21st century
+T49	Procedure 4121 4157	persistent phrenic nerve stimulation
+T50	Procedure 4686 4724	an angioplasty floppy wire into a vein
+T51	Procedure 5073 5132	the main CS ostium with the support of micro-guide catheter
+T52	Procedure 5317 5387	an extra support wire of the same tip construction because the support
+T53	Procedure 5866 5894	balloon occlusion venography
+T54	Disease_disorder 35 59	congestive heart failure
+T55	Disease_disorder 46 59	heart failure
+T56	Disease_disorder 141 155	atrial flutter
+T57	Disease_disorder 191 222	complete atrioventricular block
+T58	Disease_disorder 200 222	atrioventricular block
+T59	Disease_disorder 217 222	block
+T60	Disease_disorder 312 323	dysfunction
+T61	Disease_disorder 446 454	stenosis
+T62	Disease_disorder 556 570	atrial flutter
+T63	Disease_disorder 595 600	sinus
+T64	Disease_disorder 700 705	sinus
+T65	Disease_disorder 1121 1123	cm
+T66	Disease_disorder 1683 1685	cm
+T67	Disease_disorder 1939 1941	cm
+T68	Disease_disorder 2061 2063	cm
+T69	Disease_disorder 2486 2488	cm
+T70	Disease_disorder 2883 2888	sinus
+T71	Disease_disorder 3231 3233	cm
+T72	Disease_disorder 5874 5883	occlusion
+T73	Disease_disorder 25 59	Class III congestive heart failure
+T74	Disease_disorder 126 186	Type I typical atrial flutter with slow ventricular response
+T75	Disease_disorder 191 222	complete atrioventricular block
+T76	Disease_disorder 312 350	dysfunction with ejection fraction 35%
+T77	Disease_disorder 432 498	insignificant stenosis in proximal left anterior descending artery
+T78	Disease_disorder 517 581	successful radiofrequency ablation for atrial flutter and rhythm
+T79	Disease_disorder 691 712	Coronary sinus access
+T80	Disease_disorder 1899 1943	Then micro-guide catheter Finecross 130 cm/1
+T81	Disease_disorder 2053 2063	near (1 cm
+T82	Disease_disorder 2778 2888	Retrograde approach for implantation of left ventricular pacing lead in anterolateral branch of coronary sinus
+T83	Disease_disorder 3228 3233	88 cm
+T84	Disease_disorder 5866 5894	balloon occlusion venography
+T85	Sign_symptom 14 18	male
+T86	Sign_symptom 91 99	symptoms
+T87	Sign_symptom 101 118	Electrocardiogram
+T88	Sign_symptom 161 186	slow ventricular response
+T89	Sign_symptom 329 337	ejection
+T90	Sign_symptom 556 581	atrial flutter and rhythm
+T91	Sign_symptom 2053 2057	near
+T92	Sign_symptom 3672 3673	F
+T93	Sign_symptom 3757 3763	normal
+T94	Sign_symptom 5874 5883	occlusion
+T95	Sign_symptom 6022 6030	interest
+T96	Sign_symptom 6071 6081	projection
+T97	Sign_symptom 0 18	A 50-year-old male
+T98	Sign_symptom 78 99	pre-syncopal symptoms
+T99	Sign_symptom 126 186	Type I typical atrial flutter with slow ventricular response
+T100	Sign_symptom 312 350	dysfunction with ejection fraction 35%
+T101	Sign_symptom 517 581	successful radiofrequency ablation for atrial flutter and rhythm
+T102	Sign_symptom 2053 2063	near (1 cm
+T103	Sign_symptom 3757 3772	normal protocol
+T104	Sign_symptom 5866 5894	balloon occlusion venography
+T105	Sign_symptom 6010 6030	Conflict of interest
+T106	Sign_symptom 6067 6081	LAO projection
+T107	Anatomical_structure 46 51	heart
+T108	Anatomical_structure 141 147	atrial
+T109	Anatomical_structure 224 229	heart
+T110	Anatomical_structure 405 412	cardiac
+T111	Anatomical_structure 467 498	left anterior descending artery
+T112	Anatomical_structure 492 498	artery
+T113	Anatomical_structure 556 562	atrial
+T114	Anatomical_structure 633 640	cardiac
+T115	Anatomical_structure 691 705	Coronary sinus
+T116	Anatomical_structure 922 931	branch of
+T117	Anatomical_structure 922 928	branch
+T118	Anatomical_structure 963 967	vein
+T119	Anatomical_structure 1179 1183	vein
+T120	Anatomical_structure 1322 1326	vein
+T121	Anatomical_structure 1402 1415	phrenic nerve
+T122	Anatomical_structure 1410 1415	nerve
+T123	Anatomical_structure 1581 1587	branch
+T124	Anatomical_structure 1816 1822	venous
+T125	Anatomical_structure 2074 2080	ostium
+T126	Anatomical_structure 2185 2191	ostium
+T127	Anatomical_structure 2629 2635	ostium
+T128	Anatomical_structure 2864 2873	branch of
+T129	Anatomical_structure 2864 2870	branch
+T130	Anatomical_structure 2874 2888	coronary sinus
+T131	Anatomical_structure 2939 2945	ostium
+T132	Anatomical_structure 3159 3165	branch
+T133	Anatomical_structure 3372 3381	branch of
+T134	Anatomical_structure 3372 3378	branch
+T135	Anatomical_structure 3686 3692	atrial
+T136	Anatomical_structure 4004 4008	vein
+T137	Anatomical_structure 4132 4145	phrenic nerve
+T138	Anatomical_structure 4140 4145	nerve
+T139	Anatomical_structure 4240 4244	vein
+T140	Anatomical_structure 4284 4294	collateral
+T141	Anatomical_structure 4476 4480	vein
+T142	Anatomical_structure 4634 4638	vein
+T143	Anatomical_structure 4720 4724	vein
+T144	Anatomical_structure 4761 4765	vein
+T145	Anatomical_structure 5085 5091	ostium
+T146	Anatomical_structure 5280 5286	venous
+T147	Anatomical_structure 5517 5523	venous
+T148	Anatomical_structure 5647 5653	ostium
+T149	Anatomical_structure 6160 6166	atrial

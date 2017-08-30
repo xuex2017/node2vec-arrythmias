@@ -1,0 +1,305 @@
+T1	Procedure 42 55	resuscitation
+T2	Procedure 216 244	Advanced Trauma Life Support
+T3	Procedure 232 244	Life Support
+T4	Procedure 237 244	Support
+T5	Procedure 323 347	neurological examination
+T6	Procedure 433 435	T4
+T7	Procedure 524 541	Plain radiography
+T8	Procedure 530 541	radiography
+T9	Procedure 555 565	tomography
+T10	Procedure 567 569	CT
+T11	Procedure 636 647	compression
+T12	Procedure 664 666	T4
+T13	Procedure 687 700	spinal fusion
+T14	Procedure 694 700	fusion
+T15	Procedure 701 708	surgery
+T16	Procedure 746 765	general anaesthesia
+T17	Procedure 953 972	tracheal intubation
+T18	Procedure 962 972	intubation
+T19	Procedure 1062 1073	IV infusion
+T20	Procedure 1065 1073	infusion
+T21	Procedure 1150 1158	surgical
+T22	Procedure 1265 1272	surgery
+T23	Procedure 1367 1385	surgical procedure
+T24	Procedure 1367 1375	surgical
+T25	Procedure 1376 1385	procedure
+T26	Procedure 1628 1640	auscultation
+T27	Procedure 1712 1729	Chest radiography
+T28	Procedure 1718 1729	radiography
+T29	Procedure 1840 1847	culture
+T30	Procedure 1964 1966	mg
+T31	Procedure 1983 2006	Noninvasive ventilation
+T32	Procedure 2171 2198	arterial blood gas analysis
+T33	Procedure 2180 2198	blood gas analysis
+T34	Procedure 2190 2198	analysis
+T35	Procedure 2293 2300	support
+T36	Procedure 2317 2364	synchronised intermittent mandatory ventilation
+T37	Procedure 2330 2364	intermittent mandatory ventilation
+T38	Procedure 2446 2475	Cardiopulmonary resuscitation
+T39	Procedure 2462 2475	resuscitation
+T40	Procedure 2670 2683	resuscitation
+T41	Procedure 2751 2758	support
+T42	Procedure 3370 3377	support
+T43	Procedure 4190 4192	CT
+T44	Procedure 4221 4228	imaging
+T45	Procedure 4350 4352	CT
+T46	Procedure 4525 4535	dilatation
+T47	Procedure 4561 4563	CT
+T48	Procedure 4656 4669	resuscitation
+T49	Procedure 4992 4994	mg
+T50	Procedure 5041 5049	infusion
+T51	Procedure 5057 5059	mg
+T52	Procedure 5208 5220	hyperthermia
+T53	Procedure 5272 5278	sodium
+T54	Procedure 5283 5285	mg
+T55	Procedure 5304 5316	hydrotherapy
+T56	Procedure 5438 5440	mg
+T57	Procedure 5446 5481	Continuous rate-controlled infusion
+T58	Procedure 5473 5481	infusion
+T59	Procedure 5485 5493	morphine
+T60	Procedure 5500 5502	mg
+T61	Procedure 5532 5534	mg
+T62	Procedure 5597 5606	treatment
+T63	Procedure 5714 5726	tracheostomy
+T64	Procedure 5796 5810	rehabilitation
+T65	Procedure 5887 5895	infusion
+T66	Procedure 6024 6038	rehabilitation
+T67	Procedure 6250 6264	rehabilitation
+T68	Procedure 6295 6314	continuous infusion
+T69	Procedure 6306 6314	infusion
+T70	Procedure 6318 6326	morphine
+T71	Procedure 6403 6405	mg
+T72	Procedure 31 107	the trauma resuscitation room at the Government Medical College and Hospital
+T73	Procedure 216 253	Advanced Trauma Life Support protocol
+T74	Procedure 315 347	Initial neurological examination
+T75	Procedure 375 445	loss of pain and temperature sensation below the level of T4 dermatome
+T76	Procedure 524 541	Plain radiography
+T77	Procedure 546 565	computed tomography
+T78	Procedure 634 683	a compression fracture of the T4 and T5 vertebrae
+T79	Procedure 685 765	A spinal fusion surgery via the anterolateral approach under general anaesthesia
+T80	Procedure 953 972	tracheal intubation
+T81	Procedure 1044 1085	a rate-controlled IV infusion of propofol
+T82	Procedure 1146 1171	the surgical intervention
+T83	Procedure 1261 1272	The surgery
+T84	Procedure 1363 1385	the surgical procedure
+T85	Procedure 1712 1729	Chest radiography
+T86	Procedure 1951 1980	amikacin 500 mg q 12 hours IV
+T87	Procedure 2171 2198	arterial blood gas analysis
+T88	Procedure 2277 2300	the ventilatory support
+T89	Procedure 2313 2364	the synchronised intermittent mandatory ventilation
+T90	Procedure 2446 2475	Cardiopulmonary resuscitation
+T91	Procedure 2659 2708	successful resuscitation following cardiac arrest
+T92	Procedure 2734 2758	full ventilatory support
+T93	Procedure 4486 4540	mild cerebral atrophy with ventricular dilatation that
+T94	Procedure 4561 4572	CT findings
+T95	Procedure 4607 4677	hypoxic insult to the brain during the prolonged resuscitation efforts
+T96	Procedure 4989 5004	10 mg q 8 hours
+T97	Procedure 5031 5049	clonidine infusion
+T98	Procedure 5261 5278	Diclofenac sodium
+T99	Procedure 5280 5298	75 mg q 8 hours IV
+T100	Procedure 5436 5443	2 mg IV
+T101	Procedure 5444 5493	. Continuous rate-controlled infusion of morphine
+T102	Procedure 5495 5505	0.02 mg/kg
+T103	Procedure 5527 5537	0.05 mg/kg
+T104	Procedure 5562 5619	Three days after the initiation of treatment, the patient
+T105	Procedure 5697 5739	a T-piece with a tracheostomy tube in situ
+T106	Procedure 5794 5843	a rehabilitation ward for an additional two weeks
+T107	Procedure 5873 5895	the clonidine infusion
+T108	Procedure 6020 6044	the rehabilitation phase
+T109	Procedure 6219 6270	a matter of concern during the rehabilitation phase
+T110	Procedure 6295 6326	continuous infusion of morphine
+T111	Procedure 6401 6415	2 mg q 8 hours
+T112	Disease_disorder 35 41	trauma
+T113	Disease_disorder 225 231	Trauma
+T114	Disease_disorder 305 313	injuries
+T115	Disease_disorder 636 656	compression fracture
+T116	Disease_disorder 648 656	fracture
+T117	Disease_disorder 1175 1185	blood loss
+T118	Disease_disorder 1470 1481	hypothermia
+T119	Disease_disorder 1753 1760	opacity
+T120	Disease_disorder 1798 1807	pneumonia
+T121	Disease_disorder 2103 2112	condition
+T122	Disease_disorder 2213 2233	respiratory acidosis
+T123	Disease_disorder 2225 2233	acidosis
+T124	Disease_disorder 2406 2439	pulseless ventricular tachycardia
+T125	Disease_disorder 2416 2439	ventricular tachycardia
+T126	Disease_disorder 2694 2708	cardiac arrest
+T127	Disease_disorder 2812 2820	dystonia
+T128	Disease_disorder 2851 2859	syndrome
+T129	Disease_disorder 2870 2882	brain injury
+T130	Disease_disorder 2876 2882	injury
+T131	Disease_disorder 3205 3213	syndrome
+T132	Disease_disorder 3234 3248	cardiac arrest
+T133	Disease_disorder 3266 3281	pathophysiology
+T134	Disease_disorder 3576 3585	condition
+T135	Disease_disorder 3762 3774	hypertension
+T136	Disease_disorder 4083 4091	syndrome
+T137	Disease_disorder 4293 4307	cardiac arrest
+T138	Disease_disorder 4328 4337	condition
+T139	Disease_disorder 4491 4507	cerebral atrophy
+T140	Disease_disorder 4500 4507	atrophy
+T141	Disease_disorder 4513 4535	ventricular dilatation
+T142	Disease_disorder 4525 4535	dilatation
+T143	Disease_disorder 4607 4614	hypoxic
+T144	Disease_disorder 5127 5135	syndrome
+T145	Disease_disorder 5699 5700	T
+T146	Disease_disorder 31 107	the trauma resuscitation room at the Government Medical College and Hospital
+T147	Disease_disorder 216 253	Advanced Trauma Life Support protocol
+T148	Disease_disorder 267 313	no clinical signs of life-threatening injuries
+T149	Disease_disorder 634 683	a compression fracture of the T4 and T5 vertebrae
+T150	Disease_disorder 1173 1203	a blood loss of 3.5 L occurred
+T151	Disease_disorder 1737 1785	a heterogeneous opacity in the right middle zone
+T152	Disease_disorder 2089 2112	the patient's condition
+T153	Disease_disorder 2206 2233	severe respiratory acidosis
+T154	Disease_disorder 2386 2439	a sudden episode of pulseless ventricular tachycardia
+T155	Disease_disorder 2659 2708	successful resuscitation following cardiac arrest
+T156	Disease_disorder 2760 2820	SIMV ABSTRACT Paroxysmal autonomic instability with dystonia
+T157	Disease_disorder 2842 2882	a unique syndrome following brain injury
+T158	Disease_disorder 3200 3248	PAID syndrome following prolonged cardiac arrest
+T159	Disease_disorder 3262 3281	the pathophysiology
+T160	Disease_disorder 3566 3585	his chest condition
+T161	Disease_disorder 3742 3774	paroxysms of severe hypertension
+T162	Disease_disorder 4051 4091	A provisional diagnosis of PAID syndrome
+T163	Disease_disorder 4273 4307	the tenth day after cardiac arrest
+T164	Disease_disorder 4315 4337	his clinical condition
+T165	Disease_disorder 4486 4540	mild cerebral atrophy with ventricular dilatation that
+T166	Disease_disorder 4607 4677	hypoxic insult to the brain during the prolonged resuscitation efforts
+T167	Disease_disorder 5094 5135	the sympathetic symptoms of PAID syndrome
+T168	Disease_disorder 5697 5739	a T-piece with a tracheostomy tube in situ
+T169	Sign_symptom 136 140	fall
+T170	Sign_symptom 161 162	m
+T171	Sign_symptom 357 368	paraparesis
+T172	Sign_symptom 375 413	loss of pain and temperature sensation
+T173	Sign_symptom 383 429	pain and temperature sensation below the level
+T174	Sign_symptom 383 413	pain and temperature sensation
+T175	Sign_symptom 383 387	pain
+T176	Sign_symptom 392 413	temperature sensation
+T177	Sign_symptom 404 413	sensation
+T178	Sign_symptom 433 435	T4
+T179	Sign_symptom 482 498	mental functions
+T180	Sign_symptom 664 666	T4
+T181	Sign_symptom 754 765	anaesthesia
+T182	Sign_symptom 893 904	Anaesthesia
+T183	Sign_symptom 1011 1022	Anaesthesia
+T184	Sign_symptom 1470 1481	hypothermia
+T185	Sign_symptom 1561 1584	difficulty in breathing
+T186	Sign_symptom 1561 1571	difficulty
+T187	Sign_symptom 1599 1604	cough
+T188	Sign_symptom 1753 1760	opacity
+T189	Sign_symptom 2052 2060	pressure
+T190	Sign_symptom 2406 2415	pulseless
+T191	Sign_symptom 2428 2439	tachycardia
+T192	Sign_symptom 2556 2569	hyperkalaemia
+T193	Sign_symptom 2774 2820	Paroxysmal autonomic instability with dystonia
+T194	Sign_symptom 2795 2806	instability
+T195	Sign_symptom 2812 2820	dystonia
+T196	Sign_symptom 2947 2958	recognition
+T197	Sign_symptom 2963 2973	management
+T198	Sign_symptom 3021 3032	recognition
+T199	Sign_symptom 3048 3058	management
+T200	Sign_symptom 3309 3319	management
+T201	Sign_symptom 3453 3462	sensorium
+T202	Sign_symptom 3485 3500	muscle rigidity
+T203	Sign_symptom 3492 3500	rigidity
+T204	Sign_symptom 3514 3525	instability
+T205	Sign_symptom 3590 3599	sensorium
+T206	Sign_symptom 3776 3787	tachycardia
+T207	Sign_symptom 3792 3803	diaphoresis
+T208	Sign_symptom 3864 3869	fever
+T209	Sign_symptom 3904 3913	movements
+T210	Sign_symptom 4065 4074	diagnosis
+T211	Sign_symptom 4131 4139	symptoms
+T212	Sign_symptom 4206 4215	resonance
+T213	Sign_symptom 4433 4439	normal
+T214	Sign_symptom 4727 4735	symptoms
+T215	Sign_symptom 4826 4836	difficulty
+T216	Sign_symptom 4870 4872	VC
+T217	Sign_symptom 4907 4917	management
+T218	Sign_symptom 4932 4940	symptoms
+T219	Sign_symptom 5110 5118	symptoms
+T220	Sign_symptom 5208 5220	hyperthermia
+T221	Sign_symptom 5372 5381	movements
+T222	Sign_symptom 5583 5593	initiation
+T223	Sign_symptom 5714 5739	tracheostomy tube in situ
+T224	Sign_symptom 5953 5960	arousal
+T225	Sign_symptom 6177 6186	movements
+T226	Sign_symptom 6191 6206	muscle rigidity
+T227	Sign_symptom 6198 6206	rigidity
+T228	Sign_symptom 134 162	a fall from a height of 10 m
+T229	Sign_symptom 375 445	loss of pain and temperature sensation below the level of T4 dermatome
+T230	Sign_symptom 475 498	higher mental functions
+T231	Sign_symptom 634 683	a compression fracture of the T4 and T5 vertebrae
+T232	Sign_symptom 685 765	A spinal fusion surgery via the anterolateral approach under general anaesthesia
+T233	Sign_symptom 1561 1584	difficulty in breathing
+T234	Sign_symptom 1589 1623	excessive cough with expectoration
+T235	Sign_symptom 1737 1785	a heterogeneous opacity in the right middle zone
+T236	Sign_symptom 2024 2065	the bilevel positive airway pressure mode
+T237	Sign_symptom 2386 2439	a sudden episode of pulseless ventricular tachycardia
+T238	Sign_symptom 2549 2569	Severe hyperkalaemia
+T239	Sign_symptom 2760 2820	SIMV ABSTRACT Paroxysmal autonomic instability with dystonia
+T240	Sign_symptom 2937 2985	its early recognition and management a challenge
+T241	Sign_symptom 3004 3032	A delay in early recognition
+T242	Sign_symptom 3037 3058	subsequent management
+T243	Sign_symptom 3283 3332	clinical presentation and management of this rare
+T244	Sign_symptom 3414 3462	a few respiratory efforts although his sensorium
+T245	Sign_symptom 3482 3500	No muscle rigidity
+T246	Sign_symptom 3504 3525	autonomic instability
+T247	Sign_symptom 3792 3819	diaphoresis during which he
+T248	Sign_symptom 3853 3869	high-grade fever
+T249	Sign_symptom 3883 3918	generalised dystonic movements that
+T250	Sign_symptom 4051 4091	A provisional diagnosis of PAID syndrome
+T251	Sign_symptom 4110 4139	the typical clinical symptoms
+T252	Sign_symptom 4197 4215	magnetic resonance
+T253	Sign_symptom 4433 4444	normal grey
+T254	Sign_symptom 4701 4735	the cause of the discrete symptoms
+T255	Sign_symptom 4826 4847	difficulty in weaning
+T256	Sign_symptom 4895 4940	Symptomatic management of the varied symptoms
+T257	Sign_symptom 5094 5135	the sympathetic symptoms of PAID syndrome
+T258	Sign_symptom 5363 5381	Dystonic movements
+T259	Sign_symptom 5562 5619	Three days after the initiation of treatment, the patient
+T260	Sign_symptom 5697 5739	a T-piece with a tracheostomy tube in situ
+T261	Sign_symptom 5922 5960	Occasional surges of autonomic arousal
+T262	Sign_symptom 6168 6186	Dystonic movements
+T263	Sign_symptom 6191 6206	muscle rigidity
+T264	Anatomical_structure 436 445	dermatome
+T265	Anatomical_structure 447 460	Cranial nerve
+T266	Anatomical_structure 455 460	nerve
+T267	Anatomical_structure 578 583	spine
+T268	Anatomical_structure 674 683	vertebrae
+T269	Anatomical_structure 1175 1180	blood
+T270	Anatomical_structure 1245 1250	blood
+T271	Anatomical_structure 1705 1710	chest
+T272	Anatomical_structure 1712 1717	Chest
+T273	Anatomical_structure 2045 2051	airway
+T274	Anatomical_structure 2171 2185	arterial blood
+T275	Anatomical_structure 2171 2179	arterial
+T276	Anatomical_structure 2180 2185	blood
+T277	Anatomical_structure 2239 2246	trachea
+T278	Anatomical_structure 2694 2701	cardiac
+T279	Anatomical_structure 2785 2794	autonomic
+T280	Anatomical_structure 2870 2875	brain
+T281	Anatomical_structure 3234 3241	cardiac
+T282	Anatomical_structure 3485 3491	muscle
+T283	Anatomical_structure 3504 3513	autonomic
+T284	Anatomical_structure 3570 3575	chest
+T285	Anatomical_structure 4293 4300	cardiac
+T286	Anatomical_structure 4398 4426	periventricular white matter
+T287	Anatomical_structure 4491 4499	cerebral
+T288	Anatomical_structure 4629 4634	brain
+T289	Anatomical_structure 5943 5952	autonomic
+T290	Anatomical_structure 6080 6084	oral
+T291	Anatomical_structure 6098 6102	Oral
+T292	Anatomical_structure 6191 6197	muscle
+T293	Anatomical_structure 6385 6389	oral
+T294	Medication 424 429	level
+T295	Medication 883 891	fentanyl
+T296	Medication 1102 1110	fentanyl
+T297	Medication 5031 5040	clonidine
+T298	Medication 5877 5886	clonidine
+T299	Medication 6390 6399	lorazepam
+T300	Medication 375 445	loss of pain and temperature sensation below the level of T4 dermatome
+T301	Medication 864 891	glycopyrrolate and fentanyl
+T302	Medication 1102 1137	fentanyl with 50% oxygen in the air
+T303	Medication 5031 5049	clonidine infusion
+T304	Medication 5873 5895	the clonidine infusion
+T305	Medication 6385 6399	oral lorazepam

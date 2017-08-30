@@ -1,0 +1,98 @@
+T1	Procedure 176 184	ablation
+T2	Procedure 890 919	advanced cardiac life support
+T3	Procedure 907 919	life support
+T4	Procedure 912 919	support
+T5	Procedure 941 970	cardiopulmonary resuscitation
+T6	Procedure 957 970	resuscitation
+T7	Procedure 972 975	CPR
+T8	Procedure 1338 1348	ultrasound
+T9	Procedure 1463 1472	potassium
+T10	Procedure 1556 1557	K
+T11	Procedure 1580 1591	bicarbonate
+T12	Procedure 1684 1697	stabilization
+T13	Procedure 2250 2257	autopsy
+T14	Procedure 176 192	ablation 8 years
+T15	Procedure 890 919	advanced cardiac life support
+T16	Procedure 927 970	protocol with cardiopulmonary resuscitation
+T17	Procedure 1328 1348	A bedside ultrasound
+T18	Procedure 1444 1491	hypokalemic with a potassium level of 3.1 mEq/L
+T19	Procedure 1546 1557	20 mEq of K
+T20	Procedure 1580 1605	bicarbonate in an attempt
+T21	Procedure 1668 1697	the attempts at stabilization
+T22	Procedure 2236 2257	A medicolegal autopsy
+T23	Disease_disorder 501 507	injury
+T24	Disease_disorder 540 563	sudden unexpected death
+T25	Disease_disorder 567 589	cardiovascular disease
+T26	Disease_disorder 582 589	disease
+T27	Disease_disorder 690 696	apneic
+T28	Disease_disorder 1097 1121	ventricular fibrillation
+T29	Disease_disorder 1109 1121	fibrillation
+T30	Disease_disorder 1126 1149	ventricular tachycardia
+T31	Disease_disorder 1621 1629	acidosis
+T32	Disease_disorder 2018 2026	asystole
+T33	Disease_disorder 2057 2081	ventricular fibrillation
+T34	Disease_disorder 2069 2081	fibrillation
+T35	Disease_disorder 2086 2109	ventricular tachycardia
+T36	Disease_disorder 519 563	no family history of sudden unexpected death
+T37	Disease_disorder 567 589	cardiovascular disease
+T38	Disease_disorder 673 696	unresponsive and apneic
+T39	Disease_disorder 1069 1121	the way to the hospital for ventricular fibrillation
+T40	Disease_disorder 1617 1629	the acidosis
+T41	Disease_disorder 2018 2081	asystole with intermittent episodes of ventricular fibrillation
+T42	Sign_symptom 53 59	female
+T43	Sign_symptom 67 87	past medical history
+T44	Sign_symptom 72 87	medical history
+T45	Sign_symptom 80 87	history
+T46	Sign_symptom 139 150	tachycardia
+T47	Sign_symptom 215 223	seizures
+T48	Sign_symptom 333 340	seizure
+T49	Sign_symptom 434 441	jumping
+T50	Sign_symptom 470 480	history of
+T51	Sign_symptom 470 477	history
+T52	Sign_symptom 522 563	family history of sudden unexpected death
+T53	Sign_symptom 522 539	family history of
+T54	Sign_symptom 522 536	family history
+T55	Sign_symptom 529 539	history of
+T56	Sign_symptom 529 536	history
+T57	Sign_symptom 547 563	unexpected death
+T58	Sign_symptom 558 563	death
+T59	Sign_symptom 609 617	services
+T60	Sign_symptom 673 685	unresponsive
+T61	Sign_symptom 690 696	apneic
+T62	Sign_symptom 1138 1149	tachycardia
+T63	Sign_symptom 1151 1155	Weak
+T64	Sign_symptom 1395 1403	ejection
+T65	Sign_symptom 1463 1478	potassium level
+T66	Sign_symptom 1519 1521	pH
+T67	Sign_symptom 1724 1729	fixed
+T68	Sign_symptom 1805 1812	rhonchi
+T69	Sign_symptom 1836 1850	cardiac sounds
+T70	Sign_symptom 2098 2109	tachycardia
+T71	Sign_symptom 0 59	Clinical presentation A 14-year-old African-American female
+T72	Sign_symptom 31 87	-old African-American female with a past medical history
+T73	Sign_symptom 121 152	repeated episodic tachycardia (
+T74	Sign_symptom 204 223	associated seizures
+T75	Sign_symptom 333 354	seizure-like activity
+T76	Sign_symptom 460 497	any known history of traumatic events
+T77	Sign_symptom 519 563	no family history of sudden unexpected death
+T78	Sign_symptom 591 617	Emergency medical services
+T79	Sign_symptom 673 696	unresponsive and apneic
+T80	Sign_symptom 1126 1149	ventricular tachycardia
+T81	Sign_symptom 1151 1170	Weak carotid pulses
+T82	Sign_symptom 1371 1412	a significantly reduced ejection fraction
+T83	Sign_symptom 1444 1491	hypokalemic with a potassium level of 3.1 mEq/L
+T84	Sign_symptom 1517 1530	a pH of 7.074
+T85	Sign_symptom 1724 1748	fixed and dilated pupils
+T86	Sign_symptom 1750 1812	ineffective respiration and circulation with bilateral rhonchi
+T87	Sign_symptom 1836 1855	cardiac sounds that
+T88	Sign_symptom 2086 2109	ventricular tachycardia
+T89	Anatomical_structure 310 314	head
+T90	Anatomical_structure 567 581	cardiovascular
+T91	Anatomical_structure 899 906	cardiac
+T92	Anatomical_structure 997 1006	laryngeal
+T93	Anatomical_structure 1012 1018	airway
+T94	Anatomical_structure 1182 1187	heart
+T95	Anatomical_structure 1742 1748	pupils
+T96	Anatomical_structure 1836 1843	cardiac
+T97	Medication 1473 1478	level
+T98	Medication 1444 1491	hypokalemic with a potassium level of 3.1 mEq/L

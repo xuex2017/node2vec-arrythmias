@@ -1,0 +1,376 @@
+T1	Procedure 80 104	antihypertensive therapy
+T2	Procedure 97 104	therapy
+T3	Procedure 118 120	mg
+T4	Procedure 777 799	white blood cell count
+T5	Procedure 783 799	blood cell count
+T6	Procedure 789 799	cell count
+T7	Procedure 825 832	protein
+T8	Procedure 834 837	CRP
+T9	Procedure 844 846	mg
+T10	Procedure 851 876	brain natriuretic peptide
+T11	Procedure 878 881	BNP
+T12	Procedure 898 908	troponin T
+T13	Procedure 978 989	chest X-ray
+T14	Procedure 984 989	X-ray
+T15	Procedure 1018 1044	electrocardiogram analysis
+T16	Procedure 1018 1035	electrocardiogram
+T17	Procedure 1036 1044	analysis
+T18	Procedure 1136 1152	Echocardiography
+T19	Procedure 1454 1457	CRP
+T20	Procedure 1490 1496	sodium
+T21	Procedure 1545 1553	presence
+T22	Procedure 1623 1629	sodium
+T23	Procedure 1681 1684	CRP
+T24	Procedure 2038 2044	sodium
+T25	Procedure 2106 2109	CRP
+T26	Procedure 2114 2116	mg
+T27	Procedure 2611 2613	Ca
+T28	Procedure 2618 2620	mg
+T29	Procedure 2630 2661	angiotensin-1-converting enzyme
+T30	Procedure 2701 2711	tomography
+T31	Procedure 2790 2816	magnetic resonance imaging
+T32	Procedure 2809 2816	imaging
+T33	Procedure 2852 2859	citrate
+T34	Procedure 2860 2872	scintigraphy
+T35	Procedure 3057 3060	CRP
+T36	Procedure 3065 3067	mg
+T37	Procedure 3144 3148	test
+T38	Procedure 3331 3349	Antistreptolysin O
+T39	Procedure 3700 3714	administration
+T40	Procedure 3729 3735	sodium
+T41	Procedure 3787 3789	mg
+T42	Procedure 4212 4215	CRP
+T43	Procedure 4240 4242	mg
+T44	Procedure 4312 4318	sodium
+T45	Procedure 4319 4328	treatment
+T46	Procedure 4408 4411	CRP
+T47	Procedure 4416 4418	mg
+T48	Procedure 4492 4494	mg
+T49	Procedure 4555 4561	sodium
+T50	Procedure 4678 4681	CRP
+T51	Procedure 4700 4702	mg
+T52	Procedure 4745 4747	mg
+T53	Procedure 4859 4865	fusion
+T54	Procedure 5383 5385	mg
+T55	Procedure 5508 5515	glucose
+T56	Procedure 6073 6090	electrocardiogram
+T57	Procedure 6161 6173	implantation
+T58	Procedure 6444 6453	treatment
+T59	Procedure 6565 6574	treatment
+T60	Procedure 80 104	antihypertensive therapy
+T61	Procedure 106 120	doxazosin 1 mg
+T62	Procedure 775 809	a white blood cell count of 15,900
+T63	Procedure 816 832	reactive protein
+T64	Procedure 839 849	23.2 mg/dL
+T65	Procedure 976 989	A chest X-ray
+T66	Procedure 1014 1044	The electrocardiogram analysis
+T67	Procedure 1134 1152	. Echocardiography
+T68	Procedure 1438 1457	a high level of CRP
+T69	Procedure 1472 1517	her on loxoprofen sodium because pericarditis
+T70	Procedure 1541 1578	the presence of mild cardiac effusion
+T71	Procedure 1580 1629	The day after the initiation of loxoprofen sodium
+T72	Procedure 1677 1690	The CRP level
+T73	Procedure 2023 2044	the loxoprofen sodium
+T74	Procedure 2106 2116	CRP 1.2 mg
+T75	Procedure 2611 2624	Ca 8.5 mg/ dL
+T76	Procedure 2630 2672	angiotensin-1-converting enzyme 10.3 mU/mL
+T77	Procedure 2686 2711	Chest computed tomography
+T78	Procedure 2775 2816	Cardiovascular magnetic resonance imaging
+T79	Procedure 2841 2872	Gallium-67 citrate scintigraphy
+T80	Procedure 3041 3060	a high level of CRP
+T81	Procedure 3062 3067	16 mg
+T82	Procedure 3140 3178	The test results for rheumatic factors
+T83	Procedure 3696 3735	the administration of loxoprofen sodium
+T84	Procedure 3783 3789	750 mg
+T85	Procedure 4208 4221	her CRP level
+T86	Procedure 4229 4245	low as 2.5 mg/dL
+T87	Procedure 4297 4328	The loxoprofen sodium treatment
+T88	Procedure 4398 4421	negative (CRP 2.5 mg/dL
+T89	Procedure 4489 4499	60 mg/ day
+T90	Procedure 4525 4577	aspirin instead of loxoprofen sodium because aspirin
+T91	Procedure 4665 4681	the level of CRP
+T92	Procedure 4696 4702	0.2 mg
+T93	Procedure 4721 4761	the dosage of PSL by 10 mg every 2 weeks
+T94	Procedure 5373 5389	PSL at 50 mg/day
+T95	Procedure 5508 5534	glucose tolerance disorder
+T96	Procedure 6026 6090	The duration of a prolonged PR interval on the electrocardiogram
+T97	Procedure 6141 6173	temporary pacemaker implantation
+T98	Procedure 6440 6453	the treatment
+T99	Disease_disorder 268 299	complete atrioventricular block
+T100	Disease_disorder 277 299	atrioventricular block
+T101	Disease_disorder 294 299	block
+T102	Disease_disorder 373 406	upper respiratory tract infection
+T103	Disease_disorder 379 406	respiratory tract infection
+T104	Disease_disorder 397 406	infection
+T105	Disease_disorder 513 521	diseases
+T106	Disease_disorder 907 908	T
+T107	Disease_disorder 1054 1085	complete atrioventricular block
+T108	Disease_disorder 1063 1115	atrioventricular block with junctional escape rhythm
+T109	Disease_disorder 1063 1085	atrioventricular block
+T110	Disease_disorder 1080 1085	block
+T111	Disease_disorder 1091 1115	junctional escape rhythm
+T112	Disease_disorder 1192 1212	mitral regurgitation
+T113	Disease_disorder 1225 1233	effusion
+T114	Disease_disorder 1309 1324	RHEUMATIC FEVER
+T115	Disease_disorder 1330 1338	AV BLOCK
+T116	Disease_disorder 1333 1338	BLOCK
+T117	Disease_disorder 1505 1517	pericarditis
+T118	Disease_disorder 1570 1578	effusion
+T119	Disease_disorder 1723 1754	complete atrioventricular block
+T120	Disease_disorder 1732 1754	atrioventricular block
+T121	Disease_disorder 1749 1754	block
+T122	Disease_disorder 1836 1867	complete atrioventricular block
+T123	Disease_disorder 1845 1867	atrioventricular block
+T124	Disease_disorder 1862 1867	block
+T125	Disease_disorder 2070 2082	inflammation
+T126	Disease_disorder 2150 2181	complete atrioventricular block
+T127	Disease_disorder 2159 2181	atrioventricular block
+T128	Disease_disorder 2176 2181	block
+T129	Disease_disorder 2224 2237	polyarthritis
+T130	Disease_disorder 2391 2402	Sarcoidosis
+T131	Disease_disorder 2454 2462	diseases
+T132	Disease_disorder 2479 2510	complete atrioventricular block
+T133	Disease_disorder 2488 2510	atrioventricular block
+T134	Disease_disorder 2505 2510	block
+T135	Disease_disorder 2611 2613	Ca
+T136	Disease_disorder 2732 2753	hilar lymphadenopathy
+T137	Disease_disorder 2939 2950	sarcoidosis
+T138	Disease_disorder 2979 3006	Systemic autoimmune disease
+T139	Disease_disorder 2988 3006	autoimmune disease
+T140	Disease_disorder 2988 2998	autoimmune
+T141	Disease_disorder 2999 3006	disease
+T142	Disease_disorder 3073 3085	pericarditis
+T143	Disease_disorder 3087 3100	polyarthritis
+T144	Disease_disorder 3106 3128	atrioventricular block
+T145	Disease_disorder 3123 3128	block
+T146	Disease_disorder 3209 3237	systemic lupus erythematosus
+T147	Disease_disorder 3218 3237	lupus erythematosus
+T148	Disease_disorder 3218 3223	lupus
+T149	Disease_disorder 3296 3306	vasculitis
+T150	Disease_disorder 3307 3315	diseases
+T151	Disease_disorder 3492 3525	upper respiratory tract infection
+T152	Disease_disorder 3498 3525	respiratory tract infection
+T153	Disease_disorder 3516 3525	infection
+T154	Disease_disorder 3590 3599	infection
+T155	Disease_disorder 3616 3631	rheumatic fever
+T156	Disease_disorder 3803 3846	secondary hemolytic streptococcus infection
+T157	Disease_disorder 3837 3846	infection
+T158	Disease_disorder 3950 3959	infection
+T159	Disease_disorder 3971 3988	junctional rhythm
+T160	Disease_disorder 4073 4104	complete atrioventricular block
+T161	Disease_disorder 4082 4104	atrioventricular block
+T162	Disease_disorder 4099 4104	block
+T163	Disease_disorder 4348 4369	inflammatory reaction
+T164	Disease_disorder 4607 4637	drug for acute rheumatic fever
+T165	Disease_disorder 4616 4637	acute rheumatic fever
+T166	Disease_disorder 4622 4637	rheumatic fever
+T167	Disease_disorder 4795 4816	acute rheumatic fever
+T168	Disease_disorder 4801 4816	rheumatic fever
+T169	Disease_disorder 5293 5324	complete atrioventricular block
+T170	Disease_disorder 5302 5324	atrioventricular block
+T171	Disease_disorder 5319 5324	block
+T172	Disease_disorder 5516 5525	tolerance
+T173	Disease_disorder 5526 5534	disorder
+T174	Disease_disorder 5540 5552	hypertension
+T175	Disease_disorder 5641 5648	disease
+T176	Disease_disorder 5705 5710	block
+T177	Disease_disorder 5719 5734	rheumatic fever
+T178	Disease_disorder 5760 5791	complete atrioventricular block
+T179	Disease_disorder 5769 5791	atrioventricular block
+T180	Disease_disorder 5786 5791	block
+T181	Disease_disorder 5811 5826	rheumatic fever
+T182	Disease_disorder 5957 5988	complete atrioventricular block
+T183	Disease_disorder 5966 5988	atrioventricular block
+T184	Disease_disorder 5983 5988	block
+T185	Disease_disorder 6491 6522	complete atrioventricular block
+T186	Disease_disorder 6500 6522	atrioventricular block
+T187	Disease_disorder 6517 6522	block
+T188	Disease_disorder 268 299	complete atrioventricular block
+T189	Disease_disorder 358 406	any history of upper respiratory tract infection
+T190	Disease_disorder 478 521	no familial history of any serious diseases
+T191	Disease_disorder 898 908	troponin T
+T192	Disease_disorder 1054 1115	complete atrioventricular block with junctional escape rhythm
+T193	Disease_disorder 1187 1212	mild mitral regurgitation
+T194	Disease_disorder 1217 1233	cardiac effusion
+T195	Disease_disorder 1303 1345	ONSET RHEUMATIC FEVER WITH AV BLOCK a dose
+T196	Disease_disorder 1472 1517	her on loxoprofen sodium because pericarditis
+T197	Disease_disorder 1541 1578	the presence of mild cardiac effusion
+T198	Disease_disorder 1719 1754	The complete atrioventricular block
+T199	Disease_disorder 1811 1890	syncope due to transient complete atrioventricular block with ventricular pause
+T200	Disease_disorder 2070 2091	inflammation reaction
+T201	Disease_disorder 2150 2181	complete atrioventricular block
+T202	Disease_disorder 2431 2467	one of the most common diseases that
+T203	Disease_disorder 2479 2510	complete atrioventricular block
+T204	Disease_disorder 2611 2624	Ca 8.5 mg/ dL
+T205	Disease_disorder 2719 2753	no bilateral hilar lymphadenopathy
+T206	Disease_disorder 2979 3006	Systemic autoimmune disease
+T207	Disease_disorder 3106 3128	atrioventricular block
+T208	Disease_disorder 3209 3237	systemic lupus erythematosus
+T209	Disease_disorder 3284 3315	-associated vasculitis diseases
+T210	Disease_disorder 3478 3525	no history of upper respiratory tract infection
+T211	Disease_disorder 3553 3599	a history of hemolytic streptococcus infection
+T212	Disease_disorder 3601 3631	A diagnosis of rheumatic fever
+T213	Disease_disorder 3801 3846	a secondary hemolytic streptococcus infection
+T214	Disease_disorder 3935 3959	a blood stream infection
+T215	Disease_disorder 3964 4005	stable junctional rhythm (HR 50-60/minute
+T216	Disease_disorder 4048 4127	syncope due to transient complete atrioventricular block with ventricular pause
+T217	Disease_disorder 4344 4369	The inflammatory reaction
+T218	Disease_disorder 4581 4637	the generally recommended drug for acute rheumatic fever
+T219	Disease_disorder 4764 4816	At 5 months after the onset of acute rheumatic fever
+T220	Disease_disorder 5293 5324	complete atrioventricular block
+T221	Disease_disorder 5508 5534	glucose tolerance disorder
+T222	Disease_disorder 5632 5680	valvular disease during the 3 years of follow-up
+T223	Disease_disorder 5689 5710	the key words " block
+T224	Disease_disorder 5747 5835	7 cases with complete atrioventricular block due to adult-onset rheumatic fever in Japan
+T225	Disease_disorder 5941 5988	The duration of complete atrioventricular block
+T226	Disease_disorder 6475 6522	The duration of complete atrioventricular block
+T227	Sign_symptom 153 168	epigastric pain
+T228	Sign_symptom 164 168	pain
+T229	Sign_symptom 172 183	inspiration
+T230	Sign_symptom 229 234	fever
+T231	Sign_symptom 362 372	history of
+T232	Sign_symptom 362 369	history
+T233	Sign_symptom 427 437	history of
+T234	Sign_symptom 427 434	history
+T235	Sign_symptom 490 500	history of
+T236	Sign_symptom 490 497	history
+T237	Sign_symptom 568 582	blood pressure
+T238	Sign_symptom 574 582	pressure
+T239	Sign_symptom 596 612	pulse 55 regular
+T240	Sign_symptom 632 637	fever
+T241	Sign_symptom 702 717	systolic murmur
+T242	Sign_symptom 711 717	murmur
+T243	Sign_symptom 743 765	laboratory examination
+T244	Sign_symptom 938 948	parameters
+T245	Sign_symptom 961 967	normal
+T246	Sign_symptom 1000 1012	cardiomegaly
+T247	Sign_symptom 1018 1035	electrocardiogram
+T248	Sign_symptom 1160 1166	normal
+T249	Sign_symptom 1199 1212	regurgitation
+T250	Sign_symptom 1319 1324	FEVER
+T251	Sign_symptom 1395 1400	fever
+T252	Sign_symptom 1402 1417	epigastric pain
+T253	Sign_symptom 1413 1417	pain
+T254	Sign_symptom 1421 1432	inspiration
+T255	Sign_symptom 1598 1608	initiation
+T256	Sign_symptom 1635 1659	temperature and symptoms
+T257	Sign_symptom 1651 1659	symptoms
+T258	Sign_symptom 1811 1818	syncope
+T259	Sign_symptom 2057 2065	symptoms
+T260	Sign_symptom 2140 2145	fever
+T261	Sign_symptom 2339 2347	movement
+T262	Sign_symptom 2548 2570	laboratory examination
+T263	Sign_symptom 2738 2753	lymphadenopathy
+T264	Sign_symptom 2767 2773	lesion
+T265	Sign_symptom 2799 2808	resonance
+T266	Sign_symptom 2824 2830	normal
+T267	Sign_symptom 3034 3039	fever
+T268	Sign_symptom 3481 3491	history of
+T269	Sign_symptom 3481 3488	history
+T270	Sign_symptom 3555 3565	history of
+T271	Sign_symptom 3555 3562	history
+T272	Sign_symptom 3566 3575	hemolytic
+T273	Sign_symptom 3603 3612	diagnosis
+T274	Sign_symptom 3626 3631	fever
+T275	Sign_symptom 3700 3714	administration
+T276	Sign_symptom 3813 3822	hemolytic
+T277	Sign_symptom 4048 4055	syncope
+T278	Sign_symptom 4632 4637	fever
+T279	Sign_symptom 4811 4816	fever
+T280	Sign_symptom 5495 5506	weight gain
+T281	Sign_symptom 5516 5525	tolerance
+T282	Sign_symptom 5671 5680	follow-up
+T283	Sign_symptom 5729 5734	fever
+T284	Sign_symptom 5821 5826	fever
+T285	Sign_symptom 6044 6065	prolonged PR interval
+T286	Sign_symptom 6054 6065	PR interval
+T287	Sign_symptom 6054 6056	PR
+T288	Sign_symptom 6073 6090	electrocardiogram
+T289	Sign_symptom 153 183	epigastric pain on inspiration
+T290	Sign_symptom 358 406	any history of upper respiratory tract infection
+T291	Sign_symptom 418 466	no other history of cardiorespiratory complaints
+T292	Sign_symptom 478 521	no familial history of any serious diseases
+T293	Sign_symptom 568 586	blood pressure 154
+T294	Sign_symptom 596 618	pulse 55 regular beats
+T295	Sign_symptom 686 729	a Levine II/ VI systolic murmur at the apex
+T296	Sign_symptom 731 765	The initial laboratory examination
+T297	Sign_symptom 920 948	Other biochemical parameters
+T298	Sign_symptom 961 974	normal limits
+T299	Sign_symptom 997 1012	no cardiomegaly
+T300	Sign_symptom 1014 1044	The electrocardiogram analysis
+T301	Sign_symptom 1160 1175	normal findings
+T302	Sign_symptom 1187 1212	mild mitral regurgitation
+T303	Sign_symptom 1303 1345	ONSET RHEUMATIC FEVER WITH AV BLOCK a dose
+T304	Sign_symptom 1402 1432	epigastric pain on inspiration
+T305	Sign_symptom 1580 1629	The day after the initiation of loxoprofen sodium
+T306	Sign_symptom 1631 1659	her temperature and symptoms
+T307	Sign_symptom 1811 1890	syncope due to transient complete atrioventricular block with ventricular pause
+T308	Sign_symptom 2053 2065	the symptoms
+T309	Sign_symptom 2136 2145	the fever
+T310	Sign_symptom 2719 2753	no bilateral hilar lymphadenopathy
+T311	Sign_symptom 2757 2773	pulmonary lesion
+T312	Sign_symptom 2775 2816	Cardiovascular magnetic resonance imaging
+T313	Sign_symptom 2824 2839	normal findings
+T314	Sign_symptom 3478 3525	no history of upper respiratory tract infection
+T315	Sign_symptom 3553 3599	a history of hemolytic streptococcus infection
+T316	Sign_symptom 3601 3631	A diagnosis of rheumatic fever
+T317	Sign_symptom 3696 3735	the administration of loxoprofen sodium
+T318	Sign_symptom 3801 3846	a secondary hemolytic streptococcus infection
+T319	Sign_symptom 4048 4127	syncope due to transient complete atrioventricular block with ventricular pause
+T320	Sign_symptom 4581 4637	the generally recommended drug for acute rheumatic fever
+T321	Sign_symptom 4764 4816	At 5 months after the onset of acute rheumatic fever
+T322	Sign_symptom 5452 5506	the patient exhibited side effects such as weight gain
+T323	Sign_symptom 5508 5534	glucose tolerance disorder
+T324	Sign_symptom 5632 5680	valvular disease during the 3 years of follow-up
+T325	Sign_symptom 5719 5734	rheumatic fever
+T326	Sign_symptom 5747 5835	7 cases with complete atrioventricular block due to adult-onset rheumatic fever in Japan
+T327	Sign_symptom 6026 6090	The duration of a prolonged PR interval on the electrocardiogram
+T328	Anatomical_structure 373 396	upper respiratory tract
+T329	Anatomical_structure 379 396	respiratory tract
+T330	Anatomical_structure 568 573	blood
+T331	Anatomical_structure 650 664	cardiovascular
+T332	Anatomical_structure 777 793	white blood cell
+T333	Anatomical_structure 783 793	blood cell
+T334	Anatomical_structure 783 788	blood
+T335	Anatomical_structure 789 793	cell
+T336	Anatomical_structure 851 856	brain
+T337	Anatomical_structure 978 983	chest
+T338	Anatomical_structure 1217 1224	cardiac
+T339	Anatomical_structure 1562 1569	cardiac
+T340	Anatomical_structure 2259 2268	left knee
+T341	Anatomical_structure 2264 2268	knee
+T342	Anatomical_structure 2270 2280	left elbow
+T343	Anatomical_structure 2275 2280	elbow
+T344	Anatomical_structure 2286 2297	right ankle
+T345	Anatomical_structure 2292 2304	ankle joints
+T346	Anatomical_structure 2292 2297	ankle
+T347	Anatomical_structure 2298 2304	joints
+T348	Anatomical_structure 2611 2613	Ca
+T349	Anatomical_structure 2686 2691	Chest
+T350	Anatomical_structure 2775 2789	Cardiovascular
+T351	Anatomical_structure 2911 2920	left knee
+T352	Anatomical_structure 2916 2920	knee
+T353	Anatomical_structure 3257 3268	cytoplasmic
+T354	Anatomical_structure 3492 3515	upper respiratory tract
+T355	Anatomical_structure 3498 3515	respiratory tract
+T356	Anatomical_structure 3937 3942	blood
+T357	Medication 106 120	doxazosin 1 mg
+T358	Medication 1445 1450	level
+T359	Medication 1685 1690	level
+T360	Medication 2841 2859	Gallium-67 citrate
+T361	Medication 3048 3053	level
+T362	Medication 4216 4221	level
+T363	Medication 4470 4482	prednisolone
+T364	Medication 4669 4674	level
+T365	Medication 5945 5953	duration
+T366	Medication 6030 6038	duration
+T367	Medication 6479 6487	duration
+T368	Medication 1438 1457	a high level of CRP
+T369	Medication 1677 1690	The CRP level
+T370	Medication 2841 2872	Gallium-67 citrate scintigraphy
+T371	Medication 3041 3060	a high level of CRP
+T372	Medication 4208 4221	her CRP level
+T373	Medication 4665 4681	the level of CRP
+T374	Medication 5941 5988	The duration of complete atrioventricular block
+T375	Medication 6026 6090	The duration of a prolonged PR interval on the electrocardiogram
+T376	Medication 6475 6522	The duration of complete atrioventricular block

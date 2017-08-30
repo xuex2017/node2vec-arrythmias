@@ -1,0 +1,304 @@
+T1	Procedure 253 262	treatment
+T2	Procedure 510 526	echocardiography
+T3	Procedure 1491 1504	resuscitation
+T4	Procedure 1599 1606	autopsy
+T5	Procedure 1654 1677	Microscopic examination
+T6	Procedure 2059 2081	Fetal echocardiography
+T7	Procedure 2065 2081	echocardiography
+T8	Procedure 2531 2539	dilation
+T9	Procedure 2624 2634	shortening
+T10	Procedure 2739 2764	anterolateral thoracotomy
+T11	Procedure 2753 2764	thoracotomy
+T12	Procedure 2992 2994	ms
+T13	Procedure 3181 3189	biopsies
+T14	Procedure 3748 3756	delivery
+T15	Procedure 3889 3901	implantation
+T16	Procedure 3972 3997	anterolateral thoracotomy
+T17	Procedure 3986 3997	thoracotomy
+T18	Procedure 4577 4587	intubation
+T19	Procedure 4602 4609	support
+T20	Procedure 4767 4784	myocardial biopsy
+T21	Procedure 4778 4784	biopsy
+T22	Procedure 4846 4861	medical therapy
+T23	Procedure 4854 4861	therapy
+T24	Procedure 4912 4960	implantation of a left ventricular assist device
+T25	Procedure 4912 4924	implantation
+T26	Procedure 5009 5032	cardiac transplantation
+T27	Procedure 5017 5032	transplantation
+T28	Procedure 5051 5057	biopsy
+T29	Procedure 5067 5082	transplantation
+T30	Procedure 5205 5223	immunofluorescence
+T31	Procedure 5273 5281	analysis
+T32	Procedure 5537 5545	dilation
+T33	Procedure 6012 6022	shortening
+T34	Procedure 6109 6121	implantation
+T35	Procedure 6187 6194	therapy
+T36	Procedure 6360 6370	shortening
+T37	Procedure 6468 6470	ms
+T38	Procedure 6707 6715	delivery
+T39	Procedure 6981 6983	ms
+T40	Procedure 7449 7456	therapy
+T41	Procedure 7730 7738	dilation
+T42	Procedure 7892 7903	replacement
+T43	Procedure 244 281	maternal treatment with dexamethasone
+T44	Procedure 500 526	Postnatal echocardiography
+T45	Procedure 1455 1504	immediate and prolonged attempts at resuscitation
+T46	Procedure 1591 1606	cardiac autopsy
+T47	Procedure 2059 2081	Fetal echocardiography
+T48	Procedure 2502 2539	progressive left ventricular dilation
+T49	Procedure 2615 2651	a normal shortening fraction for age
+T50	Procedure 2707 2764	59 months of age through a left anterolateral thoracotomy
+T51	Procedure 2980 2994	8 V at 0.52 ms
+T52	Procedure 3172 3200	Multiple biopsies of the LAA
+T53	Procedure 3723 3756	an uncomplicated vaginal delivery
+T54	Procedure 3889 3997	implantation of a dual-chamber epicardial pacemaker at 16 months of age via a left anterolateral thoracotomy
+T55	Procedure 4592 4609	inotropic support
+T56	Procedure 4743 4784	Findings on ventricular myocardial biopsy
+T57	Procedure 4838 4861	maximal medical therapy
+T58	Procedure 4912 4971	implantation of a left ventricular assist device at 2 years
+T59	Procedure 4998 5041	uneventful cardiac transplantation 7 months
+T60	Procedure 5049 5082	A biopsy prior to transplantation
+T61	Procedure 5175 5223	no perivascular antibodies by immunofluorescence
+T62	Procedure 5261 5281	microscopic analysis
+T63	Procedure 5523 5545	biventricular dilation
+T64	Procedure 6010 6076	a shortening fraction of 12% and ejection fraction of 25% 6 months
+T65	Procedure 6084 6121	One year after pacemaker implantation
+T66	Procedure 6150 6194	epicardial cardiac resynchronization therapy
+T67	Procedure 6328 6386	an ejection fraction of 45% and shortening fraction of 22%
+T68	Procedure 6447 6470	a PR interval of 120 ms
+T69	Procedure 6699 6727	Vaginal delivery at 38 weeks
+T70	Procedure 6970 6983	2 V at 0.5 ms
+T71	Procedure 7423 7456	cardiac resynchronization therapy
+T72	Procedure 7713 7769	left ventricular dilation with mild systolic dysfunction
+T73	Procedure 7892 7921	replacement at 5 years of age
+T74	Disease_disorder 57 68	bradycardia
+T75	Disease_disorder 177 184	hydrops
+T76	Disease_disorder 214 219	lupus
+T77	Disease_disorder 310 315	block
+T78	Disease_disorder 340 360	pericardial effusion
+T79	Disease_disorder 352 360	effusion
+T80	Disease_disorder 464 488	junctional escape rhythm
+T81	Disease_disorder 554 574	pericardial effusion
+T82	Disease_disorder 566 574	effusion
+T83	Disease_disorder 707 727	pericardial effusion
+T84	Disease_disorder 719 727	effusion
+T85	Disease_disorder 777 799	pulmonary hypertension
+T86	Disease_disorder 787 799	hypertension
+T87	Disease_disorder 1155 1157	RA
+T88	Disease_disorder 1322 1331	condition
+T89	Disease_disorder 1575 1586	dysfunction
+T90	Disease_disorder 1695 1702	absence
+T91	Disease_disorder 1839 1851	pericarditis
+T92	Disease_disorder 2021 2032	bradycardia
+T93	Disease_disorder 2129 2136	hydrops
+T94	Disease_disorder 2173 2176	SLE
+T95	Disease_disorder 2408 2419	progression
+T96	Disease_disorder 2531 2539	dilation
+T97	Disease_disorder 2992 2994	ms
+T98	Disease_disorder 3252 3260	fibrosis
+T99	Disease_disorder 3556 3563	hydrops
+T100	Disease_disorder 3676 3681	block
+T101	Disease_disorder 4336 4347	dysfunction
+T102	Disease_disorder 4451 4464	heart failure
+T103	Disease_disorder 4867 4876	condition
+T104	Disease_disorder 5111 5125	cardiomyopathy
+T105	Disease_disorder 5147 5150	SLE
+T106	Disease_disorder 5159 5170	myocarditis
+T107	Disease_disorder 5371 5376	block
+T108	Disease_disorder 5537 5545	dilation
+T109	Disease_disorder 5776 5788	complication
+T110	Disease_disorder 6468 6470	ms
+T111	Disease_disorder 6650 6653	SLE
+T112	Disease_disorder 6981 6983	ms
+T113	Disease_disorder 7098 7109	dysfunction
+T114	Disease_disorder 7323 7343	atrial septal defect
+T115	Disease_disorder 7350 7372	atrioventricular block
+T116	Disease_disorder 7367 7372	block
+T117	Disease_disorder 7563 7585	pulmonary hypertension
+T118	Disease_disorder 7573 7585	hypertension
+T119	Disease_disorder 7610 7612	RA
+T120	Disease_disorder 7713 7769	left ventricular dilation with mild systolic dysfunction
+T121	Disease_disorder 7730 7738	dilation
+T122	Disease_disorder 7749 7769	systolic dysfunction
+T123	Disease_disorder 7758 7769	dysfunction
+T124	Disease_disorder 7989 8001	complication
+T125	Disease_disorder 39 80	fetal evidence of bradycardia at 21 weeks
+T126	Disease_disorder 162 184	no evidence of hydrops
+T127	Disease_disorder 214 234	lupus autoantibodies
+T128	Disease_disorder 283 330	AVB progressed to complete block within a month
+T129	Disease_disorder 332 411	A small pericardial effusion with moderate biventricular AV valve regurgitation
+T130	Disease_disorder 462 498	a junctional escape rhythm at 75 bpm
+T131	Disease_disorder 536 601	resolution of the pericardial effusion and AV valve regurgitation
+T132	Disease_disorder 656 727	1 month of age in the context of recurrence of the pericardial effusion
+T133	Disease_disorder 766 799	persistent pulmonary hypertension
+T134	Disease_disorder 1308 1331	the patient's condition
+T135	Disease_disorder 1555 1586	no evidence of lead dysfunction
+T136	Disease_disorder 1691 1721	the absence of a clear AV node
+T137	Disease_disorder 1824 1851	a mild fibrous pericarditis
+T138	Disease_disorder 2021 2057	bradycardia at 21 weeks of gestation
+T139	Disease_disorder 2089 2136	no evidence of cardiac abnormalities or hydrops
+T140	Disease_disorder 2158 2202	a diagnosis of SLE with positive antibodies,
+T141	Disease_disorder 2408 2435	progression to complete AVB
+T142	Disease_disorder 2502 2539	progressive left ventricular dilation
+T143	Disease_disorder 2980 2994	8 V at 0.52 ms
+T144	Disease_disorder 3230 3287	no evidence of atrial fibrosis or loss of atrial myocytes
+T145	Disease_disorder 3547 3563	signs of hydrops
+T146	Disease_disorder 3649 3681	AVB progressed to complete block
+T147	Disease_disorder 4319 4347	left ventricular dysfunction
+T148	Disease_disorder 4442 4464	signs of heart failure
+T149	Disease_disorder 4863 4876	her condition
+T150	Disease_disorder 5103 5125	dilated cardiomyopathy
+T151	Disease_disorder 5132 5170	no evidence of SLE-related myocarditis
+T152	Disease_disorder 5358 5396	complete AVB block at 2.8 years of age
+T153	Disease_disorder 5523 5545	biventricular dilation
+T154	Disease_disorder 5741 5788	the LAA and left ventricle without complication
+T155	Disease_disorder 6447 6470	a PR interval of 120 ms
+T156	Disease_disorder 6970 6983	2 V at 0.5 ms
+T157	Disease_disorder 7098 7128	dysfunction of the atrial lead
+T158	Disease_disorder 7250 7343	ProgressiveAlive, transvenous dualchamber pacemaker at 5 y ASD indicates atrial septal defect
+T159	Disease_disorder 7350 7372	atrioventricular block
+T160	Disease_disorder 7563 7585	pulmonary hypertension
+T161	Disease_disorder 7713 7769	left ventricular dilation with mild systolic dysfunction
+T162	Sign_symptom 39 68	fetal evidence of bradycardia
+T163	Sign_symptom 115 143	Cardiac anatomy and function
+T164	Sign_symptom 398 411	regurgitation
+T165	Sign_symptom 447 452	birth
+T166	Sign_symptom 588 601	regurgitation
+T167	Sign_symptom 678 685	context
+T168	Sign_symptom 826 834	pressure
+T169	Sign_symptom 2039 2057	weeks of gestation
+T170	Sign_symptom 2048 2057	gestation
+T171	Sign_symptom 2160 2169	diagnosis
+T172	Sign_symptom 2617 2623	normal
+T173	Sign_symptom 3072 3082	difficulty
+T174	Sign_symptom 3289 3314	Left ventricular function
+T175	Sign_symptom 3334 3343	follow-up
+T176	Sign_symptom 3483 3501	weeks of gestation
+T177	Sign_symptom 3492 3501	gestation
+T178	Sign_symptom 3683 3688	Labor
+T179	Sign_symptom 3740 3756	vaginal delivery
+T180	Sign_symptom 3761 3766	birth
+T181	Sign_symptom 3838 3845	fatigue
+T182	Sign_symptom 3860 3879	functional capacity
+T183	Sign_symptom 4421 4426	fever
+T184	Sign_symptom 4428 4436	vomiting
+T185	Sign_symptom 4473 4507	left ventricular ejection fraction
+T186	Sign_symptom 4490 4498	ejection
+T187	Sign_symptom 5151 5158	related
+T188	Sign_symptom 5568 5574	normal
+T189	Sign_symptom 5608 5612	Work
+T190	Sign_symptom 5941 5966	Left ventricular function
+T191	Sign_symptom 5994 6003	follow-up
+T192	Sign_symptom 6043 6051	ejection
+T193	Sign_symptom 6259 6268	follow-up
+T194	Sign_symptom 6274 6308	left ventricular systolic function
+T195	Sign_symptom 6331 6339	ejection
+T196	Sign_symptom 6417 6428	QRS-complex
+T197	Sign_symptom 6449 6460	PR interval
+T198	Sign_symptom 6449 6451	PR
+T199	Sign_symptom 6528 6546	weeks of gestation
+T200	Sign_symptom 6537 6546	gestation
+T201	Sign_symptom 6583 6589	normal
+T202	Sign_symptom 6590 6618	cardiac anatomy and function
+T203	Sign_symptom 6699 6715	Vaginal delivery
+T204	Sign_symptom 7403 7416	regurgitation
+T205	Sign_symptom 7541 7545	sign
+T206	Sign_symptom 7592 7596	sign
+T207	Sign_symptom 7605 7608	yes
+T208	Sign_symptom 7786 7795	follow-up
+T209	Sign_symptom 7807 7817	initiation
+T210	Sign_symptom 39 80	fetal evidence of bradycardia at 21 weeks
+T211	Sign_symptom 332 411	A small pericardial effusion with moderate biventricular AV valve regurgitation
+T212	Sign_symptom 536 601	resolution of the pericardial effusion and AV valve regurgitation
+T213	Sign_symptom 656 727	1 month of age in the context of recurrence of the pericardial effusion
+T214	Sign_symptom 801 834	50% of systemic systolic pressure
+T215	Sign_symptom 2021 2057	bradycardia at 21 weeks of gestation
+T216	Sign_symptom 2158 2202	a diagnosis of SLE with positive antibodies,
+T217	Sign_symptom 2615 2651	a normal shortening fraction for age
+T218	Sign_symptom 3037 3082	the right atrial appendage without difficulty
+T219	Sign_symptom 3461 3501	firstdegree AVB at 20 weeks of gestation
+T220	Sign_symptom 3723 3756	an uncomplicated vaginal delivery
+T221	Sign_symptom 3817 3845	Progressive signs of fatigue
+T222	Sign_symptom 4471 4514	a left ventricular ejection fraction of 20%
+T223	Sign_symptom 5132 5170	no evidence of SLE-related myocarditis
+T224	Sign_symptom 5568 5606	normal biventricular systolic function
+T225	Sign_symptom 5608 5615	Work-up
+T226	Sign_symptom 6010 6076	a shortening fraction of 12% and ejection fraction of 25% 6 months
+T227	Sign_symptom 6254 6268	last follow-up
+T228	Sign_symptom 6270 6308	her left ventricular systolic function
+T229	Sign_symptom 6328 6386	an ejection fraction of 45% and shortening fraction of 22%
+T230	Sign_symptom 6447 6470	a PR interval of 120 ms
+T231	Sign_symptom 6509 6578	complete AVB at 25 weeks of gestation with escape rates around 70 bpm
+T232	Sign_symptom 6583 6618	normal cardiac anatomy and function
+T233	Sign_symptom 6699 6727	Vaginal delivery at 38 weeks
+T234	Sign_symptom 7380 7416	atrioventricular valve regurgitation
+T235	Sign_symptom 7535 7545	minus sign
+T236	Sign_symptom 7587 7596	plus sign
+T237	Sign_symptom 7797 7862	prompting initiation of an angiotensinconverting-enzyme inhibitor
+T238	Anatomical_structure 115 122	Cardiac
+T239	Anatomical_structure 340 351	pericardial
+T240	Anatomical_structure 554 565	pericardial
+T241	Anatomical_structure 707 718	pericardial
+T242	Anatomical_structure 897 903	Atrial
+T243	Anatomical_structure 941 962	left atrial appendage
+T244	Anatomical_structure 946 962	atrial appendage
+T245	Anatomical_structure 946 952	atrial
+T246	Anatomical_structure 973 984	left atrium
+T247	Anatomical_structure 978 984	atrium
+T248	Anatomical_structure 1111 1117	atrial
+T249	Anatomical_structure 1141 1153	right atrium
+T250	Anatomical_structure 1147 1153	atrium
+T251	Anatomical_structure 1192 1206	left ventricle
+T252	Anatomical_structure 1197 1206	ventricle
+T253	Anatomical_structure 1591 1598	cardiac
+T254	Anatomical_structure 1714 1721	AV node
+T255	Anatomical_structure 1745 1759	fibrous tissue
+T256	Anatomical_structure 1753 1759	tissue
+T257	Anatomical_structure 1986 1996	epicardium
+T258	Anatomical_structure 2104 2111	cardiac
+T259	Anatomical_structure 3000 3006	atrial
+T260	Anatomical_structure 3041 3063	right atrial appendage
+T261	Anatomical_structure 3047 3063	atrial appendage
+T262	Anatomical_structure 3047 3053	atrial
+T263	Anatomical_structure 3123 3137	left ventricle
+T264	Anatomical_structure 3128 3137	ventricle
+T265	Anatomical_structure 3245 3251	atrial
+T266	Anatomical_structure 3272 3278	atrial
+T267	Anatomical_structure 3522 3529	cardiac
+T268	Anatomical_structure 3740 3747	vaginal
+T269	Anatomical_structure 4103 4109	atrial
+T270	Anatomical_structure 4132 4154	right atrial appendage
+T271	Anatomical_structure 4138 4154	atrial appendage
+T272	Anatomical_structure 4138 4144	atrial
+T273	Anatomical_structure 4243 4257	left ventricle
+T274	Anatomical_structure 4248 4257	ventricle
+T275	Anatomical_structure 4451 4456	heart
+T276	Anatomical_structure 5009 5016	cardiac
+T277	Anatomical_structure 5225 5231	Atrial
+T278	Anatomical_structure 5232 5238	tissue
+T279	Anatomical_structure 5753 5767	left ventricle
+T280	Anatomical_structure 5758 5767	ventricle
+T281	Anatomical_structure 5916 5922	atrial
+T282	Anatomical_structure 6161 6168	cardiac
+T283	Anatomical_structure 6237 6243	atrial
+T284	Anatomical_structure 6590 6597	cardiac
+T285	Anatomical_structure 6699 6706	Vaginal
+T286	Anatomical_structure 6890 6896	atrial
+T287	Anatomical_structure 7021 7035	left ventricle
+T288	Anatomical_structure 7026 7035	ventricle
+T289	Anatomical_structure 7117 7123	atrial
+T290	Anatomical_structure 7323 7329	atrial
+T291	Anatomical_structure 7380 7402	atrioventricular valve
+T292	Anatomical_structure 7423 7430	cardiac
+T293	Anatomical_structure 7462 7473	left atrium
+T294	Anatomical_structure 7467 7473	atrium
+T295	Anatomical_structure 7480 7501	left atrial appendage
+T296	Anatomical_structure 7485 7501	atrial appendage
+T297	Anatomical_structure 7485 7491	atrial
+T298	Anatomical_structure 7507 7521	left ventricle
+T299	Anatomical_structure 7512 7521	ventricle
+T300	Anatomical_structure 7614 7626	right atrium
+T301	Anatomical_structure 7620 7626	atrium
+T302	Anatomical_structure 7633 7655	right atrial appendage
+T303	Anatomical_structure 7639 7655	atrial appendage
+T304	Anatomical_structure 7639 7645	atrial

@@ -1,0 +1,182 @@
+T1	Procedure 415 418	ECG
+T2	Procedure 451 453	ms
+T3	Procedure 466 480	echocardiogram
+T4	Procedure 482 502	electroencephalogram
+T5	Procedure 514 517	MRI
+T6	Procedure 714 729	Genetic testing
+T7	Procedure 813 822	Treatment
+T8	Procedure 921 923	ms
+T9	Procedure 1155 1157	ms
+T10	Procedure 1445 1452	therapy
+T11	Procedure 1571 1578	therapy
+T12	Procedure 1727 1736	treatment
+T13	Procedure 1808 1811	ECG
+T14	Procedure 1847 1849	ms
+T15	Procedure 2422 2424	ms
+T16	Procedure 2509 2512	ECG
+T17	Procedure 2676 2678	mg
+T18	Procedure 2761 2763	ms
+T19	Procedure 3025 3045	exercise stress test
+T20	Procedure 3034 3045	stress test
+T21	Procedure 3041 3045	test
+T22	Procedure 3134 3138	scan
+T23	Procedure 3151 3166	Genetic testing
+T24	Procedure 3400 3403	ECG
+T25	Procedure 3457 3459	ms
+T26	Procedure 3761 3776	Genetic testing
+T27	Procedure 412 445	An ECG exhibited QTc prolongation
+T28	Procedure 447 453	478 ms
+T29	Procedure 508 517	brain MRI
+T30	Procedure 714 752	Genetic testing for mutations in KCNQ1
+T31	Procedure 813 839	Treatment with propranolol
+T32	Procedure 890 923	the QTc interval to 471 to 473 ms
+T33	Procedure 1151 1157	449 ms
+T34	Procedure 1552 1578	an interruption of therapy
+T35	Procedure 1796 1811	Her resting ECG
+T36	Procedure 2418 2424	500 ms
+T37	Procedure 2509 2519	ECG images
+T38	Procedure 2673 2686	40 mg per day
+T39	Procedure 2750 2790	420 to 450 ms without ventricular ectopy
+T40	Procedure 3022 3045	No exercise stress test
+T41	Procedure 3106 3138	a head computed tomographic scan
+T42	Procedure 3453 3459	555 ms
+T43	Procedure 3761 3796	Genetic testing for mutations KCNQ1
+T44	Disease_disorder 154 165	bradycardia
+T45	Disease_disorder 451 453	ms
+T46	Disease_disorder 544 563	developmental delay
+T47	Disease_disorder 611 623	sudden death
+T48	Disease_disorder 921 923	ms
+T49	Disease_disorder 1155 1157	ms
+T50	Disease_disorder 1219 1220	T
+T51	Disease_disorder 1300 1311	bradycardia
+T52	Disease_disorder 1399 1413	cardiac arrest
+T53	Disease_disorder 1418 1430	sudden death
+T54	Disease_disorder 1847 1849	ms
+T55	Disease_disorder 1876 1877	T
+T56	Disease_disorder 1925 1926	T
+T57	Disease_disorder 2129 2164	polymorphic ventricular tachycardia
+T58	Disease_disorder 2141 2164	ventricular tachycardia
+T59	Disease_disorder 2231 2249	cardiac arrhythmia
+T60	Disease_disorder 2239 2249	arrhythmia
+T61	Disease_disorder 2422 2424	ms
+T62	Disease_disorder 2761 2763	ms
+T63	Disease_disorder 3077 3088	dysfunction
+T64	Disease_disorder 3288 3302	cardiac arrest
+T65	Disease_disorder 3316 3340	ventricular fibrillation
+T66	Disease_disorder 3328 3340	fibrillation
+T67	Disease_disorder 3411 3422	bradycardia
+T68	Disease_disorder 3457 3459	ms
+T69	Disease_disorder 3495 3513	cardiac arrhythmia
+T70	Disease_disorder 3503 3513	arrhythmia
+T71	Disease_disorder 3637 3651	cardiac arrest
+T72	Disease_disorder 135 165	a history of fetal bradycardia
+T73	Disease_disorder 447 453	478 ms
+T74	Disease_disorder 541 563	no developmental delay
+T75	Disease_disorder 890 923	the QTc interval to 471 to 473 ms
+T76	Disease_disorder 1151 1157	449 ms
+T77	Disease_disorder 1164 1225	elimination of the notch in the descending limb of the T wave
+T78	Disease_disorder 1290 1311	perinatal bradycardia
+T79	Disease_disorder 1856 1896	persistent biphasic T waves in leads III
+T80	Disease_disorder 1916 1944	negative T waves in V4 to V6
+T81	Disease_disorder 2111 2164	one 3-beat run of polymorphic ventricular tachycardia
+T82	Disease_disorder 2182 2249	A Moroccan girl from a family with no history of cardiac arrhythmia
+T83	Disease_disorder 2418 2424	500 ms
+T84	Disease_disorder 2750 2790	420 to 450 ms without ventricular ectopy
+T85	Disease_disorder 3061 3088	No neurological dysfunction
+T86	Disease_disorder 3316 3364	ventricular fibrillation at the age of 17 months
+T87	Disease_disorder 3453 3459	555 ms
+T88	Disease_disorder 3474 3513	no family history of cardiac arrhythmia
+T89	Disease_disorder 3633 3651	the cardiac arrest
+T90	Sign_symptom 81 88	syncope
+T91	Sign_symptom 104 125	prolonged QT interval
+T92	Sign_symptom 104 116	prolonged QT
+T93	Sign_symptom 137 147	history of
+T94	Sign_symptom 137 144	history
+T95	Sign_symptom 148 165	fetal bradycardia
+T96	Sign_symptom 188 193	birth
+T97	Sign_symptom 224 231	syncope
+T98	Sign_symptom 293 300	syncope
+T99	Sign_symptom 306 313	seizure
+T100	Sign_symptom 578 595	family history of
+T101	Sign_symptom 578 592	family history
+T102	Sign_symptom 585 595	history of
+T103	Sign_symptom 585 592	history
+T104	Sign_symptom 618 623	death
+T105	Sign_symptom 675 683	exercise
+T106	Sign_symptom 703 712	dizziness
+T107	Sign_symptom 734 743	mutations
+T108	Sign_symptom 957 964	syncope
+T109	Sign_symptom 969 978	dizziness
+T110	Sign_symptom 1102 1109	syncope
+T111	Sign_symptom 1219 1225	T wave
+T112	Sign_symptom 1367 1381	family history
+T113	Sign_symptom 1374 1381	history
+T114	Sign_symptom 1425 1430	death
+T115	Sign_symptom 1523 1530	syncope
+T116	Sign_symptom 1616 1624	exercise
+T117	Sign_symptom 1800 1807	resting
+T118	Sign_symptom 1974 1982	seizures
+T119	Sign_symptom 1996 2002	normal
+T120	Sign_symptom 2153 2164	tachycardia
+T121	Sign_symptom 2205 2249	family with no history of cardiac arrhythmia
+T122	Sign_symptom 2205 2230	family with no history of
+T123	Sign_symptom 2205 2227	family with no history
+T124	Sign_symptom 2220 2230	history of
+T125	Sign_symptom 2220 2227	history
+T126	Sign_symptom 2309 2316	syncope
+T127	Sign_symptom 2353 2368	unconsciousness
+T128	Sign_symptom 2431 2451	ventricular bigeminy
+T129	Sign_symptom 2443 2451	bigeminy
+T130	Sign_symptom 2601 2607	female
+T131	Sign_symptom 2899 2908	diagnosis
+T132	Sign_symptom 2931 2940	diagnosis
+T133	Sign_symptom 3025 3033	exercise
+T134	Sign_symptom 3034 3040	stress
+T135	Sign_symptom 3477 3513	family history of cardiac arrhythmia
+T136	Sign_symptom 3477 3494	family history of
+T137	Sign_symptom 3477 3491	family history
+T138	Sign_symptom 3484 3494	history of
+T139	Sign_symptom 3484 3491	history
+T140	Sign_symptom 3550 3556	normal
+T141	Sign_symptom 3781 3790	mutations
+T142	Sign_symptom 50 88	the hospital for evaluation of syncope
+T143	Sign_symptom 93 125	a markedly prolonged QT interval
+T144	Sign_symptom 135 165	a history of fetal bradycardia
+T145	Sign_symptom 174 193	an uneventful birth
+T146	Sign_symptom 203 274	her first episode of syncope at the age of 19 A 5-year-old Japanese boy
+T147	Sign_symptom 279 313	an episode of syncope with seizure
+T148	Sign_symptom 575 607	no family history of arrhythmias
+T149	Sign_symptom 611 623	sudden death
+T150	Sign_symptom 675 712	exercise testing because of dizziness
+T151	Sign_symptom 714 752	Genetic testing for mutations in KCNQ1
+T152	Sign_symptom 969 984	dizziness while
+T153	Sign_symptom 1079 1109	no further episodes of syncope
+T154	Sign_symptom 1164 1225	elimination of the notch in the descending limb of the T wave
+T155	Sign_symptom 1363 1381	Her family history
+T156	Sign_symptom 1418 1430	sudden death
+T157	Sign_symptom 1604 1663	evidence of exercise-induced polymorphic ventricular ectopy
+T158	Sign_symptom 1796 1811	Her resting ECG
+T159	Sign_symptom 1996 2034	normal physical and mental development
+T160	Sign_symptom 2111 2164	one 3-beat run of polymorphic ventricular tachycardia
+T161	Sign_symptom 2182 2249	A Moroccan girl from a family with no history of cardiac arrhythmia
+T162	Sign_symptom 2270 2316	the age of 8 years after an episode of syncope
+T163	Sign_symptom 2333 2368	prolonged period of unconsciousness
+T164	Sign_symptom 2431 2451	ventricular bigeminy
+T165	Sign_symptom 2599 2616	4 female siblings
+T166	Sign_symptom 2887 2908	The initial diagnosis
+T167	Sign_symptom 2929 2948	a diagnosis of CPVT
+T168	Sign_symptom 3022 3045	No exercise stress test
+T169	Sign_symptom 3474 3513	no family history of cardiac arrhythmia
+T170	Sign_symptom 3550 3578	normal QTc interval duration
+T171	Sign_symptom 3761 3796	Genetic testing for mutations KCNQ1
+T172	Anatomical_structure 508 513	brain
+T173	Anatomical_structure 1207 1211	limb
+T174	Anatomical_structure 1399 1406	cardiac
+T175	Anatomical_structure 1898 1901	aVF
+T176	Anatomical_structure 2231 2238	cardiac
+T177	Anatomical_structure 3108 3112	head
+T178	Anatomical_structure 3288 3295	cardiac
+T179	Anatomical_structure 3495 3502	cardiac
+T180	Anatomical_structure 3637 3644	cardiac
+T181	Medication 3570 3578	duration
+T182	Medication 3550 3578	normal QTc interval duration

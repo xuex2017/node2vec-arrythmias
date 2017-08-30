@@ -1,0 +1,142 @@
+T1	Procedure 177 179	mg
+T2	Procedure 203 205	mg
+T3	Procedure 209 211	mg
+T4	Procedure 700 702	mg
+T5	Procedure 788 790	mg
+T6	Procedure 1123 1125	mg
+T7	Procedure 1148 1150	mg
+T8	Procedure 1188 1198	intubation
+T9	Procedure 1279 1308	Cardiopulmonary resuscitation
+T10	Procedure 1295 1308	resuscitation
+T11	Procedure 1339 1341	mg
+T12	Procedure 1363 1365	mg
+T13	Procedure 1372 1383	epinephrine
+T14	Procedure 1432 1449	electrocardiogram
+T15	Procedure 1451 1454	ECG
+T16	Procedure 1508 1510	ms
+T17	Procedure 1523 1525	ms
+T18	Procedure 1586 1588	ms
+T19	Procedure 1644 1650	sodium
+T20	Procedure 1651 1662	bicarbonate
+T21	Procedure 1676 1682	sodium
+T22	Procedure 1703 1717	norepinephrine
+T23	Procedure 1718 1726	infusion
+T24	Procedure 1897 1906	potassium
+T25	Procedure 1938 1948	creatinine
+T26	Procedure 1952 1954	mg
+T27	Procedure 1963 1970	glucose
+T28	Procedure 1976 1978	mg
+T29	Procedure 1983 1990	Opiates
+T30	Procedure 2008 2038	drugs of abuse urine screening
+T31	Procedure 2023 2038	urine screening
+T32	Procedure 2117 2124	cocaine
+T33	Procedure 2126 2135	methadone
+T34	Procedure 2153 2162	oxycodone
+T35	Procedure 2164 2177	phencyclidine
+T36	Procedure 2179 2191	propoxyphene
+T37	Procedure 174 182	76 mg/kg
+T38	Procedure 199 205	120 mg
+T39	Procedure 207 214	2 mg/kg
+T40	Procedure 697 721	10 mg of intravenous (IV
+T41	Procedure 786 805	1 mg of IV atropine
+T42	Procedure 1121 1141	2 mg of IV lorazepam
+T43	Procedure 1146 1165	5 mg of IV diazepam
+T44	Procedure 1173 1198	rapid sequence intubation
+T45	Procedure 1279 1308	Cardiopulmonary resuscitation
+T46	Procedure 1337 1356	1 mg of IV atropine
+T47	Procedure 1361 1422	1 mg of IV epinephrine with return of spontaneous circulation
+T48	Procedure 1424 1449	Initial electrocardiogram
+T49	Procedure 1498 1510	PR of 100 ms
+T50	Procedure 1512 1525	QRS of 112 ms
+T51	Procedure 1582 1588	413 ms
+T52	Procedure 1633 1699	150 mEq of sodium bicarbonate for possible sodium channel blockade
+T53	Procedure 1701 1726	A norepinephrine infusion
+T54	Procedure 1880 1906	signifi cant for potassium
+T55	Procedure 1950 1957	1 mg/dL
+T56	Procedure 1972 1981	232 mg/dL
+T57	Procedure 2008 2038	drugs of abuse urine screening
+T58	Disease_disorder 32 48	seizure disorder
+T59	Disease_disorder 40 48	disorder
+T60	Disease_disorder 77 87	depression
+T61	Disease_disorder 521 554	pulseless ventricular tachycardia
+T62	Disease_disorder 531 554	ventricular tachycardia
+T63	Disease_disorder 624 641	sinus tachycardia
+T64	Disease_disorder 624 629	sinus
+T65	Disease_disorder 651 665	clonic seizure
+T66	Disease_disorder 1053 1075	respiratory depression
+T67	Disease_disorder 1065 1075	depression
+T68	Disease_disorder 1231 1242	bradycardia
+T69	Disease_disorder 1269 1277	asystole
+T70	Disease_disorder 1469 1486	sinus tachycardia
+T71	Disease_disorder 1469 1474	sinus
+T72	Disease_disorder 1508 1510	ms
+T73	Disease_disorder 1523 1525	ms
+T74	Disease_disorder 1586 1588	ms
+T75	Disease_disorder 2017 2022	abuse
+T76	Disease_disorder 9 48	-old 59-kg female with seizure disorder
+T77	Disease_disorder 514 554	her in pulseless ventricular tachycardia
+T78	Disease_disorder 624 641	sinus tachycardia
+T79	Disease_disorder 1053 1075	respiratory depression
+T80	Disease_disorder 1469 1495	sinus tachycardia (139 BPM
+T81	Disease_disorder 1498 1510	PR of 100 ms
+T82	Disease_disorder 1512 1525	QRS of 112 ms
+T83	Disease_disorder 1582 1588	413 ms
+T84	Disease_disorder 2008 2038	drugs of abuse urine screening
+T85	Sign_symptom 20 26	female
+T86	Sign_symptom 32 39	seizure
+T87	Sign_symptom 77 87	depression
+T88	Sign_symptom 105 112	suicide
+T89	Sign_symptom 320 326	normal
+T90	Sign_symptom 521 530	pulseless
+T91	Sign_symptom 543 554	tachycardia
+T92	Sign_symptom 630 641	tachycardia
+T93	Sign_symptom 658 665	seizure
+T94	Sign_symptom 854 868	blood pressure
+T95	Sign_symptom 860 868	pressure
+T96	Sign_symptom 1034 1041	nervous
+T97	Sign_symptom 1065 1075	depression
+T98	Sign_symptom 1087 1094	seizure
+T99	Sign_symptom 1432 1449	electrocardiogram
+T100	Sign_symptom 1475 1486	tachycardia
+T101	Sign_symptom 1498 1500	PR
+T102	Sign_symptom 1540 1546	R-wave
+T103	Sign_symptom 1765 1767	pH
+T104	Sign_symptom 1795 1797	pO
+T105	Sign_symptom 2017 2022	abuse
+T106	Sign_symptom 0 26	A 16-year-old 59-kg female
+T107	Sign_symptom 9 48	-old 59-kg female with seizure disorder
+T108	Sign_symptom 93 121	three prior suicide attempts
+T109	Sign_symptom 316 333	her normal 30 min
+T110	Sign_symptom 514 554	her in pulseless ventricular tachycardia
+T111	Sign_symptom 624 641	sinus tachycardia
+T112	Sign_symptom 822 875	the emergency department with a blood pressure of 151
+T113	Sign_symptom 1015 1048	notable forcentral nervous system
+T114	Sign_symptom 1053 1075	respiratory depression
+T115	Sign_symptom 1077 1103	Recurrent seizure activity
+T116	Sign_symptom 1424 1449	Initial electrocardiogram
+T117	Sign_symptom 1469 1495	sinus tachycardia (139 BPM
+T118	Sign_symptom 1498 1510	PR of 100 ms
+T119	Sign_symptom 1531 1554	terminal R-wave in 3 mm
+T120	Sign_symptom 1765 1775	pH of 7.19
+T121	Sign_symptom 1795 1810	pO 2 of 97 mmHg
+T122	Sign_symptom 2008 2038	drugs of abuse urine screening
+T123	Anatomical_structure 854 859	blood
+T124	Anatomical_structure 885 890	heart
+T125	Anatomical_structure 967 976	laryngeal
+T126	Anatomical_structure 982 988	airway
+T127	Anatomical_structure 1034 1048	nervous system
+T128	Anatomical_structure 1540 1541	R
+T129	Anatomical_structure 1748 1753	blood
+T130	Anatomical_structure 2224 2229	Blood
+T131	Medication 261 274	levetiracetam
+T132	Medication 401 414	levetiracetam
+T133	Medication 1132 1141	lorazepam
+T134	Medication 1372 1383	epinephrine
+T135	Medication 1983 1990	Opiates
+T136	Medication 2153 2162	oxycodone
+T137	Medication 2230 2240	salicylate
+T138	Medication 240 297	an unknown amount of levetiracetam in a self-harm attempt
+T139	Medication 386 414	Lacosamide and levetiracetam
+T140	Medication 1121 1141	2 mg of IV lorazepam
+T141	Medication 1361 1422	1 mg of IV epinephrine with return of spontaneous circulation
+T142	Medication 2224 2240	Blood salicylate

@@ -1,0 +1,63 @@
+T1	Procedure 159 166	primary
+T2	Procedure 189 192	PCP
+T3	Procedure 800 809	Treatment
+T4	Procedure 849 856	surgery
+T5	Procedure 875 887	embolization
+T6	Procedure 1027 1039	embolization
+T7	Procedure 1142 1156	cardiac pacing
+T8	Procedure 155 187	his primary health care provider
+T9	Procedure 800 834	Treatment options for these tumors
+T10	Procedure 849 887	surgery with preoperative embolization
+T11	Procedure 980 1063	hemodynamic instability following preoperative embolization of a carotid body tumor
+T12	Procedure 1119 1156	the need for temporary cardiac pacing
+T13	Disease_disorder 189 192	PCP
+T14	Disease_disorder 434 446	hypertension
+T15	Disease_disorder 561 573	hypertension
+T16	Disease_disorder 682 701	Carotid body tumors
+T17	Disease_disorder 695 701	tumors
+T18	Disease_disorder 711 720	neoplasms
+T19	Disease_disorder 828 834	tumors
+T20	Disease_disorder 980 1003	hemodynamic instability
+T21	Disease_disorder 1045 1063	carotid body tumor
+T22	Disease_disorder 1058 1063	tumor
+T23	Disease_disorder 1092 1097	sinus
+T24	Disease_disorder 1098 1114	hypersensitivity
+T25	Disease_disorder 414 451	a 5-year history of hypertension that
+T26	Disease_disorder 671 701	IMPORTANCE Carotid body tumors
+T27	Disease_disorder 706 748	rare neoplasms of neural crest origin that
+T28	Disease_disorder 800 834	Treatment options for these tumors
+T29	Disease_disorder 980 1063	hemodynamic instability following preoperative embolization of a carotid body tumor
+T30	Disease_disorder 1077 1114	severe carotid sinus hypersensitivity
+T31	Sign_symptom 75 79	mass
+T32	Sign_symptom 219 223	mass
+T33	Sign_symptom 280 284	pain
+T34	Sign_symptom 286 296	difficulty
+T35	Sign_symptom 337 347	difficulty
+T36	Sign_symptom 367 374	tremors
+T37	Sign_symptom 379 391	palpitations
+T38	Sign_symptom 423 433	history of
+T39	Sign_symptom 423 430	history
+T40	Sign_symptom 493 503	management
+T41	Sign_symptom 524 538	family history
+T42	Sign_symptom 531 538	history
+T43	Sign_symptom 992 1003	instability
+T44	Sign_symptom 1098 1114	hypersensitivity
+T45	Sign_symptom 73 132	a mass on the right side of his neck approximately 6 months
+T46	Sign_symptom 215 223	the mass
+T47	Sign_symptom 276 284	any pain
+T48	Sign_symptom 414 451	a 5-year history of hypertension that
+T49	Sign_symptom 485 503	medical management
+T50	Sign_symptom 508 538	addition to his family history
+T51	Sign_symptom 980 1063	hemodynamic instability following preoperative embolization of a carotid body tumor
+T52	Sign_symptom 1077 1114	severe carotid sinus hypersensitivity
+T53	Anatomical_structure 87 109	right side of his neck
+T54	Anatomical_structure 93 109	side of his neck
+T55	Anatomical_structure 105 109	neck
+T56	Anatomical_structure 359 365	tongue
+T57	Anatomical_structure 682 694	Carotid body
+T58	Anatomical_structure 910 924	cardiovascular
+T59	Anatomical_structure 1045 1057	carotid body
+T60	Anatomical_structure 1084 1097	carotid sinus
+T61	Anatomical_structure 1142 1149	cardiac
+T62	Medication 731 736	crest
+T63	Medication 706 748	rare neoplasms of neural crest origin that

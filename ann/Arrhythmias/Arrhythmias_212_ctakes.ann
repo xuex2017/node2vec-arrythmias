@@ -1,0 +1,65 @@
+T1	Procedure 119 128	isolation
+T2	Procedure 225 227	ms
+T3	Procedure 269 271	mg
+T4	Procedure 340 348	ablation
+T5	Procedure 526 528	RF
+T6	Procedure 530 538	ablation
+T7	Procedure 638 646	ablation
+T8	Procedure 704 712	puncture
+T9	Procedure 1171 1173	ms
+T10	Procedure 1235 1243	Ablation
+T11	Procedure 1427 1435	ablation
+T12	Procedure 1504 1512	ablation
+T13	Procedure 1611 1620	procedure
+T14	Procedure 88 128	circumferential pulmonary vein isolation
+T15	Procedure 178 227	a symptomatic LAMRT with a cycle length of 385 ms
+T16	Procedure 265 271	200 mg
+T17	Procedure 340 357	ablation catheter
+T18	Procedure 628 646	an antral ablation
+T19	Procedure 685 712	single transseptal puncture
+T20	Procedure 1169 1173	8 ms
+T21	Procedure 1235 1256	Ablation at this site
+T22	Procedure 1427 1448	ablation at this site
+T23	Procedure 1493 1517	The septal ablation line
+T24	Procedure 1596 1626	the end of the procedure there
+T25	Disease_disorder 47 77	paroxysmal atrial fibrillation
+T26	Disease_disorder 58 77	atrial fibrillation
+T27	Disease_disorder 65 77	fibrillation
+T28	Disease_disorder 225 227	ms
+T29	Disease_disorder 1171 1173	ms
+T30	Disease_disorder 0 77	A 58-year-old patient with a 3-year history of paroxysmal atrial fibrillation
+T31	Disease_disorder 178 227	a symptomatic LAMRT with a cycle length of 385 ms
+T32	Disease_disorder 1169 1173	8 ms
+T33	Sign_symptom 36 46	history of
+T34	Sign_symptom 36 43	history
+T35	Sign_symptom 704 712	puncture
+T36	Sign_symptom 724 727	map
+T37	Sign_symptom 802 805	map
+T38	Sign_symptom 1222 1233	tachycardia
+T39	Sign_symptom 1644 1655	tachycardia
+T40	Sign_symptom 1727 1738	tachycardia
+T41	Sign_symptom 0 77	A 58-year-old patient with a 3-year history of paroxysmal atrial fibrillation
+T42	Sign_symptom 685 712	single transseptal puncture
+T43	Sign_symptom 714 746	a CARTO 3 map of the left atrium
+T44	Sign_symptom 787 805	The activation map
+T45	Sign_symptom 1218 1233	the tachycardia
+T46	Sign_symptom 1631 1655	no inducible tachycardia
+T47	Sign_symptom 1723 1751	any tachycardia for 6 months
+T48	Anatomical_structure 58 64	atrial
+T49	Anatomical_structure 104 118	pulmonary vein
+T50	Anatomical_structure 114 118	vein
+T51	Anatomical_structure 735 746	left atrium
+T52	Anatomical_structure 740 746	atrium
+T53	Anatomical_structure 845 856	left atrium
+T54	Anatomical_structure 850 856	atrium
+T55	Anatomical_structure 881 909	left superior pulmonary vein
+T56	Anatomical_structure 895 909	pulmonary vein
+T57	Anatomical_structure 905 909	vein
+T58	Anatomical_structure 955 983	left inferior pulmonary vein
+T59	Anatomical_structure 969 983	pulmonary vein
+T60	Anatomical_structure 979 983	vein
+T61	Anatomical_structure 1033 1039	ostium
+T62	Anatomical_structure 1336 1351	pulmonary veins
+T63	Anatomical_structure 1346 1351	veins
+T64	Anatomical_structure 1462 1477	pulmonary veins
+T65	Anatomical_structure 1472 1477	veins

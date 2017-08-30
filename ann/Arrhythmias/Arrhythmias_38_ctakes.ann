@@ -1,0 +1,79 @@
+T1	Procedure 463 471	dialysis
+T2	Procedure 550 580	international normalized ratio
+T3	Procedure 691 699	dialysis
+T4	Procedure 821 831	creatinine
+T5	Procedure 832 841	elevation
+T6	Procedure 935 945	creatinine
+T7	Procedure 1070 1072	mg
+T8	Procedure 1093 1103	prevention
+T9	Procedure 1669 1676	primary
+T10	Procedure 1722 1724	mg
+T11	Procedure 1752 1754	mg
+T12	Procedure 1781 1783	mg
+T13	Procedure 1813 1815	mg
+T14	Procedure 1866 1886	creatinine clearance
+T15	Procedure 1866 1876	creatinine
+T16	Procedure 1978 1980	mg
+T17	Procedure 2070 2086	serum creatinine
+T18	Procedure 2076 2086	creatinine
+T19	Procedure 2092 2094	mg
+T20	Procedure 454 471	those on dialysis
+T21	Procedure 528 591	warfarin with careful international normalized ratio monitoring
+T22	Procedure 682 699	those on dialysis
+T23	Procedure 810 841	her modest creatinine elevation
+T24	Procedure 922 945	decisions on creatinine
+T25	Procedure 1038 1072	anticoagulation with apixaban 5 mg
+T26	Procedure 1089 1113	the prevention of stroke
+T27	Procedure 1669 1685	primary efficacy
+T28	Procedure 1690 1724	safety outcomes for 150 and 110 mg
+T29	Procedure 1749 1766	15 mg rivaroxaban
+T30	Procedure 1779 1792	5 mg apixaban
+T31	Procedure 1810 1815	30 mg
+T32	Procedure 1856 1886	estimated creatinine clearance
+T33	Procedure 1965 1980	Apixaban 2.5 mg
+T34	Disease_disorder 98 100	AF
+T35	Disease_disorder 399 415	renal impairment
+T36	Disease_disorder 405 415	impairment
+T37	Disease_disorder 640 642	AF
+T38	Disease_disorder 654 670	renal impairment
+T39	Disease_disorder 660 670	impairment
+T40	Disease_disorder 780 782	AF
+T41	Disease_disorder 964 970	stroke
+T42	Disease_disorder 1107 1113	stroke
+T43	Disease_disorder 1127 1135	embolism
+T44	Disease_disorder 1240 1248	bleeding
+T45	Disease_disorder 1516 1538	chronic kidney disease
+T46	Disease_disorder 1524 1538	kidney disease
+T47	Disease_disorder 1531 1538	disease
+T48	Disease_disorder 1581 1600	atrial fibrillation
+T49	Disease_disorder 1588 1600	fibrillation
+T50	Disease_disorder 1660 1663	CIs
+T51	Disease_disorder 63 100	those of warfarin in patients with AF
+T52	Disease_disorder 366 415	warfarin in patients with severe renal impairment
+T53	Disease_disorder 626 642	patients with AF
+T54	Disease_disorder 647 670	severe renal impairment
+T55	Disease_disorder 765 800	a patient with AF with moderate CKD
+T56	Disease_disorder 953 975	Her annual stroke risk
+T57	Disease_disorder 1089 1113	the prevention of stroke
+T58	Disease_disorder 1118 1135	systemic embolism
+T59	Disease_disorder 1202 1248	apixaban because of the lower risk of bleeding
+T60	Disease_disorder 1465 1538	warfarin in the subgroup of patients with moderate chronic kidney disease
+T61	Disease_disorder 1562 1600	clinical trials in atrial fibrillation
+T62	Sign_symptom 207 221	renal function
+T63	Sign_symptom 443 444	m
+T64	Sign_symptom 1127 1135	embolism
+T65	Sign_symptom 1177 1191	renal function
+T66	Sign_symptom 1638 1648	confidence
+T67	Sign_symptom 1923 1924	m
+T68	Sign_symptom 184 221	frequent monitoring of renal function
+T69	Sign_symptom 1118 1135	systemic embolism
+T70	Sign_symptom 1142 1191	a plan for close monitoring of her renal function
+T71	Sign_symptom 1634 1658	95% confidence intervals
+T72	Anatomical_structure 207 212	renal
+T73	Anatomical_structure 262 267	scale
+T74	Anatomical_structure 399 404	renal
+T75	Anatomical_structure 654 659	renal
+T76	Anatomical_structure 1177 1182	renal
+T77	Anatomical_structure 1434 1438	oral
+T78	Anatomical_structure 1524 1530	kidney
+T79	Anatomical_structure 1581 1587	atrial

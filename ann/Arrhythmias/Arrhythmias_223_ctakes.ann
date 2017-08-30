@@ -1,0 +1,46 @@
+T1	Procedure 190 198	staining
+T2	Procedure 339 346	autopsy
+T3	Procedure 673 683	dissection
+T4	Procedure 178 198	Post-mortem staining
+T5	Procedure 673 708	dissection of the coronary arteries
+T6	Disease_disorder 307 324	internal injuries
+T7	Disease_disorder 316 324	injuries
+T8	Disease_disorder 411 458	multiple areas of fibrosis (old healed infarcts
+T9	Disease_disorder 429 437	fibrosis
+T10	Disease_disorder 619 621	cm
+T11	Disease_disorder 666 668	cm
+T12	Disease_disorder 858 877	atheromatous plaque
+T13	Disease_disorder 871 877	plaque
+T14	Disease_disorder 1196 1207	hypertrophy
+T15	Disease_disorder 279 324	No demonstrable external or internal injuries
+T16	Disease_disorder 411 458	multiple areas of fibrosis (old healed infarcts
+T17	Disease_disorder 615 621	2.2 cm
+T18	Disease_disorder 635 668	the right ventricular wall 1.1 cm
+T19	Disease_disorder 847 877	10% due to atheromatous plaque
+T20	Disease_disorder 1185 1207	myocardial hypertrophy
+T21	Sign_symptom 14 18	male
+T22	Sign_symptom 74 78	dead
+T23	Sign_symptom 871 877	plaque
+T24	Sign_symptom 1071 1076	smell
+T25	Sign_symptom 0 18	A 46-year-old male
+T26	Sign_symptom 74 106	dead to a tertiary care hospital
+T27	Sign_symptom 847 877	10% due to atheromatous plaque
+T28	Sign_symptom 1060 1076	no unusual smell
+T29	Anatomical_structure 220 224	back
+T30	Anatomical_structure 352 357	heart
+T31	Anatomical_structure 691 708	coronary arteries
+T32	Anatomical_structure 700 708	arteries
+T33	Anatomical_structure 714 745	left anterior descending artery
+T34	Anatomical_structure 739 745	artery
+T35	Anatomical_structure 768 785	circumflex artery
+T36	Anatomical_structure 779 785	artery
+T37	Anatomical_structure 794 815	right coronary artery
+T38	Anatomical_structure 800 815	coronary artery
+T39	Anatomical_structure 809 815	artery
+T40	Anatomical_structure 933 950	papillary muscles
+T41	Anatomical_structure 943 950	muscles
+T42	Anatomical_structure 969 974	lungs
+T43	Anatomical_structure 1010 1017	stomach
+T44	Anatomical_structure 1085 1091	mucosa
+T45	Anatomical_structure 1298 1305	viscera
+T46	Anatomical_structure 1310 1315	blood

@@ -1,0 +1,9 @@
+T1	Procedure 198 215	stroke prevention
+T2	Procedure 205 215	prevention
+T3	Procedure 198 235	stroke prevention in patients with AF
+T4	Disease_disorder 198 204	stroke
+T5	Disease_disorder 233 235	AF
+T6	Disease_disorder 198 235	stroke prevention in patients with AF
+T7	Sign_symptom 114 121	context
+T8	Sign_symptom 149 159	management
+T9	Sign_symptom 112 166	a context to highlight the practical management issues

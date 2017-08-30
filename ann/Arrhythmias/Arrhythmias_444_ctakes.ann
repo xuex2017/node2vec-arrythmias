@@ -1,0 +1,71 @@
+T1	Procedure 69 86	electrocardiogram
+T2	Procedure 277 279	ms
+T3	Procedure 351 363	implantation
+T4	Procedure 371 383	implantation
+T5	Procedure 428 438	venography
+T6	Procedure 458 468	venography
+T7	Procedure 850 852	ms
+T8	Procedure 895 897	ms
+T9	Procedure 970 981	stimulation
+T10	Procedure 1036 1038	ms
+T11	Procedure 1211 1213	ms
+T12	Procedure 1491 1493	ms
+T13	Procedure 1618 1620	ms
+T14	Procedure 1622 1628	X-rays
+T15	Procedure 1650 1659	reduction
+T16	Procedure 65 86	Her electrocardiogram
+T17	Procedure 273 309	177 ms with left bundle branch block
+T18	Procedure 371 423	implantation of the right atrial lead and shock lead
+T19	Procedure 425 438	CS venography
+T20	Procedure 454 468	The venography
+T21	Procedure 838 852	5.0V at 0.4 ms
+T22	Procedure 883 897	2.5V at 0.4 ms
+T23	Procedure 956 997	phrenic nerve stimulation until 9V pacing
+T24	Procedure 1024 1038	1.5V at 0.4 ms
+T25	Procedure 1192 1213	PNS by 3.0V at 0.4 ms
+T26	Procedure 1472 1493	PNS by 3.0V at 0.4 ms
+T27	Procedure 1606 1620	3.0V at 0.4 ms
+T28	Procedure 1636 1686	a significant reduction of the cardio-thorax ratio
+T29	Disease_disorder 94 118	ventricular fibrillation
+T30	Disease_disorder 106 118	fibrillation
+T31	Disease_disorder 277 279	ms
+T32	Disease_disorder 285 309	left bundle branch block
+T33	Disease_disorder 290 309	bundle branch block
+T34	Disease_disorder 304 309	block
+T35	Disease_disorder 413 418	shock
+T36	Disease_disorder 636 638	cm
+T37	Disease_disorder 850 852	ms
+T38	Disease_disorder 895 897	ms
+T39	Disease_disorder 1036 1038	ms
+T40	Disease_disorder 1211 1213	ms
+T41	Disease_disorder 1491 1493	ms
+T42	Disease_disorder 1618 1620	ms
+T43	Disease_disorder 94 118	ventricular fibrillation
+T44	Disease_disorder 273 309	177 ms with left bundle branch block
+T45	Disease_disorder 371 423	implantation of the right atrial lead and shock lead
+T46	Disease_disorder 618 638	Medtronic 4398-88 cm
+T47	Disease_disorder 838 852	5.0V at 0.4 ms
+T48	Disease_disorder 883 897	2.5V at 0.4 ms
+T49	Disease_disorder 1024 1038	1.5V at 0.4 ms
+T50	Disease_disorder 1192 1213	PNS by 3.0V at 0.4 ms
+T51	Disease_disorder 1472 1493	PNS by 3.0V at 0.4 ms
+T52	Disease_disorder 1606 1620	3.0V at 0.4 ms
+T53	Sign_symptom 56 63	syncope
+T54	Sign_symptom 69 86	electrocardiogram
+T55	Sign_symptom 128 141	consciousness
+T56	Sign_symptom 226 234	ejection
+T57	Sign_symptom 36 63	our hospital due to syncope
+T58	Sign_symptom 65 86	Her electrocardiogram
+T59	Sign_symptom 124 141	her consciousness
+T60	Sign_symptom 226 243	ejection fraction
+T61	Anatomical_structure 285 303	left bundle branch
+T62	Anatomical_structure 297 303	branch
+T63	Anatomical_structure 397 403	atrial
+T64	Anatomical_structure 503 509	branch
+T65	Anatomical_structure 579 585	branch
+T66	Anatomical_structure 675 681	branch
+T67	Anatomical_structure 956 969	phrenic nerve
+T68	Anatomical_structure 964 969	nerve
+T69	Anatomical_structure 1674 1680	thorax
+T70	Medication 260 268	duration
+T71	Medication 256 268	QRS duration

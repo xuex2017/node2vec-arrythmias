@@ -1,0 +1,54 @@
+T1	Procedure 292 312	urine screening test
+T2	Procedure 292 307	urine screening
+T3	Procedure 308 312	test
+T4	Procedure 358 365	cocaine
+T5	Procedure 376 383	alcohol
+T6	Procedure 465 468	ECG
+T7	Procedure 522 531	elevation
+T8	Procedure 623 648	Pharmacological treatment
+T9	Procedure 639 648	treatment
+T10	Procedure 675 689	administration
+T11	Procedure 707 726	rehydration therapy
+T12	Procedure 707 718	rehydration
+T13	Procedure 719 726	therapy
+T14	Procedure 921 928	autopsy
+T15	Procedure 292 312	urine screening test
+T16	Procedure 337 365	positive results for cocaine
+T17	Procedure 370 427	blood alcohol at the following concentrations of 1.99 g/l
+T18	Procedure 457 475	several ECG traces
+T19	Procedure 519 590	ST elevation in anterior and ST depression in inferolateral derivations
+T20	Procedure 621 648	. Pharmacological treatment
+T21	Procedure 671 702	the administration of inotropes
+T22	Procedure 707 726	rehydration therapy
+T23	Procedure 921 942	autopsy investigation
+T24	Disease_disorder 75 89	cardiac arrest
+T25	Disease_disorder 200 236	aggressive, and threatening behavior
+T26	Disease_disorder 483 500	sinus tachycardia
+T27	Disease_disorder 483 488	sinus
+T28	Disease_disorder 551 561	depression
+T29	Disease_disorder 608 614	injury
+T30	Disease_disorder 765 779	cardiac arrest
+T31	Disease_disorder 48 89	emergency department after cardiac arrest
+T32	Disease_disorder 173 236	the man exhibited violent, aggressive, and threatening behavior
+T33	Disease_disorder 483 514	sinus tachycardia with short PR
+T34	Disease_disorder 519 590	ST elevation in anterior and ST depression in inferolateral derivations
+T35	Disease_disorder 602 614	acute injury
+T36	Disease_disorder 765 854	cardiac arrest following a period of 14 h after the admission in the emergency department
+T37	Sign_symptom 191 236	violent, aggressive, and threatening behavior
+T38	Sign_symptom 401 415	concentrations
+T39	Sign_symptom 489 500	tachycardia
+T40	Sign_symptom 512 514	PR
+T41	Sign_symptom 519 561	ST elevation in anterior and ST depression
+T42	Sign_symptom 519 531	ST elevation
+T43	Sign_symptom 548 561	ST depression
+T44	Sign_symptom 551 561	depression
+T45	Sign_symptom 675 689	administration
+T46	Sign_symptom 173 236	the man exhibited violent, aggressive, and threatening behavior
+T47	Sign_symptom 370 427	blood alcohol at the following concentrations of 1.99 g/l
+T48	Sign_symptom 483 514	sinus tachycardia with short PR
+T49	Sign_symptom 519 590	ST elevation in anterior and ST depression in inferolateral derivations
+T50	Sign_symptom 671 702	the administration of inotropes
+T51	Anatomical_structure 75 82	cardiac
+T52	Anatomical_structure 158 165	cardiac
+T53	Anatomical_structure 370 375	blood
+T54	Anatomical_structure 765 772	cardiac

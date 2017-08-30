@@ -1,0 +1,45 @@
+0 treatment
+1 test
+2 sedation
+3 oxygen saturation
+4 gastric bypass
+5 bypass
+6 surgery
+7 A 57-year-old male hypertensive Caucasian patient on medical treatment for 1.5 months for non-organic-related AF
+8 the patient under medical treatment
+9 An apnea test
+10 minimum peripheral oxygen saturation
+11 medical treatment
+12 gastric bypass surgery
+13 the time of surgery
+14 6 months after the medical surgery
+15 only medical treatment
+16 AF
+17 sinus
+18 apnea
+19 apneas
+20 the ICU because of highventricular response AF
+21 sinus rhythm
+22 high-ventricular response AF
+23 the same night because frequent apneas
+24 apnea-hypopnea index
+25 sinus rhythm at the 1-month follow-up
+26 AF within these 6 months
+27 apnea index of 1 per hour
+28 male
+29 related
+30 mass
+31 m
+32 hypopnea
+33 peripheral oxygen saturation
+34 expiratory
+35 pressure
+36 inspiratory
+37 follow-up
+38 his body mass index
+39 m 2
+40 BiPAP at the 6-month follow-up
+41 airway
+42 gastric
+43 fumarate
+44 bisoprolol fumarate

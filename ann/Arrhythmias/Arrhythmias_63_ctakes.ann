@@ -1,0 +1,135 @@
+T1	Procedure 191 210	blood urea nitrogen
+T2	Procedure 191 201	blood urea
+T3	Procedure 197 201	urea
+T4	Procedure 212 215	BUN
+T5	Procedure 224 226	mg
+T6	Procedure 241 243	mg
+T7	Procedure 249 265	serum creatinine
+T8	Procedure 255 265	creatinine
+T9	Procedure 279 281	mg
+T10	Procedure 299 301	mg
+T11	Procedure 321 347	glomerular filtration rate
+T12	Procedure 332 342	filtration
+T13	Procedure 480 482	mg
+T14	Procedure 515 525	hemoglobin
+T15	Procedure 754 756	mg
+T16	Procedure 778 780	mg
+T17	Procedure 804 806	mg
+T18	Procedure 814 823	vitamin D
+T19	Procedure 861 863	mg
+T20	Procedure 981 991	procedures
+T21	Procedure 1078 1083	tests
+T22	Procedure 1100 1122	white blood cell count
+T23	Procedure 1106 1122	blood cell count
+T24	Procedure 1112 1122	cell count
+T25	Procedure 1159 1173	platelet count
+T26	Procedure 1178 1190	electrolytes
+T27	Procedure 1192 1202	Hemoglobin
+T28	Procedure 1225 1235	Urinalysis
+T29	Procedure 1246 1253	protein
+T30	Procedure 1263 1278	red blood cells
+T31	Procedure 1321 1354	Urine protein to creatinine ratio
+T32	Procedure 1321 1348	Urine protein to creatinine
+T33	Procedure 1321 1334	Urine protein
+T34	Procedure 1327 1334	protein
+T35	Procedure 1338 1348	creatinine
+T36	Procedure 1386 1389	BUN
+T37	Procedure 1397 1399	mg
+T38	Procedure 1415 1417	mg
+T39	Procedure 1458 1474	renal ultrasound
+T40	Procedure 1464 1474	ultrasound
+T41	Procedure 1480 1487	Doppler
+T42	Procedure 1528 1544	renal ultrasound
+T43	Procedure 1534 1544	ultrasound
+T44	Procedure 187 210	His blood urea nitrogen
+T45	Procedure 221 229	52 mg/dL
+T46	Procedure 238 246	23 mg/dL
+T47	Procedure 249 265	serum creatinine
+T48	Procedure 275 284	2.9 mg/dL
+T49	Procedure 295 301	1.3 mg
+T50	Procedure 311 347	estimated glomerular filtration rate
+T51	Procedure 476 485	1.3 mg/dL
+T52	Procedure 752 756	5 mg
+T53	Procedure 764 780	valsartan 320 mg
+T54	Procedure 788 806	rosuvastatin 10 mg
+T55	Procedure 814 834	vitamin D 2000 units
+T56	Procedure 846 875	dabigatran 150 mg twice a day
+T57	Procedure 963 991	no interventional procedures
+T58	Procedure 1067 1083	Laboratory tests
+T59	Procedure 1093 1122	normal white blood cell count
+T60	Procedure 1152 1173	normal platelet count
+T61	Procedure 1243 1253	1+ protein
+T62	Procedure 1258 1278	> 20 red blood cells
+T63	Procedure 1321 1354	Urine protein to creatinine ratio
+T64	Procedure 1379 1389	Repeat BUN
+T65	Procedure 1394 1402	50 mg/dL
+T66	Procedure 1411 1420	3.3 mg/dL
+T67	Procedure 1451 1487	Urgent renal ultrasound with Doppler
+T68	Procedure 1513 1544	the day of the renal ultrasound
+T69	Disease_disorder 107 118	dysfunction
+T70	Disease_disorder 639 651	hypertension
+T71	Disease_disorder 653 667	hyperlipidemia
+T72	Disease_disorder 695 714	atrial fibrillation
+T73	Disease_disorder 702 714	fibrillation
+T74	Disease_disorder 905 924	atrial fibrillation
+T75	Disease_disorder 912 924	fibrillation
+T76	Disease_disorder 51 118	an outpatient nephrology clinic for evaluation of renal dysfunction
+T77	Disease_disorder 673 714	a recent diagnosis of atrial fibrillation
+T78	Disease_disorder 905 944	atrial fibrillation by his cardiologist
+T79	Sign_symptom 160 169	follow-up
+T80	Sign_symptom 267 269	Cr
+T81	Sign_symptom 321 342	glomerular filtration
+T82	Sign_symptom 409 416	fatigue
+T83	Sign_symptom 430 438	symptoms
+T84	Sign_symptom 469 471	Cr
+T85	Sign_symptom 567 573	normal
+T86	Sign_symptom 609 629	past medical history
+T87	Sign_symptom 614 629	medical history
+T88	Sign_symptom 622 629	history
+T89	Sign_symptom 682 691	diagnosis
+T90	Sign_symptom 1022 1036	blood pressure
+T91	Sign_symptom 1028 1036	pressure
+T92	Sign_symptom 1093 1099	normal
+T93	Sign_symptom 1152 1158	normal
+T94	Sign_symptom 1159 1173	platelet count
+T95	Sign_symptom 1263 1266	red
+T96	Sign_symptom 1404 1406	Cr
+T97	Sign_symptom 1560 1574	blood pressure
+T98	Sign_symptom 1566 1574	pressure
+T99	Sign_symptom 150 178	a routine follow-up the week
+T100	Sign_symptom 311 347	estimated glomerular filtration rate
+T101	Sign_symptom 421 438	no other symptoms
+T102	Sign_symptom 465 471	his Cr
+T103	Sign_symptom 567 603	normal white blood cell differential
+T104	Sign_symptom 605 629	His past medical history
+T105	Sign_symptom 673 714	a recent diagnosis of atrial fibrillation
+T106	Sign_symptom 1018 1036	his blood pressure
+T107	Sign_symptom 1093 1122	normal white blood cell count
+T108	Sign_symptom 1152 1173	normal platelet count
+T109	Sign_symptom 1258 1278	> 20 red blood cells
+T110	Sign_symptom 1546 1574	the patient's blood pressure
+T111	Anatomical_structure 101 106	renal
+T112	Anatomical_structure 191 196	blood
+T113	Anatomical_structure 321 331	glomerular
+T114	Anatomical_structure 567 590	normal white blood cell
+T115	Anatomical_structure 574 590	white blood cell
+T116	Anatomical_structure 580 590	blood cell
+T117	Anatomical_structure 580 585	blood
+T118	Anatomical_structure 586 590	cell
+T119	Anatomical_structure 695 701	atrial
+T120	Anatomical_structure 905 911	atrial
+T121	Anatomical_structure 1022 1027	blood
+T122	Anatomical_structure 1093 1116	normal white blood cell
+T123	Anatomical_structure 1100 1116	white blood cell
+T124	Anatomical_structure 1106 1116	blood cell
+T125	Anatomical_structure 1106 1111	blood
+T126	Anatomical_structure 1112 1116	cell
+T127	Anatomical_structure 1159 1167	platelet
+T128	Anatomical_structure 1263 1278	red blood cells
+T129	Anatomical_structure 1267 1278	blood cells
+T130	Anatomical_structure 1267 1272	blood
+T131	Anatomical_structure 1273 1278	cells
+T132	Anatomical_structure 1458 1463	renal
+T133	Anatomical_structure 1528 1533	renal
+T134	Anatomical_structure 1560 1565	blood
+T135	Medication 764 780	valsartan 320 mg

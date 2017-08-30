@@ -1,0 +1,124 @@
+T1	Procedure 60 69	treatment
+T2	Procedure 584 601	electrocardiogram
+T3	Procedure 762 776	echocardiogram
+T4	Procedure 860 886	magnetic resonance imaging
+T5	Procedure 879 886	imaging
+T6	Procedure 888 891	MRI
+T7	Procedure 1020 1042	differential diagnosis
+T8	Procedure 1424 1438	echocardiogram
+T9	Procedure 60 107	treatment at a cardiology clinic after a murmur
+T10	Procedure 574 601	A 12-lead electrocardiogram
+T11	Procedure 759 776	an echocardiogram
+T12	Procedure 852 886	Cardiac magnetic resonance imaging
+T13	Procedure 1016 1056	The differential diagnosis at this point
+T14	Procedure 1405 1438	an exercise stress echocardiogram
+T15	Disease_disorder 323 329	asthma
+T16	Disease_disorder 373 389	coronary disease
+T17	Disease_disorder 382 389	disease
+T18	Disease_disorder 391 404	heart failure
+T19	Disease_disorder 409 421	sudden death
+T20	Disease_disorder 609 614	sinus
+T21	Disease_disorder 623 628	sinus
+T22	Disease_disorder 629 639	arrhythmia
+T23	Disease_disorder 689 690	T
+T24	Disease_disorder 716 717	T
+T25	Disease_disorder 1368 1384	cardiomyopathies
+T26	Disease_disorder 1491 1521	Left ventricular noncompaction
+T27	Disease_disorder 1560 1574	cardiomyopathy
+T28	Disease_disorder 1598 1631	incomplete myocardial development
+T29	Disease_disorder 1682 1694	sudden death
+T30	Disease_disorder 307 329	well-controlled asthma
+T31	Disease_disorder 363 389	premature coronary disease
+T32	Disease_disorder 409 433	sudden death of any kind
+T33	Disease_disorder 609 621	sinus rhythm
+T34	Disease_disorder 623 639	sinus arrhythmia
+T35	Disease_disorder 680 701	inverted T wave in V1
+T36	Disease_disorder 707 734	biphasic T wave in lead III
+T37	Disease_disorder 1320 1384	the opinions of two nationally known experts on cardiomyopathies
+T38	Disease_disorder 1464 1521	A transthoracic IMPORTANCE Left ventricular noncompaction
+T39	Disease_disorder 1532 1574	a rare cause of progressive cardiomyopathy
+T40	Disease_disorder 1586 1631	result from incomplete myocardial development
+T41	Disease_disorder 1661 1694	an increased risk of sudden death
+T42	Sign_symptom 23 45	American male football
+T43	Sign_symptom 32 36	male
+T44	Sign_symptom 37 45	football
+T45	Sign_symptom 101 107	murmur
+T46	Sign_symptom 178 186	symptoms
+T47	Sign_symptom 190 200	chest pain
+T48	Sign_symptom 196 200	pain
+T49	Sign_symptom 202 217	lightheadedness
+T50	Sign_symptom 219 228	dizziness
+T51	Sign_symptom 271 286	medical history
+T52	Sign_symptom 279 286	history
+T53	Sign_symptom 331 345	Family history
+T54	Sign_symptom 338 345	history
+T55	Sign_symptom 416 421	death
+T56	Sign_symptom 456 467	vital signs
+T57	Sign_symptom 480 486	normal
+T58	Sign_symptom 552 572	soft systolic murmur
+T59	Sign_symptom 557 572	systolic murmur
+T60	Sign_symptom 566 572	murmur
+T61	Sign_symptom 584 601	electrocardiogram
+T62	Sign_symptom 609 621	sinus rhythm
+T63	Sign_symptom 623 639	sinus arrhythmia
+T64	Sign_symptom 650 670	early repolarization
+T65	Sign_symptom 689 695	T wave
+T66	Sign_symptom 699 701	V1
+T67	Sign_symptom 716 722	T wave
+T68	Sign_symptom 751 757	murmur
+T69	Sign_symptom 825 831	normal
+T70	Sign_symptom 869 878	resonance
+T71	Sign_symptom 986 992	normal
+T72	Sign_symptom 1033 1042	diagnosis
+T73	Sign_symptom 1061 1067	normal
+T74	Sign_symptom 1300 1308	football
+T75	Sign_symptom 1408 1416	exercise
+T76	Sign_symptom 1417 1423	stress
+T77	Sign_symptom 1689 1694	death
+T78	Sign_symptom 1723 1732	depressed
+T79	Sign_symptom 1733 1767	left ventricular ejection fraction
+T80	Sign_symptom 1750 1758	ejection
+T81	Sign_symptom 1825 1834	diagnosis
+T82	Sign_symptom 1884 1890	sports
+T83	Sign_symptom 1908 1920	asymptomatic
+T84	Sign_symptom 1941 1969	American collegiate football
+T85	Sign_symptom 1961 1969	football
+T86	Sign_symptom 1983 1989	murmur
+T87	Sign_symptom 2189 2198	diagnosis
+T88	Sign_symptom 2255 2264	diagnosis
+T89	Sign_symptom 2429 2437	football
+T90	Sign_symptom 0 52	An 18-year-old African American male football player
+T91	Sign_symptom 60 107	treatment at a cardiology clinic after a murmur
+T92	Sign_symptom 175 200	no symptoms of chest pain
+T93	Sign_symptom 267 286	His medical history
+T94	Sign_symptom 331 345	Family history
+T95	Sign_symptom 409 433	sudden death of any kind
+T96	Sign_symptom 452 467	his vital signs
+T97	Sign_symptom 480 493	normal limits
+T98	Sign_symptom 550 572	a soft systolic murmur
+T99	Sign_symptom 574 601	A 12-lead electrocardiogram
+T100	Sign_symptom 641 678	anterior early repolarization pattern
+T101	Sign_symptom 680 701	inverted T wave in V1
+T102	Sign_symptom 707 734	biphasic T wave in lead III
+T103	Sign_symptom 743 757	the new murmur
+T104	Sign_symptom 825 849	normal systolic function
+T105	Sign_symptom 852 886	Cardiac magnetic resonance imaging
+T106	Sign_symptom 986 1013	normal apical contractility
+T107	Sign_symptom 1016 1056	The differential diagnosis at this point
+T108	Sign_symptom 1061 1117	normal variant hypertrabeculation left ventricle vs LVNC
+T109	Sign_symptom 1274 1308	his strong desire to play football
+T110	Sign_symptom 1405 1438	an exercise stress echocardiogram
+T111	Sign_symptom 1661 1694	an increased risk of sudden death
+T112	Sign_symptom 1710 1767	those with a depressed left ventricular ejection fraction
+T113	Sign_symptom 1775 1834	the current recommendation for patients with this diagnosis
+T114	Sign_symptom 1838 1890	restriction from participation in competitive sports
+T115	Sign_symptom 1892 1976	OBSERVATIONS An asymptomatic 18-year-old African American collegiate football player
+T116	Sign_symptom 1981 2034	a murmur on his preparticipation physical examination
+T117	Sign_symptom 2185 2206	the diagnosis of LVNC
+T118	Sign_symptom 2251 2286	the diagnosis of hypertrabeculation
+T119	Anatomical_structure 190 195	chest
+T120	Anatomical_structure 391 396	heart
+T121	Anatomical_structure 726 734	lead III
+T122	Anatomical_structure 852 859	Cardiac
+T123	Anatomical_structure 1095 1109	left ventricle
+T124	Anatomical_structure 1100 1109	ventricle

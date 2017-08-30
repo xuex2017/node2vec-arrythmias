@@ -1,0 +1,47 @@
+T1	Procedure 227 234	therapy
+T2	Procedure 350 357	therapy
+T3	Procedure 394 396	mg
+T4	Procedure 415 417	mg
+T5	Procedure 628 648	intravenous steroids
+T6	Procedure 917 928	skin biopsy
+T7	Procedure 922 928	biopsy
+T8	Procedure 339 378	continuous therapy with oral prednisone
+T9	Procedure 391 400	20 mg/day
+T10	Procedure 412 417	40 mg
+T11	Procedure 624 648	the intravenous steroids
+T12	Procedure 858 937	recurrent angioedema without features of vasculitis in the skin biopsy findings
+T13	Disease_disorder 70 87	chronic urticaria
+T14	Disease_disorder 78 87	urticaria
+T15	Disease_disorder 88 98	angioedema
+T16	Disease_disorder 184 192	Diseases
+T17	Disease_disorder 607 614	disease
+T18	Disease_disorder 868 878	angioedema
+T19	Disease_disorder 899 909	vasculitis
+T20	Disease_disorder 998 1006	diseases
+T21	Disease_disorder 70 87	chronic urticaria
+T22	Disease_disorder 161 192	Department of Internal Diseases
+T23	Disease_disorder 587 614	exacerbation of the disease
+T24	Disease_disorder 858 937	recurrent angioedema without features of vasculitis in the skin biopsy findings
+T25	Sign_symptom 33 43	history of
+T26	Sign_symptom 33 40	history
+T27	Sign_symptom 299 307	symptoms
+T28	Sign_symptom 572 580	symptoms
+T29	Sign_symptom 797 806	diagnosis
+T30	Sign_symptom 969 979	history of
+T31	Sign_symptom 969 976	history
+T32	Sign_symptom 986 994	symptoms
+T33	Sign_symptom 1050 1064	family history
+T34	Sign_symptom 1057 1064	history
+T35	Sign_symptom 0 61	A 36-year-old man with an 8-year history of severe difficult-
+T36	Sign_symptom 295 307	His symptoms
+T37	Sign_symptom 553 580	aggravation of the symptoms
+T38	Sign_symptom 793 813	The diagnosis of CSU
+T39	Sign_symptom 965 994	any history of other symptoms
+T40	Sign_symptom 1046 1064	His family history
+T41	Anatomical_structure 363 367	oral
+T42	Anatomical_structure 524 528	oral
+T43	Anatomical_structure 917 921	skin
+T44	Medication 368 378	prednisone
+T45	Medication 529 539	prednisone
+T46	Medication 339 378	continuous therapy with oral prednisone
+T47	Medication 520 544	the oral prednisone dose

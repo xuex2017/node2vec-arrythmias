@@ -1,0 +1,263 @@
+T1	Procedure 5 22	electrocardiogram
+T2	Procedure 24 27	ECG
+T3	Procedure 42 46	page
+T4	Procedure 1473 1480	calcium
+T5	Procedure 1507 1514	surgery
+T6	Procedure 1529 1537	ablation
+T7	Procedure 1651 1658	primary
+T8	Procedure 1868 1894	magnetic resonance imaging
+T9	Procedure 1887 1894	imaging
+T10	Procedure 1931 1942	enhancement
+T11	Procedure 2106 2118	Western blot
+T12	Procedure 3340 3373	enzyme-linked immunosorbent assay
+T13	Procedure 3368 3373	assay
+T14	Procedure 3398 3410	Western blot
+T15	Procedure 3411 3419	analysis
+T16	Procedure 4166 4168	ms
+T17	Procedure 4201 4210	treatment
+T18	Procedure 4317 4319	ms
+T19	Procedure 4374 4383	treatment
+T20	Procedure 4638 4647	treatment
+T21	Procedure 0 22	T he electrocardiogram
+T22	Procedure 42 50	page 100
+T23	Procedure 1454 1497	nondihydropyridine calcium channel blockers
+T24	Procedure 1499 1514	cardiac surgery
+T25	Procedure 1520 1552	catheter ablation for arrhythmia
+T26	Procedure 1637 1702	a tick at his primary residence in the northeastern United States
+T27	Procedure 1860 1894	Cardiac magnetic resonance imaging
+T28	Procedure 1904 1962	a small area of gadolinium enhancement in the basal septum
+T29	Procedure 2095 2126	Subsequent Western blot testing
+T30	Procedure 3319 3373	positive serology on enzyme-linked immunosorbent assay
+T31	Procedure 3396 3419	a Western blot analysis
+T32	Procedure 4162 4168	300 ms
+T33	Procedure 4201 4225	treatment as outpatients
+T34	Procedure 4313 4319	300 ms
+T35	Procedure 4364 4411	inpatient treatment with parenteral ceftriaxone
+T36	Procedure 4628 4647	expectant treatment
+T37	Disease_disorder 0 1	T
+T38	Disease_disorder 95 100	block
+T39	Disease_disorder 134 139	sinus
+T40	Disease_disorder 185 210	ventricular escape rhythm
+T41	Disease_disorder 243 268	ventricular escape rhythm
+T42	Disease_disorder 275 299	left bundle branch block
+T43	Disease_disorder 280 299	bundle branch block
+T44	Disease_disorder 294 299	block
+T45	Disease_disorder 465 486	third-degree AV block
+T46	Disease_disorder 478 486	AV block
+T47	Disease_disorder 481 486	block
+T48	Disease_disorder 510 535	ventricular escape rhythm
+T49	Disease_disorder 637 650	heart failure
+T50	Disease_disorder 731 752	third-degree AV block
+T51	Disease_disorder 744 752	AV block
+T52	Disease_disorder 747 752	block
+T53	Disease_disorder 818 826	AV block
+T54	Disease_disorder 821 826	block
+T55	Disease_disorder 831 880	idiopathic progressive cardiac conduction disease
+T56	Disease_disorder 854 880	cardiac conduction disease
+T57	Disease_disorder 873 880	disease
+T58	Disease_disorder 901 915	fibrosclerosis
+T59	Disease_disorder 1082 1109	hypertrophic cardiomyopathy
+T60	Disease_disorder 1082 1094	hypertrophic
+T61	Disease_disorder 1095 1109	cardiomyopathy
+T62	Disease_disorder 1142 1153	amyloidosis
+T63	Disease_disorder 1158 1169	sarcoidosis
+T64	Disease_disorder 1175 1186	myocarditis
+T65	Disease_disorder 1213 1228	rheumatic fever
+T66	Disease_disorder 1236 1246	infections
+T67	Disease_disorder 1248 1260	Lyme disease
+T68	Disease_disorder 1253 1260	disease
+T69	Disease_disorder 1262 1290	systemic lupus erythematosus
+T70	Disease_disorder 1271 1290	lupus erythematosus
+T71	Disease_disorder 1271 1276	lupus
+T72	Disease_disorder 1292 1314	bacterial endocarditis
+T73	Disease_disorder 1302 1314	endocarditis
+T74	Disease_disorder 1319 1327	syphilis
+T75	Disease_disorder 1390 1398	AV block
+T76	Disease_disorder 1393 1398	block
+T77	Disease_disorder 1542 1552	arrhythmia
+T78	Disease_disorder 1708 1726	infectious disease
+T79	Disease_disorder 1708 1718	infectious
+T80	Disease_disorder 1719 1726	disease
+T81	Disease_disorder 1780 1810	Borrelia burgdorferi infection
+T82	Disease_disorder 1780 1788	Borrelia
+T83	Disease_disorder 1801 1810	infection
+T84	Disease_disorder 1846 1858	Lyme disease
+T85	Disease_disorder 1851 1858	disease
+T86	Disease_disorder 2080 2093	Lyme carditis
+T87	Disease_disorder 2085 2093	carditis
+T88	Disease_disorder 2152 2164	Lyme disease
+T89	Disease_disorder 2157 2164	disease
+T90	Disease_disorder 2195 2204	infection
+T91	Disease_disorder 2259 2268	condition
+T92	Disease_disorder 2489 2501	Lyme disease
+T93	Disease_disorder 2494 2501	disease
+T94	Disease_disorder 2672 2684	Lyme disease
+T95	Disease_disorder 2677 2684	disease
+T96	Disease_disorder 2727 2773	localized, early disseminated and late disease
+T97	Disease_disorder 2766 2773	disease
+T98	Disease_disorder 2781 2798	localized disease
+T99	Disease_disorder 2791 2798	disease
+T100	Disease_disorder 2916 2932	erythema migrans
+T101	Disease_disorder 2933 2937	rash
+T102	Disease_disorder 2942 2945	flu
+T103	Disease_disorder 3025 3029	rash
+T104	Disease_disorder 3155 3164	arthritis
+T105	Disease_disorder 3180 3191	dysfunction
+T106	Disease_disorder 3233 3237	rash
+T107	Disease_disorder 3452 3464	Lyme disease
+T108	Disease_disorder 3457 3464	disease
+T109	Disease_disorder 3641 3649	AV block
+T110	Disease_disorder 3644 3649	block
+T111	Disease_disorder 3651 3666	tachyarrhythmia
+T112	Disease_disorder 3668 3681	heart failure
+T113	Disease_disorder 3759 3767	AV block
+T114	Disease_disorder 3762 3767	block
+T115	Disease_disorder 3865 3876	heart block
+T116	Disease_disorder 3871 3876	block
+T117	Disease_disorder 4112 4133	first-degree AV block
+T118	Disease_disorder 4125 4133	AV block
+T119	Disease_disorder 4128 4133	block
+T120	Disease_disorder 4166 4168	ms
+T121	Disease_disorder 4259 4280	first-degree AV block
+T122	Disease_disorder 4272 4280	AV block
+T123	Disease_disorder 4275 4280	block
+T124	Disease_disorder 4317 4319	ms
+T125	Disease_disorder 4354 4362	AV block
+T126	Disease_disorder 4357 4362	block
+T127	Disease_disorder 4434 4453	Infectious Diseases
+T128	Disease_disorder 4434 4444	Infectious
+T129	Disease_disorder 4445 4453	Diseases
+T130	Disease_disorder 4491 4504	Lyme carditis
+T131	Disease_disorder 4496 4504	carditis
+T132	Disease_disorder 4864 4904	third-degree to first-degree heart block
+T133	Disease_disorder 4880 4904	first-degree heart block
+T134	Disease_disorder 4893 4904	heart block
+T135	Disease_disorder 4899 4904	block
+T136	Disease_disorder 4935 4944	condition
+T137	Disease_disorder 0 22	T he electrocardiogram
+T138	Disease_disorder 95 178	block with an underlying nonconducting sinus rhythm at a rate of about 80 beats/min
+T139	Disease_disorder 183 237	a ventricular escape rhythm at a rate of 30 beats/ min
+T140	Disease_disorder 239 268	The ventricular escape rhythm
+T141	Disease_disorder 273 310	a left bundle branch block morphology
+T142	Disease_disorder 451 486	Patients with third-degree AV block
+T143	Disease_disorder 503 535	a slow ventricular escape rhythm
+T144	Disease_disorder 625 650	Symptoms of heart failure
+T145	Disease_disorder 715 752	The etiology of third-degree AV block
+T146	Disease_disorder 792 826	the most common causes of AV block
+T147	Disease_disorder 831 940	idiopathic progressive cardiac conduction disease due to degenerative fibrosclerosis of the conduction system
+T148	Disease_disorder 1082 1109	hypertrophic cardiomyopathy
+T149	Disease_disorder 1111 1153	infiltrative processes such as amyloidosis
+T150	Disease_disorder 1175 1228	myocarditis due to conditions such as rheumatic fever
+T151	Disease_disorder 1230 1246	viral infections
+T152	Disease_disorder 1248 1260	Lyme disease
+T153	Disease_disorder 1262 1290	systemic lupus erythematosus
+T154	Disease_disorder 1292 1327	bacterial endocarditis and syphilis
+T155	Disease_disorder 1331 1398	3 CommonThe Practitioner Le praticien iatrogenic causes of AV block
+T156	Disease_disorder 1520 1552	catheter ablation for arrhythmia
+T157	Disease_disorder 1704 1734	The infectious disease service
+T158	Disease_disorder 1780 1810	Borrelia burgdorferi infection
+T159	Disease_disorder 1846 1858	Lyme disease
+T160	Disease_disorder 2033 2093	empirical intravenous ceftriaxone for presumed Lyme carditis
+T161	Disease_disorder 2152 2164	Lyme disease
+T162	Disease_disorder 2168 2231	the most common tick-borne infection in the northern hemisphere
+T163	Disease_disorder 2243 2268	a multisystemic condition
+T164	Disease_disorder 2489 2501	Lyme disease
+T165	Disease_disorder 2653 2684	clinical course of Lyme disease
+T166	Disease_disorder 2721 2773	early localized, early disseminated and late disease
+T167	Disease_disorder 2775 2798	Early localized disease
+T168	Disease_disorder 2897 2937	development of the erythema migrans rash
+T169	Disease_disorder 2942 2959	flu-like symptoms
+T170	Disease_disorder 2999 3029	weeks to months after the rash
+T171	Disease_disorder 3169 3191	neurologic dysfunction
+T172	Disease_disorder 3199 3237	months to years after the initial rash
+T173	Disease_disorder 3431 3464	10% of patients with Lyme disease
+T174	Disease_disorder 3611 3649	consist of varying degrees of AV block
+T175	Disease_disorder 3746 3767	11 Transient AV block
+T176	Disease_disorder 3861 3876	the heart block
+T177	Disease_disorder 4093 4133	9,10 Patients with first-degree AV block
+T178	Disease_disorder 4162 4168	300 ms
+T179	Disease_disorder 4259 4299	first-degree AV block with a PR interval
+T180	Disease_disorder 4313 4319	300 ms
+T181	Disease_disorder 4324 4362	those with a higher degree of AV block
+T182	Disease_disorder 4430 4472	the Infectious Diseases Society of America
+T183	Disease_disorder 4477 4545	Most cases of Lyme carditis resolve in 1 to 2 weeks with antibiotics
+T184	Disease_disorder 4824 4904	improvement in AV nodal conduction from third-degree to first-degree heart block
+T185	Disease_disorder 4928 4944	stable condition
+T186	Sign_symptom 5 22	electrocardiogram
+T187	Sign_symptom 134 146	sinus rhythm
+T188	Sign_symptom 439 449	management
+T189	Sign_symptom 556 564	symptoms
+T190	Sign_symptom 578 597	shortness of breath
+T191	Sign_symptom 599 623	near syncope and syncope
+T192	Sign_symptom 599 611	near syncope
+T193	Sign_symptom 599 603	near
+T194	Sign_symptom 604 611	syncope
+T195	Sign_symptom 616 623	syncope
+T196	Sign_symptom 625 633	Symptoms
+T197	Sign_symptom 662 668	angina
+T198	Sign_symptom 854 872	cardiac conduction
+T199	Sign_symptom 1223 1228	fever
+T200	Sign_symptom 1473 1488	calcium channel
+T201	Sign_symptom 1727 1734	service
+T202	Sign_symptom 1877 1886	resonance
+T203	Sign_symptom 1987 1996	diagnosis
+T204	Sign_symptom 2141 2150	diagnosis
+T205	Sign_symptom 2825 2842	incubation period
+T206	Sign_symptom 2916 2924	erythema
+T207	Sign_symptom 2942 2959	flu-like symptoms
+T208	Sign_symptom 2951 2959	symptoms
+T209	Sign_symptom 3082 3090	symptoms
+T210	Sign_symptom 3247 3256	diagnosis
+T211	Sign_symptom 3599 3606	illness
+T212	Sign_symptom 4140 4151	PR interval
+T213	Sign_symptom 4140 4142	PR
+T214	Sign_symptom 4288 4299	PR interval
+T215	Sign_symptom 4288 4290	PR
+T216	Sign_symptom 4800 4811	QRS complex
+T217	Sign_symptom 0 22	T he electrocardiogram
+T218	Sign_symptom 95 178	block with an underlying nonconducting sinus rhythm at a rate of about 80 beats/min
+T219	Sign_symptom 343 449	the coronary care unit of the Mazankowski Alberta Heart Institute for further investigation and management
+T220	Sign_symptom 556 569	symptoms that
+T221	Sign_symptom 599 623	near syncope and syncope
+T222	Sign_symptom 625 650	Symptoms of heart failure
+T223	Sign_symptom 831 940	idiopathic progressive cardiac conduction disease due to degenerative fibrosclerosis of the conduction system
+T224	Sign_symptom 1175 1228	myocarditis due to conditions such as rheumatic fever
+T225	Sign_symptom 1454 1497	nondihydropyridine calcium channel blockers
+T226	Sign_symptom 1704 1734	The infectious disease service
+T227	Sign_symptom 1860 1894	Cardiac magnetic resonance imaging
+T228	Sign_symptom 1983 1996	the diagnosis
+T229	Sign_symptom 2137 2150	the diagnosis
+T230	Sign_symptom 2822 2858	an incubation period of several days
+T231	Sign_symptom 2897 2937	development of the erythema migrans rash
+T232	Sign_symptom 2942 2959	flu-like symptoms
+T233	Sign_symptom 3051 3090	the stage during which cardiac symptoms
+T234	Sign_symptom 3239 3256	8,9 The diagnosis
+T235	Sign_symptom 3563 3606	the early disseminated phase of the illness
+T236	Sign_symptom 4138 4151	a PR interval
+T237	Sign_symptom 4259 4299	first-degree AV block with a PR interval
+T238	Sign_symptom 4781 4811	a narrowing of his QRS complex
+T239	Anatomical_structure 275 293	left bundle branch
+T240	Anatomical_structure 287 293	branch
+T241	Anatomical_structure 393 398	Heart
+T242	Anatomical_structure 637 642	heart
+T243	Anatomical_structure 854 861	cardiac
+T244	Anatomical_structure 954 959	heart
+T245	Anatomical_structure 1499 1506	cardiac
+T246	Anatomical_structure 1860 1867	Cardiac
+T247	Anatomical_structure 3074 3081	cardiac
+T248	Anatomical_structure 3470 3477	cardiac
+T249	Anatomical_structure 3517 3524	Cardiac
+T250	Anatomical_structure 3668 3673	heart
+T251	Anatomical_structure 3703 3719	intraventricular
+T252	Anatomical_structure 3787 3794	cardiac
+T253	Anatomical_structure 3865 3870	heart
+T254	Anatomical_structure 3902 3915	bundle of His
+T255	Anatomical_structure 3938 3945	AV node
+T256	Anatomical_structure 4025 4040	sinoatrial node
+T257	Anatomical_structure 4078 4091	bundle of His
+T258	Anatomical_structure 4666 4672	venous
+T259	Anatomical_structure 4893 4898	heart
+T260	Medication 2055 2066	ceftriaxone
+T261	Medication 4400 4411	ceftriaxone
+T262	Medication 2033 2093	empirical intravenous ceftriaxone for presumed Lyme carditis
+T263	Medication 4364 4411	inpatient treatment with parenteral ceftriaxone

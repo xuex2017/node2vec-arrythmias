@@ -1,0 +1,45 @@
+0	Procedure	treatment
+1	Procedure	test
+2	Procedure	sedation
+3	Procedure	oxygen saturation
+4	Procedure	gastric bypass
+5	Procedure	bypass
+6	Procedure	surgery
+7	Procedure	A 57-year-old male hypertensive Caucasian patient on medical treatment for 1.5 months for non-organic-related AF
+8	Procedure	the patient under medical treatment
+9	Procedure	An apnea test
+10	Procedure	minimum peripheral oxygen saturation
+11	Procedure	medical treatment
+12	Procedure	gastric bypass surgery
+13	Procedure	the time of surgery
+14	Procedure	6 months after the medical surgery
+15	Procedure	only medical treatment
+16	Disease_disorder	AF
+17	Disease_disorder	sinus
+18	Disease_disorder	apnea
+19	Disease_disorder	apneas
+20	Disease_disorder	the ICU because of highventricular response AF
+21	Disease_disorder	sinus rhythm
+22	Disease_disorder	high-ventricular response AF
+23	Disease_disorder	the same night because frequent apneas
+24	Disease_disorder	apnea-hypopnea index
+25	Disease_disorder	sinus rhythm at the 1-month follow-up
+26	Disease_disorder	AF within these 6 months
+27	Disease_disorder	apnea index of 1 per hour
+28	Sign_symptom	male
+29	Sign_symptom	related
+30	Sign_symptom	mass
+31	Sign_symptom	m
+32	Sign_symptom	hypopnea
+33	Sign_symptom	peripheral oxygen saturation
+34	Sign_symptom	expiratory
+35	Sign_symptom	pressure
+36	Sign_symptom	inspiratory
+37	Sign_symptom	follow-up
+38	Sign_symptom	his body mass index
+39	Sign_symptom	m 2
+40	Sign_symptom	BiPAP at the 6-month follow-up
+41	Anatomical_structure	airway
+42	Anatomical_structure	gastric
+43	Medication	fumarate
+44	Medication	bisoprolol fumarate

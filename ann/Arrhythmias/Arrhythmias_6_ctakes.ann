@@ -1,0 +1,394 @@
+T1	Procedure 102 129	fetal heart-rate monitoring
+T2	Procedure 108 129	heart-rate monitoring
+T3	Procedure 275 285	ultrasound
+T4	Procedure 290 304	echocardiogram
+T5	Procedure 310 320	ultrasound
+T6	Procedure 528 545	electrocardiogram
+T7	Procedure 906 911	tests
+T8	Procedure 1128 1150	differential diagnosis
+T9	Procedure 1457 1465	presence
+T10	Procedure 1832 1842	ultrasound
+T11	Procedure 1865 1879	echocardiogram
+T12	Procedure 1961 1974	transposition
+T13	Procedure 2039 2049	ultrasound
+T14	Procedure 2202 2210	presence
+T15	Procedure 2826 2833	protein
+T16	Procedure 3004 3011	protein
+T17	Procedure 3174 3182	presence
+T18	Procedure 3699 3710	lengthening
+T19	Procedure 4656 4663	protein
+T20	Procedure 4690 4697	calcium
+T21	Procedure 4921 4930	treatment
+T22	Procedure 5001 5011	treatments
+T23	Procedure 5482 5497	steroid therapy
+T24	Procedure 5490 5497	therapy
+T25	Procedure 5629 5638	treatment
+T26	Procedure 6019 6033	plasmapheresis
+T27	Procedure 6160 6169	treatment
+T28	Procedure 6821 6848	fetal heart rate monitoring
+T29	Procedure 6827 6848	heart rate monitoring
+T30	Procedure 7248 7275	indirect immunofluorescence
+T31	Procedure 7257 7275	immunofluorescence
+T32	Procedure 7816 7820	gold
+T33	Procedure 7865 7877	immunoassays
+T34	Procedure 8383 8388	ELISA
+T35	Procedure 8389 8400	immunoassay
+T36	Procedure 8512 8539	indirect immunofluorescence
+T37	Procedure 8521 8539	immunofluorescence
+T38	Procedure 8593 8605	immunoassays
+T39	Procedure 8808 8810	mg
+T40	Procedure 9052 9069	caesarean section
+T41	Procedure 9070 9078	delivery
+T42	Procedure 9146 9154	delivery
+T43	Procedure 9236 9244	delivery
+T44	Procedure 9590 9602	immunoassays
+T45	Procedure 9735 9749	Echocardiogram
+T46	Procedure 9754 9771	electrocardiogram
+T47	Procedure 10075 10085	surgically
+T48	Procedure 102 157	fetal heart-rate monitoring at 22 weeks gestational age
+T49	Procedure 256 285	a subsequent fetal ultrasound
+T50	Procedure 306 325	The ultrasound exam
+T51	Procedure 524 545	the electrocardiogram
+T52	Procedure 893 911	HIV antibody tests
+T53	Procedure 1124 1171	The differential diagnosis of fetal bradycardia
+T54	Procedure 1453 1487	the presence of electrical signals
+T55	Procedure 1832 1854	ultrasound examination
+T56	Procedure 1859 1879	fetal echocardiogram
+T57	Procedure 1961 1995	transposition of the great vessels
+T58	Procedure 2035 2061	the ultrasound examination
+T59	Procedure 2198 2228	the presence of autoantibodies
+T60	Procedure 2811 2839	an RNA-binding protein which
+T61	Procedure 2994 3011	a smaller protein
+T62	Procedure 3170 3202	the presence of antibodies to La
+T63	Procedure 3692 3742	static lengthening of the PR interval beyond 0.2 s
+T64	Procedure 4618 4663	anti-Ro antibodies cross-react with a protein
+T65	Procedure 4676 4739	regulation of calcium channels in the cardiac conduction system
+T66	Procedure 4900 4930	Studies of effective treatment
+T67	Procedure 4985 5011	The majority of treatments
+T68	Procedure 5482 5497	steroid therapy
+T69	Procedure 5615 5720	dexamethasone treatment of fetuses with congenital heart block in the absence of structural heart disease
+T70	Procedure 6147 6169	any specific treatment
+T71	Procedure 6821 6848	fetal heart rate monitoring
+T72	Procedure 7248 7275	indirect immunofluorescence
+T73	Procedure 7812 7877	the gold standard for ANA testing because the use of immunoassays
+T74	Procedure 8376 8400	ANA by ELISA immunoassay
+T75	Procedure 8499 8539	Confirmatory indirect immunofluorescence
+T76	Procedure 8584 8634	specific immunoassays for both anti-Ro and anti-La
+T77	Procedure 8806 8827	2 mg of dexamethasone
+T78	Procedure 9050 9078	a caesarean section delivery
+T79	Procedure 9130 9154	One week before delivery
+T80	Procedure 9581 9614	Specific immunoassays for anti-Ro
+T81	Procedure 10046 10105	home at age 52 days with her surgically implanted pacemaker
+T82	Disease_disorder 348 355	hydrops
+T83	Disease_disorder 565 593	atrioventricular heart block
+T84	Disease_disorder 582 593	heart block
+T85	Disease_disorder 588 593	block
+T86	Disease_disorder 693 703	aneuploidy
+T87	Disease_disorder 785 796	hepatitis B
+T88	Disease_disorder 785 794	hepatitis
+T89	Disease_disorder 798 807	varicella
+T90	Disease_disorder 813 820	rubella
+T91	Disease_disorder 880 888	syphilis
+T92	Disease_disorder 1050 1068	autoimmune disease
+T93	Disease_disorder 1050 1060	autoimmune
+T94	Disease_disorder 1061 1068	disease
+T95	Disease_disorder 1076 1087	bradycardia
+T96	Disease_disorder 1160 1171	bradycardia
+T97	Disease_disorder 1181 1198	sinus bradycardia
+T98	Disease_disorder 1181 1186	sinus
+T99	Disease_disorder 1187 1198	bradycardia
+T100	Disease_disorder 1213 1228	atrial bigeminy
+T101	Disease_disorder 1234 1256	congenital heart block
+T102	Disease_disorder 1245 1256	heart block
+T103	Disease_disorder 1251 1256	block
+T104	Disease_disorder 1258 1275	Sinus bradycardia
+T105	Disease_disorder 1258 1263	Sinus
+T106	Disease_disorder 1264 1275	bradycardia
+T107	Disease_disorder 1319 1332	fetal hypoxia
+T108	Disease_disorder 1325 1332	hypoxia
+T109	Disease_disorder 1379 1387	prolapse
+T110	Disease_disorder 1393 1412	placental abruption
+T111	Disease_disorder 1427 1442	atrial bigeminy
+T112	Disease_disorder 1529 1534	sinus
+T113	Disease_disorder 1584 1606	Congenital heart block
+T114	Disease_disorder 1595 1606	heart block
+T115	Disease_disorder 1601 1606	block
+T116	Disease_disorder 1648 1660	dissociation
+T117	Disease_disorder 1807 1818	bradycardia
+T118	Disease_disorder 1961 1995	transposition of the great vessels
+T119	Disease_disorder 1961 1974	transposition
+T120	Disease_disorder 1999 2019	atrial septal defect
+T121	Disease_disorder 2125 2148	congenital malformation
+T122	Disease_disorder 2136 2148	malformation
+T123	Disease_disorder 2354 2366	autoimmunity
+T124	Disease_disorder 2411 2439	systemic lupus erythematosus
+T125	Disease_disorder 2420 2439	lupus erythematosus
+T126	Disease_disorder 2420 2425	lupus
+T127	Disease_disorder 2484 2492	syndrome
+T128	Disease_disorder 2494 2496	SS
+T129	Disease_disorder 2526 2528	SS
+T130	Disease_disorder 2632 2634	SS
+T131	Disease_disorder 2674 2676	SS
+T132	Disease_disorder 3666 3690	first-degree heart block
+T133	Disease_disorder 3679 3690	heart block
+T134	Disease_disorder 3685 3690	block
+T135	Disease_disorder 3747 3771	third-degree heart block
+T136	Disease_disorder 3760 3771	heart block
+T137	Disease_disorder 3766 3771	block
+T138	Disease_disorder 3957 3962	block
+T139	Disease_disorder 3973 3984	progression
+T140	Disease_disorder 4032 4037	block
+T141	Disease_disorder 4127 4138	heart block
+T142	Disease_disorder 4133 4138	block
+T143	Disease_disorder 4473 4486	proliferation
+T144	Disease_disorder 4519 4527	scarring
+T145	Disease_disorder 4532 4543	dysfunction
+T146	Disease_disorder 5324 5348	third-degree heart block
+T147	Disease_disorder 5337 5348	heart block
+T148	Disease_disorder 5343 5348	block
+T149	Disease_disorder 5394 5419	second-degree heart block
+T150	Disease_disorder 5408 5419	heart block
+T151	Disease_disorder 5414 5419	block
+T152	Disease_disorder 5432 5456	first-degree heart block
+T153	Disease_disorder 5445 5456	heart block
+T154	Disease_disorder 5451 5456	block
+T155	Disease_disorder 5554 5587	pleural and pericardial effusions
+T156	Disease_disorder 5566 5587	pericardial effusions
+T157	Disease_disorder 5655 5692	congenital heart block in the absence
+T158	Disease_disorder 5655 5677	congenital heart block
+T159	Disease_disorder 5666 5677	heart block
+T160	Disease_disorder 5672 5677	block
+T161	Disease_disorder 5685 5692	absence
+T162	Disease_disorder 5707 5720	heart disease
+T163	Disease_disorder 5713 5720	disease
+T164	Disease_disorder 6419 6439	spontaneous abortion
+T165	Disease_disorder 6441 6451	stillbirth
+T166	Disease_disorder 6457 6469	preeclampsia
+T167	Disease_disorder 7000 7028	autoimmune rheumatic disease
+T168	Disease_disorder 7000 7010	autoimmune
+T169	Disease_disorder 7011 7028	rheumatic disease
+T170	Disease_disorder 7021 7028	disease
+T171	Disease_disorder 8299 8321	congenital heart block
+T172	Disease_disorder 8310 8321	heart block
+T173	Disease_disorder 8316 8321	block
+T174	Disease_disorder 8851 8862	progression
+T175	Disease_disorder 8955 8990	third-degree atrioventricular block
+T176	Disease_disorder 8968 8990	atrioventricular block
+T177	Disease_disorder 8985 8990	block
+T178	Disease_disorder 9011 9023	sudden death
+T179	Disease_disorder 9041 9048	hydrops
+T180	Disease_disorder 9503 9512	skin rash
+T181	Disease_disorder 9508 9512	rash
+T182	Disease_disorder 9520 9536	thrombocytopenia
+T183	Disease_disorder 9565 9579	neonatal lupus
+T184	Disease_disorder 9574 9579	lupus
+T185	Disease_disorder 9828 9850	valvular regurgitation
+T186	Disease_disorder 9912 9936	third-degree heart block
+T187	Disease_disorder 9925 9936	heart block
+T188	Disease_disorder 9931 9936	block
+T189	Disease_disorder 10266 10288	congenital heart block
+T190	Disease_disorder 10277 10288	heart block
+T191	Disease_disorder 10283 10288	block
+T192	Disease_disorder 333 355	no evidence of hydrops
+T193	Disease_disorder 563 593	1 atrioventricular heart block
+T194	Disease_disorder 687 703	fetal aneuploidy
+T195	Disease_disorder 752 796	Results of serologic testing for hepatitis B
+T196	Disease_disorder 813 828	rubella viruses
+T197	Disease_disorder 869 888	Results of syphilis
+T198	Disease_disorder 1024 1068	no history or symptoms of autoimmune disease
+T199	Disease_disorder 1070 1087	Fetal bradycardia
+T200	Disease_disorder 1124 1171	The differential diagnosis of fetal bradycardia
+T201	Disease_disorder 1181 1198	sinus bradycardia
+T202	Disease_disorder 1200 1228	nonconducted atrial bigeminy
+T203	Disease_disorder 1234 1256	congenital heart block
+T204	Disease_disorder 1258 1275	Sinus bradycardia
+T205	Disease_disorder 1319 1332	fetal hypoxia
+T206	Disease_disorder 1364 1387	umbilical cord prolapse
+T207	Disease_disorder 1414 1442	Nonconducted atrial bigeminy
+T208	Disease_disorder 1505 1545	atrial foci outside the sinus node which
+T209	Disease_disorder 1584 1606	Congenital heart block
+T210	Disease_disorder 1625 1699	complete or incomplete dissociation of atrial and ventricular contractions
+T211	Disease_disorder 1801 1818	fetal bradycardia
+T212	Disease_disorder 1961 1995	transposition of the great vessels
+T213	Disease_disorder 2125 2148	congenital malformation
+T214	Disease_disorder 2342 2374	a target of autoimmunity in 1962
+T215	Disease_disorder 2397 2439	patients with systemic lupus erythematosus
+T216	Disease_disorder 2629 2636	Ro/SS-A
+T217	Disease_disorder 2674 2691	SS-B by the other
+T218	Disease_disorder 3666 3690	first-degree heart block
+T219	Disease_disorder 3747 3771	third-degree heart block
+T220	Disease_disorder 3944 3962	first-degree block
+T221	Disease_disorder 3973 4001	progression to second-degree
+T222	Disease_disorder 4006 4061	irreversible third-degree block in the postnatal period
+T223	Disease_disorder 4087 4138	The exact pathologic mechanism of fetal heart block
+T224	Disease_disorder 4473 4502	proliferation of fibroblasts,
+T225	Disease_disorder 4501 4574	, with subsequent scarring and dysfunction of cardiac conduction pathways
+T226	Disease_disorder 5304 5348	-untreated cases of third-degree heart block
+T227	Disease_disorder 5394 5419	second-degree heart block
+T228	Disease_disorder 5432 5465	first-degree heart block at birth
+T229	Disease_disorder 5514 5587	outcomes with regard to cardiac-related pleural and pericardial effusions
+T230	Disease_disorder 5615 5720	dexamethasone treatment of fetuses with congenital heart block in the absence of structural heart disease
+T231	Disease_disorder 6400 6439	increased rates of spontaneous abortion
+T232	Disease_disorder 6457 6517	preeclampsia in mothers with a positive ANA screening result
+T233	Disease_disorder 6972 7028	an expectant mother with an autoimmune rheumatic disease
+T234	Disease_disorder 8299 8321	congenital heart block
+T235	Disease_disorder 8955 8990	third-degree atrioventricular block
+T236	Disease_disorder 8999 9048	concern for sudden death of the fetus and hydrops
+T237	Disease_disorder 9500 9512	no skin rash
+T238	Disease_disorder 9517 9541	no thrombocytopenia that
+T239	Disease_disorder 9565 9579	neonatal lupus
+T240	Disease_disorder 9785 9850	normal cardiac anatomy with no significant valvular regurgitation
+T241	Disease_disorder 9901 9936	persistent third-degree heart block
+T242	Disease_disorder 10241 10307	no proven association of congenital heart block with breastfeeding
+T243	Sign_symptom 68 85	gravida 1, para 0
+T244	Sign_symptom 68 77	gravida 1
+T245	Sign_symptom 68 75	gravida
+T246	Sign_symptom 79 83	para
+T247	Sign_symptom 102 118	fetal heart-rate
+T248	Sign_symptom 163 179	fetal heart rate
+T249	Sign_symptom 239 246	finding
+T250	Sign_symptom 528 545	electrocardiogram
+T251	Sign_symptom 859 867	immunity
+T252	Sign_symptom 972 987	medical history
+T253	Sign_symptom 980 987	history
+T254	Sign_symptom 1027 1049	history or symptoms of
+T255	Sign_symptom 1027 1034	history
+T256	Sign_symptom 1038 1046	symptoms
+T257	Sign_symptom 1070 1087	Fetal bradycardia
+T258	Sign_symptom 1141 1150	diagnosis
+T259	Sign_symptom 1154 1171	fetal bradycardia
+T260	Sign_symptom 1220 1228	bigeminy
+T261	Sign_symptom 1351 1362	hypotension
+T262	Sign_symptom 1364 1387	umbilical cord prolapse
+T263	Sign_symptom 1374 1387	cord prolapse
+T264	Sign_symptom 1434 1442	bigeminy
+T265	Sign_symptom 1790 1796	births
+T266	Sign_symptom 1801 1818	fetal bradycardia
+T267	Sign_symptom 3066 3075	digestion
+T268	Sign_symptom 3364 3375	pregnancies
+T269	Sign_symptom 3435 3444	gestation
+T270	Sign_symptom 3560 3578	weeks of gestation
+T271	Sign_symptom 3569 3578	gestation
+T272	Sign_symptom 3718 3729	PR interval
+T273	Sign_symptom 3718 3720	PR
+T274	Sign_symptom 4187 4196	apoptosis
+T275	Sign_symptom 4213 4218	death
+T276	Sign_symptom 4264 4273	apoptosis
+T277	Sign_symptom 4547 4565	cardiac conduction
+T278	Sign_symptom 4714 4732	cardiac conduction
+T279	Sign_symptom 4821 4826	death
+T280	Sign_symptom 5460 5465	birth
+T281	Sign_symptom 5546 5553	related
+T282	Sign_symptom 6337 6346	pregnancy
+T283	Sign_symptom 6431 6439	abortion
+T284	Sign_symptom 6488 6500	positive ANA
+T285	Sign_symptom 6821 6837	fetal heart rate
+T286	Sign_symptom 6956 6960	work
+T287	Sign_symptom 7059 7073	concentrations
+T288	Sign_symptom 7975 7988	sensitivities
+T289	Sign_symptom 8265 8273	very low
+T290	Sign_symptom 8666 8680	concentrations
+T291	Sign_symptom 8757 8766	gestation
+T292	Sign_symptom 9018 9023	death
+T293	Sign_symptom 9119 9128	gestation
+T294	Sign_symptom 9250 9256	female
+T295	Sign_symptom 9257 9264	neonate
+T296	Sign_symptom 9754 9771	electrocardiogram
+T297	Sign_symptom 9785 9791	normal
+T298	Sign_symptom 9837 9850	regurgitation
+T299	Sign_symptom 9856 9862	normal
+T300	Sign_symptom 10251 10262	association
+T301	Sign_symptom 10294 10307	breastfeeding
+T302	Sign_symptom 34 91	the obstetrician of a 25-year-old gravida 1, para 0 woman
+T303	Sign_symptom 102 157	fetal heart-rate monitoring at 22 weeks gestational age
+T304	Sign_symptom 159 179	The fetal heart rate
+T305	Sign_symptom 234 246	This finding
+T306	Sign_symptom 524 545	the electrocardiogram
+T307	Sign_symptom 850 867	maternal immunity
+T308	Sign_symptom 957 987	no significant medical history
+T309	Sign_symptom 1024 1068	no history or symptoms of autoimmune disease
+T310	Sign_symptom 1124 1171	The differential diagnosis of fetal bradycardia
+T311	Sign_symptom 1200 1228	nonconducted atrial bigeminy
+T312	Sign_symptom 1342 1362	maternal hypotension
+T313	Sign_symptom 1364 1387	umbilical cord prolapse
+T314	Sign_symptom 1414 1442	Nonconducted atrial bigeminy
+T315	Sign_symptom 1743 1796	an incidence of approximately 1 in 20 000 live births
+T316	Sign_symptom 3035 3075	RNA from nonspecific enzymatic digestion
+T317	Sign_symptom 3419 3444	any time during gestation
+T318	Sign_symptom 3557 3578	30 weeks of gestation
+T319	Sign_symptom 3692 3742	static lengthening of the PR interval beyond 0.2 s
+T320	Sign_symptom 4198 4218	programed cell death
+T321	Sign_symptom 4260 4280	the apoptosis theory
+T322	Sign_symptom 4501 4574	, with subsequent scarring and dysfunction of cardiac conduction pathways
+T323	Sign_symptom 4676 4739	regulation of calcium channels in the cardiac conduction system
+T324	Sign_symptom 5432 5465	first-degree heart block at birth
+T325	Sign_symptom 5514 5587	outcomes with regard to cardiac-related pleural and pericardial effusions
+T326	Sign_symptom 6305 6346	screening assays during routine pregnancy
+T327	Sign_symptom 6400 6439	increased rates of spontaneous abortion
+T328	Sign_symptom 6457 6517	preeclampsia in mothers with a positive ANA screening result
+T329	Sign_symptom 6821 6848	fetal heart rate monitoring
+T330	Sign_symptom 6945 6963	additional work-up
+T331	Sign_symptom 7049 7110	increased concentrations of anti-Ro and/or anti-La antibodies
+T332	Sign_symptom 7962 8008	the relative sensitivities of the 2 approaches
+T333	Sign_symptom 8265 8289	very low maternal titers
+T334	Sign_symptom 8666 8699	concentrations of 145 and 80 U/mL
+T335	Sign_symptom 8748 8766	23 weeks gestation
+T336	Sign_symptom 8999 9048	concern for sudden death of the fetus and hydrops
+T337	Sign_symptom 9110 9128	31 weeks gestation
+T338	Sign_symptom 9246 9279	the female neonate weighed 1.7 kg
+T339	Sign_symptom 9785 9850	normal cardiac anatomy with no significant valvular regurgitation
+T340	Sign_symptom 9856 9888	normal function of the pacemaker
+T341	Sign_symptom 10241 10307	no proven association of congenital heart block with breastfeeding
+T342	Anatomical_structure 108 113	heart
+T343	Anatomical_structure 169 174	heart
+T344	Anatomical_structure 357 364	Cardiac
+T345	Anatomical_structure 582 587	heart
+T346	Anatomical_structure 626 632	atrial
+T347	Anatomical_structure 1104 1109	heart
+T348	Anatomical_structure 1213 1219	atrial
+T349	Anatomical_structure 1245 1250	heart
+T350	Anatomical_structure 1427 1433	atrial
+T351	Anatomical_structure 1505 1511	atrial
+T352	Anatomical_structure 1529 1539	sinus node
+T353	Anatomical_structure 1573 1582	ventricle
+T354	Anatomical_structure 1595 1600	heart
+T355	Anatomical_structure 1664 1670	atrial
+T356	Anatomical_structure 1925 1930	heart
+T357	Anatomical_structure 1982 1995	great vessels
+T358	Anatomical_structure 1999 2005	atrial
+T359	Anatomical_structure 2171 2176	blood
+T360	Anatomical_structure 3679 3684	heart
+T361	Anatomical_structure 3760 3765	heart
+T362	Anatomical_structure 3788 3803	sinoatrial node
+T363	Anatomical_structure 3829 3839	ventricles
+T364	Anatomical_structure 4127 4132	heart
+T365	Anatomical_structure 4208 4212	cell
+T366	Anatomical_structure 4346 4353	cardiac
+T367	Anatomical_structure 4354 4359	cells
+T368	Anatomical_structure 4415 4423	cellular
+T369	Anatomical_structure 4490 4501	fibroblasts
+T370	Anatomical_structure 4547 4554	cardiac
+T371	Anatomical_structure 4714 4739	cardiac conduction system
+T372	Anatomical_structure 4714 4721	cardiac
+T373	Anatomical_structure 4854 4859	utero
+T374	Anatomical_structure 5337 5342	heart
+T375	Anatomical_structure 5408 5413	heart
+T376	Anatomical_structure 5445 5450	heart
+T377	Anatomical_structure 5538 5545	cardiac
+T378	Anatomical_structure 5566 5577	pericardial
+T379	Anatomical_structure 5666 5671	heart
+T380	Anatomical_structure 5707 5712	heart
+T381	Anatomical_structure 6827 6832	heart
+T382	Anatomical_structure 7358 7362	cell
+T383	Anatomical_structure 7538 7545	nucleus
+T384	Anatomical_structure 7553 7562	cytoplasm
+T385	Anatomical_structure 8172 8177	cells
+T386	Anatomical_structure 8310 8315	heart
+T387	Anatomical_structure 9218 9222	lung
+T388	Anatomical_structure 9289 9294	heart
+T389	Anatomical_structure 9454 9459	heart
+T390	Anatomical_structure 9503 9507	skin
+T391	Anatomical_structure 9792 9799	cardiac
+T392	Anatomical_structure 9925 9930	heart
+T393	Anatomical_structure 10219 10225	breast
+T394	Anatomical_structure 10277 10282	heart

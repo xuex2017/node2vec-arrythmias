@@ -1,0 +1,213 @@
+T1	Procedure 702 719	oxygen saturation
+T2	Procedure 853 864	epinephrine
+T3	Procedure 898 904	sodium
+T4	Procedure 905 913	chloride
+T5	Procedure 1027 1044	oxygen saturation
+T6	Procedure 1176 1180	BacT
+T7	Procedure 1400 1407	lactate
+T8	Procedure 1461 1475	carbon dioxide
+T9	Procedure 1510 1521	bicarbonate
+T10	Procedure 1535 1545	hemoglobin
+T11	Procedure 1607 1611	BacT
+T12	Procedure 1800 1829	Cardiopulmonary resuscitation
+T13	Procedure 1816 1829	resuscitation
+T14	Procedure 1845 1856	epinephrine
+T15	Procedure 1942 1950	Sedation
+T16	Procedure 1955 1965	intubation
+T17	Procedure 2181 2199	C-reactive protein
+T18	Procedure 2192 2199	protein
+T19	Procedure 2201 2204	CRP
+T20	Procedure 2219 2236	white blood cells
+T21	Procedure 2250 2259	platelets
+T22	Procedure 2279 2288	treatment
+T23	Procedure 2379 2391	cardiac echo
+T24	Procedure 2494 2503	Treatment
+T25	Procedure 2547 2561	norepinephrine
+T26	Procedure 2738 2745	surgery
+T27	Procedure 2927 2950	Microscopic examination
+T28	Procedure 2991 3003	microbiology
+T29	Procedure 3024 3032	bacteria
+T30	Procedure 3096 3105	treatment
+T31	Procedure 3154 3157	CRP
+T32	Procedure 3211 3223	microbiology
+T33	Procedure 3345 3362	mass spectrometry
+T34	Procedure 3350 3362	spectrometry
+T35	Procedure 3503 3528	polymerase chain reaction
+T36	Procedure 3533 3545	DNA analysis
+T37	Procedure 3537 3545	analysis
+T38	Procedure 3677 3686	treatment
+T39	Procedure 3766 3771	tests
+T40	Procedure 3875 3878	CRP
+T41	Procedure 3903 3910	surgery
+T42	Procedure 3964 3973	Treatment
+T43	Procedure 4036 4045	treatment
+T44	Procedure 4066 4073	closure
+T45	Procedure 4104 4114	amputation
+T46	Procedure 4120 4123	CRP
+T47	Procedure 4160 4163	CRP
+T48	Procedure 4359 4381	mechanical ventilation
+T49	Procedure 4385 4397	tracheostomy
+T50	Procedure 4551 4568	surgical revision
+T51	Procedure 4551 4559	surgical
+T52	Procedure 4560 4568	revision
+T53	Procedure 4625 4637	tracheostomy
+T54	Procedure 4872 4892	skin transplantation
+T55	Procedure 4877 4892	transplantation
+T56	Procedure 889 913	isotonic sodium chloride
+T57	Procedure 1027 1048	oxygen saturation 90%
+T58	Procedure 1162 1180	one anaerobic BacT
+T59	Procedure 1389 1417	a pH 7.11, lactate 4.8mmol/L
+T60	Procedure 1461 1508	carbon dioxide partial pressure arterial 3.4kPa
+T61	Procedure 1510 1530	bicarbonate 17mmol/L
+T62	Procedure 1535 1553	hemoglobin 4.2mmol
+T63	Procedure 1605 1611	a BacT
+T64	Procedure 1800 1829	Cardiopulmonary resuscitation
+T65	Procedure 2181 2199	C-reactive protein
+T66	Procedure 2275 2303	the treatment with meropenem
+T67	Procedure 2377 2391	A cardiac echo
+T68	Procedure 2494 2525	Treatment with inotropic agents
+T69	Procedure 2541 2601	using norepinephrine because of volume-resistant hypotension
+T70	Procedure 2732 2745	acute surgery
+T71	Procedure 2964 3003	our laboratory of clinical microbiology
+T72	Procedure 3010 3090	Gram-negative bacteria after Gram-stained smears in all samples from the patient
+T73	Procedure 3092 3138	The treatment with meropenem and metronidazole
+T74	Procedure 3150 3157	His CRP
+T75	Procedure 3188 3223	laboratory of clinical microbiology
+T76	Procedure 3320 3362	ionization time-offlight mass spectrometry
+T77	Procedure 3533 3565	DNA analysis with 500 base pairs
+T78	Procedure 3677 3701	treatment with meropenem
+T79	Procedure 3719 3771	tazobactam since the antibiotic susceptibility tests
+T80	Procedure 3871 3878	His CRP
+T81	Procedure 3964 3992	Treatment with ciprofloxacin
+T82	Procedure 4029 4073	either treatment with vacuumassisted closure
+T83	Procedure 4093 4114	worst case amputation
+T84	Procedure 4116 4123	His CRP
+T85	Procedure 4137 4163	The following days his CRP
+T86	Procedure 4352 4381	needed mechanical ventilation
+T87	Procedure 4383 4397	A tracheostomy
+T88	Procedure 4551 4568	surgical revision
+T89	Procedure 4621 4637	the tracheostomy
+T90	Procedure 4848 4892	his left foot and split-skin transplantation
+T91	Disease_disorder 184 199	gastroenteritis
+T92	Disease_disorder 249 264	gastroenteritis
+T93	Disease_disorder 457 473	bipolar disorder
+T94	Disease_disorder 465 473	disorder
+T95	Disease_disorder 475 491	multiple myeloma
+T96	Disease_disorder 484 491	myeloma
+T97	Disease_disorder 493 505	osteoporosis
+T98	Disease_disorder 515 530	pituitary tumor
+T99	Disease_disorder 525 530	tumor
+T100	Disease_disorder 550 573	frontotemporal dementia
+T101	Disease_disorder 565 573	dementia
+T102	Disease_disorder 612 616	Coma
+T103	Disease_disorder 1784 1798	cardiac arrest
+T104	Disease_disorder 2106 2115	petechiae
+T105	Disease_disorder 2150 2159	petechiae
+T106	Disease_disorder 2174 2179	edema
+T107	Disease_disorder 2446 2456	deficiency
+T108	Disease_disorder 2795 2804	fasciitis
+T109	Disease_disorder 2842 2848	bullae
+T110	Disease_disorder 3915 3920	wound
+T111	Disease_disorder 4287 4292	wound
+T112	Disease_disorder 457 473	bipolar disorder
+T113	Disease_disorder 475 491	multiple myeloma
+T114	Disease_disorder 507 573	earlier pituitary tumor and development of frontotemporal dementia
+T115	Disease_disorder 600 622	his Glasgow Coma Score
+T116	Disease_disorder 1782 1798	a cardiac arrest
+T117	Disease_disorder 2168 2179	minor edema
+T118	Disease_disorder 2425 2456	a minor mitral valve deficiency
+T119	Disease_disorder 3915 3929	wound necrosis
+T120	Disease_disorder 4283 4292	The wound
+T121	Sign_symptom 68 72	pain
+T122	Sign_symptom 74 82	swelling
+T123	Sign_symptom 87 94	redness
+T124	Sign_symptom 130 135	fever
+T125	Sign_symptom 167 174	history
+T126	Sign_symptom 427 447	past medical history
+T127	Sign_symptom 432 447	medical history
+T128	Sign_symptom 440 447	history
+T129	Sign_symptom 604 622	Glasgow Coma Score
+T130	Sign_symptom 636 650	blood pressure
+T131	Sign_symptom 642 650	pressure
+T132	Sign_symptom 976 990	blood pressure
+T133	Sign_symptom 982 990	pressure
+T134	Sign_symptom 1222 1253	time of arrival at the hospital
+T135	Sign_symptom 1391 1393	pH
+T136	Sign_symptom 1434 1442	pressure
+T137	Sign_symptom 1484 1492	pressure
+T138	Sign_symptom 2062 2069	redness
+T139	Sign_symptom 2120 2124	pain
+T140	Sign_symptom 2401 2409	ejection
+T141	Sign_symptom 2590 2601	hypotension
+T142	Sign_symptom 2616 2628	urine output
+T143	Sign_symptom 2833 2840	redness
+T144	Sign_symptom 3345 3349	mass
+T145	Sign_symptom 3576 3580	FAST
+T146	Sign_symptom 3614 3628	Identification
+T147	Sign_symptom 3740 3765	antibiotic susceptibility
+T148	Sign_symptom 3921 3929	necrosis
+T149	Sign_symptom 4180 4192	urine output
+T150	Sign_symptom 4696 4719	spontaneous respiration
+T151	Sign_symptom 54 82	' duration of pain, swelling
+T152	Sign_symptom 87 121	redness of his left dorsalis pedis
+T153	Sign_symptom 154 174	His previous history
+T154	Sign_symptom 423 447	His past medical history
+T155	Sign_symptom 600 622	his Glasgow Coma Score
+T156	Sign_symptom 636 650	blood pressure
+T157	Sign_symptom 976 993	blood pressure 87
+T158	Sign_symptom 1389 1417	a pH 7.11, lactate 4.8mmol/L
+T159	Sign_symptom 1419 1459	oxygen partial pressure arterial 11.9kPa
+T160	Sign_symptom 1461 1508	carbon dioxide partial pressure arterial 3.4kPa
+T161	Sign_symptom 2054 2086	diffuse redness on his left foot
+T162	Sign_symptom 2401 2423	ejection fraction >55%
+T163	Sign_symptom 2541 2601	using norepinephrine because of volume-resistant hypotension
+T164	Sign_symptom 2606 2628	decreased urine output
+T165	Sign_symptom 3320 3362	ionization time-offlight mass spectrometry
+T166	Sign_symptom 3719 3771	tazobactam since the antibiotic susceptibility tests
+T167	Sign_symptom 3915 3929	wound necrosis
+T168	Sign_symptom 4173 4192	, this urine output
+T169	Anatomical_structure 515 524	pituitary
+T170	Anatomical_structure 636 641	blood
+T171	Anatomical_structure 666 671	heart
+T172	Anatomical_structure 976 981	blood
+T173	Anatomical_structure 1089 1094	Blood
+T174	Anatomical_structure 1135 1139	vein
+T175	Anatomical_structure 1363 1377	Arterial blood
+T176	Anatomical_structure 1363 1371	Arterial
+T177	Anatomical_structure 1372 1377	blood
+T178	Anatomical_structure 1443 1451	arterial
+T179	Anatomical_structure 1493 1501	arterial
+T180	Anatomical_structure 1784 1791	cardiac
+T181	Anatomical_structure 2077 2086	left foot
+T182	Anatomical_structure 2082 2086	foot
+T183	Anatomical_structure 2130 2145	right lower leg
+T184	Anatomical_structure 2136 2145	lower leg
+T185	Anatomical_structure 2142 2145	leg
+T186	Anatomical_structure 2219 2236	white blood cells
+T187	Anatomical_structure 2225 2236	blood cells
+T188	Anatomical_structure 2225 2230	blood
+T189	Anatomical_structure 2231 2236	cells
+T190	Anatomical_structure 2250 2259	platelets
+T191	Anatomical_structure 2379 2386	cardiac
+T192	Anatomical_structure 2433 2445	mitral valve
+T193	Anatomical_structure 2478 2492	left ventricle
+T194	Anatomical_structure 2483 2492	ventricle
+T195	Anatomical_structure 2761 2764	leg
+T196	Anatomical_structure 2813 2822	left foot
+T197	Anatomical_structure 2818 2822	foot
+T198	Anatomical_structure 2859 2863	toes
+T199	Anatomical_structure 3267 3272	blood
+T200	Anatomical_structure 3956 3962	tissue
+T201	Anatomical_structure 4852 4861	left foot
+T202	Anatomical_structure 4857 4876	foot and split-skin
+T203	Anatomical_structure 4857 4861	foot
+T204	Anatomical_structure 4872 4876	skin
+T205	Medication 56 64	duration
+T206	Medication 853 864	epinephrine
+T207	Medication 1314 1332	methylprednisolone
+T208	Medication 1845 1856	epinephrine
+T209	Medication 2346 2359	metronidazole
+T210	Medication 3125 3138	metronidazole
+T211	Medication 16 64	a 78-year-old Danish man with 24 hours' duration
+T212	Medication 54 82	' duration of pain, swelling
+T213	Medication 3092 3138	The treatment with meropenem and metronidazole

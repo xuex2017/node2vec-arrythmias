@@ -1,0 +1,82 @@
+T1	Procedure 419 435	echocardiography
+T2	Procedure 522 525	ECG
+T3	Procedure 688 692	test
+T4	Procedure 755 758	ECG
+T5	Procedure 836 847	stimulation
+T6	Procedure 1554 1562	Ablation
+T7	Procedure 1639 1641	ms
+T8	Procedure 1730 1741	stimulation
+T9	Procedure 1758 1770	genetic test
+T10	Procedure 1766 1770	test
+T11	Procedure 394 435	clinical presentation in echocardiography
+T12	Procedure 513 622	abnormal ECG pattern in a sense of an incomplete right bundle branch block with slightly elevated ST-segments
+T13	Procedure 676 692	an ajmaline test
+T14	Procedure 726 758	prominent coved-type Brugada ECG
+T15	Procedure 813 847	programmed ventricular stimulation
+T16	Procedure 1554 1572	Ablation end point
+T17	Procedure 1637 1641	2 ms
+T18	Procedure 1674 1741	noninducibility of any VT during programmed ventricular stimulation
+T19	Procedure 1756 1770	a genetic test
+T20	Disease_disorder 149 172	ventricular tachycardia
+T21	Disease_disorder 212 232	sudden cardiac death
+T22	Disease_disorder 551 587	incomplete right bundle branch block
+T23	Disease_disorder 562 587	right bundle branch block
+T24	Disease_disorder 568 587	bundle branch block
+T25	Disease_disorder 582 587	block
+T26	Disease_disorder 627 628	T
+T27	Disease_disorder 860 926	sustained and hemodynamically nontolerated ventricular tachycardia
+T28	Disease_disorder 903 926	ventricular tachycardia
+T29	Disease_disorder 1471 1476	sinus
+T30	Disease_disorder 1639 1641	ms
+T31	Disease_disorder 137 172	pleomorphic ventricular tachycardia
+T32	Disease_disorder 181 232	a previous history of survived sudden cardiac death
+T33	Disease_disorder 513 622	abnormal ECG pattern in a sense of an incomplete right bundle branch block with slightly elevated ST-segments
+T34	Disease_disorder 627 674	T-wave inversions in the right precordial leads
+T35	Disease_disorder 858 926	a sustained and hemodynamically nontolerated ventricular tachycardia
+T36	Disease_disorder 1448 1483	late potentials during sinus rhythm
+T37	Disease_disorder 1637 1641	2 ms
+T38	Sign_symptom 14 18	male
+T39	Sign_symptom 161 172	tachycardia
+T40	Sign_symptom 192 202	history of
+T41	Sign_symptom 192 199	history
+T42	Sign_symptom 227 232	death
+T43	Sign_symptom 324 328	work
+T44	Sign_symptom 437 443	normal
+T45	Sign_symptom 444 452	ejection
+T46	Sign_symptom 513 525	abnormal ECG
+T47	Sign_symptom 627 633	T-wave
+T48	Sign_symptom 915 926	tachycardia
+T49	Sign_symptom 937 950	superior axis
+T50	Sign_symptom 1098 1141	right ventricular/right ventricular outflow
+T51	Sign_symptom 1116 1141	right ventricular outflow
+T52	Sign_symptom 1184 1209	right ventricular outflow
+T53	Sign_symptom 1387 1412	right ventricular outflow
+T54	Sign_symptom 1471 1483	sinus rhythm
+T55	Sign_symptom 1840 1849	mutations
+T56	Sign_symptom 0 26	A 22-year-old male patient
+T57	Sign_symptom 137 172	pleomorphic ventricular tachycardia
+T58	Sign_symptom 181 232	a previous history of survived sudden cardiac death
+T59	Sign_symptom 313 354	No data on work-up of genetic arrhythmias
+T60	Sign_symptom 437 461	normal ejection fraction
+T61	Sign_symptom 513 622	abnormal ECG pattern in a sense of an incomplete right bundle branch block with slightly elevated ST-segments
+T62	Sign_symptom 627 674	T-wave inversions in the right precordial leads
+T63	Sign_symptom 858 926	a sustained and hemodynamically nontolerated ventricular tachycardia
+T64	Sign_symptom 1082 1147	the endocardial right ventricular/right ventricular outflow tract
+T65	Sign_symptom 1161 1220	a suspected epicardial right ventricular outflow tract exit
+T66	Sign_symptom 1374 1418	the anterior right ventricular outflow tract
+T67	Sign_symptom 1448 1483	late potentials during sinus rhythm
+T68	Sign_symptom 1840 1857	mutations of PKP2
+T69	Anatomical_structure 219 226	cardiac
+T70	Anatomical_structure 466 471	heart
+T71	Anatomical_structure 562 581	right bundle branch
+T72	Anatomical_structure 575 581	branch
+T73	Anatomical_structure 946 950	axis
+T74	Anatomical_structure 955 956	R
+T75	Anatomical_structure 1010 1021	endocardial
+T76	Anatomical_structure 1086 1097	endocardial
+T77	Anatomical_structure 1098 1147	right ventricular/right ventricular outflow tract
+T78	Anatomical_structure 1116 1147	right ventricular outflow tract
+T79	Anatomical_structure 1184 1215	right ventricular outflow tract
+T80	Anatomical_structure 1237 1248	endocardial
+T81	Anatomical_structure 1351 1368	tricuspid annulus
+T82	Anatomical_structure 1387 1418	right ventricular outflow tract

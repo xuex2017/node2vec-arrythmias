@@ -1,0 +1,89 @@
+T1	Procedure 426 429	EPS
+T2	Procedure 444 452	ablation
+T3	Procedure 609 612	EPS
+T4	Procedure 686 697	stimulation
+T5	Procedure 881 883	ms
+T6	Procedure 1285 1293	ablation
+T7	Procedure 1392 1394	RF
+T8	Procedure 1526 1534	ablation
+T9	Procedure 1539 1547	ablation
+T10	Procedure 1615 1623	delivery
+T11	Procedure 1716 1724	ablation
+T12	Procedure 435 452	catheter ablation
+T13	Procedure 668 697	Programmed atrial stimulation
+T14	Procedure 861 905	cycle length of 400 ms of ventricular pacing
+T15	Procedure 1285 1320	ablation via a transaortic approach
+T16	Procedure 1392 1401	RF energy
+T17	Procedure 1518 1534	a 2-sec ablation
+T18	Procedure 1582 1623	22 sec after the onset of energy delivery
+T19	Disease_disorder 108 147	Paroxysmal supraventricular tachycardia
+T20	Disease_disorder 119 147	supraventricular tachycardia
+T21	Disease_disorder 588 593	sinus
+T22	Disease_disorder 713 718	sinus
+T23	Disease_disorder 881 883	ms
+T24	Disease_disorder 914 939	AV re-entrant tachycardia
+T25	Disease_disorder 1199 1241	concealed left free wall accessory pathway
+T26	Disease_disorder 1209 1241	left free wall accessory pathway
+T27	Disease_disorder 1224 1241	accessory pathway
+T28	Disease_disorder 1640 1648	asystole
+T29	Disease_disorder 1690 1695	sinus
+T30	Disease_disorder 1749 1757	asystole
+T31	Disease_disorder 1849 1857	asystole
+T32	Disease_disorder 1865 1870	sinus
+T33	Disease_disorder 2121 2126	Sinus
+T34	Disease_disorder 108 147	Paroxysmal supraventricular tachycardia
+T35	Disease_disorder 579 593	coronary sinus
+T36	Disease_disorder 861 905	cycle length of 400 ms of ventricular pacing
+T37	Disease_disorder 1197 1241	A concealed left free wall accessory pathway
+T38	Disease_disorder 1625 1648	sudden cardiac asystole
+T39	Disease_disorder 1681 1700	profound sinus rate
+T40	Disease_disorder 1737 1765	2 sec after asystole emerged
+T41	Disease_disorder 1865 1877	sinus rhythm
+T42	Disease_disorder 2121 2154	Sinus node function AV conduction
+T43	Sign_symptom 14 20	female
+T44	Sign_symptom 68 80	palpitations
+T45	Sign_symptom 136 147	tachycardia
+T46	Sign_symptom 290 308	narrow QRS-complex
+T47	Sign_symptom 297 308	QRS-complex
+T48	Sign_symptom 614 628	blood pressure
+T49	Sign_symptom 620 628	pressure
+T50	Sign_symptom 844 849	drive
+T51	Sign_symptom 928 939	tachycardia
+T52	Sign_symptom 1145 1147	PR
+T53	Sign_symptom 1395 1401	energy
+T54	Sign_symptom 1489 1500	Tachycardia
+T55	Sign_symptom 1608 1614	energy
+T56	Sign_symptom 1865 1877	sinus rhythm
+T57	Sign_symptom 1891 1905	blood pressure
+T58	Sign_symptom 1897 1905	pressure
+T59	Sign_symptom 2108 2119	tachycardia
+T60	Sign_symptom 2121 2140	Sinus node function
+T61	Sign_symptom 2201 2212	tachycardia
+T62	Sign_symptom 2217 2224	syncope
+T63	Sign_symptom 0 28	A 59-year-old female patient
+T64	Sign_symptom 44 106	complaints of recurrent palpitations over the past three years
+T65	Sign_symptom 108 147	Paroxysmal supraventricular tachycardia
+T66	Sign_symptom 288 327	a narrow QRS-complex during the attacks
+T67	Sign_symptom 614 628	blood pressure
+T68	Sign_symptom 836 858	a basic drive (S 1 S 1
+T69	Sign_symptom 914 939	AV re-entrant tachycardia
+T70	Sign_symptom 1145 1160	PR China pacing
+T71	Sign_symptom 1392 1401	RF energy
+T72	Sign_symptom 1582 1623	22 sec after the onset of energy delivery
+T73	Sign_symptom 1891 1905	blood pressure
+T74	Sign_symptom 2092 2119	no induction of tachycardia
+T75	Sign_symptom 2121 2154	Sinus node function AV conduction
+T76	Sign_symptom 2189 2212	experienced tachycardia
+T77	Sign_symptom 2217 2247	syncope 9 months post-ablation
+T78	Anatomical_structure 532 542	His-bundle
+T79	Anatomical_structure 579 593	coronary sinus
+T80	Anatomical_structure 614 619	blood
+T81	Anatomical_structure 679 685	atrial
+T82	Anatomical_structure 970 972	VA
+T83	Anatomical_structure 1224 1241	accessory pathway
+T84	Anatomical_structure 1361 1375	mitral annulus
+T85	Anatomical_structure 1632 1639	cardiac
+T86	Anatomical_structure 1891 1896	blood
+T87	Anatomical_structure 1956 1958	VA
+T88	Anatomical_structure 2070 2072	VA
+T89	Anatomical_structure 2121 2131	Sinus node

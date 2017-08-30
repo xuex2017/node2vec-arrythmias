@@ -1,0 +1,42 @@
+T1	Procedure 474 481	alcohol
+T2	Procedure 920 924	test
+T3	Procedure 948 965	electrocardiogram
+T4	Procedure 967 970	ECG
+T5	Procedure 1007 1010	ECG
+T6	Procedure 464 501	excessive alcohol or illicit drug use
+T7	Procedure 900 924	a negative troponin test
+T8	Procedure 926 965	The patient's initial electrocardiogram
+T9	Procedure 986 1010	What findings on the ECG
+T10	Disease_disorder 679 683	arms
+T11	Disease_disorder 674 683	both arms
+T12	Sign_symptom 89 108	shortness of breath
+T13	Sign_symptom 239 251	near syncope
+T14	Sign_symptom 239 243	near
+T15	Sign_symptom 244 251	syncope
+T16	Sign_symptom 314 329	medical history
+T17	Sign_symptom 322 329	history
+T18	Sign_symptom 550 558	distress
+T19	Sign_symptom 562 566	rest
+T20	Sign_symptom 568 579	Vital signs
+T21	Sign_symptom 625 639	blood pressure
+T22	Sign_symptom 631 639	pressure
+T23	Sign_symptom 640 647	reading
+T24	Sign_symptom 694 712	large-volume pulse
+T25	Sign_symptom 753 776	jugular venous pressure
+T26	Sign_symptom 761 776	venous pressure
+T27	Sign_symptom 768 776	pressure
+T28	Sign_symptom 948 965	electrocardiogram
+T29	Sign_symptom 1033 1041	symptoms
+T30	Sign_symptom 31 108	his local emergency department with 3 days of progressive shortness of breath
+T31	Sign_symptom 228 251	concurrent near syncope
+T32	Sign_symptom 310 329	His medical history
+T33	Sign_symptom 547 566	no distress at rest
+T34	Sign_symptom 623 654	a blood pressure reading of 129
+T35	Sign_symptom 692 712	a large-volume pulse
+T36	Sign_symptom 735 776	assessment of his jugular venous pressure
+T37	Sign_symptom 926 965	The patient's initial electrocardiogram
+T38	Sign_symptom 1019 1041	the patient's symptoms
+T39	Anatomical_structure 591 596	heart
+T40	Anatomical_structure 625 630	blood
+T41	Anatomical_structure 679 683	arms
+T42	Anatomical_structure 761 767	venous

@@ -1,0 +1,84 @@
+T1	Procedure 39 60	heart transplantation
+T2	Procedure 45 60	transplantation
+T3	Procedure 76 87	anastomosis
+T4	Procedure 244 253	procedure
+T5	Procedure 267 270	ECG
+T6	Procedure 332 334	ms
+T7	Procedure 557 559	CA
+T8	Procedure 903 911	ablation
+T9	Procedure 983 985	CA
+T10	Procedure 1046 1054	ablation
+T11	Procedure 1318 1320	ms
+T12	Procedure 1912 1920	ablation
+T13	Procedure 2089 2091	ms
+T14	Procedure 2133 2144	stimulation
+T15	Procedure 2213 2221	ablation
+T16	Procedure 2409 2420	fluoroscopy
+T17	Procedure 2474 2483	procedure
+T18	Procedure 28 125	orthotopic heart transplantation with bi-atrial anastomosis due to dilated cardiomyopathy in 1995
+T19	Procedure 240 253	the procedure
+T20	Procedure 255 270	The surface ECG
+T21	Procedure 278 334	a positive P wave in lead V1 with P-P interval of 230 ms
+T22	Procedure 876 920	An open irrigated magnetic ablation catheter
+T23	Procedure 1046 1078	ablation by the CARTO RMT system
+T24	Procedure 1287 1371	AFL with a cycle length of 230 ms at the anterior and septal wall of the donor atria
+T25	Procedure 1905 1920	Linear ablation
+T26	Procedure 2054 2091	an AT with the cycle length of 310 ms
+T27	Procedure 2107 2144	the donor atria by atrial stimulation
+T28	Procedure 2197 2281	sinus rhythm by ablation at the focal existence at the border zone between recipient
+T29	Procedure 2405 2425	The fluoroscopy time
+T30	Procedure 2470 2483	the procedure
+T31	Disease_disorder 76 87	anastomosis
+T32	Disease_disorder 103 117	cardiomyopathy
+T33	Disease_disorder 332 334	ms
+T34	Disease_disorder 557 559	CA
+T35	Disease_disorder 672 677	sinus
+T36	Disease_disorder 870 872	RA
+T37	Disease_disorder 983 985	CA
+T38	Disease_disorder 1015 1017	RA
+T39	Disease_disorder 1318 1320	ms
+T40	Disease_disorder 1406 1417	scar tissue
+T41	Disease_disorder 1406 1410	scar
+T42	Disease_disorder 1517 1521	scar
+T43	Disease_disorder 1750 1752	RA
+T44	Disease_disorder 1784 1788	scar
+T45	Disease_disorder 2089 2091	ms
+T46	Disease_disorder 2197 2202	sinus
+T47	Disease_disorder 2300 2302	Af
+T48	Disease_disorder 28 125	orthotopic heart transplantation with bi-atrial anastomosis due to dilated cardiomyopathy in 1995
+T49	Disease_disorder 278 334	a positive P wave in lead V1 with P-P interval of 230 ms
+T50	Disease_disorder 659 677	the coronary sinus
+T51	Disease_disorder 1012 1041	3D RA electroanatomic mapping
+T52	Disease_disorder 1287 1371	AFL with a cycle length of 230 ms at the anterior and septal wall of the donor atria
+T53	Disease_disorder 1406 1455	scar tissue between the donor and recipient atria
+T54	Disease_disorder 1517 1526	scar area
+T55	Disease_disorder 1725 1752	the AFL in the recipient RA
+T56	Disease_disorder 1765 1788	all other areas as scar
+T57	Disease_disorder 2054 2091	an AT with the cycle length of 310 ms
+T58	Disease_disorder 2197 2281	sinus rhythm by ablation at the focal existence at the border zone between recipient
+T59	Disease_disorder 2300 2325	Af in the recipient atria
+T60	Sign_symptom 304 306	V1
+T61	Sign_symptom 1406 1417	scar tissue
+T62	Sign_symptom 1543 1546	map
+T63	Sign_symptom 1899 1902	map
+T64	Sign_symptom 2197 2209	sinus rhythm
+T65	Sign_symptom 278 334	a positive P wave in lead V1 with P-P interval of 230 ms
+T66	Sign_symptom 1406 1455	scar tissue between the donor and recipient atria
+T67	Sign_symptom 1529 1590	An activation map containing of the donor and recipient atria
+T68	Sign_symptom 1875 1902	the modified activation map
+T69	Sign_symptom 2197 2281	sinus rhythm by ablation at the focal existence at the border zone between recipient
+T70	Anatomical_structure 39 44	heart
+T71	Anatomical_structure 557 559	CA
+T72	Anatomical_structure 663 677	coronary sinus
+T73	Anatomical_structure 694 730	apex of right ventricle via the left
+T74	Anatomical_structure 694 717	apex of right ventricle
+T75	Anatomical_structure 702 717	right ventricle
+T76	Anatomical_structure 708 717	ventricle
+T77	Anatomical_structure 731 743	femoral vein
+T78	Anatomical_structure 731 738	femoral
+T79	Anatomical_structure 739 743	vein
+T80	Anatomical_structure 983 985	CA
+T81	Anatomical_structure 1411 1417	tissue
+T82	Anatomical_structure 1982 1988	atrial
+T83	Anatomical_structure 2004 2021	tricuspid annulus
+T84	Anatomical_structure 2126 2132	atrial

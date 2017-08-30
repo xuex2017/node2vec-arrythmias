@@ -1,0 +1,200 @@
+T1	Procedure 67 79	Cardiac Care
+T2	Procedure 494 502	infusion
+T3	Procedure 618 635	electrocardiogram
+T4	Procedure 1097 1105	sedation
+T5	Procedure 1138 1149	replacement
+T6	Procedure 1161 1178	revascularization
+T7	Procedure 1183 1202	electrical ablation
+T8	Procedure 1194 1202	ablation
+T9	Procedure 1399 1422	conservative management
+T10	Procedure 1633 1644	chest x-ray
+T11	Procedure 1639 1644	x-ray
+T12	Procedure 1725 1735	troponin I
+T13	Procedure 1758 1760	CK
+T14	Procedure 1772 1797	serum levels of potassium
+T15	Procedure 1788 1797	potassium
+T16	Procedure 1815 1824	magnesium
+T17	Procedure 1849 1863	echocardiogram
+T18	Procedure 1905 1913	dilation
+T19	Procedure 1928 1937	reduction
+T20	Procedure 2248 2255	therapy
+T21	Procedure 2267 2276	elevation
+T22	Procedure 2317 2325	infusion
+T23	Procedure 2718 2727	angiogram
+T24	Procedure 3012 3014	mg
+T25	Procedure 3028 3036	infusion
+T26	Procedure 3042 3044	mg
+T27	Procedure 3074 3076	mg
+T28	Procedure 3271 3281	intubation
+T29	Procedure 3282 3290	sedation
+T30	Procedure 3531 3545	defibrillation
+T31	Procedure 3611 3624	resuscitation
+T32	Procedure 3630 3641	epinephrine
+T33	Procedure 3645 3647	mg
+T34	Procedure 3684 3686	mg
+T35	Procedure 3727 3729	mg
+T36	Procedure 3792 3794	mg
+T37	Procedure 3817 3819	mg
+T38	Procedure 63 84	the Cardiac Care Unit
+T39	Procedure 491 515	an infusion of lidocaine
+T40	Procedure 604 635	His admission electrocardiogram
+T41	Procedure 1107 1149	antiarrhythmic and electrolyte replacement
+T42	Procedure 1183 1202	electrical ablation
+T43	Procedure 1399 1427	conservative management that
+T44	Procedure 1629 1644	His chest x-ray
+T45	Procedure 1742 1760	, with a normal CK
+T46	Procedure 1765 1797	normal serum levels of potassium
+T47	Procedure 1840 1863	A formal echocardiogram
+T48	Procedure 1893 1975	moderate LV dilation with moderate reduction LVSD with an ejection fraction of 35%
+T49	Procedure 2248 2298	therapy for non-ST elevation myocardial infarction
+T50	Procedure 2303 2325	the lidocaine infusion
+T51	Procedure 2708 2733	an urgent angiogram which
+T52	Procedure 3008 3020	150 mg bolus
+T53	Procedure 3025 3048	an infusion of 1 mg/min
+T54	Procedure 3071 3083	25 mg PO BID
+T55	Procedure 3271 3290	intubation/sedation
+T56	Procedure 3604 3641	active resuscitation with epinephrine
+T57	Procedure 3643 3655	1 mg IV push
+T58	Procedure 3681 3697	50 mg IV push X4
+T59	Procedure 3723 3737	150 mg boluses
+T60	Procedure 3790 3798	1 mg/min
+T61	Procedure 3815 3823	3 mg/min
+T62	Disease_disorder 649 654	sinus
+T63	Disease_disorder 677 704	premature ventricular beats
+T64	Disease_disorder 857 880	ventricular tachycardia
+T65	Disease_disorder 889 913	ventricular fibrillation
+T66	Disease_disorder 901 913	fibrillation
+T67	Disease_disorder 915 917	VF
+T68	Disease_disorder 1355 1378	ventricular tachycardia
+T69	Disease_disorder 1557 1559	cm
+T70	Disease_disorder 1668 1683	pulmonary edema
+T71	Disease_disorder 1678 1683	edema
+T72	Disease_disorder 1905 1913	dilation
+T73	Disease_disorder 1996 2016	mitral regurgitation
+T74	Disease_disorder 2107 2127	systolic dysfunction
+T75	Disease_disorder 2116 2127	dysfunction
+T76	Disease_disorder 2198 2221	ventricular tachycardia
+T77	Disease_disorder 2260 2298	non-ST elevation myocardial infarction
+T78	Disease_disorder 2277 2298	myocardial infarction
+T79	Disease_disorder 2288 2298	infarction
+T80	Disease_disorder 2390 2402	sustained VT
+T81	Disease_disorder 2635 2640	sinus
+T82	Disease_disorder 2783 2826	occlusion of the proximal circumflex artery
+T83	Disease_disorder 2783 2792	occlusion
+T84	Disease_disorder 3201 3213	sustained VT
+T85	Disease_disorder 3219 3242	hemodynamic instability
+T86	Disease_disorder 3396 3407	progression
+T87	Disease_disorder 3411 3435	ventricular fibrillation
+T88	Disease_disorder 3423 3435	fibrillation
+T89	Disease_disorder 3437 3439	VF
+T90	Disease_disorder 3863 3868	sinus
+T91	Disease_disorder 3910 3912	VF
+T92	Disease_disorder 649 704	sinus rhythms with frequent premature ventricular beats
+T93	Disease_disorder 836 880	multiple episodes of ventricular tachycardia
+T94	Disease_disorder 889 913	ventricular fibrillation
+T95	Disease_disorder 1338 1384	a case of severe ventricular tachycardia storm
+T96	Disease_disorder 1555 1584	6 cm above the sternal angle)
+T97	Disease_disorder 1663 1683	mild pulmonary edema
+T98	Disease_disorder 1893 1975	moderate LV dilation with moderate reduction LVSD with an ejection fraction of 35%
+T99	Disease_disorder 1987 2016	moderate mitral regurgitation
+T100	Disease_disorder 2107 2127	systolic dysfunction
+T101	Disease_disorder 2170 2221	episodes of new nosustained ventricular tachycardia
+T102	Disease_disorder 2248 2298	therapy for non-ST elevation myocardial infarction
+T103	Disease_disorder 2374 2402	two episodes of sustained VT
+T104	Disease_disorder 2616 2647	the restoration of sinus rhythm
+T105	Disease_disorder 2747 2826	a heavily calcified, chronic, total occlusion of the proximal circumflex artery
+T106	Disease_disorder 3177 3242	two further episodes of sustained VT with hemodynamic instability
+T107	Disease_disorder 3367 3435	prolonged refractory VT with progression to ventricular fibrillation
+T108	Disease_disorder 3841 3875	only brief periods of sinus rhythm
+T109	Sign_symptom 26 46	past medical history
+T110	Sign_symptom 31 46	medical history
+T111	Sign_symptom 39 46	history
+T112	Sign_symptom 96 118	hemodynamically stable
+T113	Sign_symptom 196 206	history of
+T114	Sign_symptom 196 203	history
+T115	Sign_symptom 207 217	chest pain
+T116	Sign_symptom 213 217	pain
+T117	Sign_symptom 219 226	dyspnea
+T118	Sign_symptom 231 256	intermittent palpitations
+T119	Sign_symptom 244 256	palpitations
+T120	Sign_symptom 303 307	runs
+T121	Sign_symptom 311 333	hemodynamically stable
+T122	Sign_symptom 618 635	electrocardiogram
+T123	Sign_symptom 720 724	runs
+T124	Sign_symptom 807 818	instability
+T125	Sign_symptom 869 880	tachycardia
+T126	Sign_symptom 1022 1032	management
+T127	Sign_symptom 1217 1227	management
+T128	Sign_symptom 1367 1378	tachycardia
+T129	Sign_symptom 1412 1422	management
+T130	Sign_symptom 1593 1604	heart sound
+T131	Sign_symptom 1619 1627	crackles
+T132	Sign_symptom 1689 1693	labs
+T133	Sign_symptom 1751 1757	normal
+T134	Sign_symptom 1765 1771	normal
+T135	Sign_symptom 1951 1959	ejection
+T136	Sign_symptom 2003 2016	regurgitation
+T137	Sign_symptom 2064 2074	history of
+T138	Sign_symptom 2064 2071	history
+T139	Sign_symptom 2075 2085	chest pain
+T140	Sign_symptom 2081 2085	pain
+T141	Sign_symptom 2210 2221	tachycardia
+T142	Sign_symptom 2525 2538	consciousness
+T143	Sign_symptom 2635 2647	sinus rhythm
+T144	Sign_symptom 2783 2792	occlusion
+T145	Sign_symptom 2869 2875	lesion
+T146	Sign_symptom 3077 3079	PO
+T147	Sign_symptom 3231 3242	instability
+T148	Sign_symptom 3353 3357	runs
+T149	Sign_symptom 3527 3529	DC
+T150	Sign_symptom 3846 3859	brief periods
+T151	Sign_symptom 3852 3859	periods
+T152	Sign_symptom 3863 3875	sinus rhythm
+T153	Sign_symptom 0 46	A 59-year-old man with no past medical history
+T154	Sign_symptom 96 127	hemodynamically stable VT storm
+T155	Sign_symptom 159 217	a peripheral hospital with a two-day history of chest pain
+T156	Sign_symptom 231 256	intermittent palpitations
+T157	Sign_symptom 294 336	multiple runs of hemodynamically stable VT
+T158	Sign_symptom 604 635	His admission electrocardiogram
+T159	Sign_symptom 709 766	occasional runs of non-sustainedAbstract Electrical storm
+T160	Sign_symptom 777 818	a state of cardiac electrical instability
+T161	Sign_symptom 836 880	multiple episodes of ventricular tachycardia
+T162	Sign_symptom 1018 1052	The management of electrical storm
+T163	Sign_symptom 1213 1270	the management strategy in patients with refractory storm
+T164	Sign_symptom 1338 1384	a case of severe ventricular tachycardia storm
+T165	Sign_symptom 1399 1427	conservative management that
+T166	Sign_symptom 1586 1604	a 3 rd heart sound
+T167	Sign_symptom 1609 1627	bibasilar crackles
+T168	Sign_symptom 1685 1693	His labs
+T169	Sign_symptom 1742 1760	, with a normal CK
+T170	Sign_symptom 1765 1797	normal serum levels of potassium
+T171	Sign_symptom 1893 1975	moderate LV dilation with moderate reduction LVSD with an ejection fraction of 35%
+T172	Sign_symptom 1987 2016	moderate mitral regurgitation
+T173	Sign_symptom 2060 2085	the history of chest pain
+T174	Sign_symptom 2170 2221	episodes of new nosustained ventricular tachycardia
+T175	Sign_symptom 2509 2538	decreased level consciousness
+T176	Sign_symptom 2616 2647	the restoration of sinus rhythm
+T177	Sign_symptom 2747 2826	a heavily calcified, chronic, total occlusion of the proximal circumflex artery
+T178	Sign_symptom 2864 2916	this lesion with various guide-wires without success
+T179	Sign_symptom 3071 3083	25 mg PO BID
+T180	Sign_symptom 3177 3242	two further episodes of sustained VT with hemodynamic instability
+T181	Sign_symptom 3344 3357	multiple runs
+T182	Sign_symptom 3490 3529	continuous attempted direct current (DC
+T183	Sign_symptom 3841 3875	only brief periods of sinus rhythm
+T184	Anatomical_structure 67 74	Cardiac
+T185	Anatomical_structure 207 212	chest
+T186	Anatomical_structure 788 795	cardiac
+T187	Anatomical_structure 1570 1583	sternal angle
+T188	Anatomical_structure 1593 1598	heart
+T189	Anatomical_structure 1633 1638	chest
+T190	Anatomical_structure 2075 2080	chest
+T191	Anatomical_structure 2809 2826	circumflex artery
+T192	Anatomical_structure 2820 2826	artery
+T193	Anatomical_structure 2932 2936	back
+T194	Anatomical_structure 3054 3058	oral
+T195	Anatomical_structure 3581 3586	chest
+T196	Anatomical_structure 3967 3973	venous
+T197	Medication 2519 2524	level
+T198	Medication 3630 3641	epinephrine
+T199	Medication 2509 2538	decreased level consciousness
+T200	Medication 3604 3641	active resuscitation with epinephrine

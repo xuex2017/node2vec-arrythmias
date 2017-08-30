@@ -1,0 +1,103 @@
+T1	Procedure 54 63	treatment
+T2	Procedure 291 321	Transthoracic echocardiography
+T3	Procedure 305 321	echocardiography
+T4	Procedure 481 489	enlarged
+T5	Procedure 537 547	tomography
+T6	Procedure 690 707	median sternotomy
+T7	Procedure 697 707	sternotomy
+T8	Procedure 1020 1037	maze IV procedure
+T9	Procedure 1028 1037	procedure
+T10	Procedure 1072 1084	cryoablation
+T11	Procedure 1090 1109	mitral annuloplasty
+T12	Procedure 1097 1109	annuloplasty
+T13	Procedure 1143 1155	annuloplasty
+T14	Procedure 1226 1240	maze procedure
+T15	Procedure 1231 1240	procedure
+T16	Procedure 1316 1326	tomography
+T17	Procedure 1343 1352	resection
+T18	Procedure 1480 1503	Microscopic examination
+T19	Procedure 34 85	our institution for treatment of atrial arrhythmias
+T20	Procedure 291 321	Transthoracic echocardiography
+T21	Procedure 472 501	a mildly enlarged left atrium
+T22	Procedure 503 547	Multislice 3-dimensional computed tomography
+T23	Procedure 688 707	a median sternotomy
+T24	Procedure 1014 1037	a Cox-maze IV procedure
+T25	Procedure 1090 1109	mitral annuloplasty
+T26	Procedure 1131 1160	a posterior annuloplasty band
+T27	Procedure 1222 1240	the maze procedure
+T28	Procedure 1293 1326	Postoperative computed tomography
+T29	Procedure 1334 1372	complete resection of the LAA aneurysm
+T30	Disease_disorder 114 153	paroxysmal supraventricular tachycardia
+T31	Disease_disorder 125 153	supraventricular tachycardia
+T32	Disease_disorder 339 345	cystic
+T33	Disease_disorder 447 467	mitral regurgitation
+T34	Disease_disorder 568 576	aneurysm
+T35	Disease_disorder 631 639	aneurysm
+T36	Disease_disorder 723 731	aneurysm
+T37	Disease_disorder 781 789	aneurysm
+T38	Disease_disorder 840 848	aneurysm
+T39	Disease_disorder 947 955	thrombus
+T40	Disease_disorder 977 985	aneurysm
+T41	Disease_disorder 1166 1197	right atrial appendage aneurysm
+T42	Disease_disorder 1172 1197	atrial appendage aneurysm
+T43	Disease_disorder 1189 1197	aneurysm
+T44	Disease_disorder 1364 1372	aneurysm
+T45	Disease_disorder 1401 1409	aneurysm
+T46	Disease_disorder 1517 1523	cystic
+T47	Disease_disorder 1537 1549	hypertrophic
+T48	Disease_disorder 1565 1573	fibrosis
+T49	Disease_disorder 1586 1595	aneurysms
+T50	Disease_disorder 1686 1691	sinus
+T51	Disease_disorder 94 153	a 4-year history of paroxysmal supraventricular tachycardia
+T52	Disease_disorder 331 350	a large cystic mass
+T53	Disease_disorder 438 467	moderate mitral regurgitation
+T54	Disease_disorder 555 576	a very large aneurysm
+T55	Disease_disorder 615 639	The size of the aneurysm
+T56	Disease_disorder 709 731	the large LAA aneurysm
+T57	Disease_disorder 759 789	a similar but smaller aneurysm
+T58	Disease_disorder 832 848	The LAA aneurysm
+T59	Disease_disorder 944 985	no thrombus formation inside the aneurysm
+T60	Disease_disorder 1162 1197	The right atrial appendage aneurysm
+T61	Disease_disorder 1334 1372	complete resection of the LAA aneurysm
+T62	Disease_disorder 1374 1419	Pathological study of both aneurysm specimens
+T63	Disease_disorder 1517 1560	cystic lesions with hypertrophic myocardium
+T64	Disease_disorder 1565 1595	fibrosis on the both aneurysms
+T65	Disease_disorder 1679 1698	normal sinus rhythm
+T66	Sign_symptom 103 113	history of
+T67	Sign_symptom 103 110	history
+T68	Sign_symptom 142 153	tachycardia
+T69	Sign_symptom 278 289	palpitation
+T70	Sign_symptom 346 350	mass
+T71	Sign_symptom 454 467	regurgitation
+T72	Sign_symptom 557 567	very large
+T73	Sign_symptom 1666 1674	symptoms
+T74	Sign_symptom 1679 1698	normal sinus rhythm
+T75	Sign_symptom 1679 1685	normal
+T76	Sign_symptom 1686 1698	sinus rhythm
+T77	Sign_symptom 94 153	a 4-year history of paroxysmal supraventricular tachycardia
+T78	Sign_symptom 257 289	frequent episodes of palpitation
+T79	Sign_symptom 331 350	a large cystic mass
+T80	Sign_symptom 438 467	moderate mitral regurgitation
+T81	Sign_symptom 555 576	a very large aneurysm
+T82	Sign_symptom 1655 1674	no cardiac symptoms
+T83	Sign_symptom 1679 1698	normal sinus rhythm
+T84	Anatomical_structure 67 73	atrial
+T85	Anatomical_structure 368 379	left atrium
+T86	Anatomical_structure 373 379	atrium
+T87	Anatomical_structure 392 413	left atrial appendage
+T88	Anatomical_structure 397 413	atrial appendage
+T89	Anatomical_structure 397 403	atrial
+T90	Anatomical_structure 490 501	left atrium
+T91	Anatomical_structure 495 501	atrium
+T92	Anatomical_structure 595 601	caudal
+T93	Anatomical_structure 807 829	right atrial appendage
+T94	Anatomical_structure 813 829	atrial appendage
+T95	Anatomical_structure 813 819	atrial
+T96	Anatomical_structure 895 906	left atrium
+T97	Anatomical_structure 900 906	atrium
+T98	Anatomical_structure 1166 1188	right atrial appendage
+T99	Anatomical_structure 1172 1188	atrial appendage
+T100	Anatomical_structure 1172 1178	atrial
+T101	Anatomical_structure 1458 1466	muscular
+T102	Anatomical_structure 1550 1560	myocardium
+T103	Anatomical_structure 1658 1665	cardiac

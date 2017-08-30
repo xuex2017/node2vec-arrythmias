@@ -1,0 +1,157 @@
+T1	Procedure 247 261	defibrillation
+T2	Procedure 388 395	therapy
+T3	Procedure 686 699	exercise test
+T4	Procedure 695 699	test
+T5	Procedure 813 832	electrocardiography
+T6	Procedure 866 882	echocardiography
+T7	Procedure 895 921	magnetic resonance imaging
+T8	Procedure 914 921	imaging
+T9	Procedure 923 926	MRI
+T10	Procedure 1003 1014	enhancement
+T11	Procedure 1062 1073	cardiac MRI
+T12	Procedure 1070 1073	MRI
+T13	Procedure 1125 1135	tomography
+T14	Procedure 1137 1142	SPECT
+T15	Procedure 1154 1163	perfusion
+T16	Procedure 1200 1205	SPECT
+T17	Procedure 1298 1329	electrocardiographic monitoring
+T18	Procedure 1396 1414	Myocardial imaging
+T19	Procedure 1407 1414	imaging
+T20	Procedure 1636 1645	injection
+T21	Procedure 1661 1665	scan
+T22	Procedure 1817 1840	cardiac catheterization
+T23	Procedure 1825 1840	catheterization
+T24	Procedure 1854 1874	Coronary angiography
+T25	Procedure 1863 1874	angiography
+T26	Procedure 1984 1988	test
+T27	Procedure 2114 2123	injection
+T28	Procedure 2174 2183	elevation
+T29	Procedure 2223 2232	elevation
+T30	Procedure 2388 2415	ergonovine provocation test
+T31	Procedure 2411 2415	test
+T32	Procedure 2434 2443	injection
+T33	Procedure 2557 2566	elevation
+T34	Procedure 2626 2640	Administration
+T35	Procedure 2646 2653	calcium
+T36	Procedure 2654 2668	defibrillation
+T37	Procedure 2669 2686	Electrocardiogram
+T38	Procedure 2794 2808	defibrillation
+T39	Procedure 2809 2816	therapy
+T40	Procedure 2975 2995	secondary prevention
+T41	Procedure 2985 2995	prevention
+T42	Procedure 247 271	defibrillation after a )
+T43	Procedure 376 395	hypothermal therapy
+T44	Procedure 674 699	a treadmill exercise test
+T45	Procedure 887 921	cardiac magnetic resonance imaging
+T46	Procedure 995 1032	Delayed enhancement in the myocardium
+T47	Procedure 1058 1073	the cardiac MRI
+T48	Procedure 1151 1175	no perfusion abnormality
+T49	Procedure 1181 1205	quantitative gated SPECT
+T50	Procedure 1287 1329	continuous electrocardiographic monitoring
+T51	Procedure 1396 1414	Myocardial imaging
+T52	Procedure 1603 1645	20 minutes after the intravenous injection
+T53	Procedure 1651 1665	a delayed scan
+T54	Procedure 1817 1840	cardiac catheterization
+T55	Procedure 1854 1874	Coronary angiography
+T56	Procedure 1964 1988	A spasm provocation test
+T57	Procedure 2110 2123	the injection
+T58	Procedure 2171 2205	ST elevation in the inferior leads
+T59	Procedure 2216 2232	the ST elevation
+T60	Procedure 2314 2415	secondary brain damage due to malignant ventricular arrhythmia during the ergonovine provocation test
+T61	Procedure 2417 2454	an intracoronary injection of nitrate
+T62	Procedure 2509 2566	the provoked coronary artery spasm after the ST elevation
+T63	Procedure 2626 2686	Administration of a calcium defibrillation Electrocardiogram
+T64	Procedure 2794 2816	defibrillation therapy
+T65	Procedure 2975 2995	secondary prevention
+T66	Disease_disorder 81 105	ventricular fibrillation
+T67	Disease_disorder 93 105	fibrillation
+T68	Disease_disorder 303 307	coma
+T69	Disease_disorder 450 462	hypertension
+T70	Disease_disorder 980 993	heart disease
+T71	Disease_disorder 986 993	disease
+T72	Disease_disorder 1372 1394	ventricular arrhythmia
+T73	Disease_disorder 1384 1394	arrhythmia
+T74	Disease_disorder 1909 1917	stenosis
+T75	Disease_disorder 2132 2153	coronary artery spasm
+T76	Disease_disorder 2324 2336	brain damage
+T77	Disease_disorder 2330 2336	damage
+T78	Disease_disorder 2354 2376	ventricular arrhythmia
+T79	Disease_disorder 2366 2376	arrhythmia
+T80	Disease_disorder 2522 2543	coronary artery spasm
+T81	Disease_disorder 2589 2610	coronary artery spasm
+T82	Disease_disorder 2751 2775	Ventricular fibrillation
+T83	Disease_disorder 2763 2775	fibrillation
+T84	Disease_disorder 81 105	ventricular fibrillation
+T85	Disease_disorder 301 320	a coma at admission
+T86	Disease_disorder 450 482	hypertension in another hospital
+T87	Disease_disorder 966 993	no structural heart disease
+T88	Disease_disorder 1360 1394	no apparent ventricular arrhythmia
+T89	Disease_disorder 1890 1917	any severe organic stenosis
+T90	Disease_disorder 2125 2153	severe coronary artery spasm
+T91	Disease_disorder 2314 2415	secondary brain damage due to malignant ventricular arrhythmia during the ergonovine provocation test
+T92	Disease_disorder 2509 2566	the provoked coronary artery spasm after the ST elevation
+T93	Disease_disorder 2582 2610	Silent coronary artery spasm
+T94	Disease_disorder 2751 2775	Ventricular fibrillation
+T95	Sign_symptom 163 167	walk
+T96	Sign_symptom 180 188	symptoms
+T97	Sign_symptom 326 339	consciousness
+T98	Sign_symptom 517 525	symptoms
+T99	Sign_symptom 590 597	syncope
+T100	Sign_symptom 612 620	symptoms
+T101	Sign_symptom 686 694	exercise
+T102	Sign_symptom 904 913	resonance
+T103	Sign_symptom 1217 1251	left ventricular ejection fraction
+T104	Sign_symptom 1234 1242	ejection
+T105	Sign_symptom 1480 1510	patient in the supine position
+T106	Sign_symptom 1514 1518	rest
+T107	Sign_symptom 1966 1971	spasm
+T108	Sign_symptom 2148 2153	spasm
+T109	Sign_symptom 2171 2183	ST elevation
+T110	Sign_symptom 2220 2232	ST elevation
+T111	Sign_symptom 2276 2284	symptoms
+T112	Sign_symptom 2538 2543	spasm
+T113	Sign_symptom 2554 2566	ST elevation
+T114	Sign_symptom 2605 2610	spasm
+T115	Sign_symptom 2626 2640	Administration
+T116	Sign_symptom 2669 2686	Electrocardiogram
+T117	Sign_symptom 161 209	a walk without any symptoms in the early morning
+T118	Sign_symptom 322 339	his consciousness
+T119	Sign_symptom 511 525	chest symptoms
+T120	Sign_symptom 580 620	transient syncope without chest symptoms
+T121	Sign_symptom 674 699	a treadmill exercise test
+T122	Sign_symptom 887 921	cardiac magnetic resonance imaging
+T123	Sign_symptom 1215 1264	a left ventricular ejection fraction value of 66%
+T124	Sign_symptom 1476 1518	the patient in the supine position at rest
+T125	Sign_symptom 1964 1988	A spasm provocation test
+T126	Sign_symptom 2125 2153	severe coronary artery spasm
+T127	Sign_symptom 2171 2205	ST elevation in the inferior leads
+T128	Sign_symptom 2216 2232	the ST elevation
+T129	Sign_symptom 2266 2284	any chest symptoms
+T130	Sign_symptom 2509 2566	the provoked coronary artery spasm after the ST elevation
+T131	Sign_symptom 2582 2610	Silent coronary artery spasm
+T132	Sign_symptom 2626 2686	Administration of a calcium defibrillation Electrocardiogram
+T133	Anatomical_structure 400 405	brain
+T134	Anatomical_structure 511 516	chest
+T135	Anatomical_structure 606 611	chest
+T136	Anatomical_structure 887 894	cardiac
+T137	Anatomical_structure 980 985	heart
+T138	Anatomical_structure 1022 1032	myocardium
+T139	Anatomical_structure 1062 1069	cardiac
+T140	Anatomical_structure 1789 1803	left ventricle
+T141	Anatomical_structure 1794 1803	ventricle
+T142	Anatomical_structure 1817 1824	cardiac
+T143	Anatomical_structure 1932 1961	right or left coronary artery
+T144	Anatomical_structure 1941 1961	left coronary artery
+T145	Anatomical_structure 1946 1961	coronary artery
+T146	Anatomical_structure 1955 1961	artery
+T147	Anatomical_structure 2067 2088	right coronary artery
+T148	Anatomical_structure 2073 2088	coronary artery
+T149	Anatomical_structure 2082 2088	artery
+T150	Anatomical_structure 2132 2147	coronary artery
+T151	Anatomical_structure 2141 2147	artery
+T152	Anatomical_structure 2270 2275	chest
+T153	Anatomical_structure 2324 2329	brain
+T154	Anatomical_structure 2522 2537	coronary artery
+T155	Anatomical_structure 2531 2537	artery
+T156	Anatomical_structure 2589 2604	coronary artery
+T157	Anatomical_structure 2598 2604	artery

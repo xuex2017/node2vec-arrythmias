@@ -1,0 +1,228 @@
+T1	Procedure 521 524	ECG
+T2	Procedure 675 677	ms
+T3	Procedure 801 817	Echocardiography
+T4	Procedure 837 847	dilatation
+T5	Procedure 939 962	CT coronary angiography
+T6	Procedure 939 941	CT
+T7	Procedure 942 962	coronary angiography
+T8	Procedure 951 962	angiography
+T9	Procedure 1005 1031	magnetic resonance imaging
+T10	Procedure 1024 1031	imaging
+T11	Procedure 1061 1072	enhancement
+T12	Procedure 1478 1490	infiltration
+T13	Procedure 1859 1862	ECG
+T14	Procedure 1936 1945	Treatment
+T15	Procedure 1966 1968	mg
+T16	Procedure 1988 1990	mg
+T17	Procedure 2044 2059	medical therapy
+T18	Procedure 2052 2059	therapy
+T19	Procedure 2126 2134	ablation
+T20	Procedure 2155 2164	procedure
+T21	Procedure 2185 2201	local anesthesia
+T22	Procedure 2191 2201	anesthesia
+T23	Procedure 2211 2229	conscious sedation
+T24	Procedure 2221 2229	sedation
+T25	Procedure 2284 2293	procedure
+T26	Procedure 2378 2389	stimulation
+T27	Procedure 2438 2447	procedure
+T28	Procedure 2611 2613	CA
+T29	Procedure 2625 2634	procedure
+T30	Procedure 2662 2678	echocardiography
+T31	Procedure 2687 2708	Diagnostic Ultrasound
+T32	Procedure 2698 2708	Ultrasound
+T33	Procedure 2752 2754	CA
+T34	Procedure 2914 2935	endomyocardial biopsy
+T35	Procedure 2929 2935	biopsy
+T36	Procedure 3191 3193	ms
+T37	Procedure 3399 3401	RF
+T38	Procedure 3467 3469	CA
+T39	Procedure 3578 3586	ablation
+T40	Procedure 3823 3834	stimulation
+T41	Procedure 3856 3877	catheter manipulation
+T42	Procedure 3865 3877	manipulation
+T43	Procedure 4594 4596	ms
+T44	Procedure 4632 4640	ablation
+T45	Procedure 4960 4981	endomyocardial biopsy
+T46	Procedure 4975 4981	biopsy
+T47	Procedure 5005 5013	ablation
+T48	Procedure 5075 5081	biopsy
+T49	Procedure 5221 5229	presence
+T50	Procedure 5282 5291	reduction
+T51	Procedure 5786 5796	dilatation
+T52	Procedure 509 540	His 12-lead ECG in sinus rhythm
+T53	Procedure 664 677	QRSd of 98 ms
+T54	Procedure 733 817	flattened biphasic or negative T waves in the inferolateral leads . Echocardiography
+T55	Procedure 827 847	slight LV dilatation
+T56	Procedure 939 962	CT coronary angiography
+T57	Procedure 997 1031	Cardiac magnetic resonance imaging
+T58	Procedure 1045 1072	late gadolinium enhancement
+T59	Procedure 1470 1530	adipose infiltration of myocardium in the anterior right IVS
+T60	Procedure 1859 1876	ECG abnormalities
+T61	Procedure 1936 1968	Treatment with bisoprolol 2.5 mg
+T62	Procedure 1973 1990	trandolapril 4 mg
+T63	Procedure 2023 2059	recurrent VT despite medical therapy
+T64	Procedure 2151 2164	The procedure
+T65	Procedure 2185 2201	local anesthesia
+T66	Procedure 2206 2229	mild conscious sedation
+T67	Procedure 2263 2293	the beginning of the procedure
+T68	Procedure 2364 2389	programmed LV stimulation
+T69	Procedure 2434 2447	the procedure
+T70	Procedure 2621 2634	The procedure
+T71	Procedure 2649 2678	intracardiac echocardiography
+T72	Procedure 2680 2717	AcuNav Diagnostic Ultrasound Catheter
+T73	Procedure 2903 2935	subsequent endomyocardial biopsy
+T74	Procedure 3188 3208	20 ms in any of them
+T75	Procedure 3399 3408	RF energy
+T76	Procedure 3566 3586	the initial ablation
+T77	Procedure 3812 3846	programmed stimulation from the RV
+T78	Procedure 3856 3877	catheter manipulation
+T79	Procedure 4584 4596	QRS of 50 ms
+T80	Procedure 4614 4640	. Substrate-based ablation
+T81	Procedure 4957 4981	An endomyocardial biopsy
+T82	Procedure 5063 5089	7-F/ 104 cm biopsy forceps
+T83	Procedure 5217 5317	the presence of abnormal fibrous and adipose tissue with myocyte reduction in endomyocardial samples
+T84	Procedure 5783 5796	LV dilatation
+T85	Disease_disorder 95 140	sustained monomorphic ventricular tachycardia
+T86	Disease_disorder 105 140	monomorphic ventricular tachycardia
+T87	Disease_disorder 117 140	ventricular tachycardia
+T88	Disease_disorder 163 188	right bundle branch block
+T89	Disease_disorder 169 188	bundle branch block
+T90	Disease_disorder 183 188	block
+T91	Disease_disorder 190 194	RBBB
+T92	Disease_disorder 370 392	ischemic heart disease
+T93	Disease_disorder 379 392	heart disease
+T94	Disease_disorder 385 392	disease
+T95	Disease_disorder 463 479	cardiomyopathies
+T96	Disease_disorder 483 507	sudden unexplained death
+T97	Disease_disorder 528 533	sinus
+T98	Disease_disorder 675 677	ms
+T99	Disease_disorder 764 765	T
+T100	Disease_disorder 837 847	dilatation
+T101	Disease_disorder 972 995	coronary artery disease
+T102	Disease_disorder 988 995	disease
+T103	Disease_disorder 1478 1490	infiltration
+T104	Disease_disorder 1827 1831	scar
+T105	Disease_disorder 1887 1891	RBBB
+T106	Disease_disorder 2322 2326	RBBB
+T107	Disease_disorder 2488 2493	sinus
+T108	Disease_disorder 2611 2613	CA
+T109	Disease_disorder 2752 2754	CA
+T110	Disease_disorder 3191 3193	ms
+T111	Disease_disorder 3419 3421	EP
+T112	Disease_disorder 3467 3469	CA
+T113	Disease_disorder 3719 3743	left bundle branch block
+T114	Disease_disorder 3724 3743	bundle branch block
+T115	Disease_disorder 3738 3743	block
+T116	Disease_disorder 3745 3749	LBBB
+T117	Disease_disorder 4449 4453	scar
+T118	Disease_disorder 4594 4596	ms
+T119	Disease_disorder 5072 5074	cm
+T120	Disease_disorder 5786 5796	dilatation
+T121	Disease_disorder 5806 5817	dysfunction
+T122	Disease_disorder 45 151	evaluation of recurrent hemodynamically tolerated sustained monomorphic ventricular tachycardia of 200 bpm
+T123	Disease_disorder 163 188	right bundle branch block
+T124	Disease_disorder 370 392	ischemic heart disease
+T125	Disease_disorder 442 479	no family history of cardiomyopathies
+T126	Disease_disorder 509 540	His 12-lead ECG in sinus rhythm
+T127	Disease_disorder 664 677	QRSd of 98 ms
+T128	Disease_disorder 733 817	flattened biphasic or negative T waves in the inferolateral leads . Echocardiography
+T129	Disease_disorder 827 847	slight LV dilatation
+T130	Disease_disorder 972 995	coronary artery disease
+T131	Disease_disorder 1470 1530	adipose infiltration of myocardium in the anterior right IVS
+T132	Disease_disorder 1815 1844	The typical scar distribution
+T133	Disease_disorder 1881 1902	VT of RBBB morphology
+T134	Disease_disorder 2295 2337	clinical VT of 191 bpm and RBBB morphology
+T135	Disease_disorder 2467 2508	substrate mapping in sinus rhythm (3.5 mm
+T136	Disease_disorder 3188 3208	20 ms in any of them
+T137	Disease_disorder 3410 3429	Stockert EP Shuttle
+T138	Disease_disorder 3712 3743	all of left bundle branch block
+T139	Disease_disorder 4441 4465	Maximum scar involvement
+T140	Disease_disorder 4584 4596	QRS of 50 ms
+T141	Disease_disorder 5063 5089	7-F/ 104 cm biopsy forceps
+T142	Disease_disorder 5783 5796	LV dilatation
+T143	Disease_disorder 5801 5817	mild dysfunction
+T144	Sign_symptom 23 27	male
+T145	Sign_symptom 129 140	tachycardia
+T146	Sign_symptom 267 279	palpitations
+T147	Sign_symptom 347 355	symptoms
+T148	Sign_symptom 398 413	medical history
+T149	Sign_symptom 406 413	history
+T150	Sign_symptom 445 462	family history of
+T151	Sign_symptom 445 459	family history
+T152	Sign_symptom 452 462	history of
+T153	Sign_symptom 452 459	history
+T154	Sign_symptom 502 507	death
+T155	Sign_symptom 528 540	sinus rhythm
+T156	Sign_symptom 630 638	slurring
+T157	Sign_symptom 899 910	hypokinesia
+T158	Sign_symptom 912 920	ejection
+T159	Sign_symptom 1014 1023	resonance
+T160	Sign_symptom 1409 1411	T1
+T161	Sign_symptom 1439 1448	resonance
+T162	Sign_symptom 1724 1735	hypokinesia
+T163	Sign_symptom 1737 1745	ejection
+T164	Sign_symptom 1917 1926	diagnosis
+T165	Sign_symptom 2191 2201	anesthesia
+T166	Sign_symptom 2211 2220	conscious
+T167	Sign_symptom 2488 2500	sinus rhythm
+T168	Sign_symptom 2687 2697	Diagnostic
+T169	Sign_symptom 3390 3397	finding
+T170	Sign_symptom 3402 3408	energy
+T171	Sign_symptom 4128 4153	right ventricular outflow
+T172	Sign_symptom 5065 5066	F
+T173	Sign_symptom 5370 5378	Mutation
+T174	Sign_symptom 5642 5651	follow-up
+T175	Sign_symptom 0 27	A thirty-five-year-old male
+T176	Sign_symptom 45 151	evaluation of recurrent hemodynamically tolerated sustained monomorphic ventricular tachycardia of 200 bpm
+T177	Sign_symptom 255 300	nonsyncopal palpitations in the past 3 months
+T178	Sign_symptom 344 355	no symptoms
+T179	Sign_symptom 394 413	His medical history
+T180	Sign_symptom 442 479	no family history of cardiomyopathies
+T181	Sign_symptom 483 507	sudden unexplained death
+T182	Sign_symptom 509 540	His 12-lead ECG in sinus rhythm
+T183	Sign_symptom 609 662	mid-QRS notching and slurring of narrow QRS complexes
+T184	Sign_symptom 887 910	mild global hypokinesia
+T185	Sign_symptom 912 936	ejection fraction of 42%
+T186	Sign_symptom 997 1031	Cardiac magnetic resonance imaging
+T187	Sign_symptom 1409 1458	T1-weighted and SPIR magnetic resonance sequences
+T188	Sign_symptom 1679 1735	diastolic volume of 287 mL) with mild global hypokinesia
+T189	Sign_symptom 1737 1761	ejection fraction of 50%
+T190	Sign_symptom 1913 1934	the diagnosis of LDAC
+T191	Sign_symptom 2185 2201	local anesthesia
+T192	Sign_symptom 2206 2229	mild conscious sedation
+T193	Sign_symptom 2467 2508	substrate mapping in sinus rhythm (3.5 mm
+T194	Sign_symptom 2680 2717	AcuNav Diagnostic Ultrasound Catheter
+T195	Sign_symptom 3385 3397	this finding
+T196	Sign_symptom 3399 3408	RF energy
+T197	Sign_symptom 4096 4159	the anteroseptal portion of the right ventricular outflow tract
+T198	Sign_symptom 5063 5089	7-F/ 104 cm biopsy forceps
+T199	Sign_symptom 5370 5409	Mutation screening for desmosomal genes
+T200	Sign_symptom 5629 5651	the 18-month follow-up
+T201	Anatomical_structure 163 182	right bundle branch
+T202	Anatomical_structure 176 182	branch
+T203	Anatomical_structure 221 225	axis
+T204	Anatomical_structure 379 384	heart
+T205	Anatomical_structure 682 686	limb
+T206	Anatomical_structure 972 987	coronary artery
+T207	Anatomical_structure 981 987	artery
+T208	Anatomical_structure 997 1004	Cardiac
+T209	Anatomical_structure 1164 1174	myocardium
+T210	Anatomical_structure 1265 1288	interventricular septum
+T211	Anatomical_structure 1377 1392	right ventricle
+T212	Anatomical_structure 1383 1392	ventricle
+T213	Anatomical_structure 1494 1504	myocardium
+T214	Anatomical_structure 2611 2613	CA
+T215	Anatomical_structure 2649 2661	intracardiac
+T216	Anatomical_structure 2752 2754	CA
+T217	Anatomical_structure 2950 2961	endocardial
+T218	Anatomical_structure 3467 3469	CA
+T219	Anatomical_structure 3719 3737	left bundle branch
+T220	Anatomical_structure 3731 3737	branch
+T221	Anatomical_structure 4058 4062	axis
+T222	Anatomical_structure 4128 4159	right ventricular outflow tract
+T223	Anatomical_structure 4768 4787	right bundle branch
+T224	Anatomical_structure 4781 4787	branch
+T225	Anatomical_structure 5242 5268	fibrous and adipose tissue
+T226	Anatomical_structure 5254 5268	adipose tissue
+T227	Anatomical_structure 5262 5268	tissue
+T228	Medication 1973 1990	trandolapril 4 mg

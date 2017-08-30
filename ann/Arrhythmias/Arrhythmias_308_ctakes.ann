@@ -1,0 +1,88 @@
+T1	Procedure 46 54	ablation
+T2	Procedure 101 125	mitral valve replacement
+T3	Procedure 114 125	replacement
+T4	Procedure 456 458	RF
+T5	Procedure 460 468	ablation
+T6	Procedure 495 507	implantation
+T7	Procedure 540 542	RF
+T8	Procedure 543 551	ablation
+T9	Procedure 607 617	venography
+T10	Procedure 937 963	magnetic resonance imaging
+T11	Procedure 956 963	imaging
+T12	Procedure 965 968	MRI
+T13	Procedure 1015 1018	MRI
+T14	Procedure 1293 1305	cryoablation
+T15	Procedure 1311 1320	procedure
+T16	Procedure 1356 1364	puncture
+T17	Procedure 1407 1419	cryoablation
+T18	Procedure 1500 1509	procedure
+T19	Procedure 1530 1549	general anaesthesia
+T20	Procedure 1687 1698	cannulation
+T21	Procedure 1746 1749	TEE
+T22	Procedure 1915 1923	Ablation
+T23	Procedure 1958 1961	INR
+T24	Procedure 2002 2011	procedure
+T25	Procedure 46 88	ablation of paroxysmal atrial fibrillation
+T26	Procedure 101 133	mitral valve replacement in 2001
+T27	Procedure 460 507	ablation before eventual pacemaker implantation
+T28	Procedure 540 551	RF ablation
+T29	Procedure 937 963	magnetic resonance imaging
+T30	Procedure 1011 1018	The MRI
+T31	Procedure 1285 1305	balloon cryoablation
+T32	Procedure 1307 1320	The procedure
+T33	Procedure 1330 1364	only a single transseptal puncture
+T34	Procedure 1496 1509	the procedure
+T35	Procedure 1530 1564	general anaesthesia with midazolam
+T36	Procedure 1661 1698	CS via right femoral vein cannulation
+T37	Procedure 1958 1965	INR 2.2
+T38	Procedure 1991 2025	a standard procedure in our center
+T39	Disease_disorder 58 88	paroxysmal atrial fibrillation
+T40	Disease_disorder 69 88	atrial fibrillation
+T41	Disease_disorder 76 88	fibrillation
+T42	Disease_disorder 151 165	thyrotoxicosis
+T43	Disease_disorder 276 293	sinus bradycardia
+T44	Disease_disorder 276 281	sinus
+T45	Disease_disorder 282 293	bradycardia
+T46	Disease_disorder 316 335	atrial fibrillation
+T47	Disease_disorder 323 335	fibrillation
+T48	Disease_disorder 810 815	sinus
+T49	Disease_disorder 1826 1846	patent foramen ovale
+T50	Disease_disorder 46 88	ablation of paroxysmal atrial fibrillation
+T51	Disease_disorder 151 182	thyrotoxicosis after amiodarone
+T52	Disease_disorder 276 293	sinus bradycardia
+T53	Disease_disorder 316 335	atrial fibrillation
+T54	Disease_disorder 801 815	coronary sinus
+T55	Disease_disorder 1789 1846	a normal septum with a small oblique patent foramen ovale
+T56	Sign_symptom 14 20	female
+T57	Sign_symptom 571 586	discontinuation
+T58	Sign_symptom 668 671	SVC
+T59	Sign_symptom 843 849	normal
+T60	Sign_symptom 850 860	parameters
+T61	Sign_symptom 946 955	resonance
+T62	Sign_symptom 1356 1364	puncture
+T63	Sign_symptom 1538 1549	anaesthesia
+T64	Sign_symptom 1791 1797	normal
+T65	Sign_symptom 0 28	A 66-year-old female patient
+T66	Sign_symptom 567 586	IVC discontinuation
+T67	Sign_symptom 664 671	the SVC
+T68	Sign_symptom 843 860	normal parameters
+T69	Sign_symptom 937 963	magnetic resonance imaging
+T70	Sign_symptom 1330 1364	only a single transseptal puncture
+T71	Sign_symptom 1530 1564	general anaesthesia with midazolam
+T72	Sign_symptom 1789 1846	a normal septum with a small oblique patent foramen ovale
+T73	Anatomical_structure 69 75	atrial
+T74	Anatomical_structure 101 113	mitral valve
+T75	Anatomical_structure 316 322	atrial
+T76	Anatomical_structure 370 380	ventricles
+T77	Anatomical_structure 776 789	bundle of His
+T78	Anatomical_structure 801 815	coronary sinus
+T79	Anatomical_structure 1097 1109	right atrium
+T80	Anatomical_structure 1103 1109	atrium
+T81	Anatomical_structure 1207 1218	left atrium
+T82	Anatomical_structure 1212 1218	atrium
+T83	Anatomical_structure 1636 1649	bundle of His
+T84	Anatomical_structure 1674 1686	femoral vein
+T85	Anatomical_structure 1674 1681	femoral
+T86	Anatomical_structure 1682 1686	vein
+T87	Anatomical_structure 1769 1779	oesophagus
+T88	Medication 1566 1574	fentanyl

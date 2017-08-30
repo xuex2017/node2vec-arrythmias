@@ -1,0 +1,150 @@
+T1	Procedure 259 261	mg
+T2	Procedure 312 314	mg
+T3	Procedure 340 342	mg
+T4	Procedure 473 490	oxygen saturation
+T5	Procedure 524 541	electrocardiogram
+T6	Procedure 770 786	Echocardiography
+T7	Procedure 1053 1070	total cholesterol
+T8	Procedure 1059 1070	cholesterol
+T9	Procedure 1075 1077	mg
+T10	Procedure 1086 1115	angiotensin-converting enzyme
+T11	Procedure 1179 1230	myeloperoxidase-antineutrophil cytoplasmic antibody
+T12	Procedure 1574 1582	ablation
+T13	Procedure 1756 1766	dissection
+T14	Procedure 2447 2457	dissection
+T15	Procedure 2550 2584	percutaneous coronary intervention
+T16	Procedure 2625 2651	multiplanar reconstruction
+T17	Procedure 2637 2651	reconstruction
+T18	Procedure 2961 2968	calcium
+T19	Procedure 3137 3146	perfusion
+T20	Procedure 3179 3187	ablation
+T21	Procedure 3277 3287	tomography
+T22	Procedure 3289 3294	SPECT
+T23	Procedure 3412 3415	BNP
+T24	Procedure 3465 3473	ablation
+T25	Procedure 256 261	10 mg
+T26	Procedure 309 314	10 mg
+T27	Procedure 337 342	80 mg
+T28	Procedure 470 512	an oxygen saturation of 98% without oxygen
+T29	Procedure 514 541	A 12-lead electrocardiogram
+T30	Procedure 1053 1070	total cholesterol
+T31	Procedure 1072 1080	87 mg/dL
+T32	Procedure 1702 1773	intraluminal haziness with the appearance of a spiral dissection lesion
+T33	Procedure 2432 2463	no thrombus or dissection flaps
+T34	Procedure 2625 2658	multiplanar reconstruction of LAD
+T35	Procedure 2932 2974	The Agatston coronary artery calcium score
+T36	Procedure 3111 3154	Cardiac stress myocardial perfusion testing
+T37	Procedure 3175 3207	CTI ablation in the sinus rhythm
+T38	Procedure 3408 3421	The BNP level
+T39	Procedure 3443 3473	/mL 1 month after CTI ablation
+T40	Disease_disorder 129 146	diabetes mellitus
+T41	Disease_disorder 129 137	diabetes
+T42	Disease_disorder 148 164	Kawasaki disease
+T43	Disease_disorder 157 164	disease
+T44	Disease_disorder 166 176	vasculitis
+T45	Disease_disorder 178 189	sarcoidosis
+T46	Disease_disorder 194 208	Chagas disease
+T47	Disease_disorder 201 208	disease
+T48	Disease_disorder 273 285	dyslipidemia
+T49	Disease_disorder 587 622	incomplete left-bundle branch block
+T50	Disease_disorder 598 622	left-bundle branch block
+T51	Disease_disorder 603 622	bundle branch block
+T52	Disease_disorder 617 622	block
+T53	Disease_disorder 889 897	akinesia
+T54	Disease_disorder 1281 1286	lupus
+T55	Disease_disorder 1456 1470	atrial flutter
+T56	Disease_disorder 1489 1506	accessory pathway
+T57	Disease_disorder 1637 1648	dysfunction
+T58	Disease_disorder 2435 2443	thrombus
+T59	Disease_disorder 3047 3048	T
+T60	Disease_disorder 3195 3200	sinus
+T61	Disease_disorder 3341 3349	ischemia
+T62	Disease_disorder 115 146	no history of diabetes mellitus
+T63	Disease_disorder 148 164	Kawasaki disease
+T64	Disease_disorder 194 208	Chagas disease
+T65	Disease_disorder 549 622	a regular tachycardia of 120 bpm with incomplete left-bundle branch block
+T66	Disease_disorder 889 930	akinesia in the anterior and apical walls
+T67	Disease_disorder 1281 1326	lupus anticoagulant, anticardiolipin antibody
+T68	Disease_disorder 1448 1470	typical atrial flutter
+T69	Disease_disorder 1486 1506	no accessory pathway
+T70	Disease_disorder 1616 1648	the cause of cardiac dysfunction
+T71	Disease_disorder 2432 2463	no thrombus or dissection flaps
+T72	Disease_disorder 3047 3057	T contrast
+T73	Disease_disorder 3175 3207	CTI ablation in the sinus rhythm
+T74	Disease_disorder 3326 3349	stress-induced ischemia
+T75	Sign_symptom 61 73	palpitations
+T76	Sign_symptom 89 95	angina
+T77	Sign_symptom 99 106	dyspnea
+T78	Sign_symptom 118 128	history of
+T79	Sign_symptom 118 125	history
+T80	Sign_symptom 414 428	blood pressure
+T81	Sign_symptom 420 428	pressure
+T82	Sign_symptom 524 541	electrocardiogram
+T83	Sign_symptom 559 570	tachycardia
+T84	Sign_symptom 645 646	F
+T85	Sign_symptom 729 730	F
+T86	Sign_symptom 765 767	V1
+T87	Sign_symptom 939 950	hypokinesia
+T88	Sign_symptom 990 998	ejection
+T89	Sign_symptom 1416 1427	tachycardia
+T90	Sign_symptom 1512 1523	tachycardia
+T91	Sign_symptom 1767 1773	lesion
+T92	Sign_symptom 2834 2840	lesion
+T93	Sign_symptom 2893 2920	length of the woven segment
+T94	Sign_symptom 3119 3125	stress
+T95	Sign_symptom 3195 3207	sinus rhythm
+T96	Sign_symptom 3219 3225	stress
+T97	Sign_symptom 3326 3332	stress
+T98	Sign_symptom 3356 3361	fixed
+T99	Sign_symptom 3483 3491	ejection
+T100	Sign_symptom 43 73	our hospital with palpitations
+T101	Sign_symptom 85 95	any angina
+T102	Sign_symptom 115 146	no history of diabetes mellitus
+T103	Sign_symptom 412 434	a blood pressure of 90
+T104	Sign_symptom 514 541	A 12-lead electrocardiogram
+T105	Sign_symptom 549 622	a regular tachycardia of 120 bpm with incomplete left-bundle branch block
+T106	Sign_symptom 624 659	An inverted sawtooth F-wave pattern
+T107	Sign_symptom 718 743	an upright F-wave pattern
+T108	Sign_symptom 760 767	lead V1
+T109	Sign_symptom 932 972	severe hypokinesia in the other LV walls
+T110	Sign_symptom 978 1038	a decreased ejection fraction of 22.5% according to the modi
+T111	Sign_symptom 1412 1427	the tachycardia
+T112	Sign_symptom 1508 1523	The tachycardia
+T113	Sign_symptom 1702 1773	intraluminal haziness with the appearance of a spiral dissection lesion
+T114	Sign_symptom 2804 2845	Cross-sectional images at the lesion site
+T115	Sign_symptom 2889 2920	The length of the woven segment
+T116	Sign_symptom 3111 3154	Cardiac stress myocardial perfusion testing
+T117	Sign_symptom 3175 3207	CTI ablation in the sinus rhythm
+T118	Sign_symptom 3209 3267	Adenosine stress 99m Tc-tetrofosmin single-photon emission
+T119	Sign_symptom 3326 3349	stress-induced ischemia
+T120	Sign_symptom 3354 3405	a fixed low uptake in the anterior and apical walls
+T121	Sign_symptom 3479 3500	the ejection fraction
+T122	Anatomical_structure 360 365	heart
+T123	Anatomical_structure 414 419	blood
+T124	Anatomical_structure 446 451	heart
+T125	Anatomical_structure 598 616	left-bundle branch
+T126	Anatomical_structure 610 616	branch
+T127	Anatomical_structure 709 712	aVF
+T128	Anatomical_structure 828 842	left ventricle
+T129	Anatomical_structure 833 842	ventricle
+T130	Anatomical_structure 1210 1221	cytoplasmic
+T131	Anatomical_structure 1232 1243	cytoplasmic
+T132	Anatomical_structure 1259 1270	cytoplasmic
+T133	Anatomical_structure 1456 1462	atrial
+T134	Anatomical_structure 1489 1506	accessory pathway
+T135	Anatomical_structure 1629 1636	cardiac
+T136	Anatomical_structure 1948 1969	right coronary artery
+T137	Anatomical_structure 1954 1969	coronary artery
+T138	Anatomical_structure 1963 1969	artery
+T139	Anatomical_structure 2016 2022	artery
+T140	Anatomical_structure 2085 2093	arterial
+T141	Anatomical_structure 2094 2099	lumen
+T142	Anatomical_structure 2219 2224	lumen
+T143	Anatomical_structure 2371 2376	lumen
+T144	Anatomical_structure 2458 2463	flaps
+T145	Anatomical_structure 2945 2960	coronary artery
+T146	Anatomical_structure 2954 2960	artery
+T147	Anatomical_structure 3074 3079	heart
+T148	Anatomical_structure 3111 3118	Cardiac
+T149	Medication 3416 3421	level
+T150	Medication 3408 3421	The BNP level

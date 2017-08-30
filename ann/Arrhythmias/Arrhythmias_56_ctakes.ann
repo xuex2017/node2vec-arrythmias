@@ -1,0 +1,39 @@
+T1	Procedure 7 27	creatinine clearance
+T2	Procedure 7 17	creatinine
+T3	Procedure 277 286	procedure
+T4	Procedure 321 330	procedure
+T5	Procedure 343 352	procedure
+T6	Procedure 444 451	therapy
+T7	Procedure 477 486	procedure
+T8	Procedure 549 556	removal
+T9	Procedure 603 612	procedure
+T10	Procedure 683 690	therapy
+T11	Procedure 734 743	procedure
+T12	Procedure 960 968	ablation
+T13	Procedure 988 1008	creatinine clearance
+T14	Procedure 988 998	creatinine
+T15	Procedure 1053 1073	creatinine clearance
+T16	Procedure 1053 1063	creatinine
+T17	Procedure 1158 1165	removal
+T18	Procedure 1356 1364	ablation
+T19	Procedure 5 39	a creatinine clearance >80 mL/ min
+T20	Procedure 257 286	24 hours before the procedure
+T21	Procedure 302 330	the morning of the procedure
+T22	Procedure 339 352	the procedure
+T23	Procedure 433 486	dabigatran therapy in the evening after the procedure
+T24	Procedure 542 556	sheath removal
+T25	Procedure 599 666	the procedure because of the low risk of stroke in the short period
+T26	Procedure 672 690	dabigatran therapy
+T27	Procedure 730 794	the procedure because of the rapid onset of action of dabigatran
+T28	Procedure 944 1019	24 hours before ablation in patients with a creatinine clearance >50 mL/min
+T29	Procedure 1028 1092	48 hours in those with a creatinine clearance of 30 to 50 mL/min
+T30	Procedure 1137 1165	8 hours after sheath removal
+T31	Procedure 1353 1364	AF ablation
+T32	Disease_disorder 640 646	stroke
+T33	Disease_disorder 1353 1355	AF
+T34	Disease_disorder 599 666	the procedure because of the low risk of stroke in the short period
+T35	Disease_disorder 1353 1364	AF ablation
+T36	Sign_symptom 1289 1299	management
+T37	Sign_symptom 1554 1561	service
+T38	Sign_symptom 1262 1313	the optimal periprocedural management of dabigatran
+T39	Sign_symptom 1552 1595	a service of the Copyright Clearance Center

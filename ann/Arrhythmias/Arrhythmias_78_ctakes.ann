@@ -1,0 +1,165 @@
+T1	Procedure 125 134	elevation
+T2	Procedure 369 382	resuscitation
+T3	Procedure 452 459	primary
+T4	Procedure 548 550	mg
+T5	Procedure 566 568	mg
+T6	Procedure 712 715	CPR
+T7	Procedure 772 779	primary
+T8	Procedure 824 834	intubation
+T9	Procedure 853 856	CPR
+T10	Procedure 889 903	defibrillation
+T11	Procedure 924 931	therapy
+T12	Procedure 981 983	mg
+T13	Procedure 987 998	epinephrine
+T14	Procedure 1016 1030	defibrillation
+T15	Procedure 1083 1085	mg
+T16	Procedure 1105 1107	mg
+T17	Procedure 1206 1208	mg
+T18	Procedure 1248 1250	mg
+T19	Procedure 1344 1348	ECMO
+T20	Procedure 1365 1372	support
+T21	Procedure 1427 1431	ECMO
+T22	Procedure 1648 1652	ECMO
+T23	Procedure 1759 1763	ECMO
+T24	Procedure 1764 1773	procedure
+T25	Procedure 1787 1790	PTT
+T26	Procedure 1893 1897	ECMO
+T27	Procedure 1905 1909	cath
+T28	Procedure 2000 2007	lactate
+T29	Procedure 2081 2085	ECMO
+T30	Procedure 2086 2093	support
+T31	Procedure 2128 2151	cardiac catheterization
+T32	Procedure 2136 2151	catheterization
+T33	Procedure 2452 2454	US
+T34	Procedure 2566 2568	US
+T35	Procedure 2641 2643	US
+T36	Procedure 2905 2914	procedure
+T37	Procedure 2944 2961	revascularization
+T38	Procedure 2972 2986	defibrillation
+T39	Procedure 3218 3222	ECMO
+T40	Procedure 3223 3230	support
+T41	Procedure 3267 3281	echocardiogram
+T42	Procedure 3444 3454	creatinine
+T43	Procedure 3483 3493	troponin T
+T44	Procedure 83 156	a peripheral hospital with an anterior ST elevation myocardial infarction
+T45	Procedure 308 389	normal sinus rhythm after two attempts with 360 J. The total resuscitation period
+T46	Procedure 359 410	The total resuscitation period for the first arrest
+T47	Procedure 436 470	dispatch to the primary PCI center
+T48	Procedure 499 550	parenteral amiodarone with a loading dose of 150 mg
+T49	Procedure 563 571	50 mg/hr
+T50	Procedure 702 715	Immediate CPR
+T51	Procedure 733 790	the paramedics prior to arrival at the primary PCI centre
+T52	Procedure 824 903	intubation and 40 minutes of CPR with incessant VF refractory to defibrillation
+T53	Procedure 908 931	anti-arrhythmic therapy
+T54	Procedure 968 998	a total of 4 mg of epinephrine
+T55	Procedure 1003 1037	a total of 7 defibrillation shocks
+T56	Procedure 1069 1085	lidocaine 100 mg
+T57	Procedure 1090 1121	amiodarone 150 mg loading doses
+T58	Procedure 1194 1212	lidocaine 2 mg/min
+T59	Procedure 1230 1250	the amiodarone 50 mg
+T60	Procedure 1344 1400	ECMO for hemodynamic support in the emergency department
+T61	Procedure 1402 1438	Peripheral veno-arterial ECMO access
+T62	Procedure 1644 1660	the ECMO circuit
+T63	Procedure 1740 1773	heparin during the ECMO procedure
+T64	Procedure 1872 1913	the establishment of ECMO in the cath lab
+T65	Procedure 2000 2018	lactate of 10 mmol
+T66	Procedure 2081 2093	ECMO support
+T67	Procedure 2121 2157	urgent cardiac catheterization which
+T68	Procedure 2425 2474	Abbott Vascular, Illinois, US) drug eluting stent
+T69	Procedure 2865 2914	refractory VF throughout the entire PCI procedure
+T70	Procedure 2922 2961	complete percutaneous revascularization
+T71	Procedure 2963 2992	a single defibrillation shock
+T72	Procedure 3218 3230	ECMO support
+T73	Procedure 3241 3281	his initial transthoracic echocardiogram
+T74	Procedure 3440 3461	The creatinine kinase
+T75	Procedure 3466 3493	high sensitivity troponin T
+T76	Disease_disorder 135 156	myocardial infarction
+T77	Disease_disorder 146 156	infarction
+T78	Disease_disorder 180 213	pulseless ventricular tachycardia
+T79	Disease_disorder 190 213	ventricular tachycardia
+T80	Disease_disorder 315 320	sinus
+T81	Disease_disorder 665 679	cardiac arrest
+T82	Disease_disorder 698 700	VF
+T83	Disease_disorder 872 874	VF
+T84	Disease_disorder 1836 1850	cardiac arrest
+T85	Disease_disorder 1973 1981	acidosis
+T86	Disease_disorder 2065 2070	shock
+T87	Disease_disorder 2221 2228	disease
+T88	Disease_disorder 2287 2294	disease
+T89	Disease_disorder 2822 2839	cardiogenic shock
+T90	Disease_disorder 2834 2839	shock
+T91	Disease_disorder 2876 2878	VF
+T92	Disease_disorder 2987 2992	shock
+T93	Disease_disorder 3024 3029	sinus
+T94	Disease_disorder 3068 3070	VF
+T95	Disease_disorder 3106 3117	hypothermia
+T96	Disease_disorder 3492 3493	T
+T97	Disease_disorder 83 156	a peripheral hospital with an anterior ST elevation myocardial infarction
+T98	Disease_disorder 180 213	pulseless ventricular tachycardia
+T99	Disease_disorder 308 389	normal sinus rhythm after two attempts with 360 J. The total resuscitation period
+T100	Disease_disorder 656 697	a second cardiac arrest with pulseless VT
+T101	Disease_disorder 824 903	intubation and 40 minutes of CPR with incessant VF refractory to defibrillation
+T102	Disease_disorder 1801 1850	The total down time for the second cardiac arrest
+T103	Disease_disorder 1966 1998	severe acidosis with a pH of 6.9
+T104	Disease_disorder 2065 2076	shock liver
+T105	Disease_disorder 2168 2277	a 90% thrombotic lesion in the distal left main, 80% disease in the mid left anterior descending artery (LAD)
+T106	Disease_disorder 2283 2323	90% disease in the first obtuse marginal
+T107	Disease_disorder 2822 2839	cardiogenic shock
+T108	Disease_disorder 2865 2914	refractory VF throughout the entire PCI procedure
+T109	Disease_disorder 2963 2992	a single defibrillation shock
+T110	Disease_disorder 3002 3070	the patient to normal sinus rhythm after 60 minutes of refractory VF
+T111	Disease_disorder 3094 3165	therapeutic hypothermia for neuro-protection in the intensive care unit
+T112	Disease_disorder 3466 3493	high sensitivity troponin T
+T113	Sign_symptom 24 28	male
+T114	Sign_symptom 62 69	history
+T115	Sign_symptom 122 134	ST elevation
+T116	Sign_symptom 180 189	pulseless
+T117	Sign_symptom 202 213	tachycardia
+T118	Sign_symptom 308 327	normal sinus rhythm
+T119	Sign_symptom 308 314	normal
+T120	Sign_symptom 315 327	sinus rhythm
+T121	Sign_symptom 685 694	pulseless
+T122	Sign_symptom 1474 1475	F
+T123	Sign_symptom 1504 1505	F
+T124	Sign_symptom 1989 1991	pH
+T125	Sign_symptom 2185 2191	lesion
+T126	Sign_symptom 3017 3036	normal sinus rhythm
+T127	Sign_symptom 3017 3023	normal
+T128	Sign_symptom 3024 3036	sinus rhythm
+T129	Sign_symptom 3106 3117	hypothermia
+T130	Sign_symptom 3369 3380	hypokinesis
+T131	Sign_symptom 3471 3482	sensitivity
+T132	Sign_symptom 3522 3524	ng
+T133	Sign_symptom 3600 3619	neurologic deficits
+T134	Sign_symptom 0 49	A 56-year-old Caucasian male with elevated lipids
+T135	Sign_symptom 54 69	smoking history
+T136	Sign_symptom 83 156	a peripheral hospital with an anterior ST elevation myocardial infarction
+T137	Sign_symptom 180 213	pulseless ventricular tachycardia
+T138	Sign_symptom 308 389	normal sinus rhythm after two attempts with 360 J. The total resuscitation period
+T139	Sign_symptom 656 697	a second cardiac arrest with pulseless VT
+T140	Sign_symptom 1458 1475	17 size French (F
+T141	Sign_symptom 1498 1520	24/29 F venous cannula
+T142	Sign_symptom 1966 1998	severe acidosis with a pH of 6.9
+T143	Sign_symptom 2168 2277	a 90% thrombotic lesion in the distal left main, 80% disease in the mid left anterior descending artery (LAD)
+T144	Sign_symptom 3002 3070	the patient to normal sinus rhythm after 60 minutes of refractory VF
+T145	Sign_symptom 3094 3165	therapeutic hypothermia for neuro-protection in the intensive care unit
+T146	Sign_symptom 3343 3380	less than 20% with global hypokinesis
+T147	Sign_symptom 3466 3493	high sensitivity troponin T
+T148	Sign_symptom 3517 3526	4130 ng/L
+T149	Sign_symptom 3596 3619	any neurologic deficits
+T150	Anatomical_structure 665 672	cardiac
+T151	Anatomical_structure 799 801	ER
+T152	Anatomical_structure 1418 1426	arterial
+T153	Anatomical_structure 1477 1485	arterial
+T154	Anatomical_structure 1506 1512	venous
+T155	Anatomical_structure 1836 1843	cardiac
+T156	Anatomical_structure 2035 2040	liver
+T157	Anatomical_structure 2071 2076	liver
+T158	Anatomical_structure 2128 2135	cardiac
+T159	Anatomical_structure 2240 2271	left anterior descending artery
+T160	Anatomical_structure 2265 2271	artery
+T161	Anatomical_structure 2345 2366	right coronary artery
+T162	Anatomical_structure 2351 2366	coronary artery
+T163	Anatomical_structure 2360 2366	artery
+T164	Medication 987 998	epinephrine
+T165	Medication 968 998	a total of 4 mg of epinephrine

@@ -1,0 +1,178 @@
+T1	Procedure 331 340	treatment
+T2	Procedure 362 382	conventional therapy
+T3	Procedure 375 382	therapy
+T4	Procedure 533 553	coronary angiography
+T5	Procedure 542 553	angiography
+T6	Procedure 559 575	echocardiography
+T7	Procedure 657 664	therapy
+T8	Procedure 1180 1187	protein
+T9	Procedure 1219 1221	mg
+T10	Procedure 1340 1349	treatment
+T11	Procedure 1382 1415	combination with infusion therapy
+T12	Procedure 1399 1407	infusion
+T13	Procedure 1408 1415	therapy
+T14	Procedure 2147 2154	albumin
+T15	Procedure 2175 2186	coagulation
+T16	Procedure 2222 2231	treatment
+T17	Procedure 2233 2263	international normalized ratio
+T18	Procedure 2299 2309	creatinine
+T19	Procedure 2323 2338	Supportive care
+T20	Procedure 2360 2367	therapy
+T21	Procedure 2393 2416	parenteral alimentation
+T22	Procedure 2456 2469	stabilization
+T23	Procedure 2479 2490	coagulation
+T24	Procedure 2545 2552	albumin
+T25	Procedure 3101 3109	ablation
+T26	Procedure 3242 3253	lymphocytes
+T27	Procedure 3436 3443	therapy
+T28	Procedure 3603 3611	surgical
+T29	Procedure 3612 3619	therapy
+T30	Procedure 322 340	ambulant treatment
+T31	Procedure 362 402	conventional therapy of tachyarrhythmias
+T32	Procedure 533 553	coronary angiography
+T33	Procedure 555 575	The echocardiography
+T34	Procedure 647 664	Digitalis therapy
+T35	Procedure 1171 1205	reactive protein and procalcitonin
+T36	Procedure 1215 1223	239 mg/L
+T37	Procedure 1321 1415	empiric antibiotic treatment with piperacillin/tazobactam in combination with infusion therapy
+T38	Procedure 2165 2231	a reduced coagulation situation despite stopped warfarin treatment
+T39	Procedure 2350 2367	analgesic therapy
+T40	Procedure 2456 2527	stabilization of blood coagulation with prothrombin complex concentrate
+T41	Procedure 2529 2552	substitution of albumin
+T42	Procedure 3048 3145	the histopathological findings in areas without skin ablation with a basket-woven stratum corneum
+T43	Procedure 3428 3443	intense therapy
+T44	Procedure 3601 3653	A surgical therapy of the large epidermal necrolysis
+T45	Disease_disorder 81 100	atrial fibrillation
+T46	Disease_disorder 88 100	fibrillation
+T47	Disease_disorder 239 245	strain
+T48	Disease_disorder 266 278	hypertension
+T49	Disease_disorder 386 402	tachyarrhythmias
+T50	Disease_disorder 493 516	coronary artery disease
+T51	Disease_disorder 509 516	disease
+T52	Disease_disorder 846 851	sinus
+T53	Disease_disorder 1085 1094	condition
+T54	Disease_disorder 1110 1125	tachyarrhythmia
+T55	Disease_disorder 1271 1277	sepsis
+T56	Disease_disorder 1417 1447	Infection of the urinary tract
+T57	Disease_disorder 1417 1426	Infection
+T58	Disease_disorder 1451 1460	pneumonia
+T59	Disease_disorder 1591 1600	exanthema
+T60	Disease_disorder 1619 1627	blisters
+T61	Disease_disorder 1730 1743	epidermolysis
+T62	Disease_disorder 1943 1949	cavity
+T63	Disease_disorder 2278 2297	acute renal failure
+T64	Disease_disorder 2284 2297	renal failure
+T65	Disease_disorder 2736 2762	toxic epidermal necrolysis
+T66	Disease_disorder 2764 2778	Lyell syndrome
+T67	Disease_disorder 2770 2778	syndrome
+T68	Disease_disorder 2796 2804	syndrome
+T69	Disease_disorder 2840 2848	syndrome
+T70	Disease_disorder 2852 2865	drug reaction
+T71	Disease_disorder 2871 2883	eosinophilia
+T72	Disease_disorder 3033 3041	blisters
+T73	Disease_disorder 3154 3162	atrophic
+T74	Disease_disorder 3336 3371	lymphocytic inflammatory infiltrate
+T75	Disease_disorder 3361 3371	infiltrate
+T76	Disease_disorder 3564 3568	burn
+T77	Disease_disorder 45 127	the hospital because of symptomatic atrial fibrillation with fast ventricular rate
+T78	Disease_disorder 211 245	angina pectoris at physical strain
+T79	Disease_disorder 257 278	arterial hypertension
+T80	Disease_disorder 362 402	conventional therapy of tachyarrhythmias
+T81	Disease_disorder 479 516	A significant coronary artery disease
+T82	Disease_disorder 839 858	stable sinus rhythm
+T83	Disease_disorder 1069 1094	reduced general condition
+T84	Disease_disorder 1100 1134	recurrent tachyarrhythmia absoluta
+T85	Disease_disorder 1256 1277	suspicion of a sepsis
+T86	Disease_disorder 1417 1447	Infection of the urinary tract
+T87	Disease_disorder 1574 1600	a maculopapulous exanthema
+T88	Disease_disorder 1605 1627	small flaccid blisters
+T89	Disease_disorder 1709 1781	a progressive severe epidermolysis of the integument (approximately 30 %
+T90	Disease_disorder 1903 1949	painful mucosal ulcerations of the oral cavity
+T91	Disease_disorder 2275 2297	an acute renal failure
+T92	Disease_disorder 2764 2778	Lyell syndrome
+T93	Disease_disorder 2813 2848	staphylococcal scaled skin syndrome
+T94	Disease_disorder 2852 2883	drug reaction with eosinophilia
+T95	Disease_disorder 3015 3041	frames of flaccid blisters
+T96	Disease_disorder 3123 3195	-woven stratum corneum over an atrophic epidermis with basal vacuolation
+T97	Disease_disorder 3300 3386	spare perivascular and interstitial lymphocytic inflammatory infiltrate with scant CD4
+T98	Disease_disorder 3562 3575	a burn center
+T99	Sign_symptom 14 20	female
+T100	Sign_symptom 106 110	fast
+T101	Sign_symptom 189 196	vertigo
+T102	Sign_symptom 198 205	dyspnea
+T103	Sign_symptom 211 226	angina pectoris
+T104	Sign_symptom 211 217	angina
+T105	Sign_symptom 585 591	normal
+T106	Sign_symptom 628 636	ejection
+T107	Sign_symptom 774 786	stomach ache
+T108	Sign_symptom 782 786	ache
+T109	Sign_symptom 846 858	sinus rhythm
+T110	Sign_symptom 1053 1058	fever
+T111	Sign_symptom 1232 1234	ng
+T112	Sign_symptom 1903 1910	painful
+T113	Sign_symptom 2175 2186	coagulation
+T114	Sign_symptom 2418 2430	compensation
+T115	Sign_symptom 2473 2490	blood coagulation
+T116	Sign_symptom 2479 2490	coagulation
+T117	Sign_symptom 2699 2703	gaze
+T118	Sign_symptom 2727 2734	context
+T119	Sign_symptom 2871 2883	eosinophilia
+T120	Sign_symptom 2898 2906	symptoms
+T121	Sign_symptom 3184 3195	vacuolation
+T122	Sign_symptom 3207 3215	necrotic
+T123	Sign_symptom 0 28	A 77-year-old female patient
+T124	Sign_symptom 45 127	the hospital because of symptomatic atrial fibrillation with fast ventricular rate
+T125	Sign_symptom 211 245	angina pectoris at physical strain
+T126	Sign_symptom 585 623	normal left ventricular wall thickness
+T127	Sign_symptom 628 645	ejection fraction
+T128	Sign_symptom 774 786	stomach ache
+T129	Sign_symptom 839 858	stable sinus rhythm
+T130	Sign_symptom 1027 1058	the emergency room due to fever
+T131	Sign_symptom 1228 1237	4.2 ng/mL
+T132	Sign_symptom 1903 1949	painful mucosal ulcerations of the oral cavity
+T133	Sign_symptom 2165 2231	a reduced coagulation situation despite stopped warfarin treatment
+T134	Sign_symptom 2418 2454	compensation of electrolyte solution
+T135	Sign_symptom 2456 2527	stabilization of blood coagulation with prothrombin complex concentrate
+T136	Sign_symptom 2695 2703	fat gaze
+T137	Sign_symptom 2722 2734	this context
+T138	Sign_symptom 2852 2883	drug reaction with eosinophilia
+T139	Sign_symptom 2889 2906	systemic symptoms
+T140	Sign_symptom 3123 3195	-woven stratum corneum over an atrophic epidermis with basal vacuolation
+T141	Sign_symptom 3200 3229	single necrotic keratinocytes
+T142	Anatomical_structure 81 87	atrial
+T143	Anatomical_structure 257 265	arterial
+T144	Anatomical_structure 493 508	coronary artery
+T145	Anatomical_structure 502 508	artery
+T146	Anatomical_structure 774 781	stomach
+T147	Anatomical_structure 878 882	Oral
+T148	Anatomical_structure 1434 1447	urinary tract
+T149	Anatomical_structure 1665 1670	trunk
+T150	Anatomical_structure 1751 1761	integument
+T151	Anatomical_structure 1818 1822	back
+T152	Anatomical_structure 1824 1832	buttocks
+T153	Anatomical_structure 1838 1842	neck
+T154	Anatomical_structure 1911 1918	mucosal
+T155	Anatomical_structure 1938 1949	oral cavity
+T156	Anatomical_structure 1938 1942	oral
+T157	Anatomical_structure 1943 1949	cavity
+T158	Anatomical_structure 1954 1960	tongue
+T159	Anatomical_structure 2041 2046	liver
+T160	Anatomical_structure 2284 2289	renal
+T161	Anatomical_structure 2473 2478	blood
+T162	Anatomical_structure 2654 2661	Mucosal
+T163	Anatomical_structure 2666 2670	skin
+T164	Anatomical_structure 2742 2751	epidermal
+T165	Anatomical_structure 2835 2839	skin
+T166	Anatomical_structure 2961 2970	epidermal
+T167	Anatomical_structure 3096 3100	skin
+T168	Anatomical_structure 3130 3145	stratum corneum
+T169	Anatomical_structure 3163 3172	epidermis
+T170	Anatomical_structure 3216 3229	keratinocytes
+T171	Anatomical_structure 3242 3253	lymphocytes
+T172	Anatomical_structure 3286 3292	dermis
+T173	Anatomical_structure 3336 3347	lymphocytic
+T174	Anatomical_structure 3389 3394	cells
+T175	Anatomical_structure 3449 3453	skin
+T176	Anatomical_structure 3633 3642	epidermal
+T177	Medication 2573 2585	prednisolone
+T178	Medication 2558 2585	application of prednisolone

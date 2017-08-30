@@ -1,0 +1,101 @@
+T1	Procedure 272 274	mg
+T2	Procedure 406 435	Cardiopulmonary resuscitation
+T3	Procedure 422 435	resuscitation
+T4	Procedure 437 440	CPR
+T5	Procedure 447 457	intubation
+T6	Procedure 558 568	extubation
+T7	Procedure 629 646	electrocardiogram
+T8	Procedure 675 677	ms
+T9	Procedure 704 706	CK
+T10	Procedure 714 724	troponin-T
+T11	Procedure 731 742	chest X-ray
+T12	Procedure 737 742	X-ray
+T13	Procedure 764 778	echocardiogram
+T14	Procedure 1022 1038	serum creatinine
+T15	Procedure 1028 1038	creatinine
+T16	Procedure 1045 1047	mg
+T17	Procedure 1052 1056	urea
+T18	Procedure 1064 1066	mg
+T19	Procedure 1071 1080	potassium
+T20	Procedure 1094 1104	phosphorus
+T21	Procedure 1111 1113	mg
+T22	Procedure 1118 1125	calcium
+T23	Procedure 1130 1132	mg
+T24	Procedure 1137 1146	magnesium
+T25	Procedure 1170 1177	protein
+T26	Procedure 1191 1194	ALT
+T27	Procedure 1207 1210	AST
+T28	Procedure 1224 1227	INR
+T29	Procedure 1235 1242	albumin
+T30	Procedure 1258 1275	white blood cells
+T31	Procedure 1295 1308	stabilization
+T32	Procedure 1386 1399	glutamic acid
+T33	Procedure 1665 1672	culture
+T34	Procedure 262 282	only a 10-mg IV dose
+T35	Procedure 406 435	Cardiopulmonary resuscitation
+T36	Procedure 558 585	extubation within 2.5 hours
+T37	Procedure 620 646	CPR. His electrocardiogram
+T38	Procedure 667 677	316/383 ms
+T39	Procedure 704 709	CK-MB
+T40	Procedure 714 725	troponin-T)
+T41	Procedure 731 742	chest X-ray
+T42	Procedure 761 778	an echocardiogram
+T43	Procedure 1022 1038	serum creatinine
+T44	Procedure 1041 1050	1.2 mg/dL
+T45	Procedure 1052 1061	urea = 10
+T46	Procedure 1062 1069	6 mg/dL
+T47	Procedure 1107 1116	6.5 mg/dL
+T48	Procedure 1128 1135	9 mg/dL
+T49	Procedure 1137 1150	magnesium = 1
+T50	Procedure 1161 1177	reactive protein
+T51	Procedure 1386 1413	glutamic acid hydrochloride
+T52	Procedure 1661 1680	all culture results
+T53	Disease_disorder 34 46	hypertension
+T54	Disease_disorder 51 65	hyperlipidemia
+T55	Disease_disorder 675 677	ms
+T56	Disease_disorder 723 724	T
+T57	Disease_disorder 795 818	tricuspid regurgitation
+T58	Disease_disorder 1600 1601	T
+T59	Disease_disorder 51 79	hyperlipidemia 1 month prior
+T60	Disease_disorder 667 677	316/383 ms
+T61	Disease_disorder 714 725	troponin-T)
+T62	Disease_disorder 787 818	trivial tricuspid regurgitation
+T63	Disease_disorder 1600 1605	T Max
+T64	Sign_symptom 98 112	abdominal pain
+T65	Sign_symptom 108 112	pain
+T66	Sign_symptom 117 125	vomiting
+T67	Sign_symptom 218 234	personal history
+T68	Sign_symptom 227 234	history
+T69	Sign_symptom 540 553	consciousness
+T70	Sign_symptom 629 646	electrocardiogram
+T71	Sign_symptom 805 818	regurgitation
+T72	Sign_symptom 851 862	vital signs
+T73	Sign_symptom 880 894	blood pressure
+T74	Sign_symptom 886 894	pressure
+T75	Sign_symptom 996 1002	normal
+T76	Sign_symptom 1514 1524	discomfort
+T77	Sign_symptom 1592 1598	fevers
+T78	Sign_symptom 1618 1626	diarrhea
+T79	Sign_symptom 1704 1709	fever
+T80	Sign_symptom 98 112	abdominal pain
+T81	Sign_symptom 197 234	no other significant personal history
+T82	Sign_symptom 530 553	return of consciousness
+T83	Sign_symptom 620 646	CPR. His electrocardiogram
+T84	Sign_symptom 787 818	trivial tricuspid regurgitation
+T85	Sign_symptom 847 862	His vital signs
+T86	Sign_symptom 880 894	blood pressure
+T87	Sign_symptom 994 1020	a normal toxicology report
+T88	Sign_symptom 1483 1524	the patient's gastrointestinal discomfort
+T89	Sign_symptom 1583 1598	-and-off fevers
+T90	Sign_symptom 1700 1709	the fever
+T91	Anatomical_structure 98 107	abdominal
+T92	Anatomical_structure 687 694	cardiac
+T93	Anatomical_structure 731 736	chest
+T94	Anatomical_structure 880 885	blood
+T95	Anatomical_structure 1258 1275	white blood cells
+T96	Anatomical_structure 1264 1275	blood cells
+T97	Anatomical_structure 1264 1269	blood
+T98	Anatomical_structure 1270 1275	cells
+T99	Medication 145 155	amlodipine
+T100	Medication 1343 1352	cellulase
+T101	Medication 145 188	amlodipine 30 days prior to hospitalization

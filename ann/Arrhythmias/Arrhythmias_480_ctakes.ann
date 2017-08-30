@@ -1,0 +1,252 @@
+T1	Procedure 90 98	delivery
+T2	Procedure 220 228	delivery
+T3	Procedure 298 308	episiotomy
+T4	Procedure 334 342	delivery
+T5	Procedure 830 841	chest x-ray
+T6	Procedure 836 841	x-ray
+T7	Procedure 865 875	tomography
+T8	Procedure 877 879	CT
+T9	Procedure 881 885	scan
+T10	Procedure 1148 1150	mg
+T11	Procedure 1172 1187	pain management
+T12	Procedure 1453 1461	delivery
+T13	Procedure 1562 1572	Hemoglobin
+T14	Procedure 1577 1587	hematocrit
+T15	Procedure 1627 1649	white blood cell count
+T16	Procedure 1633 1649	blood cell count
+T17	Procedure 1639 1649	cell count
+T18	Procedure 1718 1735	Electrocardiogram
+T19	Procedure 1790 1806	Echocardiography
+T20	Procedure 2141 2143	mg
+T21	Procedure 2528 2536	Chest CT
+T22	Procedure 2534 2536	CT
+T23	Procedure 2541 2558	electrocardiogram
+T24	Procedure 2625 2635	ultrasound
+T25	Procedure 2650 2657	CT scan
+T26	Procedure 2650 2652	CT
+T27	Procedure 2653 2657	scan
+T28	Procedure 2848 2856	delivery
+T29	Procedure 3127 3157	pelvic or speculum examination
+T30	Procedure 3460 3480	complete blood count
+T31	Procedure 3491 3513	white blood cell count
+T32	Procedure 3497 3513	blood cell count
+T33	Procedure 3503 3513	cell count
+T34	Procedure 3535 3545	creatinine
+T35	Procedure 3553 3555	mg
+T36	Procedure 3566 3585	blood urea nitrogen
+T37	Procedure 3566 3576	blood urea
+T38	Procedure 3572 3576	urea
+T39	Procedure 3592 3594	mg
+T40	Procedure 3635 3657	white blood cell count
+T41	Procedure 3641 3657	blood cell count
+T42	Procedure 3647 3657	cell count
+T43	Procedure 3677 3687	creatinine
+T44	Procedure 3695 3697	mg
+T45	Procedure 3706 3725	blood urea nitrogen
+T46	Procedure 3706 3716	blood urea
+T47	Procedure 3712 3716	urea
+T48	Procedure 3731 3733	mg
+T49	Procedure 3745 3755	ultrasound
+T50	Procedure 3966 3974	delivery
+T51	Procedure 4171 4179	Surgical
+T52	Procedure 80 162	labor and delivery as a transport from an outside hospital for symptoms of malaise
+T53	Procedure 210 241	a vaginal delivery 4 days prior
+T54	Procedure 288 313	a midline episiotomy that
+T55	Procedure 334 394	delivery in the setting of a non-reassuring fetal heart tone
+T56	Procedure 828 841	a chest x-ray
+T57	Procedure 846 875	pulmonary computed tomography
+T58	Procedure 1121 1155	A script for ibuprofen 600 mg q6 h
+T59	Procedure 1436 1461	a recent vaginal delivery
+T60	Procedure 1627 1649	white blood cell count
+T61	Procedure 2115 2150	the ER on metoprolol 12.5 mg PO BID
+T62	Procedure 2528 2558	Chest CT and electrocardiogram
+T63	Procedure 2602 2635	A right upper quadrant ultrasound
+T64	Procedure 2640 2657	abdominal CT scan
+T65	Procedure 2844 2856	the delivery
+T66	Procedure 3105 3157	no documentation of a pelvic or speculum examination
+T67	Procedure 3533 3558	a creatinine of 1.0 mg/dL
+T68	Procedure 3564 3598	a blood urea nitrogen of 19 mg/ dL
+T69	Procedure 3677 3700	creatinine of 0.8 mg/dL
+T70	Procedure 3706 3736	blood urea nitrogen of 6 mg/dL
+T71	Procedure 3738 3755	Pelvic ultrasound
+T72	Procedure 3927 3979	arrival to our institution's labor and delivery unit
+T73	Procedure 4167 4199	the Surgical Intensive Care Unit
+T74	Disease_disorder 406 416	blood loss
+T75	Disease_disorder 534 540	asthma
+T76	Disease_disorder 542 552	chickenpox
+T77	Disease_disorder 567 574	anxiety
+T78	Disease_disorder 580 594	panic disorder
+T79	Disease_disorder 586 594	disorder
+T80	Disease_disorder 939 956	pulmonary embolus
+T81	Disease_disorder 1771 1788	sinus tachycardia
+T82	Disease_disorder 1771 1776	sinus
+T83	Disease_disorder 1963 1983	pericardial effusion
+T84	Disease_disorder 1975 1983	effusion
+T85	Disease_disorder 2013 2022	infection
+T86	Disease_disorder 2044 2061	sinus tachycardia
+T87	Disease_disorder 2044 2049	sinus
+T88	Disease_disorder 2956 2968	endometritis
+T89	Disease_disorder 2988 2995	absence
+T90	Disease_disorder 4135 4141	sepsis
+T91	Disease_disorder 396 416	Estimated blood loss
+T92	Disease_disorder 542 565	chickenpox in childhood
+T93	Disease_disorder 580 594	panic disorder
+T94	Disease_disorder 1758 1788	a persistent sinus tachycardia
+T95	Disease_disorder 1960 1983	no pericardial effusion
+T96	Disease_disorder 1990 2022	no clear indication of infection
+T97	Disease_disorder 2024 2061	the etiology of the sinus tachycardia
+T98	Disease_disorder 2936 2968	slight suspicion of endometritis
+T99	Disease_disorder 2984 3006	the absence of a fever
+T100	Disease_disorder 4112 4154	increasing concern for sepsis, the patient
+T101	Sign_symptom 24 30	female
+T102	Sign_symptom 80 85	labor
+T103	Sign_symptom 104 113	transport
+T104	Sign_symptom 143 151	symptoms
+T105	Sign_symptom 155 162	malaise
+T106	Sign_symptom 164 171	dyspnea
+T107	Sign_symptom 177 188	tachycardia
+T108	Sign_symptom 212 228	vaginal delivery
+T109	Sign_symptom 255 259	male
+T110	Sign_symptom 425 427	cc
+T111	Sign_symptom 433 453	past medical history
+T112	Sign_symptom 438 453	medical history
+T113	Sign_symptom 446 453	history
+T114	Sign_symptom 524 532	mutation
+T115	Sign_symptom 567 574	anxiety
+T116	Sign_symptom 580 585	panic
+T117	Sign_symptom 727 738	tachycardia
+T118	Sign_symptom 764 786	shortness of breath of
+T119	Sign_symptom 764 783	shortness of breath
+T120	Sign_symptom 949 956	embolus
+T121	Sign_symptom 979 990	tachycardia
+T122	Sign_symptom 1002 1013	vital signs
+T123	Sign_symptom 1172 1176	pain
+T124	Sign_symptom 1177 1187	management
+T125	Sign_symptom 1281 1293	palpitations
+T126	Sign_symptom 1306 1312	fevers
+T127	Sign_symptom 1314 1320	nausea
+T128	Sign_symptom 1322 1330	vomiting
+T129	Sign_symptom 1332 1346	abdominal pain
+T130	Sign_symptom 1342 1346	pain
+T131	Sign_symptom 1351 1377	purulent vaginal discharge
+T132	Sign_symptom 1360 1377	vaginal discharge
+T133	Sign_symptom 1445 1461	vaginal delivery
+T134	Sign_symptom 1463 1474	Vital signs
+T135	Sign_symptom 1507 1518	tachycardia
+T136	Sign_symptom 1577 1587	hematocrit
+T137	Sign_symptom 1718 1735	Electrocardiogram
+T138	Sign_symptom 1777 1788	tachycardia
+T139	Sign_symptom 1818 1824	normal
+T140	Sign_symptom 1843 1877	left ventricular ejection fraction
+T141	Sign_symptom 1860 1868	ejection
+T142	Sign_symptom 1890 1896	normal
+T143	Sign_symptom 1897 1931	left ventricular systolic function
+T144	Sign_symptom 2050 2061	tachycardia
+T145	Sign_symptom 2144 2146	PO
+T146	Sign_symptom 2230 2242	palpitations
+T147	Sign_symptom 2247 2254	dyspnea
+T148	Sign_symptom 2278 2300	generalized body aches
+T149	Sign_symptom 2295 2300	aches
+T150	Sign_symptom 2364 2375	tachycardia
+T151	Sign_symptom 2420 2438	normal vital signs
+T152	Sign_symptom 2420 2426	normal
+T153	Sign_symptom 2427 2438	vital signs
+T154	Sign_symptom 2486 2496	tenderness
+T155	Sign_symptom 2500 2526	purulent vaginal discharge
+T156	Sign_symptom 2509 2526	vaginal discharge
+T157	Sign_symptom 2541 2558	electrocardiogram
+T158	Sign_symptom 2707 2719	splenomegaly
+T159	Sign_symptom 2792 2801	transport
+T160	Sign_symptom 2988 3006	absence of a fever
+T161	Sign_symptom 3001 3006	fever
+T162	Sign_symptom 3016 3026	tenderness
+T163	Sign_symptom 3040 3058	purulent discharge
+T164	Sign_symptom 3236 3248	palpitations
+T165	Sign_symptom 3250 3269	shortness of breath
+T166	Sign_symptom 3271 3278	malaise
+T167	Sign_symptom 3284 3306	generalized body aches
+T168	Sign_symptom 3301 3306	aches
+T169	Sign_symptom 3346 3354	diarrhea
+T170	Sign_symptom 3356 3367	Vital signs
+T171	Sign_symptom 3397 3408	tachycardia
+T172	Sign_symptom 3796 3806	conception
+T173	Sign_symptom 3847 3856	transport
+T174	Sign_symptom 3956 3961	labor
+T175	Sign_symptom 4074 4088	blood pressure
+T176	Sign_symptom 4080 4088	pressure
+T177	Sign_symptom 0 39	A 37 year-old Caucasian female, G6P3033
+T178	Sign_symptom 80 162	labor and delivery as a transport from an outside hospital for symptoms of malaise
+T179	Sign_symptom 210 241	a vaginal delivery 4 days prior
+T180	Sign_symptom 229 266	4 days prior of a healthy male infant
+T181	Sign_symptom 421 427	300 cc
+T182	Sign_symptom 429 453	Her past medical history
+T183	Sign_symptom 474 532	methylene tetrahydrofolate reductase heterozygous mutation
+T184	Sign_symptom 580 594	panic disorder
+T185	Sign_symptom 715 745	a new onset tachycardia of 120
+T186	Sign_symptom 754 812	transient shortness of breath of unknown etiology on PPD#1
+T187	Sign_symptom 939 956	pulmonary embolus
+T188	Sign_symptom 965 990	the new onset tachycardia
+T189	Sign_symptom 992 1013	all other vital signs
+T190	Sign_symptom 1172 1187	pain management
+T191	Sign_symptom 1240 1293	an outside Emergency Room complaining of palpitations
+T192	Sign_symptom 1332 1346	abdominal pain
+T193	Sign_symptom 1351 1377	purulent vaginal discharge
+T194	Sign_symptom 1436 1461	a recent vaginal delivery
+T195	Sign_symptom 1505 1525	a tachycardia to 130
+T196	Sign_symptom 1758 1788	a persistent sinus tachycardia
+T197	Sign_symptom 1818 1831	normal limits
+T198	Sign_symptom 1841 1883	a left ventricular ejection fraction of 60
+T199	Sign_symptom 1890 1931	normal left ventricular systolic function
+T200	Sign_symptom 2024 2061	the etiology of the sinus tachycardia
+T201	Sign_symptom 2115 2150	the ER on metoprolol 12.5 mg PO BID
+T202	Sign_symptom 2278 2300	generalized body aches
+T203	Sign_symptom 2410 2438	otherwise normal vital signs
+T204	Sign_symptom 2478 2526	uterine tenderness or purulent vaginal discharge
+T205	Sign_symptom 2528 2558	Chest CT and electrocardiogram
+T206	Sign_symptom 2702 2719	mild splenomegaly
+T207	Sign_symptom 2792 2813	transport the patient
+T208	Sign_symptom 2984 3006	the absence of a fever
+T209	Sign_symptom 3008 3026	uterine tenderness
+T210	Sign_symptom 3040 3077	purulent discharge clinical suspicion
+T211	Sign_symptom 3284 3306	generalized body aches
+T212	Sign_symptom 3397 3427	tachycardia into the 130's/min
+T213	Sign_symptom 3763 3806	no signs of retained products of conception
+T214	Sign_symptom 3847 3872	transport to our hospital
+T215	Sign_symptom 3927 3979	arrival to our institution's labor and delivery unit
+T216	Sign_symptom 4074 4095	blood pressure of 121
+T217	Anatomical_structure 212 219	vaginal
+T218	Anatomical_structure 384 389	heart
+T219	Anatomical_structure 406 411	blood
+T220	Anatomical_structure 830 835	chest
+T221	Anatomical_structure 1332 1341	abdominal
+T222	Anatomical_structure 1360 1367	vaginal
+T223	Anatomical_structure 1445 1452	vaginal
+T224	Anatomical_structure 1627 1643	white blood cell
+T225	Anatomical_structure 1633 1643	blood cell
+T226	Anatomical_structure 1633 1638	blood
+T227	Anatomical_structure 1639 1643	cell
+T228	Anatomical_structure 1673 1680	thyroid
+T229	Anatomical_structure 1963 1974	pericardial
+T230	Anatomical_structure 2119 2121	ER
+T231	Anatomical_structure 2212 2214	ER
+T232	Anatomical_structure 2478 2485	uterine
+T233	Anatomical_structure 2509 2516	vaginal
+T234	Anatomical_structure 2528 2533	Chest
+T235	Anatomical_structure 2640 2649	abdominal
+T236	Anatomical_structure 3008 3015	uterine
+T237	Anatomical_structure 3127 3133	pelvic
+T238	Anatomical_structure 3469 3474	blood
+T239	Anatomical_structure 3491 3507	white blood cell
+T240	Anatomical_structure 3497 3507	blood cell
+T241	Anatomical_structure 3497 3502	blood
+T242	Anatomical_structure 3503 3507	cell
+T243	Anatomical_structure 3566 3571	blood
+T244	Anatomical_structure 3635 3651	white blood cell
+T245	Anatomical_structure 3641 3651	blood cell
+T246	Anatomical_structure 3641 3646	blood
+T247	Anatomical_structure 3647 3651	cell
+T248	Anatomical_structure 3706 3711	blood
+T249	Anatomical_structure 3738 3744	Pelvic
+T250	Anatomical_structure 4074 4079	blood
+T251	Medication 1134 1150	ibuprofen 600 mg
+T252	Medication 1121 1155	A script for ibuprofen 600 mg q6 h

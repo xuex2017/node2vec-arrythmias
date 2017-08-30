@@ -1,0 +1,99 @@
+T1	Procedure 333 336	ECG
+T2	Procedure 349 356	surgery
+T3	Procedure 491 500	vibration
+T4	Procedure 743 759	Echocardiography
+T5	Procedure 804 819	creatine kinase
+T6	Procedure 821 823	CK
+T7	Procedure 1029 1042	Muscle biopsy
+T8	Procedure 1036 1042	biopsy
+T9	Procedure 325 356	routine ECG before foot surgery
+T10	Procedure 491 506	vibration sense
+T11	Procedure 743 772	Echocardiography at that time
+T12	Procedure 791 819	The level of creatine kinase
+T13	Procedure 1029 1042	Muscle biopsy
+T14	Disease_disorder 245 259	foot deformity
+T15	Disease_disorder 250 259	deformity
+T16	Disease_disorder 415 424	pes cavus
+T17	Disease_disorder 425 434	deformity
+T18	Disease_disorder 491 500	vibration
+T19	Disease_disorder 580 590	impairment
+T20	Disease_disorder 647 675	sensory-motor polyneuropathy
+T21	Disease_disorder 655 675	motor polyneuropathy
+T22	Disease_disorder 661 675	polyneuropathy
+T23	Disease_disorder 909 935	restrictive cardiomyopathy
+T24	Disease_disorder 921 935	cardiomyopathy
+T25	Disease_disorder 989 1001	contractures
+T26	Disease_disorder 1066 1074	myopathy
+T27	Disease_disorder 1394 1395	T
+T28	Disease_disorder 1523 1534	dysfunction
+T29	Disease_disorder 222 259	toe-walk and developed foot deformity
+T30	Disease_disorder 405 434	bilateral pes cavus deformity
+T31	Disease_disorder 491 506	vibration sense
+T32	Disease_disorder 565 590	no other motor impairment
+T33	Disease_disorder 647 700	sensory-motor polyneuropathy with conduction velocity
+T34	Disease_disorder 909 935	restrictive cardiomyopathy
+T35	Disease_disorder 989 1009	contractures at hips
+T36	Disease_disorder 1053 1074	myofibrillar myopathy
+T37	Disease_disorder 1385 1406	c.626C [ T) in exon 3
+T38	Disease_disorder 1512 1534	any muscle dysfunction
+T39	Sign_symptom 40 52	oldest child
+T40	Sign_symptom 226 230	walk
+T41	Sign_symptom 289 297	symptoms
+T42	Sign_symptom 448 456	reflexes
+T43	Sign_symptom 491 506	vibration sense
+T44	Sign_symptom 549 556	walking
+T45	Sign_symptom 592 608	Nerve conduction
+T46	Sign_symptom 681 700	conduction velocity
+T47	Sign_symptom 738 739	m
+T48	Sign_symptom 866 872	normal
+T49	Sign_symptom 945 953	rigidity
+T50	Sign_symptom 1111 1123	asymptomatic
+T51	Sign_symptom 1137 1155	pulmonary function
+T52	Sign_symptom 1160 1166	normal
+T53	Sign_symptom 1175 1189	vital capacity
+T54	Sign_symptom 1191 1194	FVC
+T55	Sign_symptom 1210 1218	rigidity
+T56	Sign_symptom 1256 1264	mobility
+T57	Sign_symptom 1365 1373	mutation
+T58	Sign_symptom 1484 1492	mutation
+T59	Sign_symptom 40 94	oldest child of unaffected, non-consanguineous parents
+T60	Sign_symptom 222 259	toe-walk and developed foot deformity
+T61	Sign_symptom 436 477	deep tendon reflexes in lower extremities
+T62	Sign_symptom 545 556	toe-walking
+T63	Sign_symptom 592 616	Nerve conduction studies
+T64	Sign_symptom 647 700	sensory-motor polyneuropathy with conduction velocity
+T65	Sign_symptom 709 741	median/ulnar motor nerves 38 m/s
+T66	Sign_symptom 841 872	1.5 times upper limit of normal
+T67	Sign_symptom 945 984	rigidity of cervical and thoracic spine
+T68	Sign_symptom 1097 1131	15 years with asymptomatic long QT
+T69	Sign_symptom 1133 1155	Her pulmonary function
+T70	Sign_symptom 1160 1168	normal [
+T71	Sign_symptom 1196 1218	87 %]. Spinal rigidity
+T72	Sign_symptom 1252 1264	her mobility
+T73	Sign_symptom 1352 1383	heterozygous mutation Pro209Leu
+T74	Sign_symptom 1479 1492	this mutation
+T75	Anatomical_structure 222 225	toe
+T76	Anatomical_structure 245 249	foot
+T77	Anatomical_structure 272 279	cardiac
+T78	Anatomical_structure 344 348	foot
+T79	Anatomical_structure 441 447	tendon
+T80	Anatomical_structure 460 477	lower extremities
+T81	Anatomical_structure 466 477	extremities
+T82	Anatomical_structure 529 535	ankles
+T83	Anatomical_structure 545 548	toe
+T84	Anatomical_structure 592 597	Nerve
+T85	Anatomical_structure 709 734	median/ulnar motor nerves
+T86	Anatomical_structure 716 734	ulnar motor nerves
+T87	Anatomical_structure 716 721	ulnar
+T88	Anatomical_structure 957 984	cervical and thoracic spine
+T89	Anatomical_structure 970 984	thoracic spine
+T90	Anatomical_structure 970 978	thoracic
+T91	Anatomical_structure 979 984	spine
+T92	Anatomical_structure 1005 1009	hips
+T93	Anatomical_structure 1011 1016	knees
+T94	Anatomical_structure 1021 1027	ankles
+T95	Anatomical_structure 1029 1035	Muscle
+T96	Anatomical_structure 1291 1296	blood
+T97	Anatomical_structure 1516 1522	muscle
+T98	Medication 795 800	level
+T99	Medication 791 819	The level of creatine kinase

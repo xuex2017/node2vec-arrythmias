@@ -1,0 +1,150 @@
+T1	Procedure 156 159	ECG
+T2	Procedure 335 342	therapy
+T3	Procedure 439 451	implantation
+T4	Procedure 551 558	surgery
+T5	Procedure 804 811	surgery
+T6	Procedure 1224 1235	reoperation
+T7	Procedure 1408 1419	Replacement
+T8	Procedure 1624 1631	removal
+T9	Procedure 1884 1891	surgery
+T10	Procedure 2013 2020	surgery
+T11	Procedure 2240 2247	Surgery
+T12	Procedure 2460 2467	primary
+T13	Procedure 2622 2633	reoperation
+T14	Procedure 2654 2662	surgical
+T15	Procedure 2787 2796	tamponade
+T16	Procedure 2973 2981	analysis
+T17	Procedure 3081 3088	surgery
+T18	Procedure 3269 3271	mg
+T19	Procedure 3291 3311	creatinine clearance
+T20	Procedure 3291 3301	creatinine
+T21	Procedure 3381 3391	prevention
+T22	Procedure 3641 3651	procedures
+T23	Procedure 3652 3659	surgery
+T24	Procedure 3794 3801	surgery
+T25	Procedure 4107 4114	surgery
+T26	Procedure 4612 4619	surgery
+T27	Procedure 4718 4725	surgery
+T28	Procedure 4818 4825	surgery
+T29	Procedure 152 159	His ECG
+T30	Procedure 316 368	long-term warfarin therapy with a CHADS 2 score of 5
+T31	Procedure 439 496	implantation of a cardiac resynchronization defibrillator
+T32	Procedure 540 558	the device surgery
+T33	Procedure 748 811	a number of downsides to heparin bridging around device surgery
+T34	Procedure 1357 1419	example in the Implantable Cardiac Pulse Generator Replacement
+T35	Procedure 1608 1631	complete system removal
+T36	Procedure 1857 1891	the prothrombotic state of surgery
+T37	Procedure 1999 2069	defibrillator surgery without interruption of warfarin anticoagulation
+T38	Procedure 2220 2291	Warfarin for Device Surgery Randomized Controlled Trial (BRUISE CONTROL
+T39	Procedure 2456 2475	The primary outcome
+T40	Procedure 2646 2695	. Major surgical and thromboembolic complications
+T41	Procedure 2766 2796	1 episode of cardiac tamponade
+T42	Procedure 2957 3010	those in a meta-analysis of the observational studies
+T43	Procedure 3074 3121	device surgery without interruption of warfarin
+T44	Procedure 3254 3271	dabigatran 150 mg
+T45	Procedure 3289 3325	a creatinine clearance of 46 mL/ min
+T46	Procedure 3369 3401	use for the prevention of stroke
+T47	Procedure 3610 3651	1. Temporary interruptions for procedures
+T48	Procedure 3780 3801	defibrillator surgery
+T49	Procedure 4041 4114	the Table for suggested period of NOAC interruption before device surgery
+T50	Procedure 4568 4619	the first dose of dabigatran 24 hours after surgery
+T51	Procedure 4703 4725	48 hours after surgery
+T52	Procedure 4760 4825	all of these recommendations about NOAC management around surgery
+T53	Disease_disorder 41 60	atrial fibrillation
+T54	Disease_disorder 48 60	fibrillation
+T55	Disease_disorder 71 85	embolic stroke
+T56	Disease_disorder 79 85	stroke
+T57	Disease_disorder 87 104	diabetes mellitus
+T58	Disease_disorder 87 95	diabetes
+T59	Disease_disorder 106 118	hypertension
+T60	Disease_disorder 136 150	cardiomyopathy
+T61	Disease_disorder 166 185	atrial fibrillation
+T62	Disease_disorder 173 185	fibrillation
+T63	Disease_disorder 190 214	left bundle-branch block
+T64	Disease_disorder 195 214	bundle-branch block
+T65	Disease_disorder 209 214	block
+T66	Disease_disorder 902 910	hematoma
+T67	Disease_disorder 952 960	hematoma
+T68	Disease_disorder 1030 1039	hematomas
+T69	Disease_disorder 1294 1302	hematoma
+T70	Disease_disorder 1342 1351	infection
+T71	Disease_disorder 1456 1466	infections
+T72	Disease_disorder 1518 1527	hematomas
+T73	Disease_disorder 1543 1553	infections
+T74	Disease_disorder 1827 1845	hypercoagulability
+T75	Disease_disorder 2277 2283	BRUISE
+T76	Disease_disorder 2503 2511	hematoma
+T77	Disease_disorder 2746 2750	arms
+T78	Disease_disorder 2779 2796	cardiac tamponade
+T79	Disease_disorder 2803 2824	myocardial infarction
+T80	Disease_disorder 2814 2824	infarction
+T81	Disease_disorder 2860 2866	stroke
+T82	Disease_disorder 2873 2898	transient ischemic attack
+T83	Disease_disorder 2883 2928	ischemic attack in the continued-warfarin arm
+T84	Disease_disorder 3395 3401	stroke
+T85	Disease_disorder 3415 3423	embolism
+T86	Disease_disorder 3441 3460	atrial fibrillation
+T87	Disease_disorder 3448 3460	fibrillation
+T88	Disease_disorder 3944 3950	stroke
+T89	Disease_disorder 3960 3968	embolism
+T90	Disease_disorder 4476 4485	hematomas
+T91	Disease_disorder 18 60	a 76-year-old man with atrial fibrillation
+T92	Disease_disorder 62 85	previous embolic stroke
+T93	Disease_disorder 87 104	diabetes mellitus
+T94	Disease_disorder 124 150	nonischemic cardiomyopathy
+T95	Disease_disorder 166 254	atrial fibrillation and left bundle-branch block with a QRS duration of 180 milliseconds
+T96	Disease_disorder 843 910	a substantial risk of clinically significant device pocket hematoma
+T97	Disease_disorder 940 974	The risk of hematoma with bridging
+T98	Disease_disorder 1016 1039	device pocket hematomas
+T99	Disease_disorder 1271 1312	an association between hematoma formation
+T100	Disease_disorder 1317 1351	subsequent device system infection
+T101	Disease_disorder 1440 1466	8 patients with infections
+T102	Disease_disorder 1504 1527	postoperative hematomas
+T103	Disease_disorder 1529 1553	Device system infections
+T104	Disease_disorder 1822 1845	even hypercoagulability
+T105	Disease_disorder 2220 2291	Warfarin for Device Surgery Randomized Controlled Trial (BRUISE CONTROL
+T106	Disease_disorder 2491 2511	significant hematoma
+T107	Disease_disorder 2766 2796	1 episode of cardiac tamponade
+T108	Disease_disorder 2801 2852	1 myocardial infarction in the heparin-bridging arm
+T109	Disease_disorder 2858 2866	1 stroke
+T110	Disease_disorder 2871 2928	1 transient ischemic attack in the continued-warfarin arm
+T111	Disease_disorder 3369 3401	use for the prevention of stroke
+T112	Disease_disorder 3406 3460	systemic embolism in patients with atrial fibrillation
+T113	Disease_disorder 3951 3968	systemic embolism
+T114	Disease_disorder 4443 4485	result in significant numbers of hematomas
+T115	Sign_symptom 264 298	left ventricular ejection fraction
+T116	Sign_symptom 281 289	ejection
+T117	Sign_symptom 1274 1285	association
+T118	Sign_symptom 1734 1741	problem
+T119	Sign_symptom 1792 1798	normal
+T120	Sign_symptom 2892 2898	attack
+T121	Sign_symptom 3415 3423	embolism
+T122	Sign_symptom 3960 3968	embolism
+T123	Sign_symptom 4254 4264	hemostasis
+T124	Sign_symptom 4800 4810	management
+T125	Sign_symptom 260 298	his left ventricular ejection fraction
+T126	Sign_symptom 1271 1312	an association between hematoma formation
+T127	Sign_symptom 1723 1763	The second problem with heparin bridging
+T128	Sign_symptom 1781 1812	a phase of normal coagulability
+T129	Sign_symptom 2871 2928	1 transient ischemic attack in the continued-warfarin arm
+T130	Sign_symptom 3406 3460	systemic embolism in patients with atrial fibrillation
+T131	Sign_symptom 3951 3968	systemic embolism
+T132	Sign_symptom 4760 4825	all of these recommendations about NOAC management around surgery
+T133	Anatomical_structure 41 47	atrial
+T134	Anatomical_structure 166 172	atrial
+T135	Anatomical_structure 190 208	left bundle-branch
+T136	Anatomical_structure 202 237	branch block with a QRS duration of
+T137	Anatomical_structure 202 208	branch
+T138	Anatomical_structure 457 464	cardiac
+T139	Anatomical_structure 1384 1391	Cardiac
+T140	Anatomical_structure 2746 2750	arms
+T141	Anatomical_structure 2779 2786	cardiac
+T142	Anatomical_structure 2849 2852	arm
+T143	Anatomical_structure 2925 2928	arm
+T144	Anatomical_structure 3441 3447	atrial
+T145	Medication 226 234	duration
+T146	Medication 1169 1177	duration
+T147	Medication 3029 3034	basis
+T148	Medication 166 254	atrial fibrillation and left bundle-branch block with a QRS duration of 180 milliseconds
+T149	Medication 1165 1207	the duration and cost of hospitalization 7
+T150	Medication 3025 3048	the basis of these data

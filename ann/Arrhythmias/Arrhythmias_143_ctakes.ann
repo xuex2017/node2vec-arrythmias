@@ -1,0 +1,147 @@
+T1	Procedure 108 120	hysterectomy
+T2	Procedure 174 191	electrocardiogram
+T3	Procedure 193 196	ECG
+T4	Procedure 401 412	chest X-ray
+T5	Procedure 407 412	X-ray
+T6	Procedure 434 439	tests
+T7	Procedure 727 730	ECG
+T8	Procedure 777 802	intravenous drip infusion
+T9	Procedure 794 802	infusion
+T10	Procedure 808 810	mg
+T11	Procedure 825 827	mg
+T12	Procedure 847 849	mg
+T13	Procedure 1050 1053	ECG
+T14	Procedure 1124 1128	test
+T15	Procedure 1168 1178	Anesthesia
+T16	Procedure 1196 1216	intravenous infusion
+T17	Procedure 1208 1216	infusion
+T18	Procedure 1253 1261	Infusion
+T19	Procedure 1290 1292	mg
+T20	Procedure 1316 1326	intubation
+T21	Procedure 1370 1373	ECG
+T22	Procedure 1389 1408	tracheal intubation
+T23	Procedure 1398 1408	intubation
+T24	Procedure 1410 1420	Anesthesia
+T25	Procedure 1476 1507	continuous intravenous infusion
+T26	Procedure 1487 1507	intravenous infusion
+T27	Procedure 1499 1507	infusion
+T28	Procedure 1592 1606	administration
+T29	Procedure 1718 1726	sedation
+T30	Procedure 1793 1796	ECG
+T31	Procedure 1829 1837	incision
+T32	Procedure 1859 1867	incision
+T33	Procedure 1880 1894	epidural block
+T34	Procedure 1989 1998	analgesia
+T35	Procedure 2104 2112	infusion
+T36	Procedure 2146 2157	transfusion
+T37	Procedure 2219 2227	incision
+T38	Procedure 2352 2366	administration
+T39	Procedure 2471 2474	ECG
+T40	Procedure 2713 2715	mg
+T41	Procedure 2838 2845	Surgery
+T42	Procedure 101 157	simple hysterectomy due to a diagnosis of uterine myomas
+T43	Procedure 159 191	A preoperative electrocardiogram
+T44	Procedure 386 412	The results of chest X-ray
+T45	Procedure 417 439	other laboratory tests
+T46	Procedure 720 751	Holter ECG at a nearby hospital
+T47	Procedure 753 820	Premedication comprised intravenous drip infusion of 3 mg midazolam
+T48	Procedure 822 838	20 mg famotidine
+T49	Procedure 843 866	0.5 mg atropine sulfate
+T50	Procedure 1122 1157	a test dose of 1 ml of 1% lidocaine
+T51	Procedure 1196 1224	intravenous infusion of 3 ng
+T52	Procedure 1238 1261	Target Control Infusion
+T53	Procedure 1288 1303	8 mg vecuronium
+T54	Procedure 1476 1519	continuous intravenous infusion of propofol
+T55	Procedure 1583 1620	suitable administration of vecuronium
+T56	Procedure 1709 1726	Depth of sedation
+T57	Procedure 1789 1837	her ECG readings at the time of initial incision
+T58	Procedure 1842 1867	60 min following incision
+T59	Procedure 1869 1894	continuous epidural block
+T60	Procedure 1975 1998	postoperative analgesia
+T61	Procedure 2089 2184	an increase in infusion volume with commencement of auto-transfusion of ephedrine hydrochloride
+T62	Procedure 2189 2227	120 min following the initial incision
+T63	Procedure 2352 2384	administration of indigo carmine
+T64	Procedure 2467 2484	the ECG monitor (
+T65	Procedure 2709 2732	0.5 mg atropine sulfate
+T66	Disease_disorder 40 42	cm
+T67	Disease_disorder 151 157	myomas
+T68	Disease_disorder 222 227	block
+T69	Disease_disorder 651 661	arrhythmia
+T70	Disease_disorder 1012 1033	First-degree AV block
+T71	Disease_disorder 1025 1033	AV block
+T72	Disease_disorder 1028 1033	block
+T73	Disease_disorder 1889 1894	block
+T74	Disease_disorder 2286 2301	ureteral injury
+T75	Disease_disorder 2295 2301	injury
+T76	Disease_disorder 2549 2554	block
+T77	Disease_disorder 2660 2685	Wenckebach type A-V block
+T78	Disease_disorder 2680 2685	block
+T79	Disease_disorder 2755 2780	Wenckebach type A-V block
+T80	Disease_disorder 2775 2780	block
+T81	Disease_disorder 2822 2827	block
+T82	Disease_disorder 3083 3086	icc
+T83	Disease_disorder 16 42	a 41-year-old woman 161 cm
+T84	Disease_disorder 36 72	161 cm in height and 70 kg in weight
+T85	Disease_disorder 101 157	simple hysterectomy due to a diagnosis of uterine myomas
+T86	Disease_disorder 207 227	rst-degree A-V block
+T87	Disease_disorder 639 661	evidence of arrhythmia
+T88	Disease_disorder 1012 1033	First-degree AV block
+T89	Disease_disorder 1869 1894	continuous epidural block
+T90	Disease_disorder 2282 2301	any ureteral injury
+T91	Disease_disorder 2514 2554	a diagnosis of Wenckebach type A-V block
+T92	Disease_disorder 2656 2704	the Wenckebach type A-V block for the next 5 min
+T93	Disease_disorder 2751 2780	The Wenckebach type A-V block
+T94	Disease_disorder 2807 2829	rst-degree A-V block (
+T95	Disease_disorder 3082 3094	.icc.u-tokai
+T96	Sign_symptom 130 139	diagnosis
+T97	Sign_symptom 174 191	electrocardiogram
+T98	Sign_symptom 229 240	PR interval
+T99	Sign_symptom 229 231	PR
+T100	Sign_symptom 318 326	ejection
+T101	Sign_symptom 456 462	normal
+T102	Sign_symptom 916 930	Blood pressure
+T103	Sign_symptom 922 930	pressure
+T104	Sign_symptom 1107 1109	L1
+T105	Sign_symptom 1114 1116	L2
+T106	Sign_symptom 1168 1178	Anesthesia
+T107	Sign_symptom 1222 1224	ng
+T108	Sign_symptom 1374 1382	readings
+T109	Sign_symptom 1410 1420	Anesthesia
+T110	Sign_symptom 1532 1534	ng
+T111	Sign_symptom 1592 1606	administration
+T112	Sign_symptom 1797 1805	readings
+T113	Sign_symptom 1989 1998	analgesia
+T114	Sign_symptom 2009 2023	blood pressure
+T115	Sign_symptom 2015 2023	pressure
+T116	Sign_symptom 2352 2366	administration
+T117	Sign_symptom 2516 2525	diagnosis
+T118	Sign_symptom 2600 2609	follow-up
+T119	Sign_symptom 3118 3120	PR
+T120	Sign_symptom 101 157	simple hysterectomy due to a diagnosis of uterine myomas
+T121	Sign_symptom 159 191	A preoperative electrocardiogram
+T122	Sign_symptom 229 240	PR interval
+T123	Sign_symptom 314 335	the ejection fraction
+T124	Sign_symptom 452 468	the normal range
+T125	Sign_symptom 916 930	Blood pressure
+T126	Sign_symptom 1097 1116	vertebrae L1 and L2
+T127	Sign_symptom 1196 1224	intravenous infusion of 3 ng
+T128	Sign_symptom 1521 1537	1.0 to 2.0 ng/ml
+T129	Sign_symptom 1583 1620	suitable administration of vecuronium
+T130	Sign_symptom 1789 1837	her ECG readings at the time of initial incision
+T131	Sign_symptom 1975 1998	postoperative analgesia
+T132	Sign_symptom 2009 2023	blood pressure
+T133	Sign_symptom 2352 2384	administration of indigo carmine
+T134	Sign_symptom 2514 2554	a diagnosis of Wenckebach type A-V block
+T135	Sign_symptom 2598 2609	a follow-up
+T136	Sign_symptom 3098 3120	jp Heart Rate62/min PR
+T137	Anatomical_structure 143 150	uterine
+T138	Anatomical_structure 401 406	chest
+T139	Anatomical_structure 916 921	Blood
+T140	Anatomical_structure 1097 1106	vertebrae
+T141	Anatomical_structure 2009 2014	blood
+T142	Anatomical_structure 3101 3106	Heart
+T143	Medication 1952 1960	fentanyl
+T144	Medication 2161 2184	ephedrine hydrochloride
+T145	Medication 2161 2170	ephedrine
+T146	Medication 1947 1960	8 ml fentanyl
+T147	Medication 2089 2184	an increase in infusion volume with commencement of auto-transfusion of ephedrine hydrochloride

@@ -1,0 +1,313 @@
+T1	Procedure 349 358	colectomy
+T2	Procedure 468 480	chemotherapy
+T3	Procedure 509 516	calcium
+T4	Procedure 554 561	calcium
+T5	Procedure 643 655	chemotherapy
+T6	Procedure 657 664	surgery
+T7	Procedure 805 812	surgery
+T8	Procedure 844 851	surgery
+T9	Procedure 910 920	tomography
+T10	Procedure 922 924	CT
+T11	Procedure 1022 1041	electrocardiography
+T12	Procedure 1130 1141	chest X-ray
+T13	Procedure 1136 1141	X-ray
+T14	Procedure 1201 1217	Echocardiography
+T15	Procedure 1314 1316	CT
+T16	Procedure 1376 1378	mg
+T17	Procedure 1432 1453	anticoagulant therapy
+T18	Procedure 1446 1453	therapy
+T19	Procedure 1478 1492	platelet count
+T20	Procedure 1512 1528	prothrombin time
+T21	Procedure 1529 1559	international normalized ratio
+T22	Procedure 1561 1563	PT
+T23	Procedure 1564 1567	INR
+T24	Procedure 1593 1620	partial thromboplastin time
+T25	Procedure 1622 1626	APTT
+T26	Procedure 1670 1686	fibrinogen level
+T27	Procedure 1670 1680	fibrinogen
+T28	Procedure 1695 1697	mg
+T29	Procedure 1731 1741	fibrinogen
+T30	Procedure 1763 1766	FDP
+T31	Procedure 1863 1879	Surgical removal
+T32	Procedure 1863 1871	Surgical
+T33	Procedure 1872 1879	removal
+T34	Procedure 2110 2117	surgery
+T35	Procedure 2162 2164	mg
+T36	Procedure 2188 2190	PT
+T37	Procedure 2191 2194	INR
+T38	Procedure 2251 2253	mg
+T39	Procedure 2271 2273	mg
+T40	Procedure 2294 2296	mg
+T41	Procedure 2431 2439	chest CT
+T42	Procedure 2437 2439	CT
+T43	Procedure 2551 2571	coronary angiography
+T44	Procedure 2560 2571	angiography
+T45	Procedure 2679 2721	continuous intravenous infusion of heparin
+T46	Procedure 2679 2710	continuous intravenous infusion
+T47	Procedure 2690 2710	intravenous infusion
+T48	Procedure 2702 2710	infusion
+T49	Procedure 2740 2752	implantation
+T50	Procedure 2801 2826	administration of aspirin
+T51	Procedure 2801 2815	administration
+T52	Procedure 2832 2834	mg
+T53	Procedure 2856 2858	mg
+T54	Procedure 3102 3114	implantation
+T55	Procedure 3132 3139	therapy
+T56	Procedure 3178 3180	mg
+T57	Procedure 3220 3222	PT
+T58	Procedure 3223 3226	INR
+T59	Procedure 3300 3330	transthoracic echocardiography
+T60	Procedure 3314 3330	echocardiography
+T61	Procedure 3360 3368	chest CT
+T62	Procedure 3366 3368	CT
+T63	Procedure 3371 3403	Transesophageal echocardiography
+T64	Procedure 3387 3403	echocardiography
+T65	Procedure 3515 3517	CT
+T66	Procedure 3562 3564	mg
+T67	Procedure 3571 3573	PT
+T68	Procedure 3574 3577	INR
+T69	Procedure 3642 3644	mg
+T70	Procedure 3684 3691	therapy
+T71	Procedure 3697 3699	mg
+T72	Procedure 3701 3703	PT
+T73	Procedure 3704 3707	INR
+T74	Procedure 3849 3851	CT
+T75	Procedure 4086 4093	therapy
+T76	Procedure 4164 4166	mg
+T77	Procedure 4255 4271	serum creatinine
+T78	Procedure 4261 4271	creatinine
+T79	Procedure 4287 4289	mg
+T80	Procedure 4511 4518	therapy
+T81	Procedure 4532 4534	CT
+T82	Procedure 4612 4621	treatment
+T83	Procedure 4638 4640	CT
+T84	Procedure 4698 4705	therapy
+T85	Procedure 4963 4972	treatment
+T86	Procedure 5254 5261	therapy
+T87	Procedure 349 433	colectomy for colon adenocarcinoma with multiple liver metastases at 68 years of age
+T88	Procedure 460 489	several chemotherapy regimens
+T89	Procedure 509 525	calcium folinate
+T90	Procedure 554 570	calcium folinate
+T91	Procedure 657 685	surgery for liver metastasis
+T92	Procedure 797 812	further surgery
+T93	Procedure 814 875	Approximately 10 months after surgery for the lung metastasis
+T94	Procedure 886 920	enhanced chest computed tomography
+T95	Procedure 1128 1141	a chest X-ray
+T96	Procedure 1305 1329	contrast CT at that time
+T97	Procedure 1373 1378	40 mg
+T98	Procedure 1432 1472	anticoagulant therapy by his home doctor
+T99	Procedure 1474 1492	The platelet count
+T100	Procedure 1508 1559	the prothrombin time international normalized ratio
+T101	Procedure 1579 1620	the activated partial thromboplastin time
+T102	Procedure 1666 1686	the fibrinogen level
+T103	Procedure 1691 1715	289 mg/ dL (normal range
+T104	Procedure 1727 1761	the fibrinogen degradation product
+T105	Procedure 1861 1879	. Surgical removal
+T106	Procedure 2106 2117	the surgery
+T107	Procedure 2158 2164	2.5 mg
+T108	Procedure 2186 2215	a PT-INR of approximately 2.0
+T109	Procedure 2247 2253	2.5 mg
+T110	Procedure 2268 2273	20 mg
+T111	Procedure 2292 2342	4 mg) for heart failure due to AF with tachycardia
+T112	Procedure 2422 2439	enhanced chest CT
+T113	Procedure 2551 2571	coronary angiography
+T114	Procedure 2659 2721	the warfarin to the continuous intravenous infusion of heparin
+T115	Procedure 2723 2752	bare-metal stent implantation
+T116	Procedure 2786 2834	the subsequent administration of aspirin (100 mg
+T117	Procedure 2853 2858	75 mg
+T118	Procedure 3080 3114	One month after stent implantation
+T119	Procedure 3116 3139	the clopidogrel therapy
+T120	Procedure 3174 3180	2.5 mg
+T121	Procedure 3206 3222	the patient's PT
+T122	Procedure 3280 3330	the right atrium on transthoracic echocardiography
+T123	Procedure 3342 3368	contrast-enhanced chest CT
+T124	Procedure 3371 3403	Transesophageal echocardiography
+T125	Procedure 3558 3564	2.5 mg
+T126	Procedure 3567 3573	the PT
+T127	Procedure 3638 3644	3.0 mg
+T128	Procedure 3652 3691	six weeks of increased warfarin therapy
+T129	Procedure 3693 3699	3.0 mg
+T130	Procedure 3701 3707	PT-INR
+T131	Procedure 4086 4135	therapy with the direct FXa inhibitor rivaroxaban
+T132	Procedure 4151 4166	a dose of 15 mg
+T133	Procedure 4251 4277	his serum creatinine level
+T134	Procedure 4282 4293	0.72 mg/ dL
+T135	Procedure 4469 4518	four weeks after the start of rivaroxaban therapy
+T136	Procedure 4570 4621	four weeks after the start of rivaroxaban treatment
+T137	Procedure 4651 4705	two months after the initiation of rivaroxaban therapy
+T138	Procedure 4940 4989	daily hemoptysis under treatment with rivaroxaban
+T139	Procedure 5242 5261	rivaroxaban therapy
+T140	Disease_disorder 129 152	subarachnoid hemorrhage
+T141	Disease_disorder 142 152	hemorrhage
+T142	Disease_disorder 165 189	cerebral artery aneurysm
+T143	Disease_disorder 181 189	aneurysm
+T144	Disease_disorder 246 265	cerebral infarction
+T145	Disease_disorder 255 265	infarction
+T146	Disease_disorder 300 321	myocardial infarction
+T147	Disease_disorder 311 321	infarction
+T148	Disease_disorder 363 383	colon adenocarcinoma
+T149	Disease_disorder 369 383	adenocarcinoma
+T150	Disease_disorder 398 414	liver metastases
+T151	Disease_disorder 404 414	metastases
+T152	Disease_disorder 669 685	liver metastasis
+T153	Disease_disorder 740 755	lung metastasis
+T154	Disease_disorder 860 875	lung metastasis
+T155	Disease_disorder 949 965	liver metastasis
+T156	Disease_disorder 1049 1068	atrial fibrillation
+T157	Disease_disorder 1056 1068	fibrillation
+T158	Disease_disorder 1070 1072	AF
+T159	Disease_disorder 1264 1284	Deep vein thrombosis
+T160	Disease_disorder 1269 1284	vein thrombosis
+T161	Disease_disorder 1274 1284	thrombosis
+T162	Disease_disorder 1384 1396	hypertension
+T163	Disease_disorder 1981 1989	thrombus
+T164	Disease_disorder 2302 2315	heart failure
+T165	Disease_disorder 2323 2325	AF
+T166	Disease_disorder 2383 2388	tumor
+T167	Disease_disorder 2472 2487	bilateral atria
+T168	Disease_disorder 2583 2591	stenosis
+T169	Disease_disorder 2918 2926	bleeding
+T170	Disease_disorder 3255 3263	thrombus
+T171	Disease_disorder 3438 3463	abdominal aortic aneurysm
+T172	Disease_disorder 3448 3463	aortic aneurysm
+T173	Disease_disorder 3455 3463	aneurysm
+T174	Disease_disorder 3472 3477	ulcer
+T175	Disease_disorder 3733 3741	thrombus
+T176	Disease_disorder 3801 3809	bleeding
+T177	Disease_disorder 3987 3995	thrombus
+T178	Disease_disorder 4035 4043	bleeding
+T179	Disease_disorder 4343 4351	thrombus
+T180	Disease_disorder 4460 4468	thrombus
+T181	Disease_disorder 4555 4569	mural thrombus
+T182	Disease_disorder 4561 4569	thrombus
+T183	Disease_disorder 4744 4752	thrombus
+T184	Disease_disorder 5117 5129	colon cancer
+T185	Disease_disorder 5123 5129	cancer
+T186	Disease_disorder 5172 5177	tumor
+T187	Disease_disorder 129 152	subarachnoid hemorrhage
+T188	Disease_disorder 163 208	a cerebral artery aneurysm at 58 years of age
+T189	Disease_disorder 246 265	cerebral infarction
+T190	Disease_disorder 300 321	myocardial infarction
+T191	Disease_disorder 349 433	colectomy for colon adenocarcinoma with multiple liver metastases at 68 years of age
+T192	Disease_disorder 657 685	surgery for liver metastasis
+T193	Disease_disorder 814 875	Approximately 10 months after surgery for the lung metastasis
+T194	Disease_disorder 939 965	recurrent liver metastasis
+T195	Disease_disorder 1049 1068	atrial fibrillation
+T196	Disease_disorder 1264 1284	Deep vein thrombosis
+T197	Disease_disorder 1979 1989	a thrombus
+T198	Disease_disorder 2292 2342	4 mg) for heart failure due to AF with tachycardia
+T199	Disease_disorder 2362 2388	the metastatic liver tumor
+T200	Disease_disorder 2453 2487	any thrombi in the bilateral atria
+T201	Disease_disorder 2579 2642	99% stenosis at segment 6 of the left ascending coronary artery
+T202	Disease_disorder 2903 2926	a high risk of bleeding
+T203	Disease_disorder 3253 3263	a thrombus
+T204	Disease_disorder 3430 3478	a small abdominal aortic aneurysm with an ulcer-
+T205	Disease_disorder 3717 3741	the size of the thrombus
+T206	Disease_disorder 3797 3818	any bleeding sequelae
+T207	Disease_disorder 3983 3995	the thrombus
+T208	Disease_disorder 4017 4059	a greater risk of bleeding from the lesion
+T209	Disease_disorder 4327 4351	The size of the thrombus
+T210	Disease_disorder 4438 4479	the resolution of the thrombus four weeks
+T211	Disease_disorder 4542 4580	only a small mural thrombus four weeks
+T212	Disease_disorder 4713 4752	the complete resolution of the thrombus
+T213	Disease_disorder 5101 5129	a metastasis of colon cancer
+T214	Disease_disorder 5157 5177	the metastatic tumor
+T215	Sign_symptom 82 86	mass
+T216	Sign_symptom 92 112	past medical history
+T217	Sign_symptom 97 112	medical history
+T218	Sign_symptom 105 112	history
+T219	Sign_symptom 985 989	mass
+T220	Sign_symptom 1151 1163	cardiomegaly
+T221	Sign_symptom 1258 1262	mass
+T222	Sign_symptom 1478 1492	platelet count
+T223	Sign_symptom 1640 1646	normal
+T224	Sign_symptom 1703 1709	normal
+T225	Sign_symptom 1789 1795	normal
+T226	Sign_symptom 1844 1850	normal
+T227	Sign_symptom 1915 1925	diagnostic
+T228	Sign_symptom 1942 1946	mass
+T229	Sign_symptom 2331 2342	tachycardia
+T230	Sign_symptom 2530 2545	angina pectoris
+T231	Sign_symptom 2530 2536	angina
+T232	Sign_symptom 2801 2815	administration
+T233	Sign_symptom 2960 2970	hemoptysis
+T234	Sign_symptom 2991 3001	initiation
+T235	Sign_symptom 3483 3493	projection
+T236	Sign_symptom 3828 3838	hemoptysis
+T237	Sign_symptom 3907 3911	mass
+T238	Sign_symptom 4053 4059	lesion
+T239	Sign_symptom 4255 4277	serum creatinine level
+T240	Sign_symptom 4261 4277	creatinine level
+T241	Sign_symptom 4395 4405	initiation
+T242	Sign_symptom 4672 4682	initiation
+T243	Sign_symptom 4946 4956	hemoptysis
+T244	Sign_symptom 5008 5038	size of the intratracheal mass
+T245	Sign_symptom 5034 5038	mass
+T246	Sign_symptom 5066 5072	lesion
+T247	Sign_symptom 5193 5203	hemoptysis
+T248	Sign_symptom 67 86	a right atrial mass
+T249	Sign_symptom 88 112	His past medical history
+T250	Sign_symptom 970 999	a right atrial mass (diameter
+T251	Sign_symptom 1241 1262	the right atrial mass
+T252	Sign_symptom 1474 1492	The platelet count
+T253	Sign_symptom 1640 1652	normal range
+T254	Sign_symptom 1691 1715	289 mg/ dL (normal range
+T255	Sign_symptom 1897 1932	a therapeutic and diagnostic option
+T256	Sign_symptom 1938 1946	the mass
+T257	Sign_symptom 2292 2342	4 mg) for heart failure due to AF with tachycardia
+T258	Sign_symptom 2530 2545	angina pectoris
+T259	Sign_symptom 2786 2834	the subsequent administration of aspirin (100 mg
+T260	Sign_symptom 2955 2980	mild hemoptysis two weeks
+T261	Sign_symptom 2971 3017	two weeks after the initiation of these agents
+T262	Sign_symptom 3477 3493	-like projection
+T263	Sign_symptom 3862 3911	the development of a new small intratracheal mass
+T264	Sign_symptom 4017 4059	a greater risk of bleeding from the lesion
+T265	Sign_symptom 4251 4277	his serum creatinine level
+T266	Sign_symptom 4375 4420	two weeks after the initiation of rivaroxaban
+T267	Sign_symptom 4651 4705	two months after the initiation of rivaroxaban therapy
+T268	Sign_symptom 4940 4989	daily hemoptysis under treatment with rivaroxaban
+T269	Sign_symptom 5004 5038	the size of the intratracheal mass
+T270	Sign_symptom 5062 5072	the lesion
+T271	Sign_symptom 5179 5203	the patient's hemoptysis
+T272	Anatomical_structure 75 81	atrial
+T273	Anatomical_structure 165 180	cerebral artery
+T274	Anatomical_structure 165 173	cerebral
+T275	Anatomical_structure 174 180	artery
+T276	Anatomical_structure 246 254	cerebral
+T277	Anatomical_structure 363 368	colon
+T278	Anatomical_structure 398 403	liver
+T279	Anatomical_structure 669 674	liver
+T280	Anatomical_structure 740 744	lung
+T281	Anatomical_structure 860 864	lung
+T282	Anatomical_structure 895 900	chest
+T283	Anatomical_structure 949 954	liver
+T284	Anatomical_structure 978 984	atrial
+T285	Anatomical_structure 1049 1055	atrial
+T286	Anatomical_structure 1130 1135	chest
+T287	Anatomical_structure 1251 1257	atrial
+T288	Anatomical_structure 1264 1273	Deep vein
+T289	Anatomical_structure 1269 1273	vein
+T290	Anatomical_structure 1478 1486	platelet
+T291	Anatomical_structure 2302 2307	heart
+T292	Anatomical_structure 2377 2382	liver
+T293	Anatomical_structure 2431 2436	chest
+T294	Anatomical_structure 2612 2642	left ascending coronary artery
+T295	Anatomical_structure 2627 2642	coronary artery
+T296	Anatomical_structure 2636 2642	artery
+T297	Anatomical_structure 3284 3296	right atrium
+T298	Anatomical_structure 3290 3296	atrium
+T299	Anatomical_structure 3360 3365	chest
+T300	Anatomical_structure 3438 3447	abdominal
+T301	Anatomical_structure 3448 3454	aortic
+T302	Anatomical_structure 5117 5122	colon
+T303	Medication 1681 1686	level
+T304	Medication 1768 1773	level
+T305	Medication 1823 1828	level
+T306	Medication 4272 4277	level
+T307	Medication 4306 4311	level
+T308	Medication 4813 4818	level
+T309	Medication 1666 1686	the fibrinogen level
+T310	Medication 1811 1828	the D-dimer level
+T311	Medication 4251 4277	his serum creatinine level
+T312	Medication 4298 4311	his Ccr level
+T313	Medication 4801 4818	the D-dimer level

@@ -1,0 +1,67 @@
+T1	Procedure 322 336	immobilization
+T2	Procedure 412 419	surgery
+T3	Procedure 640 669	cardiopulmonary resuscitation
+T4	Procedure 656 669	resuscitation
+T5	Procedure 697 727	Transthoracic echocardiography
+T6	Procedure 711 727	echocardiography
+T7	Procedure 842 861	computed tomography
+T8	Procedure 851 861	tomography
+T9	Procedure 863 865	CT
+T10	Procedure 867 871	scan
+T11	Procedure 937 957	thrombolysis therapy
+T12	Procedure 950 957	therapy
+T13	Procedure 967 969	mg
+T14	Procedure 999 1012	stabilization
+T15	Procedure 1055 1068	resuscitation
+T16	Procedure 364 419	a fulminant pulmonary embolism after orthopedic surgery
+T17	Procedure 640 669	cardiopulmonary resuscitation
+T18	Procedure 697 727	Transthoracic echocardiography
+T19	Procedure 840 861	A computed tomography
+T20	Procedure 867 889	scan in three patients
+T21	Procedure 930 962	Direct thrombolysis therapy (100
+T22	Procedure 963 978	150 mg Actilyse
+T23	Procedure 980 1049	yielded short-term stabilization of the circulation in three patients
+T24	Disease_disorder 48 62	cardiac arrest
+T25	Disease_disorder 67 85	pulmonary embolism
+T26	Disease_disorder 77 85	embolism
+T27	Disease_disorder 263 273	thrombosis
+T28	Disease_disorder 285 291	injury
+T29	Disease_disorder 376 394	pulmonary embolism
+T30	Disease_disorder 386 394	embolism
+T31	Disease_disorder 430 436	trauma
+T32	Disease_disorder 456 474	spinal cord injury
+T33	Disease_disorder 468 474	injury
+T34	Disease_disorder 535 549	cardiac arrest
+T35	Disease_disorder 601 620	pulmonary embolisms
+T36	Disease_disorder 611 620	embolisms
+T37	Disease_disorder 767 775	thrombus
+T38	Disease_disorder 910 928	pulmonary embolism
+T39	Disease_disorder 920 928	embolism
+T40	Disease_disorder 67 85	pulmonary embolism
+T41	Disease_disorder 245 312	increased risk of thrombosis due to the injury pattern (spinal cord
+T42	Disease_disorder 364 419	a fulminant pulmonary embolism after orthopedic surgery
+T43	Disease_disorder 424 436	major trauma
+T44	Disease_disorder 438 474	Two patients with spinal cord injury
+T45	Disease_disorder 523 564	ECLS during cardiac arrest due to massive
+T46	Disease_disorder 595 620	acute pulmonary embolisms
+T47	Disease_disorder 765 806	a thrombus of the inferior vena cava that
+T48	Disease_disorder 900 928	a central pulmonary embolism
+T49	Sign_symptom 77 85	embolism
+T50	Sign_symptom 152 156	male
+T51	Sign_symptom 165 171	female
+T52	Sign_symptom 386 394	embolism
+T53	Sign_symptom 920 928	embolism
+T54	Sign_symptom 67 85	pulmonary embolism
+T55	Sign_symptom 147 156	four male
+T56	Sign_symptom 161 171	one female
+T57	Sign_symptom 364 419	a fulminant pulmonary embolism after orthopedic surgery
+T58	Sign_symptom 900 928	a central pulmonary embolism
+T59	Anatomical_structure 48 55	cardiac
+T60	Anatomical_structure 301 312	spinal cord
+T61	Anatomical_structure 314 320	pelvis
+T62	Anatomical_structure 456 467	spinal cord
+T63	Anatomical_structure 535 542	cardiac
+T64	Anatomical_structure 783 801	inferior vena cava
+T65	Anatomical_structure 792 801	vena cava
+T66	Anatomical_structure 823 838	right ventricle
+T67	Anatomical_structure 829 838	ventricle

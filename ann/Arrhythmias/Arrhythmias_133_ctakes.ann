@@ -1,0 +1,54 @@
+T1	Procedure 3 19	echocardiography
+T2	Procedure 220 246	magnetic resonance imaging
+T3	Procedure 239 246	imaging
+T4	Procedure 476 486	discussion
+T5	Procedure 597 605	enlarged
+T6	Procedure 636 647	enhancement
+T7	Procedure 1069 1085	echocardiography
+T8	Procedure 1233 1248	ultrasonography
+T9	Procedure 1471 1485	echocardiogram
+T10	Procedure 3 32	echocardiography, the patient
+T11	Procedure 201 246	subsequent cardiac magnetic resonance imaging
+T12	Procedure 474 545	a discussion of an unapproved/investigative use of a commercial product
+T13	Procedure 559 620	36 No. 1 J A N U A R Y 2 0 1 5with an enlarged left ventricle
+T14	Procedure 622 670	heterogeneous enhancement of the left myocardium
+T15	Procedure 1062 1085	serial echocardiography
+T16	Procedure 1227 1248	Renal ultrasonography
+T17	Procedure 1467 1502	Her echocardiogram before discharge
+T18	Disease_disorder 164 181	Acute myocarditis
+T19	Disease_disorder 170 181	myocarditis
+T20	Disease_disorder 1211 1225	kidney disease
+T21	Disease_disorder 1218 1225	disease
+T22	Disease_disorder 1258 1281	bilateral small kidneys
+T23	Disease_disorder 164 181	Acute myocarditis
+T24	Disease_disorder 1196 1225	her underlying kidney disease
+T25	Disease_disorder 1258 1322	bilateral small kidneys for age with some increased echogenicity
+T26	Sign_symptom 62 71	depressed
+T27	Sign_symptom 72 123	left ventricular function with an ejection fraction
+T28	Sign_symptom 72 97	left ventricular function
+T29	Sign_symptom 106 114	ejection
+T30	Sign_symptom 150 156	normal
+T31	Sign_symptom 229 238	resonance
+T32	Sign_symptom 268 277	diagnosis
+T33	Sign_symptom 676 687	hypokinesia
+T34	Sign_symptom 850 859	diagnosis
+T35	Sign_symptom 1032 1048	cardiac function
+T36	Sign_symptom 1513 1521	ejection
+T37	Sign_symptom 51 130	a severely depressed left ventricular function with an ejection fraction of 20%
+T38	Sign_symptom 135 162	a structurally normal heart
+T39	Sign_symptom 201 246	subsequent cardiac magnetic resonance imaging
+T40	Sign_symptom 264 277	the diagnosis
+T41	Sign_symptom 676 704	hypokinesia of the same area
+T42	Sign_symptom 830 859	confirmation of the diagnosis
+T43	Sign_symptom 1510 1530	an ejection fraction
+T44	Anatomical_structure 157 162	heart
+T45	Anatomical_structure 212 219	cardiac
+T46	Anatomical_structure 578 579	R
+T47	Anatomical_structure 606 620	left ventricle
+T48	Anatomical_structure 611 620	ventricle
+T49	Anatomical_structure 660 670	myocardium
+T50	Anatomical_structure 1032 1039	cardiac
+T51	Anatomical_structure 1211 1217	kidney
+T52	Anatomical_structure 1227 1232	Renal
+T53	Anatomical_structure 1258 1281	bilateral small kidneys
+T54	Anatomical_structure 1274 1281	kidneys

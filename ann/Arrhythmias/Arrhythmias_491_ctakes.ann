@@ -1,0 +1,78 @@
+T1	Procedure 292 294	ms
+T2	Procedure 328 330	ms
+T3	Procedure 647 655	ablation
+T4	Procedure 901 909	ablation
+T5	Procedure 971 998	electrical storm . Ablation
+T6	Procedure 990 998	Ablation
+T7	Procedure 1642 1650	ablation
+T8	Procedure 289 294	55 ms
+T9	Procedure 325 330	70 ms
+T10	Procedure 632 655	radiofrequency ablation
+T11	Procedure 871 941	several reports on successful ablation of a retrograde limb of a IFRVT
+T12	Procedure 948 1028	none in the setting of electrical storm . Ablation of a retrograde limb of IFRVT
+T13	Procedure 1610 1659	RAO right anterior oblique, ABL ablation catheter
+T14	Disease_disorder 10 61	old man with old anteroseptal myocardial infarction
+T15	Disease_disorder 23 61	old anteroseptal myocardial infarction
+T16	Disease_disorder 40 61	myocardial infarction
+T17	Disease_disorder 51 61	infarction
+T18	Disease_disorder 97 120	ventricular tachycardia
+T19	Disease_disorder 194 199	block
+T20	Disease_disorder 244 249	sinus
+T21	Disease_disorder 292 294	ms
+T22	Disease_disorder 328 330	ms
+T23	Disease_disorder 339 344	sinus
+T24	Disease_disorder 744 749	sinus
+T25	Disease_disorder 766 797	complete atrioventricular block
+T26	Disease_disorder 775 797	atrioventricular block
+T27	Disease_disorder 792 797	block
+T28	Disease_disorder 1096 1101	sinus
+T29	Disease_disorder 1155 1160	sinus
+T30	Disease_disorder 1253 1258	sinus
+T31	Disease_disorder 0 61	A 64-year-old man with old anteroseptal myocardial infarction
+T32	Disease_disorder 77 120	electrical storm of ventricular tachycardia
+T33	Disease_disorder 194 220	block with a superior axis
+T34	Disease_disorder 232 256	that during sinus rhythm
+T35	Disease_disorder 289 294	55 ms
+T36	Disease_disorder 325 330	70 ms
+T37	Disease_disorder 339 351	sinus rhythm
+T38	Disease_disorder 744 756	sinus rhythm
+T39	Disease_disorder 766 797	complete atrioventricular block
+T40	Disease_disorder 1048 1108	a case with limited antegrade conduction during sinus rhythm
+T41	Disease_disorder 1150 1174	both sinus rhythm and VT
+T42	Disease_disorder 1176 1296	Three-dimensional electroanatomical voltage map of the left ventricle during sinus rhythm in right anterior oblique view
+T43	Sign_symptom 109 120	tachycardia
+T44	Sign_symptom 207 220	superior axis
+T45	Sign_symptom 244 256	sinus rhythm
+T46	Sign_symptom 339 351	sinus rhythm
+T47	Sign_symptom 363 366	map
+T48	Sign_symptom 555 564	diagnosis
+T49	Sign_symptom 744 756	sinus rhythm
+T50	Sign_symptom 1096 1108	sinus rhythm
+T51	Sign_symptom 1155 1167	sinus rhythm
+T52	Sign_symptom 1220 1223	map
+T53	Sign_symptom 1253 1265	sinus rhythm
+T54	Sign_symptom 1313 1316	map
+T55	Sign_symptom 77 120	electrical storm of ventricular tachycardia
+T56	Sign_symptom 194 220	block with a superior axis
+T57	Sign_symptom 232 256	that during sinus rhythm
+T58	Sign_symptom 354 404	The pace map at the left posterior fascicular (LPF
+T59	Sign_symptom 551 596	the diagnosis of interfascicular reentrant VT
+T60	Sign_symptom 1048 1108	a case with limited antegrade conduction during sinus rhythm
+T61	Sign_symptom 1150 1174	both sinus rhythm and VT
+T62	Sign_symptom 1176 1296	Three-dimensional electroanatomical voltage map of the left ventricle during sinus rhythm in right anterior oblique view
+T63	Sign_symptom 1298 1316	A perfect pace map
+T64	Anatomical_structure 169 188	right bundle branch
+T65	Anatomical_structure 182 188	branch
+T66	Anatomical_structure 216 220	axis
+T67	Anatomical_structure 926 930	limb
+T68	Anatomical_structure 1015 1019	limb
+T69	Anatomical_structure 1231 1245	left ventricle
+T70	Anatomical_structure 1236 1245	ventricle
+T71	Anatomical_structure 1387 1393	branch
+T72	Anatomical_structure 1495 1501	branch
+T73	Anatomical_structure 1543 1589	anterior fascicle, LPF left posterior fascicle
+T74	Anatomical_structure 1543 1560	anterior fascicle
+T75	Anatomical_structure 1566 1608	left posterior fascicle, LV left ventricle
+T76	Anatomical_structure 1571 1589	posterior fascicle
+T77	Anatomical_structure 1594 1608	left ventricle
+T78	Anatomical_structure 1599 1608	ventricle

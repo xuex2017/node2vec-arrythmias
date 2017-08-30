@@ -1,0 +1,65 @@
+T1	Procedure 80 88	ablation
+T2	Procedure 111 120	isolation
+T3	Procedure 137 146	injection
+T4	Procedure 171 177	sodium
+T5	Procedure 408 411	ECG
+T6	Procedure 508 520	augmentation
+T7	Procedure 586 600	administration
+T8	Procedure 723 735	augmentation
+T9	Procedure 1065 1092	catheter ablation procedure
+T10	Procedure 1074 1082	ablation
+T11	Procedure 1083 1092	procedure
+T12	Procedure 71 88	catheter ablation
+T13	Procedure 96 120	pulmonary vein isolation
+T14	Procedure 122 162	an intravenous injection of pilsicainide
+T15	Procedure 164 193	a pure sodium channel blocker
+T16	Procedure 333 411	The notches at the end of the terminal portion of the QRS complexes on the ECG
+T17	Procedure 498 520	dependent augmentation
+T18	Procedure 582 617	the administration of isoproterenol
+T19	Procedure 713 818	dependent augmentation of the J wave was a specific finding for a VF storm in patients with idiopathic VF
+T20	Procedure 1061 1092	the catheter ablation procedure
+T21	Disease_disorder 25 55	paroxysmal atrial fibrillation
+T22	Disease_disorder 36 55	atrial fibrillation
+T23	Disease_disorder 43 55	fibrillation
+T24	Disease_disorder 57 59	AF
+T25	Disease_disorder 230 232	AF
+T26	Disease_disorder 234 261	Premature ventricular beats
+T27	Disease_disorder 296 320	ventricular fibrillation
+T28	Disease_disorder 308 320	fibrillation
+T29	Disease_disorder 322 324	VF
+T30	Disease_disorder 527 529	VF
+T31	Disease_disorder 622 624	VF
+T32	Disease_disorder 779 781	VF
+T33	Disease_disorder 816 818	VF
+T34	Disease_disorder 905 907	VF
+T35	Disease_disorder 936 938	VF
+T36	Disease_disorder 967 969	VF
+T37	Disease_disorder 1147 1149	VF
+T38	Disease_disorder 0 55	A 57-year-old woman with paroxysmal atrial fibrillation
+T39	Disease_disorder 216 232	the sustained AF
+T40	Disease_disorder 296 320	ventricular fibrillation
+T41	Disease_disorder 523 535	The VF storm
+T42	Disease_disorder 619 624	No VF
+T43	Disease_disorder 713 818	dependent augmentation of the J wave was a specific finding for a VF storm in patients with idiopathic VF
+T44	Disease_disorder 932 944	the VF storm
+T45	Disease_disorder 956 969	idiopathic VF
+T46	Disease_disorder 1109 1149	an important role in the induction of VF
+T47	Sign_symptom 508 520	augmentation
+T48	Sign_symptom 586 600	administration
+T49	Sign_symptom 680 690	initiation
+T50	Sign_symptom 723 735	augmentation
+T51	Sign_symptom 765 772	finding
+T52	Sign_symptom 835 855	early repolarization
+T53	Sign_symptom 1237 1245	interest
+T54	Sign_symptom 498 520	dependent augmentation
+T55	Sign_symptom 582 617	the administration of isoproterenol
+T56	Sign_symptom 676 703	the initiation of quinidine
+T57	Sign_symptom 713 818	dependent augmentation of the J wave was a specific finding for a VF storm in patients with idiopathic VF
+T58	Sign_symptom 1223 1245	a conflict of interest
+T59	Anatomical_structure 36 42	atrial
+T60	Anatomical_structure 96 110	pulmonary vein
+T61	Anatomical_structure 106 110	vein
+T62	Anatomical_structure 1021 1030	autonomic
+T63	Medication 694 703	quinidine
+T64	Medication 862 875	isoproterenol
+T65	Medication 676 703	the initiation of quinidine

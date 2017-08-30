@@ -1,0 +1,174 @@
+T1	Procedure 59 61	MS
+T2	Procedure 272 282	injectable
+T3	Procedure 283 285	MS
+T4	Procedure 286 293	therapy
+T5	Procedure 461 463	mg
+T6	Procedure 693 740	cardiac echocardiography as standard monitoring
+T7	Procedure 701 717	echocardiography
+T8	Procedure 771 780	treatment
+T9	Procedure 791 805	echocardiogram
+T10	Procedure 918 944	intravenous pulse steroids
+T11	Procedure 984 987	MRI
+T12	Procedure 1027 1030	MRI
+T13	Procedure 1185 1192	therapy
+T14	Procedure 1198 1200	mg
+T15	Procedure 1215 1218	ECG
+T16	Procedure 1297 1299	mg
+T17	Procedure 1576 1579	ECG
+T18	Procedure 1648 1662	ECG monitoring
+T19	Procedure 1648 1651	ECG
+T20	Procedure 1962 1965	ECG
+T21	Procedure 2048 2057	treatment
+T22	Procedure 2258 2265	primary
+T23	Procedure 2408 2411	ECG
+T24	Procedure 2488 2491	ECG
+T25	Procedure 2664 2667	ECG
+T26	Procedure 2856 2870	echocardiogram
+T27	Procedure 3013 3016	ECG
+T28	Procedure 3103 3114	cardiac MRI
+T29	Procedure 3111 3114	MRI
+T30	Procedure 3234 3245	enhancement
+T31	Procedure 38 87	-year-old woman with MS since the age of 23 years
+T32	Procedure 264 314	refused injectable MS therapy due to needle phobia
+T33	Procedure 443 467	total dose 108.72 mg/m 2
+T34	Procedure 693 780	cardiac echocardiography as standard monitoring during and after mitoxantrone treatment
+T35	Procedure 782 805	The last echocardiogram
+T36	Procedure 969 987	A repeat brain MRI
+T37	Procedure 1023 1030	the MRI
+T38	Procedure 1174 1192	fingolimod therapy
+T39	Procedure 1194 1206	0.5 mg/daily
+T40	Procedure 1207 1218	. Basal ECG
+T41	Procedure 1283 1303	prednisone 30 mg/day
+T42	Procedure 1542 1579	Ventricular tachycardia on Holter-ECG
+T43	Procedure 1637 1662	the Holter-ECG monitoring
+T44	Procedure 1962 1978	ECG at discharge
+T45	Procedure 2027 2070	the first 15 days of treatment, the patient
+T46	Procedure 2254 2280	her primary care physician
+T47	Procedure 2404 2411	the ECG
+T48	Procedure 2464 2496	the results of a Holter-ECG that
+T49	Procedure 2630 2667	The mean heart rate during Holter-ECG
+T50	Procedure 2842 2870	A new cardiac echocardiogram
+T51	Procedure 3004 3016	A Holter-ECG
+T52	Procedure 3103 3114	cardiac MRI
+T53	Procedure 3199 3245	no intramyocardial late gadolinium enhancement
+T54	Disease_disorder 59 61	MS
+T55	Disease_disorder 108 123	cardiac disease
+T56	Disease_disorder 116 123	disease
+T57	Disease_disorder 164 179	cardiac disease
+T58	Disease_disorder 172 179	disease
+T59	Disease_disorder 283 285	MS
+T60	Disease_disorder 301 314	needle phobia
+T61	Disease_disorder 308 314	phobia
+T62	Disease_disorder 392 399	relapse
+T63	Disease_disorder 896 903	relapse
+T64	Disease_disorder 1424 1435	bradycardia
+T65	Disease_disorder 1542 1565	Ventricular tachycardia
+T66	Disease_disorder 1588 1591	all
+T67	Disease_disorder 1694 1717	ventricular tachycardia
+T68	Disease_disorder 1855 1878	ventricular tachycardia
+T69	Disease_disorder 1996 2001	sinus
+T70	Disease_disorder 2698 2720	atrioventricular block
+T71	Disease_disorder 2715 2720	block
+T72	Disease_disorder 2896 2930	mitral and tricuspid insufficiency
+T73	Disease_disorder 2907 2930	tricuspid insufficiency
+T74	Disease_disorder 2935 2957	atrial septal aneurysm
+T75	Disease_disorder 2949 2957	aneurysm
+T76	Disease_disorder 3055 3060	sinus
+T77	Disease_disorder 3088 3098	arrhythmia
+T78	Disease_disorder 38 87	-year-old woman with MS since the age of 23 years
+T79	Disease_disorder 94 123	no history of cardiac disease
+T80	Disease_disorder 157 179	family cardiac disease
+T81	Disease_disorder 264 314	refused injectable MS therapy due to needle phobia
+T82	Disease_disorder 388 399	any relapse
+T83	Disease_disorder 882 903	a spinal cord relapse
+T84	Disease_disorder 1398 1445	A single brief episode of bradycardia at 48 bpm
+T85	Disease_disorder 1542 1579	Ventricular tachycardia on Holter-ECG
+T86	Disease_disorder 1588 1618	all the most relevant episodes
+T87	Disease_disorder 1673 1717	The short episode of ventricular tachycardia
+T88	Disease_disorder 1833 1884	the initiation of the ventricular tachycardia there
+T89	Disease_disorder 1996 2018	sinus rhythm at 70 bpm
+T90	Disease_disorder 2695 2720	No atrioventricular block
+T91	Disease_disorder 2891 2930	mild mitral and tricuspid insufficiency
+T92	Disease_disorder 2935 2957	atrial septal aneurysm
+T93	Disease_disorder 3048 3098	normal sinus rhythm with no episodes of arrhythmia
+T94	Sign_symptom 24 35	underweight
+T95	Sign_symptom 44 75	old woman with MS since the age
+T96	Sign_symptom 97 107	history of
+T97	Sign_symptom 97 104	history
+T98	Sign_symptom 464 465	m
+T99	Sign_symptom 482 483	m
+T100	Sign_symptom 644 660	cardiac function
+T101	Sign_symptom 1003 1005	T2
+T102	Sign_symptom 1088 1094	lesion
+T103	Sign_symptom 1554 1565	tachycardia
+T104	Sign_symptom 1706 1717	tachycardia
+T105	Sign_symptom 1837 1847	initiation
+T106	Sign_symptom 1867 1878	tachycardia
+T107	Sign_symptom 1902 1923	prolonged QT interval
+T108	Sign_symptom 1902 1914	prolonged QT
+T109	Sign_symptom 1996 2008	sinus rhythm
+T110	Sign_symptom 2111 2118	feeling
+T111	Sign_symptom 2203 2212	dizziness
+T112	Sign_symptom 2214 2222	asthenia
+T113	Sign_symptom 2227 2236	headaches
+T114	Sign_symptom 2290 2311	normal blood pressure
+T115	Sign_symptom 2290 2296	normal
+T116	Sign_symptom 2297 2311	blood pressure
+T117	Sign_symptom 2303 2311	pressure
+T118	Sign_symptom 2316 2328	heart rhythm
+T119	Sign_symptom 2763 2778	discontinuation
+T120	Sign_symptom 2794 2802	symptoms
+T121	Sign_symptom 2806 2815	dizziness
+T122	Sign_symptom 2820 2828	asthenia
+T123	Sign_symptom 2880 2886	normal
+T124	Sign_symptom 3048 3067	normal sinus rhythm
+T125	Sign_symptom 3048 3054	normal
+T126	Sign_symptom 3055 3098	sinus rhythm with no episodes of arrhythmia
+T127	Sign_symptom 3055 3067	sinus rhythm
+T128	Sign_symptom 3122 3128	normal
+T129	Sign_symptom 11 53	a case of an underweight 37-year-old woman
+T130	Sign_symptom 38 87	-year-old woman with MS since the age of 23 years
+T131	Sign_symptom 94 123	no history of cardiac disease
+T132	Sign_symptom 443 467	total dose 108.72 mg/m 2
+T133	Sign_symptom 470 483	height 1.67 m
+T134	Sign_symptom 640 660	Her cardiac function
+T135	Sign_symptom 995 1010	six new T2 foci
+T136	Sign_symptom 1067 1127	a small non-enhanced lesion in the floor of the IV ventricle
+T137	Sign_symptom 1542 1579	Ventricular tachycardia on Holter-ECG
+T138	Sign_symptom 1673 1717	The short episode of ventricular tachycardia
+T139	Sign_symptom 1833 1884	the initiation of the ventricular tachycardia there
+T140	Sign_symptom 1890 1923	no signs of prolonged QT interval
+T141	Sign_symptom 1996 2018	sinus rhythm at 70 bpm
+T142	Sign_symptom 2110 2125	'feeling great'
+T143	Sign_symptom 2177 2212	continuous and unspecific dizziness
+T144	Sign_symptom 2214 2236	asthenia and headaches
+T145	Sign_symptom 2290 2311	normal blood pressure
+T146	Sign_symptom 2752 2778	fingolimod discontinuation
+T147	Sign_symptom 2780 2802	the patient's symptoms
+T148	Sign_symptom 2791 2828	's symptoms of dizziness and asthenia
+T149	Sign_symptom 2878 2889	a normal EF
+T150	Sign_symptom 3048 3098	normal sinus rhythm with no episodes of arrhythmia
+T151	Sign_symptom 3122 3160	normal biventricular systolic function
+T152	Anatomical_structure 108 115	cardiac
+T153	Anatomical_structure 125 139	cardiovascular
+T154	Anatomical_structure 164 171	cardiac
+T155	Anatomical_structure 644 651	cardiac
+T156	Anatomical_structure 693 700	cardiac
+T157	Anatomical_structure 884 895	spinal cord
+T158	Anatomical_structure 957 961	oral
+T159	Anatomical_structure 978 983	brain
+T160	Anatomical_structure 1118 1127	ventricle
+T161	Anatomical_structure 2297 2302	blood
+T162	Anatomical_structure 2316 2321	heart
+T163	Anatomical_structure 2390 2392	ER
+T164	Anatomical_structure 2558 2560	ER
+T165	Anatomical_structure 2639 2644	heart
+T166	Anatomical_structure 2848 2855	cardiac
+T167	Anatomical_structure 2935 2941	atrial
+T168	Anatomical_structure 3103 3110	cardiac
+T169	Medication 352 364	mitoxantrone
+T170	Medication 514 526	mitoxantrone
+T171	Medication 758 770	mitoxantrone
+T172	Medication 1283 1293	prednisone
+T173	Medication 693 780	cardiac echocardiography as standard monitoring during and after mitoxantrone treatment
+T174	Medication 1283 1303	prednisone 30 mg/day

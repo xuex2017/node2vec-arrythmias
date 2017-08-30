@@ -1,0 +1,51 @@
+T1	Procedure 356 359	ECG
+T2	Procedure 389 398	elevation
+T3	Procedure 583 604	provocative drug test
+T4	Procedure 595 604	drug test
+T5	Procedure 600 604	test
+T6	Procedure 622 636	administration
+T7	Procedure 683 685	mg
+T8	Procedure 760 763	EPS
+T9	Procedure 800 816	Echocardiography
+T10	Procedure 824 837	roentgenogram
+T11	Procedure 920 925	tests
+T12	Procedure 993 996	ECG
+T13	Procedure 1089 1098	elevation
+T14	Procedure 352 359	BrS-ECG
+T15	Procedure 375 431	an ST-segment elevation with type-1 morphology [2 mm in,
+T16	Procedure 583 668	provocative drug test with intravenous administration of Class I antiarrhythmic drugs
+T17	Procedure 681 700	1 mg/kg body weight
+T18	Procedure 818 837	chest roentgenogram
+T19	Procedure 909 925	Laboratory tests
+T20	Procedure 993 1007	ECG parameters
+T21	Procedure 1078 1124	maximal ST elevation in right precordial leads
+T22	Disease_disorder 894 907	heart disease
+T23	Disease_disorder 900 907	disease
+T24	Disease_disorder 941 949	ischemia
+T25	Disease_disorder 868 907	any underlying structural heart disease
+T26	Disease_disorder 935 949	acute ischemia
+T27	Sign_symptom 378 398	ST-segment elevation
+T28	Sign_symptom 378 388	ST-segment
+T29	Sign_symptom 482 484	V1
+T30	Sign_symptom 486 488	V2
+T31	Sign_symptom 622 636	administration
+T32	Sign_symptom 683 693	mg/kg body
+T33	Sign_symptom 842 850	exercise
+T34	Sign_symptom 997 1007	parameters
+T35	Sign_symptom 1086 1098	ST elevation
+T36	Sign_symptom 375 431	an ST-segment elevation with type-1 morphology [2 mm in,
+T37	Sign_symptom 442 484	1 lead among the right precordial leads V1
+T38	Sign_symptom 583 668	provocative drug test with intravenous administration of Class I antiarrhythmic drugs
+T39	Sign_symptom 681 700	1 mg/kg body weight
+T40	Sign_symptom 842 858	exercise testing
+T41	Sign_symptom 993 1007	ECG parameters
+T42	Sign_symptom 1078 1124	maximal ST elevation in right precordial leads
+T43	Anatomical_structure 524 541	intercostal space
+T44	Anatomical_structure 818 823	chest
+T45	Anatomical_structure 894 899	heart
+T46	Anatomical_structure 1023 1028	heart
+T47	Anatomical_structure 1055 1062	lead II
+T48	Medication 1068 1076	duration
+T49	Medication 1133 1141	duration
+T50	Medication 1064 1076	QRS duration
+T51	Medication 1129 1164	QTc duration in V4 (Bazett formula)

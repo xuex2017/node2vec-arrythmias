@@ -1,0 +1,78 @@
+T1	Procedure 197 208	stimulation
+T2	Procedure 475 504	cardiopulmonary resuscitation
+T3	Procedure 491 504	resuscitation
+T4	Procedure 554 583	cardiopulmonary resuscitation
+T5	Procedure 570 583	resuscitation
+T6	Procedure 1016 1028	electrolytes
+T7	Procedure 1030 1050	complete blood count
+T8	Procedure 1080 1083	BNP
+T9	Procedure 1124 1141	urine drug screen
+T10	Procedure 1130 1141	drug screen
+T11	Procedure 1162 1179	electrocardiogram
+T12	Procedure 1181 1184	EKG
+T13	Procedure 1240 1242	ms
+T14	Procedure 1645 1652	surgery
+T15	Procedure 475 504	cardiopulmonary resuscitation
+T16	Procedure 550 608	the cardiopulmonary resuscitation with a pulse in the 150s
+T17	Procedure 1012 1028	His electrolytes
+T18	Procedure 1124 1141	urine drug screen
+T19	Procedure 1159 1179	An electrocardiogram
+T20	Procedure 1209 1242	a corrected QT interval of 500 ms
+T21	Procedure 1641 1652	any surgery
+T22	Disease_disorder 653 660	amnesia
+T23	Disease_disorder 1240 1242	ms
+T24	Disease_disorder 1443 1457	cardiac arrest
+T25	Disease_disorder 1507 1535	sudden infant death syndrome
+T26	Disease_disorder 1507 1526	sudden infant death
+T27	Disease_disorder 1527 1535	syndrome
+T28	Disease_disorder 644 673	complete amnesia of the event
+T29	Disease_disorder 1209 1242	a corrected QT interval of 500 ms
+T30	Disease_disorder 1422 1457	no history of sudden cardiac arrest
+T31	Disease_disorder 1436 1483	sudden cardiac arrest in first degree relatives
+T32	Disease_disorder 1494 1560	1 episode of sudden infant death syndrome in fifth paternal cousin
+T33	Sign_symptom 29 35	soccer
+T34	Sign_symptom 225 246	loss of consciousness
+T35	Sign_symptom 233 246	consciousness
+T36	Sign_symptom 362 368	soccer
+T37	Sign_symptom 622 635	consciousness
+T38	Sign_symptom 735 743	services
+T39	Sign_symptom 787 794	illness
+T40	Sign_symptom 935 952	normal heart rate
+T41	Sign_symptom 935 941	normal
+T42	Sign_symptom 973 994	normal blood pressure
+T43	Sign_symptom 973 979	normal
+T44	Sign_symptom 980 994	blood pressure
+T45	Sign_symptom 986 994	pressure
+T46	Sign_symptom 1162 1179	electrocardiogram
+T47	Sign_symptom 1255 1265	history of
+T48	Sign_symptom 1255 1262	history
+T49	Sign_symptom 1336 1346	chest pain
+T50	Sign_symptom 1342 1346	pain
+T51	Sign_symptom 1354 1358	rest
+T52	Sign_symptom 1362 1370	exertion
+T53	Sign_symptom 1399 1411	palpitations
+T54	Sign_symptom 1425 1457	history of sudden cardiac arrest
+T55	Sign_symptom 1425 1435	history of
+T56	Sign_symptom 1425 1432	history
+T57	Sign_symptom 1507 1526	sudden infant death
+T58	Sign_symptom 1514 1526	infant death
+T59	Sign_symptom 1521 1526	death
+T60	Sign_symptom 225 274	loss of consciousness for approximately 2 minutes
+T61	Sign_symptom 358 374	the soccer field
+T62	Sign_symptom 708 743	the time emergency medical services
+T63	Sign_symptom 777 794	no recent illness
+T64	Sign_symptom 933 968	a normal heart rate of 70 beats/min
+T65	Sign_symptom 973 1001	normal blood pressure of 101
+T66	Sign_symptom 1159 1179	An electrocardiogram
+T67	Sign_symptom 1252 1273	no history of murmurs
+T68	Sign_symptom 1336 1358	chest pain during rest
+T69	Sign_symptom 1422 1457	no history of sudden cardiac arrest
+T70	Sign_symptom 1494 1560	1 episode of sudden infant death syndrome in fifth paternal cousin
+T71	Anatomical_structure 942 947	heart
+T72	Anatomical_structure 980 985	blood
+T73	Anatomical_structure 1039 1044	blood
+T74	Anatomical_structure 1086 1093	thyroid
+T75	Anatomical_structure 1103 1110	cardiac
+T76	Anatomical_structure 1336 1341	chest
+T77	Anatomical_structure 1443 1450	cardiac
+T78	Anatomical_structure 1612 1617	heart

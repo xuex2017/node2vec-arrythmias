@@ -1,0 +1,134 @@
+T1	Procedure 134 138	scan
+T2	Procedure 184 188	scan
+T3	Procedure 365 382	caesarean section
+T4	Procedure 387 402	breech delivery
+T5	Procedure 394 402	delivery
+T6	Procedure 541 549	delivery
+T7	Procedure 787 790	ECG
+T8	Procedure 870 877	impulse
+T9	Procedure 946 960	echocardiogram
+T10	Procedure 1104 1115	Coagulation
+T11	Procedure 1151 1167	prothrombin time
+T12	Procedure 1185 1215	international normalized ratio
+T13	Procedure 1228 1238	fibrinogen
+T14	Procedure 1360 1382	caesarean hysterectomy
+T15	Procedure 1370 1382	hysterectomy
+T16	Procedure 1435 1442	surgery
+T17	Procedure 1454 1481	uterine artery embolization
+T18	Procedure 1469 1481	embolization
+T19	Procedure 1585 1603	General anesthesia
+T20	Procedure 1593 1603	anesthesia
+T21	Procedure 1651 1653	mg
+T22	Procedure 1676 1678	mg
+T23	Procedure 1746 1757	Pain relief
+T24	Procedure 1767 1775	morphine
+T25	Procedure 2337 2365	total abdominal hysterectomy
+T26	Procedure 2343 2365	abdominal hysterectomy
+T27	Procedure 2353 2365	hysterectomy
+T28	Procedure 95 144	25 weeks gestation following a routine scan which
+T29	Procedure 175 188	A repeat scan
+T30	Procedure 365 463	caesarean section for breech delivery 8 and 6 years prior to the current event in another hospital
+T31	Procedure 491 549	a congenital complete heart block after her first delivery
+T32	Procedure 783 790	Her ECG
+T33	Procedure 857 895	a high nodal impulse with a rate of 50
+T34	Procedure 938 960	Bedside echocardiogram
+T35	Procedure 1104 1123	Coagulation profile
+T36	Procedure 1131 1177	a slightly elevated prothrombin time of 1.24 s
+T37	Procedure 1182 1222	an international normalized ratio of 1.3
+T38	Procedure 1224 1245	Her fibrinogen levels
+T39	Procedure 1358 1420	a caesarean hysterectomy in the event of uncontrolled bleeding
+T40	Procedure 1431 1442	the surgery
+T41	Procedure 1444 1481	bilateral uterine artery embolization
+T42	Procedure 1585 1603	General anesthesia
+T43	Procedure 1638 1653	etomidate 18 mg
+T44	Procedure 1658 1678	suxamethonium 100 mg
+T45	Procedure 1767 1783	morphine boluses
+T46	Procedure 2335 2365	A total abdominal hysterectomy
+T47	Disease_disorder 155 173	intrauterine death
+T48	Disease_disorder 211 227	vaginal bleeding
+T49	Disease_disorder 219 227	bleeding
+T50	Disease_disorder 271 287	placenta praevia
+T51	Disease_disorder 310 326	placenta accreta
+T52	Disease_disorder 387 402	breech delivery
+T53	Disease_disorder 493 524	congenital complete heart block
+T54	Disease_disorder 504 524	complete heart block
+T55	Disease_disorder 513 524	heart block
+T56	Disease_disorder 519 524	block
+T57	Disease_disorder 800 820	complete heart block
+T58	Disease_disorder 809 820	heart block
+T59	Disease_disorder 815 820	block
+T60	Disease_disorder 999 1019	mitral regurgitation
+T61	Disease_disorder 1412 1420	bleeding
+T62	Disease_disorder 1798 1815	muscle relaxation
+T63	Disease_disorder 2142 2158	total blood loss
+T64	Disease_disorder 2148 2158	blood loss
+T65	Disease_disorder 2390 2398	bleeding
+T66	Disease_disorder 211 227	vaginal bleeding
+T67	Disease_disorder 365 463	caesarean section for breech delivery 8 and 6 years prior to the current event in another hospital
+T68	Disease_disorder 491 549	a congenital complete heart block after her first delivery
+T69	Disease_disorder 798 844	a complete heart block with narrow QRS complex
+T70	Disease_disorder 994 1019	mild mitral regurgitation
+T71	Disease_disorder 1358 1420	a caesarean hysterectomy in the event of uncontrolled bleeding
+T72	Disease_disorder 1798 1831	muscle relaxation with rocuronium
+T73	Disease_disorder 2138 2158	The total blood loss
+T74	Disease_disorder 2386 2398	the bleeding
+T75	Sign_symptom 57 73	Gravida 4 Para 2
+T76	Sign_symptom 57 66	Gravida 4
+T77	Sign_symptom 57 64	Gravida
+T78	Sign_symptom 67 73	Para 2
+T79	Sign_symptom 67 71	Para
+T80	Sign_symptom 104 113	gestation
+T81	Sign_symptom 168 173	death
+T82	Sign_symptom 242 247	death
+T83	Sign_symptom 676 696	previous pregnancies
+T84	Sign_symptom 685 696	pregnancies
+T85	Sign_symptom 737 747	chest pain
+T86	Sign_symptom 743 747	pain
+T87	Sign_symptom 749 761	palpitations
+T88	Sign_symptom 826 844	narrow QRS complex
+T89	Sign_symptom 833 844	QRS complex
+T90	Sign_symptom 906 920	blood pressure
+T91	Sign_symptom 912 920	pressure
+T92	Sign_symptom 1006 1019	regurgitation
+T93	Sign_symptom 1104 1115	Coagulation
+T94	Sign_symptom 1593 1603	anesthesia
+T95	Sign_symptom 1680 1691	Anaesthesia
+T96	Sign_symptom 1746 1750	Pain
+T97	Sign_symptom 1751 1757	relief
+T98	Sign_symptom 1798 1815	muscle relaxation
+T99	Sign_symptom 2018 2032	blood pressure
+T100	Sign_symptom 2024 2032	pressure
+T101	Sign_symptom 2061 2072	instability
+T102	Sign_symptom 57 73	Gravida 4 Para 2
+T103	Sign_symptom 95 144	25 weeks gestation following a routine scan which
+T104	Sign_symptom 155 173	intrauterine death
+T105	Sign_symptom 238 247	the death
+T106	Sign_symptom 650 696	the period of current and previous pregnancies
+T107	Sign_symptom 737 747	chest pain
+T108	Sign_symptom 798 844	a complete heart block with narrow QRS complex
+T109	Sign_symptom 902 920	Her blood pressure
+T110	Sign_symptom 994 1019	mild mitral regurgitation
+T111	Sign_symptom 1104 1123	Coagulation profile
+T112	Sign_symptom 1585 1603	General anesthesia
+T113	Sign_symptom 1746 1757	Pain relief
+T114	Sign_symptom 1798 1831	muscle relaxation with rocuronium
+T115	Sign_symptom 2003 2043	Intra-arterial blood pressure monitoring
+T116	Sign_symptom 2057 2072	any instability
+T117	Anatomical_structure 155 167	intrauterine
+T118	Anatomical_structure 211 218	vaginal
+T119	Anatomical_structure 513 518	heart
+T120	Anatomical_structure 586 591	Heart
+T121	Anatomical_structure 737 742	chest
+T122	Anatomical_structure 809 814	heart
+T123	Anatomical_structure 906 911	blood
+T124	Anatomical_structure 1031 1038	thyroid
+T125	Anatomical_structure 1454 1468	uterine artery
+T126	Anatomical_structure 1454 1461	uterine
+T127	Anatomical_structure 1462 1468	artery
+T128	Anatomical_structure 1798 1804	muscle
+T129	Anatomical_structure 1894 1899	heart
+T130	Anatomical_structure 2018 2023	blood
+T131	Anatomical_structure 2148 2153	blood
+T132	Anatomical_structure 2214 2219	cells
+T133	Anatomical_structure 2343 2352	abdominal
+T134	Medication 1621 1629	fentanyl
