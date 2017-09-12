@@ -5,4 +5,4 @@ steps:
 1. for ann open terminal
   python GetEdgeNode/getEdgeNode.py
  to modify case report directory: line 106
- >you will generate all_edgelist, all_entityList, mainEntityList
+ >you will generate graph_edgelist, graph_entityList, mainEntityList
